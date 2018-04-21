@@ -60,6 +60,8 @@ sumy/summarizers/text_rank.py
 sumy/summarizers/text_rank_embedding.py
 tests/__init__.py
 tests/test.py
+tests/test2.py
+tests/testOrigTextRank.py
 tests/test_html_parser.py
 tests/test_main.py
 tests/test_plaintext_parser.py
