@@ -1,0 +1,54 @@
+gingrich|mrs.|title
+planner|county|mod
+gingrich|planner|conj
+planner|and|punc
+consultant|business|mod
+planner|consultant|conj
+consultant|ohio|from
+ohio|referred|vrel
+referred|consultant|obj
+referred|all|mod
+questions|pertaining|rel
+pertaining|question|subj
+pertaining|divorce|to
+divorce|attorney|to
+attorney|johnoue|person
+reached|gingriches|subj
+reached|agreement|obj
+split|temporarily|amod
+on|split|pcomp-c
+split|gingriches|subj
+assets|their|gen
+split|assets|obj
+split|until|mod
+until|is|comp1
+is|final|pred
+reached|gingriches|subj
+reached|agreement|obj
+split|temporarily|amod
+on|split|pcomp-c
+split|gingriches|subj
+assets|their|gen
+split|assets|obj
+split|until|mod
+until|is|comp1
+is|final|pred
+hint|that|c
+was|not|neg
+desired|divorce|obj
+desired|by|by-subj
+desired|gingriches|by
+came by|hint|subj
+came by|way|mod
+statement|one-sentence|mod
+came by|statement|of
+statement|marianne gingrich|from
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+agreed|newt gingrich|subj
+agreed|keep|fc
+keep|newt gingrich|subj
+divorce|their|gen
+keep|divorce|obj
+arena|public|mod
+divorce|arena|out of

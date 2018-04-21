@@ -1,0 +1,153 @@
+tested|none|subj
+tested|positive|obj
+virus|west nile|nn
+positive|virus|for
+is|spread|pred
+spread|people|to
+people|mosquitoes|by
+birds|infected|mod
+indicate|birds|subj
+indicate|that|c
+is|present|pred
+encephalitis|west nile|nn
+is|encephalitis|pred
+control|mosquito|nn
+control|and|punc
+education|public|mod
+control|education|conj
+education|avoiding|about
+avoiding|mosquito bites|obj
+strain|encephalitis|of
+before|never|mod
+reported|before|mod-before
+encephalitis|reported|vrel
+reported|encephalitis|obj
+reported|united states|in
+is|to|pred
+is|blame|to
+one|at least|num-mod
+blame|one|for
+deaths|three|nn
+one|deaths|of
+deaths|city|in
+officials|federal|mod
+officials|health|nn
+said|officials|subj
+is|said|mod
+virus|west nile|nn
+publicity|virus|about
+virus|and|punc
+efforts|counties|gen
+efforts|intensified|mod
+efforts|mosquito|nn
+efforts|control|nn
+virus|efforts|conj
+prompted|publicity|subj
+residents|more|mod
+prompted|residents|obj
+residents|call|rel
+call|resident|subj
+call|about|mod
+crows|dead|mod
+crows|found|rel
+found|crows|obj
+found|they|subj
+said|crows|subj
+said|dennis mcgowan|obj
+report|its|gen
+placed|report|in
+effort|emergency|mod
+effort|track|rel
+track|effort|subj
+track|and|punc
+track|identify|conj
+identify|effort|subj
+identify|virus|obj
+placed|effort|subj
+demands|extraordinary|mod
+placed|demands|obj
+demands|new york|on
+new york|and|punc
+states|surrounding|mod
+new york|states|conj
+spread|birds|subj
+spread|it|obj
+spread|humans|to
+virus|west nile|nn
+reported|not|guest
+because|reported|comp1
+reported|virus|obj
+reported|united states|in
+united states|august|until
+summer|late|mod
+reported|summer|in
+summer|and|punc
+summer|fall|conj
+cases|61|num
+infection|severe|mod
+cases|infection|of
+infection|and|punc
+deaths|seven|nn
+infection|deaths|conj
+reported|cases|obj
+reported|new york|in
+reported|area|subj
+area|centers|conj
+control|disease|nn
+centers|control|for
+control|and|punc
+control|prevention|conj
+reported|reported|mod
+has|county|subj
+$1.15 million|spent|mod
+has|$1.15 million|obj
+efforts|west nile|nn
+efforts|prevention|nn
+$1.15 million|efforts|on
+has|year|mod
+has|and|punc
+year|last|post
+lent|year|mod-before
+has|lent|conj
+lent|county|subj
+trucks|its|gen
+lent|trucks|obj
+trucks|new york city|to
+new york city|help|rel
+help|new york city|subj
+help|spraying|mod
+spraying|efforts|obj
+spraying|there|mod
+change|diagnosis|in
+not|though|mod
+important|not|mod
+diagnosis|important|pnmod
+important|terms|in
+terms|spraying|of
+spraying|and|punc
+measures|other|mod
+measures|public|mod
+measures|health|nn
+spraying|measures|conj
+measures|taken|vrel
+taken|measures|obj
+taken|combat|mod
+combat|outbreak|obj
+embarrassing|scientifically|mod
+embarrassing|cdc|to
+agency|premier|mod
+agency|federal|mod
+cdc|agency|appo
+agency|that|whn
+is|responsible|pred
+responsible|tracking|for
+tracking|infectious diseases|obj
+infectious diseases|country|in
+return to|they|subj
+new jersey|northern|mod
+return to|new jersey|obj
+new jersey|conduct|rel
+conduct|weekend|subj
+round|second|post
+conduct|round|obj
+round|tests|of

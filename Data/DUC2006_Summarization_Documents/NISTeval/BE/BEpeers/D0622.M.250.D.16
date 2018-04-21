@@ -1,0 +1,130 @@
+how|q.|nn
+has|long|mod-before
+has|how|subj
+virus|west nile|nn
+has|virus|obj
+been|in|pred
+been|u.s.|in
+virus--|west nile|nn
+before|never|mod
+recorded|before|mod-before
+virus--|recorded|vrel
+recorded|virus--|obj
+recorded|western hemisphere--|in
+entered|probably|mod-before
+entered|virus--|subj
+entered|united states|obj
+birds|infected|mod
+united states|birds|in
+summer|last|post
+virus|west nile|nn
+outbreak|virus|of
+killed|outbreak|subj
+people|seven|nn
+killed|people|obj
+people|queens|in
+60|more than|num-mod
+others|60|nn
+hundreds|crows|of
+died|hundreds|subj
+died|as well|mod
+ranger|every park|nn
+ranger|and|punc
+specialist|public|mod
+specialist|health|nn
+ranger|specialist|conj
+specialist|east coast|on
+been|on|pred
+been|alert|on
+been|since|mod
+virus|west nile|nn
+triggered|virus|subj
+reaction|psychological|mod
+triggered|reaction|obj
+triggered|all|mod
+tapping|some|into
+fears|our|gen
+primitive|most|mod
+fears|primitive|mod
+some|fears|of
+doses|high|mod
+doses|statistics|of
+stop|doses|subj
+epidemic|fear|nn
+stop|epidemic|obj
+just|not|mod
+because|'s|comp1
+'s|exotic|pred
+exotic|and|punc
+exotic|new|conj
+because|feel|comp1
+feel|many|subj
+helpless|so|mod
+feel|helpless|desc
+feel|fight|mod
+fight|many|subj
+fight|it|obj
+man|82-year-old|mod
+man|new jersey|nn
+become|man|subj
+become|first person|obj
+first person|united states|in
+united states|die|rel
+die|year|subj
+virus|west nile|nn
+die|virus|of
+christie whitman|gov.|title
+said|christie whitman|subj
+said|wednesday|mod
+virus|west nile|nn
+found|commonly|amod
+found|virus|obj
+found|africa|in
+africa|eastern europe|conj
+eastern europe|west asia|conj
+west asia|and|punc
+west asia|middle east|conj
+appearance|its|gen
+area|new york|nn
+appearance|area|in
+year|last|post
+was|year|mod-before
+was|first|pred
+first|hemisphere|in
+was|prompting|mod
+prompting|appearance|subj
+campaign|massive|mod
+prompting|campaign|obj
+campaign|aerial|of
+aerial|and|punc
+aerial|ground|conj
+ground|spraying|rel
+spraying|ground|subj
+spraying|kill|mod
+kill|mosquitoes|obj
+knows|one|subj
+knows|carry|fc
+carry|birds|subj
+carry|virus|obj
+virus|which|whn
+is|similar|pred
+virus|west nile|nn
+similar|virus|to
+virus|africa|of
+infected|humans|obj
+infected|mosquitoes|through
+mosquitoes|that|whn
+fed|mosquitoes|subj
+fed|blood|from
+birds|infected|mod
+blood|birds|of
+react|people|subj
+virus|west nile|nn
+react|virus|to
+virus|affecting|rel
+affecting|virus|subj
+q.|entire|mod
+q.|state|nn
+affecting|q.|obj
+encephalitis|west nile|nn
+is|encephalitis|pred

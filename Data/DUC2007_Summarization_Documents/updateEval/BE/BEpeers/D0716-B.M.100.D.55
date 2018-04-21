@@ -1,0 +1,63 @@
+visit|s world heritage bureau|subj
+sites|environmental|mod
+environmental|and|punc
+environmental|aboriginal|conj
+sites|cultural|mod
+visit|sites|obj
+visit|and|punc
+visit|speak|conj
+speak|s world heritage bureau|subj
+groups|interest|nn
+speak|groups|to
+groups|including|rel
+including|group|subj
+including|company|obj
+company|building|rel
+building|company|subj
+resources|mine|mod
+resources|energy|nn
+building|resources|obj
+resources|australia ltd|of
+visiting|world heritage bureau|subj
+visiting|park|obj
+park|examine|rel
+examine|park|subj
+examine|claims|obj
+claims|that|c
+values|environmental|mod
+environmental|and|punc
+environmental|cultural|conj
+values|park|of
+are|threatened|pred
+threatened|by|by-subj
+mine|jabiluka|nn
+threatened|mine|by
+team|u.n.|nn
+submission|team|to
+team|which|whn
+investigating|team|subj
+threatens|mine|subj
+values|environmental|mod
+environmental|and|punc
+environmental|cultural|conj
+threatens|values|obj
+values|kakadu|of
+investigating|was|fc
+concerned|particularly|mod
+was|concerned|pred
+site|malakunanja 2|nn
+site|archaeological|mod
+concerned|site|about
+site|just|appo-mod
+miles|1.2|amount-value
+kilometers|miles|nn
+kilometers|(|punc
+kilometers|2|amount-value
+site|kilometers|appo
+kilometers|)|punc
+entrance|mine|mod
+kilometers|entrance|from
+has|era|subj
+approval|government|nn
+has|approval|obj
+approval|build|to

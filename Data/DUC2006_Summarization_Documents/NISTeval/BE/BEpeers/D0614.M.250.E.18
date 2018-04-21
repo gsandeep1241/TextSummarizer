@@ -1,0 +1,153 @@
+judges|ambivalent|mod
+judges|boxing|nn
+gave|judges|like
+voters|quebec|nn
+gave|voters|subj
+politicians|their|gen
+politicians|combative|mod
+gave|politicians|obj1
+decision|split|nn
+gave|decision|obj2
+government|pro-independence|mod
+gets|government|subj
+gets|term|obj
+term|power|in
+in|but|punc
+in|with|conj
+in|support|with
+gets|so|mod
+bid|secession|nn
+is|unlikely|pred
+is|time|mod
+is|soon|mod
+talks about|he|subj
+talks about|bringing together|guest
+bringing together|he|subj
+bringing together|his|obj
+conditions|famous|mod
+conditions|winning|mod
+talks about|conditions|obj
+conditions|which|whn
+refuses|he|subj
+refuses|reveal|fc
+reveal|conditions|obj
+reveal|he|subj
+reveal|hold|mod
+hold|referendum|obj
+referendum|separation|on
+know|he|subj
+know|defend|fc
+defend|we|subj
+country|our|gen
+defend|country|obj
+defend|'|punc
+defend|'|punc
+said|chretien|subj
+defend|said|mod
+is|intent|pred
+intent|avoiding|on
+avoiding|bouchard|subj
+defeat|third|post
+avoiding|defeat|obj
+avoiding|and|punc
+avoiding|won|conj
+won|bouchard|subj
+struggle|power|mod
+won|struggle|obj
+hard-liners|party|nn
+struggle|hard-liners|with
+won|earlier|mod
+won|year|mod
+year|insisting|by
+insisting|call|fc
+call|he|subj
+call|referendum|obj
+call|only|mod
+call|if|c
+polls|opinion|nn
+showed|polls|subj
+showed|win|fc
+win|separatists|subj
+crusade|long-term|mod
+independence|quebec|nn
+crusade|independence|for
+stems from|crusade|subj
+stems from|feeling|obj
+feeling|french quebeckers|among
+culture|their|gen
+is|different|pred
+different|rest|from
+rest|canada|of
+is|yearning|plus
+yearning|manage|rel
+manage|yearning|subj
+affairs|their own|gen
+manage|affairs|obj
+manage|and|punc
+manage|have|conj
+have|yearning|subj
+symbols|their own|gen
+symbols|national|mod
+have|symbols|obj
+reflects|tonight|mod-before
+reflects|result|subj
+reflects|fact|obj
+fact|that|c
+people|quebec|of
+want|like|mod-before
+want|people|like
+canada|all|pre
+people|canada|of
+want|people|subj
+want|country|obj
+country|ours|of
+country|work|rel
+work|country|subj
+work|and|punc
+work|be|conj
+be|success|pred
+be|'|punc
+be|'|punc
+be|said|mod
+said|charest|subj
+charest|who|whn
+serve as|charest|subj
+leader|opposition|nn
+serve as|leader|obj
+legislature|provincial|mod
+leader|legislature|in
+become|lucien bouchard|subj
+leader|parti quebecois|nn
+become|leader|obj
+leader|and|punc
+premier|quebec|nn
+leader|premier|conj
+premier|end|at
+end|month|of
+become|reviving|mod
+reviving|lucien bouchard|subj
+reviving|crusade|obj
+independence|quebec|nn
+crusade|independence|for
+independence|canada|from
+is|core|at
+core|acadian|of
+argument|separation|against
+separation|quebec|for
+history|their own|gen
+is|history|pred
+history|and|punc
+history|event|conj
+event|that|whn
+defined|event|subj
+defined|them--|obj
+acadians|10,000|num
+deportation|acadians|of
+acadians|nova scotia|from
+nova scotia|britain|by
+britain|beginning|rel
+beginning|britain|subj
+beginning|1755|in
+refusing|swear|fc
+swear|allegiance|obj
+allegiance|queen|to

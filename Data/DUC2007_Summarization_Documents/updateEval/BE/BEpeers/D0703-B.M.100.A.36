@@ -1,0 +1,47 @@
+printing|mass|nn
+printing|banknotes|of
+currency|single|mod
+currency|european|mod
+banknotes|currency|of
+currency|euro|appo
+started|printing|obj
+1999|european central bank|appo
+ecb|(|punc
+european central bank|ecb|abbrev
+ecb|)|punc
+european central bank|announced|vrel
+announced|european central bank|obj
+announced|frankfurt|in
+announced|friday|mod
+order|seize|comp1
+seize|opportunity|obj
+opportunity|share in|comp1
+share in|start|obj
+share in|up|mod
+up|euro|of
+euro|which|whn
+scheduled|euro|obj
+scheduled|january 1 , 1999 ,|for
+government|bulgarian|mod
+adopted|government|subj
+adopted|system|obj
+commission|monetary|mod
+system|commission|of
+commission|july 1 , 1997 ,|on
+lev|bulgarian|mod
+connection|lev|between
+lev|and|punc
+mark|german|mod
+lev|mark|conj
+said|response|in
+response|question|to
+question|issue|concerning
+conference|news|nn
+issue|conference|at
+said|zhu|subj
+introduction|euro|of
+said|expected|fc
+stimulate|introduction|subj
+integration|european|mod
+stimulate|integration|obj
+integration|help|appo

@@ -1,0 +1,64 @@
+polls|asking|rel
+asking|poll|subj
+asking|voters|obj
+race|hypothetical|mod
+voters|race|about
+show|polls|subj
+show|gore|obj1
+gore|trailing|rel
+trailing|gore|subj
+republican|two|nn
+republican|undeclared|mod
+trailing|republican|obj
+candidates|presidential|mod
+show|candidates|obj2
+survey|los angles times|nn
+survey|completed|vrel
+completed|survey|obj
+completed|jan 29|mod
+showed|survey|subj
+showed|bush|obj
+governor|texas|nn
+bush|governor|appo
+showed|topping|mod
+topping|survey|subj
+57 percent|gore|nn
+topping|57 percent|obj
+57 percent|39 percent|to
+president|al gore|person
+secured|in|mod-before
+secured|show|in
+force|political|mod
+show|force|of
+force|kick|rel
+kick|force|subj
+campaign|his|gen
+campaign|2000|num
+campaign|presidential|mod
+kick|campaign|off
+secured|president|subj
+secured|endorsements|obj
+secured|monday|guest
+leader|house|nn
+leader|minority|nn
+secured|leader|of
+leader|dick gephardt|person
+leader|and|punc
+stalwarts|party|nn
+leader|stalwarts|conj
+states|early|mod
+states|battleground|nn
+stalwarts|states|from
+states|new hampshire|of
+new hampshire|and|punc
+new hampshire|iowa|conj
+would|not|neg
+announcing|be|fc
+candidate|presidential|mod
+be|candidate|pred
+told|gephardt|subj
+told|gore|obj
+gore|lunch|over
+told|that|c
+endorse|he|subj
+endorse|him|obj

@@ -1,0 +1,72 @@
+president|al gore|person
+declared|president|subj
+declared|`|punc
+declared|`|punc
+day|new|mod
+declared|day|obj
+day|'|punc
+day|'|punc
+bid|his|gen
+bid|presidential|mod
+day|bid|in
+homecoming|symbolic|mod
+bid|homecoming|with
+homecoming|and|punc
+homecoming|opening|conj
+headquarters|new|mod
+headquarters|campaign|nn
+opening|headquarters|of
+headquarters|far|pnmod
+intrigue|constant|mod
+intrigue|political|mod
+far|intrigue|from
+intrigue|and|punc
+odds-making|daily|mod
+intrigue|odds-making|conj
+odds-making|washington|of
+president|al gore|person
+president|who|whn
+continues|president|subj
+continues|reshuffle|mod
+campaign|his|gen
+campaign|struggling|mod
+campaign|presidential|mod
+reshuffle|campaign|obj
+selected|president|subj
+selected|donna brazile|obj
+manager|his|gen
+manager|new|mod
+manager|campaign|nn
+be|manager|pred
+said|officials|subj
+be|said|mod
+president|al gore|person
+said|president|subj
+chairman|his|gen
+chairman|campaign|nn
+chairman|tony coelho|appo
+doing|`|punc
+doing|`|punc
+said|doing|fc
+doing|chairman|subj
+job|great|mod
+doing|job|obj
+doing|'|punc
+doing|'|punc
+doing|and|punc
+doing|stay|conj
+stay|chairman|subj
+report|government|nn
+found|report|despite
+found|that|subj
+management|questionable|mod
+management|financial|mod
+found|management|obj
+found|while|mod
+while|directed|comp1
+directed|coelho|subj
+pavilion|u.s.|nn
+directed|pavilion|obj
+pavilion|fair|pnmod
+fair|portugal|in
+edward kennedy|sen.|title

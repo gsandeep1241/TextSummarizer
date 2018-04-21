@@ -1,0 +1,138 @@
+data|galileo|nn
+data|probe|nn
+quality|data|of
+exceeds|quality|subj
+exceeds|all|obj
+predictions|our|gen
+optimistic|most|mod
+predictions|optimistic|mod
+all|predictions|of
+exceeds|'|punc
+exceeds|'|punc
+exceeds|said|mod
+wesler huntress|dr.|title
+said|wesler huntress|subj
+administrator|associate|nn
+wesler huntress|administrator|appo
+science|space|nn
+administrator|science|for
+nasa|u.s. national aeronautics and space administration|nn
+nasa|(|punc
+science|nasa|with
+report|issued|vrel
+issued|report|obj
+issued|by|by-subj
+committee|national academy of sciences|nn
+issued|committee|by
+said|month|mod-before
+said|report|subj
+said|that|obj
+said|if|c
+mission|such|pre
+launched|ever|mod-before
+launched|mission|obj
+care|that|c
+brought back|care|obj
+brought back|stuff|subj
+brought back|earth|to
+does|not|neg
+contaminate|care|subj
+contaminate|planet|obj
+life|extraterrestrial|mod
+planet|life|with
+team|studying|rel
+studying|team|subj
+studying|magnetic forces|obj
+moons|two|nn
+magnetic forces|moons|on
+includes|team|subj
+includes|scientists|obj
+scientists|ucla|from
+ucla|caltech|conj
+caltech|and|punc
+caltech|jet propulsion laboratory|conj
+jet propulsion laboratory|pasadena|in
+pasadena|where|wha
+mission|galileo|nn
+controlled|mission|obj
+comparisons|this|between
+fault|(|punc
+fault|europa|on
+europa|)|punc
+europa|and|punc
+europa|faults|conj
+faults|earth|on
+generate|fault|subj
+generate|ideas|obj
+ideas|use|rel
+use|ideas|obj
+use|we|subj
+studying|we|subj
+movements|earth|nn
+studying|movements|obj
+studying|here|mod
+planet|our|gen
+studying|planet|on
+planet|'|punc
+planet|'|punc
+scientist|university of arizona|nn
+scientist|space|nn
+planet|scientist|appo
+scientist|said|rel
+said|scientist|obj
+said|randy tufts|subj
+said|monday|mod
+conference|american geophysical union|nn
+said|conference|at
+said|here|mod
+europa|jupiter|nn
+europa|'|punc
+europa|s|nn
+europa|moon|nn
+support|probably|mod-before
+could|not|neg
+support|europa|subj
+support|life|obj
+support|because|mod
+surface|frozen|mod
+oceans|surface|beneath
+support|barely|amod
+because|support|comp1
+support|oceans|subj
+organisms|single-cell|mod
+support|organisms|obj
+complex|let alone|mod
+species|complex|mod
+species|those|such as
+found|species|subj
+said|earth|on
+found|said|fc
+said|researchers|subj
+said|thursday|mod
+manager|project|nn
+said|manager|subj
+manager|jim erickson|person
+jet propulsion laboratory|nasa|nn
+jet propulsion laboratory|'|punc
+jet propulsion laboratory|s|nn
+manager|jet propulsion laboratory|of
+jet propulsion laboratory|pasadena|in
+makes|io|subj
+inferno|dante|nn
+inferno|'|punc
+inferno|s|nn
+like|inferno|subj
+like|day|obj
+day|paradise|in
+like|'|punc
+like|'|punc
+like|said|mod
+alfred mcewen|dr.|title
+said|alfred mcewen|subj
+alfred mcewen|university of arizona|of
+university of arizona|tucson|in
+university of arizona|member|appo
+team|galileo|nn
+team|photo|nn
+team|analysis|nn
+member|team|of

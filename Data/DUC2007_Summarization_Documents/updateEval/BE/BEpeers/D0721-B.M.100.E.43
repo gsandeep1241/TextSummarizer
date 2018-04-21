@@ -1,0 +1,72 @@
+600|about|num-mod
+people|600|nn
+gathered|people|subj
+night|sunday|nn
+gathered|night|mod
+vigil|candelight|nn
+gathered|vigil|for
+vigil|honoring|rel
+honoring|vigil|subj
+honoring|matthew shepard|obj
+student|gay|mod
+student|college|nn
+matthew shepard|student|appo
+student|who|whn
+beaten|fatally|mod
+was|beaten|pred
+beaten|and|punc
+beaten|tied|conj
+tied|post|to
+was|year ago|mod
+alternates|12 and four|nn
+jury|alternates|of
+heard|jury|subj
+rationale|different|mod
+heard|rationale|obj
+rationale|killing|for
+killing|cal rerucha|from
+cal rerucha|prosecutor|conj
+prosecutor|albany county|for
+albany county|who|whn
+said|albany county|subj
+said|mckinney|obj
+albany county|and|punc
+albany county|friend|conj
+cal rerucha|russell henderson|appo
+intended|fully|mod-before
+russell henderson|intended|vrel
+murder|russell henderson|subj
+murder|shepard|obj
+shepard|kidnapping|after
+kidnapping|jury|subj
+kidnapping|him|obj
+kidnapping|and|punc
+kidnapping|robbing|conj
+robbing|jury|subj
+robbing|him|obj
+robbing|$20|of
+told|tangeman|subj
+jury|mckinney|appo
+becomes|"|punc
+told|becomes|fc
+becomes|jury|subj
+becomes|very|mod
+upset|very|amod
+becomes|upset|conj
+upset|jury|obj
+upset|and|punc
+upset|beats|conj
+beats|jury|subj
+beats|matthew shepard|obj
+matthew shepard|"|punc
+matthew shepard|prompted|vrel
+prompted|matthew shepard|obj
+prompted|by|by-subj
+prompted|memories|by
+encounter|sexual|mod
+memories|encounter|of
+encounter|forced|pnmod
+forced|him|upon
+prompted|by|by-subj
+boy|older|mod
+prompted|boy|by

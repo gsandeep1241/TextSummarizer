@@ -1,0 +1,151 @@
+met with|clinton|subj
+aides|his|gen
+aides|top|mod
+met with|aides|obj
+met with|wednesday|mod
+met with|white house|in
+white house|assess|rel
+assess|white house|subj
+assess|situation|obj
+situation|following|rel
+following|situation|subj
+bombings|twin|mod
+following|bombings|obj
+embassies|u.s.|nn
+bombings|embassies|at
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+tanzania|which|whn
+killed|tanzania|subj
+250|more than|num-mod
+people|250|nn
+killed|people|obj
+killed|and|punc
+killed|injured|conj
+injured|tanzania|obj
+injured|5,000|over
+5,000|most|appo-mod
+most|them|of
+5,000|kenyans|appo
+kenyans|and|punc
+kenyans|tanzanians|conj
+ordered|clinton|subj
+ordered|assessment|obj
+cost|what|obj
+cost|it|subj
+cost|rebuild|mod
+rebuild|it|subj
+rebuild|embassies|obj
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+tanzania|and|punc
+tag|price|nn
+tanzania|tag|conj
+teams|emergency|mod
+teams|response|nn
+tag|teams|for
+teams|sent|vrel
+sent|teams|obj
+countries|two|nn
+sent|countries|to
+bombing|recent|mod
+suspect|bombing|in
+embassies|u.s.|nn
+bombing|embassies|of
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+arrested|suspect|obj
+arrested|by|by-subj
+authorities|pakistani|mod
+arrested|authorities|by
+arrested|and|punc
+arrested|handed over|conj
+handed over|suspect|obj
+handed over|kenya|to
+spokesman|foreign|mod
+spokesman|ministry|nn
+said|spokesman|subj
+handed over|said|mod
+handed over|sunday|mod
+officials|kenyan|mod
+be|eager|pred
+eager|seek|fc
+seek|official|subj
+seek|justice|obj
+justice|hundreds|for
+victims|kenyan|mod
+hundreds|victims|of
+bombing|embassy|nn
+victims|bombing|of
+eager|but|punc
+eager|also|punc
+eager|wary|conj
+trial|attack|for
+target|u.s.|nn
+attack|target|on
+target|kenya|in
+invite|trial|subj
+assaults|new|mod
+assaults|terrorist|mod
+invite|assaults|obj
+targets|kenyan|mod
+assaults|targets|on
+suspects|two|nn
+bombing|embassy|nn
+suspects|bombing|in
+bombing|prosecuted|rel
+prosecuted|tanzania|in
+'s|complaint|according to
+complaint|filed|vrel
+filed|complaint|obj
+filed|sept 17|mod
+filed|by|by-subj
+filed|u.s.|by
+'s|office|pred
+office|manhattan|in
+fazil|native|appo
+native|comoros islands|of
+comoros islands|east africa|off
+rented|fazil|subj
+rented|house|obj
+rented|from may to august|mod
+rented|and|punc
+joined|later|amod
+rented|joined|conj
+joined|fazil|obj
+joined|by|by-subj
+joined|co-conspirator|by
+released|suspect|subj
+custody|police|nn
+released|custody|into
+custody|help|rel
+help|custody|subj
+help|investigation|with
+accuses|it|subj
+men|five|nn
+accuses|men|obj
+men|conspiring|of
+conspiring|it|subj
+laden|osama|nn
+laden|bin|nn
+conspiring|laden|with
+exile|saudi|mod
+exile|who|whn
+suspected|exile|obj
+attacks|simultaneous|mod
+attacks|bomb|nn
+organizing|attacks|obj
+attacks|embassies|on
+embassies|tanzania|in
+tanzania|and|punc
+tanzania|kenya|conj
+kenya|as|punc
+kenya|well|punc
+kenya|as|punc
+acts|other|mod
+kenya|acts|conj
+acts|terrorism|of
+terrorism|americans|against

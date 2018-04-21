@@ -1,0 +1,54 @@
+costs|estimated|mod
+costs|turkey|to
+turkey|earthquake|from
+range|costs|subj
+range|$4.5 billion|from
+range|loss|for
+loss|production|in
+range|about $17 billion|to
+damage|added|mod
+about $17 billion|damage|for
+buildings|apartment|nn
+damage|buildings|to
+buildings|and|punc
+buildings|infrastructure|conj
+teams|relief|nn
+dispatched|teams|obj
+people|1,000|num
+although|died|comp1
+died|people|subj
+died|quake|in
+efforts|rescue|nn
+appeared|efforts|subj
+coordinated|well|amod
+appeared|coordinated|mod
+izmit|called|vrel
+called|izmit|obj1
+province|kocaeli|nn
+called|province|desc
+was|epicenter|pred
+quake|7.4-magnitude|mod
+quake|killer|nn
+epicenter|quake|of
+quake|that|whn
+hit|quake|subj
+turkey|western|mod
+hit|turkey|obj
+turkey|august 17|on
+survivors|26,000|num
+earthquake|august 17 , 1999|nn
+survivors|earthquake|of
+earthquake|that|whn
+devastated|earthquake|subj
+heartland|izmit|gen
+heartland|western|mod
+heartland|industrial|mod
+devastated|heartland|obj
+region|marmara|nn
+heartland|region|in
+are|still|guest
+are|living|pred
+year|tents|nn
+year|one|amount-value
+living|year|in
+year|quake|after

@@ -1,0 +1,157 @@
+make|figures|subj
+rate|atlanta|gen
+rate|crime|nn
+make|rate|obj1
+make|highest|desc
+cities|u.s.|nn
+highest|cities|among
+cities|250,000|of
+250,000|or|punc
+people|more|mod
+250,000|people|conj
+hopes|year|within
+hopes|state|subj
+hopes|institute|fc
+institute|state|subj
+system|similar|mod
+system|data-sharing|mod
+institute|system|obj
+counties|10|num
+system|counties|among
+institute|hope|with
+hope|that|c
+help|this|subj
+agencies|police|nn
+map|agencies|subj
+trends|county-to-county|mod
+map|trends|obj
+map|share|conj
+share|agencies|subj
+share|resources|obj
+share|and|punc
+share|confront|conj
+confront|agencies|subj
+confront|crime|obj
+effectively|more|mod
+confront|effectively|mod
+one|20|of
+americans|born|vrel
+born|americans|obj
+born|year|mod
+serve|americans|subj
+serve|time|mod
+serve|prison|in
+study|justice department|nn
+serve|study|according to
+president|u.s.|nn
+president|bill clinton|person
+ordered|president|subj
+ordered|his|obj1
+ordered|government|obj2
+government|develop|rel
+develop|saturday|subj
+develop|plan|obj
+federal-state|closer|mod
+cooperation|federal-state|mod
+plan|cooperation|for
+cooperation|increase|rel
+increase|cooperation|subj
+increase|prosecution|obj
+prosecution|criminals|of
+criminals|use|rel
+use|criminals|subj
+use|firearms|obj
+use|and|punc
+use|take|conj
+take|criminals|subj
+steps|other|mod
+take|steps|obj
+steps|aimed at|vrel
+aimed at|steps|obj
+aimed at|reducing|mod
+violence|gun|nn
+reducing|violence|obj
+singled out|he|subj
+exile|project|nn
+singled out|exile|obj
+exile|headed|pnmod
+attorney|u.s.|nn
+headed|attorney|by
+attorney|richmond|in
+richmond|cooperation|in
+cooperation|state|with
+state|local|conj
+local|and|punc
+federal officials|other|mod
+local|federal officials|conj
+foothill division|los angeles police department|gen
+hands out|foothill division|subj
+hands out|twice|guest
+twice|many|as
+citations|curfew|nn
+hands out|citations|obj
+divisions|other|mod
+citations|divisions|as
+divisions|and|punc
+divisions|it|conj
+one|only|mod
+was|one|pred
+one|decline|with
+crime|violent|mod
+decline|crime|in
+months|first three|amount-value
+crime|months|during
+months|year|of
+offenders|youthful|mod
+number|offenders|of
+row|death|nn
+offenders|row|on
+hits|number|subj
+high|24-year|nn
+hits|high|obj
+offenders|juvenile|mod
+execution|offenders|of
+increased|execution|subj
+increased|escalation|with
+crime|juvenile|mod
+crime|violent|mod
+escalation|crime|of
+crime|mid-1990s|in
+increased|and|punc
+increased|continued|conj
+continued|execution|subj
+continued|even|mod
+continued|as|mod
+as|that|c
+rate|crime|nn
+declining|rate|subj
+declining|last|in
+declining|years|mod
+officials|enforcement|nn
+attribute|officials|subj
+drop|continued|mod
+attribute|drop|obj
+rates|crime|nn
+drop|rates|in
+economy|healthy|mod
+rates|economy|to
+programs|crime|nn
+programs|prevention|nn
+economy|programs|conj
+sentences|tougher|mod
+programs|sentences|conj
+sentences|and|punc
+officers|more|mod
+officers|police|nn
+sentences|officers|conj
+programs|street|on
+declined|study|according to
+rate|crime|nn
+declined|rate|subj
+declined|much|obj
+slowly|more|mod
+declined|slowly|mod
+slowly|texas|in
+texas|it|than
+states|other|mod
+states|large|mod

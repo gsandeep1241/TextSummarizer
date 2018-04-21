@@ -1,0 +1,55 @@
+coins|70 billion|nn
+total|coins|of
+currency|single|mod
+coins|currency|of
+issued|total|obj
+issued|replace|mod
+replace|total|subj
+currencies|national|mod
+replace|currencies|obj
+currencies|january 2002|by
+rates|bnr|nn
+rates|indicative|mod
+rates|exchange|nn
+modified|rates|obj
+modified|include|mod
+include|rate|subj
+include|euro|obj
+currency|current|mod
+currency|european|mod
+currency|single|mod
+euro|currency|instead of
+currency|ecu|appo
+launched|euro|obj
+launched|january 1 , 1999|on
+rbi|(|punc
+reserve bank of india|rbi|abbrev
+rbi|)|punc
+permitted|reserve bank of india|subj
+banks|indian|mod
+permitted|banks|obj
+banks|transact|rel
+transact|bank|subj
+transact|euro|in
+unit|new|mod
+unit|currency|nn
+euro|unit|appo
+unit|european monetary union|of
+emu|(|punc
+european monetary union|emu|abbrev
+emu|)|punc
+italy|and|punc
+italy|france|conj
+adopted|italy|subj
+adopted|euro|obj
+adopted|as|mod
+currency|european union|gen
+currency|new|mod
+currency|single|mod
+as|known|comp1
+known|currency|obj
+required|three|obj
+required|adopt|mod
+adopt|three|subj
+rules|eu|nn
+adopt|rules|obj

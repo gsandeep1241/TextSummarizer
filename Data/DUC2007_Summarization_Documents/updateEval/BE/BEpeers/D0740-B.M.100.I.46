@@ -1,0 +1,59 @@
+adventurers|bertrand piccard|appo
+bertrand piccard|switzerland|of
+switzerland|and|punc
+switzerland|brian jones|conj
+brian jones|england|of
+steered|adventurers|subj
+balloon|their|gen
+steered|balloon|obj
+balloon|pacific ocean|over
+pacific ocean|hawaii|toward
+hawaii|and|punc
+hawaii|california|conj
+california|or|punc
+california|mexico|conj
+crew|support|nn
+crew|geneva|in
+popped|crew|subj
+open|bottle|obj
+bottle|champagne|of
+open|as|mod
+as|approached|comp1
+approached|balloon|subj
+coast|mexican|mod
+approached|coast|obj
+needed|burners|obj
+needed|keep|mod
+keep|burner|subj
+keep|balloon|obj1
+keep|afloat|desc
+balloon|breitling|nn
+faced|balloon|subj
+problems|staggering|mod
+faced|problems|obj
+problems|get|rel
+get|problem|subj
+get|this|obj
+get|far|mod
+nears|balloon|subj
+goal|round-the-world|mod
+nears|goal|obj
+picked up|finally|mod-before
+picked up|balloon|subj
+agai|jet stream|nn
+picked up|agai|obj
+destination|its|gen
+once|destination|at
+hover|probably|mod-before
+hover|balloon|subj
+hover|and|punc
+hover|make|conj
+make|balloon|subj
+descent|its|gen
+descent|final|mod
+make|descent|obj
+descent|daw|at
+make|but|mod
+but|wasn|comp1
+wasn|out of|pred
+wasn|question|out of

@@ -1,0 +1,67 @@
+government|australian|nn
+criticized|government|subj
+committee|un|nn
+report|committee|gen
+criticized|report|obj
+report|kakadu national park|on
+kakadu national park|calling|appo
+calling|biased|rel
+biased|calling|obj
+biased|it|subj
+said|they|subj
+said|satisfied|fc
+satisfied|they|obj
+processes|their|gen
+satisfied|processes|with
+processes|approval|for
+approval|mine|of
+satisfied|and|punc
+satisfied|found|conj
+found|they|subj
+found|threat|obj
+threat|kakadu|to
+found|citing|mod
+citing|they|subj
+mine|nearby|mod
+mine|ranger|nn
+mine|uranium|nn
+citing|mine|obj
+mine|that|whn
+operated|mine|subj
+years|20|amount-value
+operated|years|obj
+impact|adverse|mod
+years|impact|without
+called for|kyoto|in
+committee|un|nn
+called for|committee|subj
+called for|scrapping|mod
+scrapping|committee|subj
+scrapping|mine|obj
+impact|its|gen
+mine|impact|over
+values|kakudu|gen
+values|cultural|mod
+cultural|and|punc
+cultural|natural|conj
+impact|values|on
+ordered|committee|subj
+authorities|australian|mod
+ordered|authorities|obj
+authorities|reveal|rel
+reveal|authority|subj
+reveal|actions|obj
+actions|taken|vrel
+taken|actions|obj
+taken|mitigate|mod
+mitigate|threats|obj
+threats|posed|vrel
+posed|threats|obj
+posed|by|by-subj
+posed|mine|by
+were|unsatisfactory|pred
+recommend|committee|subj
+inclusion|kakadu|gen
+recommend|inclusion|obj
+list|endangered|mod
+inclusion|list|on

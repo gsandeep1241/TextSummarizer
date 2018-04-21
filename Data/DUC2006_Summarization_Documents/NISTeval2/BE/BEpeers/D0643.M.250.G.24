@@ -1,0 +1,136 @@
+pattern|weather|mod
+comes|pattern|subj
+comes|heels|on
+heels|el nino|of
+el nino|that|whn
+dissipated|el nino|subj
+dissipated|1998|in
+counterpart|its|gen
+counterpart|warm|mod
+influence|counterpart|like
+counterpart|el nino|appo
+condition|la nina|nn
+influence|condition|subj
+climate|global|mod
+influence|climate|obj
+climate|and|punc
+climate|weather|conj
+influence|until|mod
+subsided|completely|amod
+until|subsided|comp1
+subsided|it|subj
+la nina|and|punc
+la nina|el nino|conj
+form|la nina|subj
+ends|opposite|mod
+form|ends|obj
+cycle|same|post
+cycle|climatic|mod
+ends|cycle|of
+form|el nino|with
+el nino|fueled|vrel
+fueled|el nino|obj
+fueled|by|by-subj
+warm|unusually|mod
+water|warm|mod
+fueled|water|by
+pacific|eastern|mod
+water|pacific|in
+pacific|and|punc
+pacific|la nina|conj
+la nina|driven|vrel
+driven|la nina|obj
+driven|by|by-subj
+driven|cold|by
+change|weather|in
+was|of|guest
+was|course|of
+was|work|pred
+work|el nino|of
+news|good|mod
+is|that|c
+forecast|now|guest
+forecast|they|subj
+forecast|el nino|obj
+el nino|precision|with
+predict|el nino|during
+predict|years|subj
+effect|its|gen
+predict|effect|obj
+weather|world|gen
+effect|weather|on
+predict|months|mod
+predict|advance|in
+is|name|pred
+warming|waters|of
+waters|pacific ocean|in
+pacific ocean|that|whn
+affects|pacific ocean|subj
+wind|global|mod
+affects|wind|obj
+wind|and|punc
+patterns|temperature|nn
+wind|patterns|conj
+la nina|caused|vrel
+caused|la nina|obj
+caused|by|by-subj
+pool|large|mod
+caused|pool|by
+cool|abnormally|mod
+water|cool|mod
+pool|water|of
+pacific|eastern|mod
+water|pacific|in
+alternates|la nina|subj
+el nino|warming|mod
+alternates|el nino|with
+la nina|spanish|appo
+for|"|punc
+spanish|little girl|for
+is|"|punc
+is|just|guest
+is|opposite|pred
+conditions|warm|mod
+is|conditions|with
+conditions|el nino|of
+el nino|returning to|rel
+returning to|el nino|subj
+returning to|west|obj
+la nina|current|mod
+persisted|la nina|subj
+brings|united states|for
+brings|el nino|subj
+warm|unusually|mod
+temperatures|warm|mod
+brings|temperatures|obj
+states|northern|mod
+temperatures|states|to
+states|and|punc
+conditions|cooler|mod
+conditions|wetter|mod
+states|conditions|conj
+conditions|south|to
+years|last|post
+years|20|amount-value
+oceanographers|years|over
+developed|oceanographers|subj
+developed|understanding|obj
+el nino|and|punc
+el nino|la nina|conj
+form|el nino|subj
+form|changes|with
+changes|winds|in
+winds|and|punc
+winds|atmospheric pressure|conj
+atmospheric pressure|allowing|rel
+allowing|atmospheric pressure|subj
+water|warm|mod
+water|surface|mod
+flow|water|subj
+flow|east|mod
+east|el nino|in
+el nino|or|punc
+west|spreading|mod
+west|cool|mod
+west|water|nn
+el nino|west|conj

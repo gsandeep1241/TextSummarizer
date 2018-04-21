@@ -1,0 +1,63 @@
+politician|first|post
+is|politician|pred
+politician|invited|vrel
+invited|politician|obj
+stage|television|nn
+invited|stage|to
+stage|oprah winfrey|of
+oprah winfrey|chicago|in
+report|new|mod
+report|federal trade commission|nn
+reacting|report|to
+report|criticizing|rel
+criticizing|report|subj
+criticizing|hollywood|obj
+hollywood|targeting|for
+targeting|children|obj
+products|violent|mod
+children|products|with
+said|gore|subj
+said|ask|fc
+ask|they|subj
+industry|entertainment|nn
+ask|industry|obj1
+cease-fire|voluntary|mod
+cease-fire|"|punc
+industry|cease-fire|for
+ask|"|punc
+ask|in|punc
+ask|marketing|punc
+movies|inappropriate|mod
+ask|movies|obj2
+games|video|nn
+movies|games|conj
+games|and|punc
+games|music|conj
+music|children|to
+jesse ventura|campaign finance|nn
+jesse ventura|minnesota|nn
+jesse ventura|gov.|title
+joins|jesse ventura|subj
+mccain|john|nn
+mccain|r-ariz.|appo
+feingold|russell|nn
+feingold|d-wis.|appo
+lobbying|campaign|for
+reform|finance|subj
+reform|election|during
+contributions|unregulated|mod
+contributions|republican|to
+republican|and|punc
+parties|democratic|mod
+republican|parties|conj
+skyrocketed|contributions|subj
+helped|freedman|subj
+win|stanford|subj
+championship|informal|mod
+championship|national|mod
+championship|college|nn
+win|championship|obj
+participated|then|mod-before
+championship|participated|vrel
+participated|championship|obj
+participated|ride across america|in

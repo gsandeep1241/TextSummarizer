@@ -1,0 +1,67 @@
+investors|xinhua|nn
+investors|)|punc
+investors|private|mod
+are|set|pred
+set|benefit|rel
+benefit|set|subj
+introduction|1999|num
+benefit|introduction|from
+currency|single|mod
+currency|european|mod
+introduction|currency|of
+currency|euro|conj
+euro|thanks|conj
+opportunities|expanded|mod
+opportunities|investment|nn
+thanks|opportunities|to
+risks|reduced|mod
+risks|currency|nn
+opportunities|risks|conj
+risks|and|punc
+competitions|rising|mod
+risks|competitions|conj
+bundesbank|central bank|nn
+german|said|rel
+said|german|obj
+said|bundesbank|subj
+said|monday|mod
+xinhua|january 29|nn
+xinhua|(|punc
+brussels|xinhua|appo
+xinhua|)|punc
+spokesman|european commission|nn
+ec|(|punc
+european commission|ec|abbrev
+ec|)|punc
+denied|today|mod-before
+denied|formally|amod
+xinhua|denied|rel
+denied|xinhua|obj1
+denied|spokesman|subj
+reports|newspaper|nn
+denied|reports|obj2
+reports|that|c
+drawing|secretly|amod
+drawing|reports|obj
+drawing|ec|subj
+drawing|plans|up
+plans|delay|rel
+delay|plan|subj
+delay|launch|obj
+currency|single|mod
+launch|currency|of
+currency|euro|appo
+xinhua|october 10|nn
+xinhua|(|punc
+bonn|xinhua|appo
+minister|german|mod
+minister|economics|nn
+minister|guenter rexrodt|person
+said|minister|subj
+said|today|guest
+said|that|c
+german|most|mod
+companies|german|mod
+are|not|neg
+prepared|companies|obj
+prepared|shift|for

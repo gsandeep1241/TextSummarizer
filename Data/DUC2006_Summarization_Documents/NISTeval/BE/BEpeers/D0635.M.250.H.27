@@ -1,0 +1,133 @@
+commuted|bush|subj
+sentence|lucas|gen
+commuted|sentence|obj
+sentence|life|to
+life|prison|in
+prison|1998|in
+commuted|following|mod
+following|bush|subj
+following|recommendation|obj
+board|state|nn
+board|pardons|nn
+recommendation|board|by
+following|after|mod
+questions|serious|mod
+after|raised|comp1
+raised|questions|obj
+about|whether|c
+committed|lucas|subj
+committed|murder|obj
+murder|convicted|rel
+convicted|he|obj
+introduced|nation|across
+introduced|bills|obj
+introduced|dozen|in
+states|halt|rel
+halt|state|subj
+halt|executions|obj
+became|new hampshire|in
+lawmakers|state|nn
+lawmakers|may|in
+became|lawmakers|subj
+became|first|obj
+first|vote|rel
+vote|first|subj
+vote|abolish|mod
+penalty|death|nn
+abolish|penalty|obj
+penalty|supreme court|since
+supreme court|allowed|vrel
+allowed|supreme court|obj1
+allowed|executions|obj2
+executions|resume|rel
+resume|execution|subj
+resume|1976|in
+supported|strongly|amod
+supported|bush|subj
+penalty|death|nn
+supported|penalty|obj
+presided|he|subj
+presided|record|over
+executions|98|num
+executions|governor|as
+justice|texas department of criminal|nn
+texas board of pardons|and|punc
+texas board of pardons|paroles|conj
+voted|texas board of pardons|subj
+voted|17-0|obj
+17-0|recommending|against
+recommending|texas board of pardons|subj
+recommending|that|c
+sentence|robison|gen
+commuted|sentence|obj
+commuted|life|to
+meant|that|subj
+meant|bush|obj
+grant|no more than|amod
+grant|robison|obj1
+reprieve|30-day|nn
+grant|reprieve|obj2
+reprieve|allow|rel
+allow|reprieve|subj
+allow|him|obj
+time|more|mod
+allow|time|mod
+time|appeal|rel
+appeal|time|subj
+is|governor|as
+authority|bush|gen
+independent|only|mod
+authority|independent|mod
+is|grant|pred
+reprieve|30-day|nn
+grant|reprieve|obj
+reprieve|execution|of
+spared|bush|subj
+spared|only|guest
+inmate|one|nn
+inmate|condemned|mod
+spared|inmate|obj
+inmate|becoming|since
+becoming|bush|subj
+becoming|governor|obj
+governor|1995|in
+law|texas|nn
+limits|law|subj
+power|governor|gen
+limits|power|obj
+cases|capital|mod
+power|cases|in
+commute|governor|subj
+sentence|death|nn
+commute|sentence|obj
+commute|or|punc
+commute|grant|conj
+grant|governor|subj
+grant|clemency|obj
+clemency|only|pnmod
+only|recommendation|upon
+recommendation|texas board of pardons|of
+texas board of pardons|and|punc
+texas board of pardons|paroles|conj
+is|texas|in
+texas|which|whn
+led|texas|subj
+led|nation|obj
+nation|executions|in
+led|before|mod
+before|took office|comp1
+took office|bush|subj
+support|public|mod
+punishment|capital|nn
+support|punishment|for
+is|wide|pred
+wide|and|punc
+wide|deep|conj
+but|appointed|comp1
+appointed|bush|subj
+appointed|member|obj
+board|parole|nn
+member|board|of
+board|that|whn
+make|board|subj
+make|decision|obj

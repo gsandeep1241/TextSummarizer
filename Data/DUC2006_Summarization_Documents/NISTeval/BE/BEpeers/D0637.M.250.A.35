@@ -1,0 +1,126 @@
+cloudy|typically|mod
+dutch|cloudy|mod
+'s|dutch|pred
+'s|day|mod
+stigt|rien|nn
+stigt|van|nn
+hear|still|amod
+hear|stigt|subj
+hum|soft|mod
+hear|hum|obj
+boiler|his|gen
+boiler|solar-powered|mod
+hum|boiler|of
+boiler|heating up|rel
+heating up|boiler|subj
+heating up|water|obj
+water|dishes|for
+dishes|and|punc
+dishes|shower|conj
+hans tholstrup|race|nn
+hans tholstrup|adviser|nn
+said|hans tholstrup|subj
+said|that|c
+race|boat|nn
+exciting|most|mod
+innovation|exciting|mod
+is|innovation|pred
+search|world-wide|mod
+innovation|search|in
+energy|renewable|mod
+search|energy|for
+run|1500-watt|by
+run|engine|subj
+solar panels|48|num
+run|solar panels|by
+used|even|mod
+is|used|pred
+latitude|area|nn
+degrees|49|amount-value
+latitude|degrees|nn
+latitude|north|mod
+used|latitude|in
+said|it|subj
+is|said|mod
+but|need|comp1
+need|they|subj
+need|electricity|obj
+electricity|pumping|for
+pumping|they|subj
+pumping|water|obj
+pumping|and|punc
+pumping|increasing|conj
+increasing|they|subj
+increasing|production|obj
+noted|one|subj
+one|participants|of
+increasing|noted|mod
+seminar|two-day|nn
+seminar|solar energy|on
+ended|seminar|subj
+ended|here|mod
+ended|this evening|mod
+this evening|discussing|after
+discussing|seminar|subj
+discussing|develop|mod
+develop|and|punc
+develop|apply|conj
+apply|solar energy|obj
+solar energy|rural areas|in
+rural areas|africa|in
+part|southwestern|mod
+remote yunnan province|part|in
+part|china|of
+become|remote yunnan province|subj
+producer|leading|mod
+producer|solar energy|nn
+become|producer|obj
+become|accounting for|mod
+accounting for|remote yunnan province|subj
+accounting for|quarter|obj
+output|country|gen
+output|solar energy|nn
+quarter|output|of
+sell|products|subj
+sell|nationwide|mod
+u.s.|japan|conj
+japan|canada|conj
+canada|singapore|conj
+singapore|and|punc
+singapore|thailand|conj
+thailand|as|mod
+used|widely|mod
+is|used|pred
+used|telecommunication|in
+telecommunication|meteorology|conj
+forecasts|earthquake|nn
+meteorology|forecasts|conj
+forecasts|and|punc
+prevention|forest fire|nn
+forecasts|prevention|conj
+markets|world|nn
+markets|solar|mod
+growing|markets|subj
+growing|at|guest
+times|ten|amount-value
+growing|times|at
+growing|rate|obj
+industry|oil|nn
+rate|industry|of
+industry|u.s. worldwatch institute|appo
+u.s. worldwatch institute|reported on|vrel
+reported on|u.s. worldwatch institute|obj
+reported on|monday|mod
+grown|power|subj
+grown|16 percent|at
+grown|annually|mod
+grown|since|mod
+since|compared|comp1
+compared|1990|subj
+growth|oil|nn
+growth|energy|nn
+1.4 percent|growth|for
+institute|washington-based|mod
+said|institute|subj
+release|press|nn
+said|release|in

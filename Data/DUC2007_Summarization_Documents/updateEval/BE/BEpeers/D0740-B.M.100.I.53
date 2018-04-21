@@ -1,0 +1,57 @@
+team|swiss-english|nn
+team|balloon|nn
+soared|team|subj
+soared|mexico|over
+today|early|mod
+soared|today|mod
+completing|team|subj
+journey|six-day|nn
+completing|journey|obj
+journey|pacific ocean|across
+pacific ocean|attempt|in
+attempt|become|comp1
+balloonists|first|post
+become|balloonists|obj
+balloonists|travel|rel
+travel|balloonist|subj
+travel|nonstop|mod
+nonstop|world|around
+picked up|finally|mod-before
+picked up|balloon|subj
+stream|jet|nn
+picked up|stream|obj
+picked up|again|mod
+picked up|thursday|mod
+miles|20,000|num
+floated|miles|obj
+miles|europe|over
+europe|africa|conj
+africa|asia|conj
+asia|pacific ocean|conj
+pacific ocean|and|punc
+pacific ocean|central america|conj
+miles|breitling orbiter 3|appo
+breitling orbiter 3|headed|vrel
+headed|breitling orbiter 3|obj
+stretch|home|nn
+headed|stretch|into
+stretch|atlantic ocean|over
+headed|wednesday|mod
+bid|its|gen
+headed|bid|in
+bid|become|rel
+become|bid|subj
+balloon|first|post
+become|balloon|obj
+balloon|circle|rel
+circle|balloon|subj
+circle|world|obj
+circle|nonstop|mod
+balloon|breitling|nn
+faced|balloon|subj
+problems|staggering|mod
+faced|problems|obj
+problems|get|rel
+get|problem|subj
+get|this|obj
+get|far|mod

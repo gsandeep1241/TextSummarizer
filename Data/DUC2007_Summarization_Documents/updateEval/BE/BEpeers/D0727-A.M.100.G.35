@@ -1,0 +1,57 @@
+ap|washington|nn
+ap|(|punc
+speaker|former|mod
+speaker|house|nn
+speaker|newt gingrich|person
+speaker|and|punc
+aide|congressional|mod
+speaker|aide|conj
+aide|named|vrel
+named|aide|obj
+case|his|gen
+case|divorce|nn
+named|case|in
+trying|speaker|subj
+trying|keep|fc
+keep|speaker|subj
+keep|lawyers|obj
+wife|gingrich|gen
+lawyers|wife|for
+wife|finding out|from
+finding out|details|obj
+relationship|their|gen
+details|relationship|of
+twist|latest|mod
+charged|twist|in
+fight|gingriches|gen
+fight|bitter|mod
+fight|divorce|nn
+twist|fight|in
+lawyers|marianne gingrich|for
+charged|lawyers|subj
+papers|court|nn
+charged|papers|in
+charged|monday|mod
+monday|that|c
+failed|`|punc
+failed|`|punc
+failed|willfully|mod-before
+failed|monday|obj
+failed|gingrich|subj
+failed|answer|mod
+answer|gingrich|subj
+answer|virtually|guest
+answer|each|obj
+each|and|punc
+each|interrogatory|conj
+relationships|his|gen
+relationships|personal|mod
+personal|and|punc
+personal|professional|conj
+interrogatory|relationships|concerning
+relationships|as|punc
+relationships|well|punc
+relationships|as|punc
+relationships|finances|conj
+marriage|his|gen
+finances|marriage|of

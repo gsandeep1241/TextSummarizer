@@ -1,0 +1,62 @@
+2000|president|gen
+president|al gore|person
+appointed|campaign|subj
+appointed|campaign|obj1
+appointed|pro|obj2
+connections|local|mod
+connections|washington|nn
+pro|connections|with
+director|its|gen
+director|political|mod
+connections|director|as
+al gore|criticized|vrel
+criticized|al gore|obj
+having|not|amod
+criticized|having|for
+women|enough|mod
+having|women|obj
+inner circle|his|gen
+women|inner circle|in
+hired|al gore|subj
+strategist|veteran|mod
+strategist|female|mod
+hired|strategist|obj
+manager|his|gen
+manager|deputy|nn
+manager|campaign|nn
+be|manager|pred
+bid|his|gen
+bid|2000|num
+bid|presidential|mod
+manager|bid|for
+take|al gore|subj
+step|his|gen
+step|first|post
+step|formal|mod
+take|step|obj
+step|running|toward
+running|al gore|subj
+running|president|for
+president|2000|in
+president|notifying|by
+notifying|federal election commission|obj
+notifying|that|c
+formed|he|subj
+organization|campaign|nn
+formed|organization|obj
+said|aides|subj
+aides|vice president|to
+formed|said|mod
+took|al gore|subj
+campaign|his|gen
+campaign|presidential|mod
+took|campaign|obj
+room|living|nn
+campaign|room|to
+room|that|whn
+helped|room|subj
+carter|launch|nn
+helped|carter|obj
+carter|and|punc
+carter|clinton|conj
+clinton|white|into

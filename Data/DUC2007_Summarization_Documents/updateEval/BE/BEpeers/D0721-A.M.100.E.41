@@ -1,0 +1,56 @@
+decision|russell henderson|gen
+decision|plead|rel
+plead|decision|subj
+plead|guilty|desc
+guilty|kidnapping|to
+kidnapping|and|punc
+kidnapping|murder|conj
+murder|matthew shepard|of
+is|consolation|pred
+family|shepard|nn
+consolation|family|to
+provides|it|subj
+severe|appropriately|mod
+sentence|severe|mod
+provides|sentence|obj
+sentence|one|for
+hatred|one|gen
+hatred|apparent|mod
+hatred|anti-gay|mod
+one|hatred|whn
+led|hatred|subj
+led|him|obj
+led|destroy|mod
+destroy|it|subj
+life|young|mod
+destroy|life|obj
+remains|fact|subj
+violence|anti-gay|mod
+remains|violence|obj
+violence|accounted for|vrel
+accounted for|violence|obj
+accounted for|more|mod
+crimes|1,100|num
+crimes|reported|mod
+crimes|hate|nn
+more|crimes|than
+crimes|country|in
+country|1997|in
+figures|latest|mod
+figures|fbi|nn
+accounted for|figures|according to
+man|one|nn
+conviction|man|of
+man|and|punc
+man|trial|conj
+trial|another|of
+murder|his|gen
+trial|murder|for
+responses|appropriate|mod
+are|responses|pred
+act|criminal|mod
+responses|act|to
+received|he|subj
+sentences|two|nn
+sentences|life|nn
+received|sentences|obj

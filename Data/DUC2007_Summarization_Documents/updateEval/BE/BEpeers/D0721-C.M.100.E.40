@@ -1,0 +1,58 @@
+barred|today|mod-before
+barred|judge|subj
+lawyers|defense|nn
+barred|lawyers|obj
+lawyers|using|from
+using|judge|subj
+defense|`|punc
+defense|`|punc
+defense|gay|mod
+defense|panic|nn
+defense|'|punc
+defense|'|punc
+using|defense|obj
+trial|murder|nn
+defense|trial|in
+trial|man|of
+man|accused|vrel
+accused|man|obj
+accused|beating|of
+matthew shepard|gay|mod
+matthew shepard|college student|nn
+beating|matthew shepard|obj
+man|u.s.|nn
+man|convicted|vrel
+convicted|man|obj
+convicted|killing|of
+student|gay|mod
+student|college|nn
+killing|student|obj
+sentenced|man|obj
+sentenced|thursday|mod
+imprisonment|life|nn
+sentenced|imprisonment|to
+lawmakers|republican|mod
+stemmed from|lawmakers|by
+lawmakers|father|appo
+father|matthew shepard|of
+student|college|nn
+student|whose|whn
+beating|student|subj
+beating|death|obj
+stemmed from|student|subj
+stemmed from|fact|obj
+fact|that|c
+was|homosexual|pred
+was|urged|mod
+urged|congress|subj
+congress|adopt|rel
+adopt|monday|subj
+adopt|legislation|obj
+legislation|that|whn
+extend|legislation|subj
+protection|federal|mod
+protection|hate-crime|mod
+extend|protection|obj
+protection|gays|to
+gays|and|punc
+gays|lesbians|conj

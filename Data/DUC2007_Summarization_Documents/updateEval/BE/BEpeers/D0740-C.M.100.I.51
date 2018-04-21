@@ -1,0 +1,66 @@
+headed|they|subj
+headed|south|obj
+headed|caught|conj
+caught|they|subj
+winds|favorable|mod
+caught|winds|obj
+winds|equator|around
+caught|and|punc
+caught|circled|conj
+circled|they|subj
+circled|earth|obj
+earth|west|from
+west|east|to
+days|19|amount-value
+east|days|in
+hours|21|amount-value
+days|hours|conj
+hours|and|punc
+minutes|47|amount-value
+hours|minutes|conj
+psychiatrist|swiss|mod
+bertrand piccard|psychiatrist|conj
+psychiatrist|and|punc
+psychiatrist|brian jones|conj
+bertrand piccard|briton|appo
+landed|bertrand piccard|subj
+landed|just|mod
+just|8 a.m.|after
+psychiatrist|swiss|mod
+piccard|psychiatrist|conj
+psychiatrist|and|punc
+psychiatrist|jones|conj
+balloonist|english|nn
+piccard|balloonist|appo
+began|piccard|subj
+journey|their|gen
+began|journey|obj
+began|lifting|mod
+lifting|march 1|subj
+lifting|away|mod
+away|village|from
+village|chateau d 'oex|of
+chateau d 'oex|switzerland|in
+balloonists bertrand piccard|and|punc
+balloonists bertrand piccard|brian jones|conj
+brian jones|who|whn
+made|brian jones|subj
+days|their|gen
+days|journey|nn
+19|over|num-mod
+days|19|amount-value
+made|days|obj
+days|march|in
+beamed|balloonists bertrand piccard|subj
+officials|museum|nn
+beamed|officials|as
+officials|showed|vrel
+showed|officials|obj1
+showed|off|guest
+orange|neon|nn
+showed|orange|off
+compartment|passenger|nn
+showed|compartment|obj2
+balloon|their|gen
+balloon|breitling orbiter 3|nn
+compartment|balloon|of

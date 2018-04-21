@@ -1,0 +1,94 @@
+accused|prosecutors|subj
+accused|bennett|obj
+bennett|cheating|of
+cheating|prosecutor|subj
+cheating|more|mod
+investors|22,000|num
+more|investors|than
+investors|$700 million|out of
+$700 million|case|in
+case|spanning|rel
+spanning|case|subj
+trials|two|nn
+spanning|trials|obj
+trials|manhattan|in
+police|and|punc
+family|hogg|gen
+police|family|conj
+believed|always|mod-before
+believed|police|subj
+believed|was|fc
+was|guilty|pred
+again|never|mod
+tried for|again|guest
+tried for|he|obj
+death|her|gen
+sentenced|man|obj
+sentenced|thursday|mod
+six|nearly|num-mod
+years|six|amount-value
+sentenced|years|to
+years|prison|in
+prison|lying|for
+jury|grand|nn
+lying|jury|to
+jury|that|whn
+investigating|jury|subj
+bombing|world trade center|nn
+investigating|bombing|obj
+bombing|and|punc
+terrorism|related|mod
+bombing|terrorism|conj
+mustafa elnore|linden|of
+pleaded|mustafa elnore|subj
+pleaded|guilty|desc
+guilty|lying|to
+jury|grand|nn
+lying|jury|to
+jury|1997 and 1998|in
+1997 and 1998|that|whn
+investigating|1997 and 1998|subj
+investigating|1993|guest
+bombing|world trade center|nn
+investigating|bombing|obj
+bombing|that|whn
+killed|bombing|subj
+people|six|nn
+killed|people|obj
+killed|and|punc
+killed|injured|conj
+injured|bombing|obj
+injured|more|mod
+others|1,000|num
+more|others|than
+case|current|mod
+become|case|in
+psychiatrist|former|mod
+psychiatrist|veterans affairs|nn
+barbara battalino|psychiatrist|appo
+psychiatrist|medical center|at
+medical center|idaho|in
+become|barbara battalino|subj
+become|perhaps|guest
+known|best|mod
+perjurer|known|mod
+perjurer|admitted|mod
+become|perjurer|obj
+perjurer|america|in
+republicans|potential|mod
+republicans|swing-vote|mod
+say|republicans|subj
+president|clinton|person
+admit|president|subj
+admit|he|obj
+say|committed perjury|fc
+committed perjury|that|subj
+committed perjury|when|wha
+said|he|subj
+said|had|fc
+had|he|subj
+relationship|sexual|mod
+had|relationship|obj
+relationship|monica s. lewinsky|with
+vote|they|subj
+vote|impeachment|against

@@ -1,0 +1,128 @@
+strain|west nile|nn
+strain|virus|of
+found|strain|obj
+crows|dead|mod
+found|crows|in
+area|new york|nn
+crows|area|in
+virus|west nile|nn
+before|never|mod
+recorded|before|mod-before
+virus|recorded|vrel
+recorded|virus|obj
+recorded|hemisphere|in
+entered|probably|mod-before
+entered|virus|subj
+entered|united states|obj
+birds|infected|mod
+united states|birds|in
+believed|virus|obj
+believed|transmitted|mod
+transmitted|by|by-subj
+transmitted|mosquitoes|by
+mosquitoes|that|whn
+bit|mosquitoes|subj
+birds|infected|mod
+bit|birds|obj
+far|so|mod
+appeared|virus|subj
+appeared|only|mod
+only|birds|in
+birds|and|punc
+insects|mosquitoes|nn
+insects|bloodsucking|mod
+birds|insects|conj
+insects|that|whn
+spread|insects|subj
+spread|west nile|obj
+west nile|humans|to
+carried|virus|obj
+carried|birds|to
+mosquitoes|infected|mod
+birds|mosquitoes|by
+virus|west nile|nn
+virus|had|vrel
+had|virus|obj
+had|never|mod
+had|before|mod
+encephalitis|west nile|nn
+passed|encephalitis|obj
+passed|person|from
+person|person|to
+to|or|punc
+to|from|conj
+to|birds|from
+birds|people|to
+pass through|virus|subj
+pass through|mosquito|obj
+virus|west nile|nn
+reported|not|guest
+because|reported|comp1
+reported|virus|obj
+reported|united states|in
+united states|august|until
+summer|late|mod
+reported|summer|in
+summer|and|punc
+summer|fall|conj
+cases|61|num
+infection|severe|mod
+cases|infection|of
+infection|and|punc
+deaths|seven|nn
+infection|deaths|conj
+reported|cases|obj
+reported|new york|in
+reported|area|subj
+area|centers|conj
+control|disease|nn
+centers|control|for
+control|and|punc
+control|prevention|conj
+reported|reported|mod
+been|not|amod
+been|human|pred
+cases|west nile|of
+west nile|reported|pnmod
+reported|state|in
+virus|west nile|nn
+virus|mosquito-borne|mod
+is|virus|pred
+virus|that|whn
+cause|virus|subj
+cause|encephalitis|obj
+encephalitis|or|punc
+encephalitis|inflammation|conj
+inflammation|brain|of
+encephalitis|a. west nile|nn
+is|infection|pred
+infection|brain|of
+brain|caused|vrel
+caused|brain|obj
+caused|by|by-subj
+virus|west nile|nn
+caused|virus|by
+virus|which|whn
+found|commonly|amod
+found|virus|obj
+found|africa|in
+africa|west asia|conj
+west asia|and|punc
+west asia|middle east|conj
+a.|bite|by
+bite|mosquito|of
+mosquito|that|whn
+infected|mosquito|obj
+vvirus|west nile|nn
+infected|vvirus|with
+announced|that|subj
+found|they|subj
+crow|dead|mod
+found|crow|obj
+crow|infected|vrel
+infected|crow|obj
+virus|west nile|nn
+infected|virus|with
+bird|first|post
+bird|infected|mod
+virus|bird|appo

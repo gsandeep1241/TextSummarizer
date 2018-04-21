@@ -1,0 +1,54 @@
+court|june 23-a|nn
+court|federal|mod
+court|appeals|nn
+rules|court|subj
+rules|that|c
+did|not|neg
+violate|microsoft|subj
+agreement|previous|mod
+violate|agreement|obj
+agreement|government|with
+violate|when|wha
+combined|it|subj
+combined|windows 95|obj
+windows 95|and|punc
+windows 95|internet explorer|conj
+experts|antitrust|mod
+say|experts|subj
+brief|lessig|nn
+say|give|fc
+give|brief|subj
+give|jackson|obj1
+blueprint|legal|mod
+give|blueprint|obj2
+blueprint|needs|rel
+needs|blueprint|obj
+needs|he|subj
+concluding|expert|subj
+concluding|that|c
+violate|microsoft|subj
+law|tying|nn
+violate|law|obj
+caldera systems inc.|orem|appo
+orem|maker|appo
+software|linux|nn
+maker|software|of
+filed|caldera systems inc.|subj
+filed|antitrust case|obj
+antitrust case|microsoft|against
+microsoft|1996|in
+is|to|mod-before
+is|microsoft|to
+microsoft|1997|in
+critic|harsh|mod
+is|critic|pred
+critic|company|of
+ruled|judge|subj
+ruled|that|c
+case|caldera-microsoft|nn
+go|case|subj
+go|trial|to
+trial|january|in
+justice department|dec 17-the|nn
+asks|justice department|subj
+asks|jackson|obj

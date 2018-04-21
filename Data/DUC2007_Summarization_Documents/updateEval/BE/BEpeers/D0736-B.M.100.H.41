@@ -1,0 +1,59 @@
+teaming|turner broadcasting system|subj
+teaming|up|mod
+publishers|two|nn
+publishers|major|mod
+publishers|magazine|nn
+up|publishers|with
+publishers|launch|rel
+launch|publisher|subj
+channel|cable television|nn
+launch|channel|obj
+channel|aimed|vrel
+aimed|channel|obj
+aimed|women|at
+aimed|going up|mod
+successful|already|mod
+channel|successful|mod
+channel|lifetime|nn
+going up|channel|against
+venture|new|mod
+face|venture|subj
+face|competition|obj
+channel|successful|mod
+channel|lifetime|nn
+competition|channel|from
+channel|which|whn
+is|run|pred
+run|walt disney co.|by
+walt disney co.|and|punc
+walt disney co.|hearst corp.|conj
+hearst corp.|as|punc
+hearst corp.|well|punc
+hearst corp.|as|punc
+channel|new|mod
+hearst corp.|channel|conj
+channel|called|vrel
+called|channel|obj1
+called|oxygen|desc
+called|developed|mod
+developed|by|by-subj
+oprah winfrey|talk show|nn
+oprah winfrey|host|nn
+developed|oprah winfrey|by
+oprah winfrey|and|punc
+oprah winfrey|geraldine laybourne|conj
+oprah winfrey|one|appo
+forces|driving|nn
+one|forces|of
+forces|success|behind
+success|nickelodeon|of
+said|mitchell|subj
+said|thought|fc
+thought|she|subj
+thought|was|fc
+was|plenty|pred
+plenty|room|of
+room|programming|for
+programming|aimed|vrel
+aimed|programming|obj
+aimed|women|at

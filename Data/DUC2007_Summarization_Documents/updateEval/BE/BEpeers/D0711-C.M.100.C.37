@@ -1,0 +1,64 @@
+chairman|microsoft|nn
+chairman|bill gates|person
+said|chairman|subj
+said|immediately|mod
+said|after|mod
+ruling|chairman|subj
+ruling|that|obj
+ruling|as|mod
+after|appeal|comp1
+appeal|company|subj
+says|government|subj
+splitting|government|subj
+splitting|microsoft|obj
+says|prevent|fc
+prevent|that|subj
+system|windows|nn
+prevent|system|obj
+system|that|whn
+runs|system|subj
+80|over|num-mod
+runs|80|on
+computers|personal|nn
+being|used|pred
+being|force|mod
+force|companies|obj
+companies|and|punc
+companies|consumers|conj
+consumers|use|rel
+use|consumer|subj
+products|other|mod
+products|microsoft|nn
+use|products|obj
+appeal|company|gen
+bypass|appeal|subj
+process|normal|mod
+process|appeals court|nn
+bypass|process|obj
+bypass|and|punc
+bypass|go|conj
+go|appeal|subj
+go|straight|desc
+straight|supreme court|to
+supreme court|mechanism|under
+mechanism|available|pnmod
+antitrust cases|major|mod
+available|antitrust cases|in
+said|legal experts|subj
+said|thursday|guest
+said|that|c
+saw|they|subj
+support|little|mod
+saw|support|obj
+suggestion|microsoft|gen
+support|suggestion|for
+suggestion|that|c
+relying on|judge|subj
+concepts|antitrust|mod
+relying on|concepts|obj
+concepts|that|whn
+are|out of|pred
+are|step|out of
+business|fast-moving|mod
+business|computer|nn
+step|business|with

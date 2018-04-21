@@ -1,0 +1,138 @@
+mike edwards|spokesman|appo
+spokesman|bureau|for
+said|mike edwards|subj
+patterns|disturbed|mod
+patterns|weather|mod
+said|were|fc
+were|proof|pred
+proof|that|c
+having|el nino|subj
+having|effect|obj
+weather|south african|nn
+effect|weather|on
+conditions|dry|mod
+forecasts|conditions|for
+were|from november to march|mod-before
+were|correct|pred
+two|nearly|num-mod
+thirds|two|nn
+counties|58|num
+thirds|counties|of
+counties|california|of
+declared|thirds|obj
+zones|federal|mod
+zones|disaster|nn
+declared|zones|as
+phenomenon|el nino|nn
+phenomenon|weather|mod
+zones|phenomenon|due to
+causes|el nino|subj
+causes|reversals|obj
+patterns|normal|mod
+patterns|weather|nn
+reversals|patterns|of
+resulting|drought|in
+wet|usually|mod
+locales|wet|mod
+drought|locales|in
+resulting|and|punc
+resulting|flooding|conj
+areas|arid|mod
+flooding|areas|in
+la nina|and|punc
+la nina|el nino|conj
+form|la nina|subj
+ends|opposite|mod
+form|ends|obj
+cycle|same|post
+cycle|climatic|mod
+ends|cycle|of
+form|el nino|with
+el nino|fueled|vrel
+fueled|el nino|obj
+fueled|by|by-subj
+warm|unusually|mod
+water|warm|mod
+fueled|water|by
+pacific|eastern|mod
+water|pacific|in
+pacific|and|punc
+pacific|la nina|conj
+la nina|driven|vrel
+driven|la nina|obj
+driven|by|by-subj
+driven|cold|by
+two weeks ago|just|pre
+experts|national weather service|nn
+predicted|experts|subj
+predicted|la nina|obj
+effects|phenomenon|gen
+phenomenon|effects|whn
+are|roughly|guest
+are|opposite|pred
+opposite|el nino|of
+la nina|bring|rel
+bring|la nina|obj1
+bring|phenomenon|subj
+bring|los angeles|obj2
+drier|slightly|mod
+year|drier|mod
+bring|year|mod
+year|normal|than
+el nino|and|punc
+el nino|la nina|conj
+are|things|pred
+things|that|whn
+change|things|subj
+change|slowly|mod
+slowly|time|over
+change|said|mod
+said|ants leetmaa|subj
+ants leetmaa|director|appo
+service|weather|mod
+climate prediction center|service|gen
+director|climate prediction center|of
+surface|pacific ocean|of
+continue|surface|subj
+continue|cooling|mod
+cooling|surface|subj
+cooling|slowly|mod
+slowly|rest|for
+rest|year|of
+cooling|fueling|mod
+phenomenon|la nina|nn
+phenomenon|weather|mod
+fueling|phenomenon|obj
+agency|u.n.|nn
+agency|weather|mod
+said|agency|subj
+fueling|said|mod
+fueling|monday|mod
+conditions|weak la nina|nn
+started|conditions|subj
+started|develop|mod
+develop|condition|subj
+wmo|(|punc
+world meteorological organization|wmo|abbrev
+wmo|)|punc
+said|world meteorological organization|subj
+said|in|guest
+said|its|in
+said|el nino/la nina update|obj
+conditions|el nino|like
+settle|conditions|subj
+permanently|almost|mod
+gets|bad|obj
+gets|enough|mod
+gets|making|mod
+disruptions|climate|nn
+making|disruptions|obj1
+disruptions|droughts|such as
+droughts|or|punc
+rain|excessive|mod
+rain|winter|nn
+droughts|rain|conj
+making|essentially|guest
+making|norm|desc
+study|computer|nn
+suggests|study|subj

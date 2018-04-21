@@ -1,0 +1,50 @@
+begin|candidates|subj
+begin|respect|mod
+respect|candidate|subj
+power|tv|gen
+respect|power|obj
+debuts|phil donahue|subj
+show|daytime|mod
+debuts|show|with
+people|everyday|mod
+discuss|people|subj
+topics|everyday|mod
+discuss|topics|obj
+genre|talk show|nn
+is|born|pred
+audience|today|gen
+audience|fragmented|mod
+billions|viewers|of
+viewers|world|around
+watch|billions|subj
+funeral|princess diana|gen
+watch|funeral|obj
+services|star-telegram|gen
+services|online|mod
+visit|services|obj
+services|some|on
+some|web|of
+winner|www.amazon|nn
+winner|winfrey|nn
+are|winner|pred
+novelist|north carolina|nn
+author|latest|mod
+is|author|pred
+author|join|rel
+join|author|subj
+circle|oprah winfrey|gen
+circle|exclusive|mod
+join|circle|obj
+'s|not|neg
+'s|just|guest
+'s|sherry lansing|pred
+'s|anymore|mod
+missing|notably|amod
+missing|year|from
+were|two|pred
+books|industry|gen
+books|biggest|mod
+two|books|of
+were|year|mod
+advance|glf-tiger|nn
+advance|buick|on

@@ -1,0 +1,141 @@
+organization|nation|gen
+gay|largest|mod
+organization|gay|mod
+organization|political|mod
+leaders|organization|of
+said|leaders|subj
+convention|gop|nn
+convention|national|mod
+said|demonstrated|fc
+demonstrated|convention|subj
+demonstrated|meanness|obj1
+meanness|gays|toward
+gays|and|punc
+gays|that|conj
+demonstrated|election|obj2
+george w. bush|presidential|mod
+george w. bush|nominee|nn
+election|george w. bush|of
+george w. bush|and|punc
+george w. bush|his|conj
+dick cheney|running mate|nn
+be|setback|pred
+rights|gay|mod
+setback|rights|for
+george w. bush|texas|nn
+george w. bush|gov.|title
+strategist|george w. bush|gen
+strategist|top|mod
+strategist|campaign|nn
+defended|strategist|subj
+defended|republican|obj
+frontrunner|presidential|mod
+decision|frontrunner|gen
+decision|controversial|mod
+republican|snub|rel
+snub|decision|subj
+snub|leaders|obj
+gop group|gay|mod
+leaders|gop group|of
+snub|asserting|mod
+asserting|decision|subj
+asserting|that|c
+been|critical|pred
+critical|bush|of
+bush|issues|on
+message|new|mod
+supporters|gay|mod
+message|supporters|on
+cry|far|mod
+is|cry|pred
+cry|1996|from
+is|when|wha
+bob dole|republican|mod
+bob dole|nominee|nn
+returned|bob dole|subj
+donation|$1,000|nn
+returned|donation|obj
+donation|log cabin republicans|from
+log cabin republicans|group|appo
+members|gay|mod
+members|party|nn
+group|members|of
+of|and|punc
+of|from|conj
+of|1992|from
+voice|dominant|mod
+voice|issue|on
+issue|republicans|from
+was|that|pred
+was|patrick buchanan|of
+declaration|patrick buchanan|gen
+patrick buchanan|declaration|whn
+war|culture|nn
+declaration|war|of
+aimed|declaration|obj
+aimed|squarely|mod
+squarely|homosexuals|at
+has|tone|subj
+changed|totally|mod
+director|changed|mod
+director|executive|nn
+has|director|obj
+director|log cabin republicans|of
+announced|bush|subj
+announced|plans|obj
+plans|meet with|rel
+meet with|plan|subj
+gays|gop|nn
+meet with|gays|obj
+mansion|governor|gen
+gays|mansion|at
+meet with|saying|mod
+saying|bush|subj
+season|post-primary|mod
+saying|is|fc
+time|different|mod
+is|time|pred
+praising|senator|obj
+senator|trent lott|person
+leader|republican|mod
+leader|majority|nn
+senator|leader|conj
+leader|mississippi|from
+mississippi|who|whn
+likened|mississippi|subj
+likened|gays|obj
+gays|and|punc
+gays|lesbians|conj
+lesbians|alcoholics|to
+alcoholics|and|punc
+alcoholics|kleptomaniacs|conj
+blitz|$200,000|nn
+blitz|ad|nn
+characterizes|blitz|subj
+characterizes|homosexuals|obj
+homosexuals|sinners|as
+sinners|need|in
+healing|christian|nn
+need|healing|of
+manager|mccain|gen
+manager|campaign|nn
+members|rick davis|nn
+members|addressed|mod
+manager|members|conj
+members|log cabin republicans|of
+television|satellite|mod
+log cabin republicans|television|by
+television|fund-raisers|at
+fund-raisers|boston|in
+boston|chicago|conj
+chicago|minneapolis|conj
+minneapolis|new orleans|conj
+new orleans|new york|conj
+new york|seattle|conj
+seattle|and|punc
+seattle|washington|conj
+washington|d.c.|conj
+d.c.|and|punc
+about $40,000|raised|mod
+d.c.|about $40,000|conj
+about $40,000|campaign|for

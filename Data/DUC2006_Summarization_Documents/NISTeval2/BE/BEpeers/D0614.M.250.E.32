@@ -1,0 +1,149 @@
+'s|coincidence|pred
+coincidence|chose|rel
+chose|coincidence|obj
+chose|canada|subj
+chose|highlight|mod
+highlight|canada|subj
+highlight|acadians--|obj
+acadians--|show|rel
+show|acadians --|subj
+show|not|mod
+show|all|mod
+show|and|punc
+fear|actually|amod
+show|fear|conj
+fear|acadians --|subj
+quebec|independent|mod
+fear|mean|fc
+mean|what|obj
+mean|quebec|subj
+years|30|amount-value
+developed|years|after
+movement|separatist|mod
+years|movement|of
+developed|quebecers|subj
+positions|sophisticated|mod
+developed|positions|obj
+positions|independence|on
+independence|that|whn
+puzzle|times|at
+puzzle|independence|subj
+puzzle|outsiders|obj
+government|his|gen
+seek|government|subj
+seek|referendum|obj
+independence|quebec|nn
+referendum|independence|on
+independence|canada|from
+liberal party|favors|whn
+keeping|favors|subj
+keeping|quebec|obj
+quebec|canada|in
+canada|won 48|appo
+province|restive|mod
+province|quebec|of
+came|province|subj
+came|plunging|mod
+plunging|province|subj
+plunging|canada|obj
+prevent|canada|subj
+prevent|secession|obj
+secession|quebec|of
+majority|`|punc
+majority|`|punc
+majority|clear|mod
+majority|'|punc
+majority|'|punc
+majority|quebecers|of
+movement|separatist|mod
+since|began|comp1
+began|movement|subj
+began|quebec|in
+sentiment|breaking up|for
+breaking up|canada|obj
+appeared|sentiment|subj
+appeared|gain|mod
+gain|sentiment|subj
+gain|momentum|obj
+become|lucien bouchard|subj
+leader|parti quebecois|nn
+become|leader|obj
+leader|and|punc
+premier|quebec|nn
+leader|premier|conj
+become|reviving|mod
+reviving|lucien bouchard|subj
+reviving|crusade|obj
+independence|quebec|nn
+crusade|independence|for
+independence|canada|from
+crusade|long-term|mod
+independence|quebec|nn
+crusade|independence|for
+stems from|crusade|subj
+stems from|feeling|obj
+feeling|french quebeckers|among
+culture|their|gen
+is|different|pred
+different|rest|from
+rest|canada|of
+is|yearning|plus
+yearning|manage|rel
+manage|yearning|subj
+affairs|their own|gen
+manage|affairs|obj
+quebec|and|punc
+quebec|canada|conj
+face|quebec|subj
+test|crucial|mod
+face|test|obj
+face|tomorrow|mod
+face|as|mod
+as|go|comp1
+go|quebecers|subj
+go|polls|to
+elections|first|post
+elections|provincewide|mod
+polls|elections|in
+go|since|mod
+lost|narrowly|mod-before
+since|lost|comp1
+lost|separatists|subj
+lost|referendum|obj
+referendum|independence|on
+movement|modern|mod
+movement|separatist|mod
+began|movement|subj
+began|about 30 years ago|mod
+began|and|punc
+began|based|conj
+based|movement|obj
+rooted|deeply|mod
+feelings|rooted|mod
+based|feelings|on
+feelings|that|c
+treated|not|guest
+treated|quebec|obj
+treated|fairly|mod
+fairly|english|by
+english|speaking|rel
+speaking|english|subj
+speaking|canada|obj
+rest|canada|of
+while|considers|comp1
+considers|rest|subj
+considers|this|obj1
+election|crucial|mod
+considers|election|obj2
+separatists|staunchest|mod
+separatists|quebec|nn
+concede|separatists|subj
+concede|that|c
+gone out|passion|subj
+movement|secession|nn
+gone out|movement|of
+wrote|he|subj
+typed|he|subj
+typed|up|guest
+declaration|unilateral|mod
+typed|declaration|obj

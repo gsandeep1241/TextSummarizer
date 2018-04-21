@@ -1,0 +1,144 @@
+deputy|russian|mod
+deputy|prime|person
+said|ilya klebanov|subj
+said|that|c
+object|big|mod
+collision|object|with
+caused|collision|subj
+submarine|kursk|nn
+submarine|nuclear|mod
+caused|submarine|obj
+submarine|sink|rel
+sink|submarine|subj
+sink|bottom|to
+bottom|barents sea|of
+adviser|president|gen
+president|clinton|person
+adviser|national|mod
+adviser|security|nn
+adviser|samuel berger|appo
+provided|adviser|subj
+counterpart|his|gen
+counterpart|russian|mod
+provided|counterpart|obj
+summary|written|mod
+summary|what|of
+officials|intelligence|nn
+kursk|nuclear-powered submarine|nn
+kursk|sink|rel
+sink|kursk|subj
+sink|august|on
+sink|2000|of
+sink|barents sea|in
+attempt|first|post
+navy|russian|mod
+attempt|navy|by
+navy|dock|rel
+dock|navy|subj
+capsule|rescue|nn
+dock|capsule|obj
+submarine|sunken|nn
+capsule|submarine|to
+submarine|failed|pnmod
+storms|heavy|mod
+failed|storms|in
+waves|12-foot|nn
+storms|waves|with
+waves|lashing|rel
+lashing|wave|subj
+lashing|barents sea|obj
+barents sea|norway|near
+navy|russian|mod
+struggled|navy|subj
+struggled|rescue|fc
+rescue|navy|subj
+100|more than|num-mod
+sailors|100|nn
+rescue|sailors|obj
+sailors|trapped|pnmod
+trapped|bottom|at
+bottom|barents sea|of
+barents sea|submarine|in
+submarine|crippled|vrel
+crippled|submarine|obj
+crippled|by|by-subj
+collision|major|mod
+crippled|collision|by
+fighting|heaving|obj
+seas|icy|mod
+heaving|seas|appo
+rescuers|russian|mod
+lowered|rescuers|subj
+capsule|diving|nn
+lowered|capsule|obj
+capsule|start|rel
+start|capsule|subj
+start|evacuating|mod
+sailors|116|num
+evacuating|sailors|obj
+sailors|trapped|pnmod
+submarine|sunken|nn
+submarine|russian|mod
+submarine|nuclear|mod
+trapped|submarine|in
+hire|russia|subj
+company|norwegian|mod
+hire|company|obj
+company|help|rel
+help|company|subj
+retrieve|remains|obj
+sailors|118|num
+remains|sailors|of
+kursk|sunken|nn
+kursk|nuclear|mod
+kursk|submarine|nn
+sailors|kursk|from
+rescuers|british|mod
+arrived|rescuers|subj
+arrived|area|in
+area|where|wha
+submarine|russian|mod
+submarine|nuclear|mod
+crew|118|num
+submarine|crew|with
+went down|submarine|subj
+went down|week ago|mod
+went down|but|mod
+officials|russian|mod
+but|say|comp1
+say|officials|subj
+say|are|fc
+slim|very|mod
+now|slim|mod
+are|now|pred
+are|survival|for
+survival|those|of
+kursk|ill-fated|mod
+those|kursk|aboard
+days|six|amount-value
+later|days|amount-value
+pulled|quietly|mod-before
+pulled|submarine|subj
+port|norwegian|mod
+pulled|port|into
+pulled|carrying|mod
+carrying|submarine|subj
+carrying|some|obj
+detailed|most|mod
+evidence|detailed|mod
+some|evidence|of
+far|so|mod
+evidence|far|pnmod
+navy|russia|gen
+pride|navy|of
+sank|pride|subj
+sank|bottom|to
+bottom|barents sea|of
+raising|be|fc
+be|impossible|pred
+be|meaning|mod
+meaning|kursk|subj
+meaning|that|c
+secrets|its|gen
+forever|lost|mod
+be|forever|pred

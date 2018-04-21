@@ -1,0 +1,52 @@
+mine|fourth|mod
+mine|uranium|nn
+approved|mine|obj
+approved|year|within
+approved|after|mod
+company|energy resources australia|nn
+era|(|punc
+energy resources australia|era|abbrev
+era|)|punc
+after|moved|comp1
+moved|company|subj
+moved|fast-track|to
+mine|jabiluka|nn
+fast-track|mine|for
+mine|kakadu national park|in
+government|australian|mod
+gave|today|mod-before
+gave|government|subj
+light|green|nn
+gave|light|obj
+plan|country|gen
+plan|controversial|mod
+plan|uranium|nn
+plan|mining|nn
+light|plan|to
+gave|arguing|mod
+arguing|government|subj
+arguing|that|c
+generate|it|subj
+generate|billions|obj
+dollars|u.s.|nn
+billions|dollars|of
+dollars|revenue|in
+revenue|australians|for
+generate|and|punc
+generate|create|conj
+create|it|subj
+jobs|2,000|num
+create|jobs|obj
+mine|planned|mod
+mine|jabiluka|nn
+is|on|pred
+is|edge|on
+kakadu national park|22,000|num
+kakadu national park|square-kilometer|mod
+edge|kakadu national park|of
+kakadu national park|which|whn
+is|on|pred
+is|world heritage list|on
+australia|northern|mod
+northern territory|australia|gen
+is|northern territory|in

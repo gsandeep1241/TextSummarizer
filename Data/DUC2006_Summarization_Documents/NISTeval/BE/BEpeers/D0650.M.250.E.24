@@ -1,0 +1,138 @@
+observers|mission|nn
+belong to|observers|subj
+group|"|punc
+group|carter center|nn
+group|"|punc
+belong to|group|obj
+group|which|whn
+includes|group|subj
+presidents|former|mod
+includes|presidents|obj
+presidents|oscar arias|person
+presidents|costa rica|of
+costa rica|and|punc
+costa rica|osvaldo hurtado|conj
+osvaldo hurtado|ecuador|of
+leader|delegation|of
+president|former|mod
+president|us|nn
+president|jimmy carter|person
+lead|president|subj
+lead|delegation|obj
+60|about|num-mod
+observers|60|nn
+delegation|observers|of
+observers|liberia|to
+liberia|reflection|as
+reflection|importance|of
+importance|attaches|rel
+attaches|importance|obj
+attaches|center|subj
+attaches|success|to
+elections|country|gen
+elections|post-war|mod
+success|elections|of
+presence|carter|of
+carter|and|punc
+delegation|his|gen
+carter|delegation|conj
+delegation|monitor|rel
+monitor|delegation|subj
+monitor|elections|obj
+seen|also|amod
+seen|presence|obj
+seen|part|as
+part|efforts|of
+efforts|enhance|rel
+enhance|effort|subj
+enhance|credibility|obj
+credibility|polls|of
+carter center|founded|vrel
+founded|carter center|obj
+founded|by|by-subj
+president|former|mod
+president|u.s.|nn
+founded|president|by
+president|jimmy carter|person
+fighting|carter center|subj
+fighting|blindness|obj
+blindness|1987|since
+president|former|mod
+president|u.s.|nn
+president|jimmy carter|person
+head|president|subj
+head|group|obj
+observers|international|mod
+group|observers|of
+elections|peru|gen
+observers|elections|during
+elections|may 28|of
+may 28|barry levitt|appo
+barry levitt|official|pnmod
+official|carter center|of
+carter center|told|vrel
+told|carter center|obj
+carter|press|nn
+told|travel to|fc
+travel to|carter|subj
+travel to|peru|obj
+peru|head|as
+mission|carter center|gen
+mission|joint|mod
+head|mission|of
+mission|and|punc
+ndi|democratic national institute|nn
+ndi|(|punc
+mission|ndi|conj
+carter center|founded|vrel
+founded|carter center|obj
+founded|by|by-subj
+president|former|mod
+founded|president|by
+president|jimmy carter|person
+made|carter center|subj
+conclusion|its|gen
+made|conclusion|obj
+conclusion|conjunction|in
+conjunction|national democratic institute|with
+based|u.s.|subj
+group|pro-democracy|mod
+based|group|obj
+visit|five-day|nn
+based|visit|after
+visit|invitation|at
+administration|fujimori|gen
+invitation|administration|of
+is|that|c
+be|able|pred
+be|work|mod
+work|carter center|subj
+leaders|latin|nn
+work|leaders|with
+leaders|and|punc
+community|international|mod
+leaders|community|conj
+community|curtail|rel
+curtail|community|subj
+curtail|bribery|obj
+plans|carter center|subj
+plans|work|fc
+work|carter center|subj
+council of freely elected heads|its|gen
+work|council of freely elected heads|with
+council of freely elected heads|governments|of
+governments|group|conj
+current|31|num
+group|current|of
+group|and|punc
+leaders|former|mod
+leaders|latin|nn
+group|leaders|conj
+leaders|working on|rel
+working on|leader|subj
+reform|democratic|mod
+working on|reform|obj
+reform|and|punc
+development|economic|mod
+reform|development|conj
+development|americas|in

@@ -1,0 +1,51 @@
+apartment|their|gen
+apartment|real|mod
+made|apartment|obj1
+made|unlivable|desc
+unlivable|earthquake|by
+earthquake|that|whn
+devastated|earthquake|subj
+part|huge|mod
+devastated|part|obj
+region|turkey|gen
+region|industrialized|mod
+part|region|of
+roger sullivan|sent|vrel
+sent|roger sullivan|obj
+sent|part|as
+program|washington|gen
+program|assistance|nn
+part|program|of
+program|turkey|to
+turkey|earthquake|after
+observatory|istanbul|nn
+reported|observatory|subj
+reported|that|c
+registered|quake|subj
+registered|5.8|obj
+5.8|richter scale|on
+been|hundreds|pred
+hundreds|aftershocks|of
+earthquake|aug 17|nn
+aftershocks|earthquake|since
+say|seismologists|subj
+say|classified|fc
+classified|some|obj
+classified|quakes|as
+right|their own|gen
+quakes|right|in
+earthquake|5.2-magnitude|mod
+earthquake|followed|vrel
+followed|earthquake|obj
+followed|by|by-subj
+one|another|num-mod
+followed|one|by
+one|magnitude|of
+magnitude|4.6|num
+rocked|earthquake|subj
+turkey|western|mod
+rocked|turkey|obj
+casualties|quake|from
+are|not|neg
+known|immediately|amod
+known|casualties|obj

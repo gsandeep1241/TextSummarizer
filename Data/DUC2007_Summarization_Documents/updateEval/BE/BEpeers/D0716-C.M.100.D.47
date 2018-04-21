@@ -1,0 +1,57 @@
+federal government|australian|mod
+rejected|federal government|subj
+report|unesco|nn
+rejected|report|obj
+report|which|whn
+called for|report|subj
+called for|kakadu national park|obj
+australia|northwest|mod
+kakadu national park|australia|in
+australia|placed|rel
+list|endangered|mod
+placed|list|on
+list|threat|because of
+threat|posed|vrel
+posed|threat|obj
+posed|by|by-subj
+mine|jabiluka|nn
+mine|uranium|nn
+posed|mine|by
+said|hill|subj
+response|australia|gen
+response|report|to
+demonstrated|"|punc
+demonstrated|clearly|mod-before
+said|demonstrated|fc
+demonstrated|response|subj
+demonstrated|that|c
+is|basis|pred
+basis|including|to
+including|response|subj
+including|kakadu park|obj
+list|in-danger|mod
+kakadu park|list|on
+government|australia|gen
+government|conservative|mod
+defied|government|subj
+body|u.n.|nn
+declaration|body|gen
+defied|declaration|obj
+declaration|that|c
+area|world heritage|nn
+is|area|pred
+area|declaring|by
+declaring|government|subj
+declaring|allow|fc
+allow|it|subj
+mining|uranium|nn
+allow|mining|obj
+mining|jabiluka|at
+jabiluka|park|within
+said|environment minister robert hill|subj
+said|compile|fc
+compile|he|subj
+rebuttal|comprehensive|mod
+compile|rebuttal|obj
+report|unesco|nn
+rebuttal|report|of

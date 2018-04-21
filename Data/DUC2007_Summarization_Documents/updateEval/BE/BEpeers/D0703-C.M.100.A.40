@@ -1,0 +1,60 @@
+has|france|subj
+struck|already|mod
+coins|struck|mod
+coins|one billion|nn
+has|coins|obj
+euro|european|mod
+euro|single|mod
+euro|currency|nn
+coins|euro|of
+euro|which|whn
+launched|euro|obj
+launched|by|by-subj
+launched|january 1999|by
+agence france-presse|reported|mod
+january 1999|agence france-presse|appo
+afp|(|punc
+agence france-presse|afp|abbrev
+afp|)|punc
+agence france-presse|thursday|on
+system|romanian|mod
+system|banking|nn
+is|ready|pred
+is|perform|mod
+perform|system|subj
+perform|services|obj
+currency|european|mod
+currency|single|mod
+services|currency|in
+currency|euro|appo
+agency|rompres|nn
+agency|news|nn
+euro|agency|appo
+agency|reported on|vrel
+reported on|tuesday|mod
+tuesday|citing|rel
+citing|tuesday|subj
+citing|sources|obj
+bank|romania|gen
+bank|central|nn
+sources|bank|from
+rbi|(|punc
+reserve bank of india|rbi|abbrev
+rbi|)|punc
+permitted|reserve bank of india|subj
+banks|indian|mod
+permitted|banks|obj
+banks|transact|rel
+transact|bank|subj
+transact|euro|in
+unit|new|mod
+unit|currency|nn
+euro|unit|appo
+unit|european monetary union|of
+emu|(|punc
+european monetary union|emu|abbrev
+emu|)|punc
+sources|rbi|nn
+said|sources|subj
+said|here|mod
+said|saturday|mod

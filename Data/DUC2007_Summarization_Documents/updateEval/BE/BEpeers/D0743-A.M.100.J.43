@@ -1,0 +1,56 @@
+scientists|massachusetts institute of technology|from
+said|scientists|subj
+line|fault|nn
+line|that|whn
+ruptured|line|subj
+ruptured|turkey|in
+ruptured|tuesday|mod
+identified|producing|mod-before
+producing|line|subj
+earthquake|devastating|mod
+producing|earthquake|obj
+said|identified|fc
+identified|line|obj
+identified|more than two years ago|mod
+dangerous|particularly|mod
+one|dangerous|mod
+identified|one|as
+aftershocks|27|num
+jolted|aftershocks|subj
+turkey|western|mod
+jolted|turkey|obj
+turkey|past|in
+jolted|hours|mod
+jolted|after|mod
+earthquake|strong|mod
+after|rocked|comp1
+rocked|earthquake|subj
+rocked|area|obj
+area|early|pnmod
+early|day|in
+reports|turkish|nn
+reports|news|nn
+said|reports|subj
+said|tuesday|mid
+600|at least|num-mod
+people|600|nn
+confirmed|people|obj
+confirmed|dead|mod
+thousands|others|of
+injured|thousands|subj
+injured|in|guest
+injured|6.7-degree|in
+injured|earthquake|obj
+earthquake|which|whn
+ripped|earthquake|subj
+turkey|western|mod
+ripped|turkey|through
+turkey|3:00 am|at
+earthquakes|fatal|mod
+are|common|pred
+common|turkey|in
+are|occurring|mod
+occurring|earthquake|subj
+occurring|about|mod
+occurring|once|mod
+occurring|every two years|mod

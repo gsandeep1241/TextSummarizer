@@ -1,0 +1,55 @@
+leader|myanmar|gen
+leader|pro-democracy|mod
+leader|aung san suu kyi|person
+awarded|leader|obj1
+awarded|freedom|obj2
+honor|city|nn
+freedom|honor|of
+night|saturday|nn
+awarded|night|mod
+awarded|recognition|in
+activism|her|gen
+recognition|activism|of
+country|her|gen
+country|southeast|mod
+country|asian|nn
+activism|country|in
+won|suu kyi|subj
+won|nobel peace prize|obj
+nobel peace prize|1991|in
+struggle|her|gen
+struggle|peaceful|mod
+nobel peace prize|struggle|for
+struggle|democracy|for
+regime|military|mod
+democracy|regime|against
+regime|myanmar|in
+myanmar|known|pnmod
+known|burma|as
+governance|good|mod
+lack|governance|of
+is|at|pred
+is|root|at
+country|our|gen
+troubles|country|gen
+root|troubles|of
+movement|burma|gen
+movement|democracy|nn
+leader|movement|of
+movement|aung san suu kyi|appo
+wrote|leader|subj
+article|washington post|nn
+article|op-ed|mod
+wrote|article|in
+labor|forced|mod
+are|including|mod-before
+including|labor|subj
+labor|child|nn
+including|labor|obj
+are|widespread|pred
+widespread|myanmar|in
+ignores|government|subj
+rights|workers|gen
+ignores|rights|obj
+said|u.s. labor department|subj
+ignores|said|mod

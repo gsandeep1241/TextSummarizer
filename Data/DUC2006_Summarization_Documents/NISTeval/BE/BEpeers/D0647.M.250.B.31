@@ -1,0 +1,136 @@
+relatives|boy|gen
+relatives|miami|nn
+custody|given|mod
+custody|temporary|mod
+were|custody|pred
+custody|elian|of
+elian|who|whn
+became|elian|subj
+became|subject|obj
+tug-of-war|international|mod
+subject|tug-of-war|of
+lazaro gonzalez|nov 26--|mod
+lazaro gonzalez|great-uncle|mod
+granted|lazaro gonzalez|subj
+custody|temporary|mod
+granted|custody|obj1
+custody|elian.|of
+lazaro gonzalez|jan 7--|mod
+elian.|files|rel
+files|elian.|obj
+files|lazaro gonzalez|subj
+granted|petition|obj2
+custody|temporary|mod
+petition|custody|for
+court|state|nn
+custody|court|in
+as|speaking|comp1
+speaking|gonzalez|subj
+relatives|elian gonzalez|gen
+relatives|miami|in
+appeared|relatives|subj
+family court|county|mod
+appeared|family court|in
+great-uncle|elian|gen
+appeared|great-uncle|with
+great-uncle|lazaro gonzales|appo
+lazaro gonzales|asking|pnmod
+custody|temporary|mod
+asking|custody|for
+custody|boy|of
+was|miami|in
+uncle|elian|gen
+uncle|great|mod
+uncle|lazaro gonzalez|appo
+custody|given|mod
+custody|temporary|mod
+was|custody|pred
+custody|boy|of
+was|and|punc
+was|moved|conj
+moved|uncle|subj
+moved|him|obj
+home|his|gen
+home|little havana|nn
+moved|home|into
+custody|boy|of
+became|also|mod-before
+became|custody|subj
+issue|political|mod
+became|issue|obj
+after|rescued|comp1
+rescued|child|obj
+rescued|nov 25|on
+became|fidel castro|subj
+became|subject|obj
+dispute|international|mod
+dispute|custody|nn
+subject|dispute|of
+father|his|gen
+dispute|father|between
+father|cuba|in
+cuba|and|punc
+relatives|their|gen
+cuba|relatives|conj
+relatives|united states|in
+all the way|unsuccessfully|mod
+all the way|supreme court|to
+supreme court|block|rel
+block|supreme court|subj
+repatriation|his|gen
+block|repatriation|obj
+janet reno|attorney general|title
+thursday|earlier|mod
+urged|thursday|mod-before
+urged|janet reno|subj
+urged|those|obj
+those|involved|vrel
+involved|those|obj
+involved|dispute|in
+boy|cuban|mod
+dispute|boy|over
+boy|resolve|rel
+resolve|boy|subj
+resolve|situation|obj
+so|quickly|mod
+get on|`|punc
+get on|`|punc
+situation|get on|rel
+get on|situation|obj
+get on|child|subj
+life|his|gen
+get on|life|with
+assuming|that|c
+follows through on|fidel castro|subj
+plan|revised|mod
+follows through on|plan|obj
+while|is|comp1
+is|still|guest
+is|in|pred
+is|courts|in
+courts|and|punc
+still lives|elian|nn
+courts|still lives|conj
+great-uncle|his|gen
+house|great-uncle|gen
+still lives|house|at
+help|it|subj
+help|resolve|mod
+resolve|it|subj
+resolve|conflict|obj
+resolve|since|mod
+relatives|his|gen
+since|said|comp1
+said|relatives|subj
+said|that|c
+be|willing|pred
+be|give|mod
+give|they|subj
+give|boy|obj
+father|his|gen
+boy|father|to
+give|if|c
+came to|he|subj
+came to|america|obj
+says|pediatrician|subj
+says|boy|obj

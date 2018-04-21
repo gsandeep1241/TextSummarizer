@@ -1,0 +1,146 @@
+great-uncle|elian|gen
+great-uncle|lazaro gonzalez|appo
+lazaro gonzalez|miami|of
+has|great-uncle|subj
+custody|temporary|mod
+has|custody|obj
+custody|boy|of
+has|and|punc
+has|want|conj
+want|great-uncle|subj
+want|keep|fc
+keep|great-uncle|subj
+keep|him|obj
+keep|permanently|mod
+permanently|united states|in
+relatives|boy|gen
+relatives|miami|nn
+custody|given|mod
+custody|temporary|mod
+were|custody|pred
+custody|elian|of
+elian|who|whn
+became|elian|subj
+became|subject|obj
+tug-of-war|international|mod
+subject|tug-of-war|of
+settled|city|as
+settled|streets|subj
+calm|uneasy|mod
+settled|calm|into
+calm|battle|appo
+elian gonzalez|over six-year-old|mod
+elian gonzalez|cuban|mod
+elian gonzalez|rafter|nn
+battle|moved|rel
+moved|battle|obj
+moved|elian gonzalez|subj
+moved|court|mod
+court|elian gonzalez|subj
+court|friday|mod
+relatives|boy|gen
+relatives|miami|nn
+court|relatives|with
+relatives|hoping|rel
+hoping|relative|subj
+hoping|overturn|fc
+overturn|decision|obj
+officials|federal|mod
+officials|immigration|nn
+decision|officials|by
+officials|send|rel
+send|official|subj
+send|him|obj
+father|his|gen
+send|father|to
+father|cuba|in
+sang|cuba-elian miami demonstrators|subj
+sang|home|outside
+home|where|wha
+staying|elian gonzales|subj
+sides|all|pre
+staying|sides|as
+battle|custody|nn
+sides|battle|in
+battle|waited|vrel
+waited|sides|obj
+ruling|federal|mod
+ruling|appeals court|nn
+waited|ruling|for
+ruling|that|whn
+lead to|ruling|subj
+reunion|boy|gen
+lead to|reunion|obj
+father|his|gen
+reunion|father|with
+relatives|miami|nn
+relatives|elian gonzales|of
+lost|friday|mod-before
+lost|relatives|subj
+battle|their|gen
+battle|final|mod
+be|battle|pred
+battle|prevent|rel
+prevent|battle|subj
+return|boy|gen
+prevent|return|obj
+return|cuba|to
+refused|supreme court|subj
+refused|issue|fc
+issue|supreme court|subj
+issue|order|obj
+order|keep|comp1
+keep|elian gonzalez|obj
+elian gonzalez|united states|in
+keep|clearing|mod
+clearing|way|obj
+boy|6-year-old|mod
+way|boy|for
+boy|return home|rel
+return home|boy|subj
+return home|cuba|to
+father|elian|gen
+requested|father|subj
+requested|that|c
+son|his|gen
+returned|son|obj
+returned|him|to
+returned|touching|mod
+touching|son|subj
+touching|off|guest
+touching|battle|obj
+battle|custody|for
+custody|boy|of
+ins|(|punc
+immigration and naturalization service|ins|abbrev
+ins|)|punc
+ruled|immigration and naturalization service|subj
+ruled|that|c
+belongs to|elian|subj
+father|his|gen
+belongs to|father|obj
+father|cuba|in
+relatives|elian|gen
+relatives|miami|nn
+insist|relatives|subj
+insist|stay|fc
+stay|boy|subj
+stay|them|with
+stay|united states|in
+was|soon|guest
+was|in|pred
+was|center|in
+center|campaign|of
+campaign|bring|comp1
+bring|boy|subj
+bring|him|obj
+bring|cuba|to
+father|his|gen
+cuba|father|by
+father|and|punc
+father|relatives|conj
+relatives|cuba|in
+bring|and|punc
+bring|keep|conj
+keep|boy|subj
+keep|him|obj

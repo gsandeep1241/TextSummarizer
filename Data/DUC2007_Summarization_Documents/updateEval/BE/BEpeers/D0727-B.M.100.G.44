@@ -1,0 +1,54 @@
+move|surprise|nn
+initiated|move|in
+initiated|newt gingrich|subj
+deposition|his own|gen
+initiated|deposition|obj
+aide|washington|nn
+aide|congressional|mod
+deposition|aide|of
+aide|named|vrel
+named|aide|obj
+divorce|his|gen
+named|divorce|in
+asked|bisek|subj
+judge|washington|nn
+asked|judge|obj
+judge|block|rel
+block|judge|subj
+subpoena|marianne gingrich|gen
+block|subpoena|obj
+subpoena|asking|rel
+asking|subpoena|subj
+asking|her|obj
+asking|answer|mod
+answer|questions|obj
+relationship|her|gen
+questions|relationship|about
+speaker|former|mod
+relationship|speaker|with
+attorneys|newt gingrich|gen
+when|separated|mod
+relationship|bisek|with
+began|relationship|subj
+gives|agreement|subj
+possession|marianne gingrich|nn
+gives|possession|obj
+marietta|couple|gen
+possession|marietta|of
+gives|home|mod
+attorney|gingrich|gen
+randy evans|attorney|appo
+filed|randy evans|subj
+filed|motion|obj
+filed|wednesday|mod
+filed|cobb county superior court|in
+cobb county superior court|asking|rel
+asking|cobb county superior court|subj
+asking|that|c
+transfer|marianne gingrich|subj
+transfer|money|obj
+account|joint|mod
+money|account|to
+days|14|amount-value
+gingrich|days|nn
+account|gingrich|within

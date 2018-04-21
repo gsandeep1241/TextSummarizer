@@ -1,0 +1,150 @@
+would like|comparisons|in
+comparisons|vioxx|between
+vioxx|and|punc
+vioxx|celebrex|conj
+would like|merck|subj
+would like|focus on|fc
+focus on|merck|subj
+'labels|two|nn
+'labels|drugs|nn
+focus on|'labels|obj
+has|vioxx|subj
+has|indication|obj
+indication|treatment|for
+pain|acute|mod
+treatment|pain|of
+approved|it|obj
+approved|treatment|for
+treatment|rheumatoid arthritis|of
+rheumatoid arthritis|and|punc
+rheumatoid arthritis|osteoarthritis|conj
+approaches|new|mod
+come from|approaches|subj
+directions|surprising|mod
+come from|directions|obj
+kenneth d. brandt|dr.|title
+kenneth d. brandt|university of indiana|of
+overseeing|kenneth d. brandt|subj
+federally|large|mod
+sponsored|federally|mod
+trial|sponsored|mod
+overseeing|trial|obj
+trial|doxycycline|of
+version|synthetic|mod
+doxycycline|version|appo
+tetracycline|antibiotic|mod
+version|tetracycline|of
+trial|people|in
+people|osteoarthritis|with
+with|or|punc
+with|at|conj
+risk|high|mod
+with|risk|at
+risk|disease|for
+'s|one|pred
+exciting|most|mod
+developments|exciting|mod
+one|developments|of
+developments|treatment|in
+treatment|arthritis|of
+years|25|amount-value
+arthritis|years|in
+'s|because|mod
+be|potentially|mod-before
+because|be|comp1
+be|able|pred
+be|treat|mod
+treat|we|subj
+treat|people|obj
+pain|their|gen
+people|pain|for
+pain|and|punc
+pain|inflammation|conj
+inflammation|them|without
+inflammation|suffering|rel
+suffering|inflammation|subj
+effects|side|nn
+suffering|effects|obj
+suffering|'|punc
+suffering|'|punc
+suffering|says|mod
+says|rubin|subj
+was|five years ago|pred
+was|plenty|mod
+plenty|time|of
+time|recovered|rel
+recovered|time|subj
+surgery|successful|mod
+surgery|carpal|mod
+surgery|tunnel|nn
+recovered|surgery|from
+surgery|wrists|on
+recovered|and|punc
+recovered|become|conj
+become|time|subj
+become|much|obj
+aware|more|mod
+much|aware|pnmod
+pain|lingering|mod
+aware|pain|of
+pain|arthritis|of
+company|world|gen
+company|largest|mod
+company|drug|nn
+merck|company|appo
+playing|merck|subj
+drug|monsanto co.|gen
+drug|celebrex|nn
+catch|drug|to
+drug|which|whn
+won|drug|subj
+approval|u.s.|nn
+won|approval|obj
+approval|dec 31|on
+looking|celebrex|like
+looking|merck|subj
+looking|get|mod
+get|merck|subj
+get|approval|obj
+approval|vioxx|for
+vioxx|treat|rel
+treat|vioxx|subj
+treat|osteoarthritis|obj
+osteoarthritis|which|whn
+affects|osteoarthritis|subj
+16 million|more than|num-mod
+americans|16 million|nn
+affects|americans|obj
+much|research|of
+research|glucosamine|on
+glucosamine|and|punc
+compounds|chondroitin|nn
+glucosamine|compounds|conj
+but|flawed|comp1
+flawed|much|obj
+flawed|and|punc
+overstates|probably|mod-before
+flawed|overstates|conj
+overstates|much|subj
+benefits|their|gen
+overstates|benefits|obj
+overstates|so|mod
+study|more|mod
+so|needed|comp1
+needed|study|obj
+needed|determine|mod
+determine|study|subj
+determine|if|c
+help|really|mod-before
+help|they|subj
+joints|achy|mod
+help|joints|obj
+help|analysis|according to
+journal|wednesday|gen
+analysis|journal|in
+journal|american medical association|of
+couple|last|post
+couple|years|of
+researchers|american|mod
+become|researchers|subj
+become|curious|desc

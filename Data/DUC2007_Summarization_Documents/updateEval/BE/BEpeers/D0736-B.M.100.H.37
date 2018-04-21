@@ -1,0 +1,59 @@
+hns|`|punc
+hns|`|punc
+tag|hns|gen
+tag|'|punc
+appears|tag|subj
+sluglines|all|pre
+appears|sluglines|in
+political news|(|punc
+political news|`|punc
+political news|`|punc
+category|p|nn
+category|'|punc
+category|'|punc
+political news|category|appo
+sharpens|john mccain|subj
+claim|his|gen
+sharpens|claim|obj
+claim|that|c
+success|his|gen
+alarmed|success|subj
+hierarchy|republican party|gen
+alarmed|hierarchy|obj
+hierarchy|and|punc
+friends|its|gen
+friends|lobbyist|nn
+hierarchy|friends|conj
+robison|clay|nn
+washington news|(|punc
+washington news|`|punc
+washington news|`|punc
+category|w|nn
+category|'|punc
+category|'|punc
+washington news|category|appo
+hatch|high-tech-workers|nn
+hatch|three|nn
+hatch|prominent|mod
+hatch|republican|nn
+hatch|senatorsorrin|nn
+hatch|utah|of
+utah|phil gramm|conj
+phil gramm|texas|of
+phil gramm|and|punc
+phil gramm|spencer abraham|conj
+spencer abraham|michiganintroduce|of
+bill|that|whn
+boost|bill|subj
+boost|number|obj
+number|visas|of
+workers|high-tech|mod
+workers|foreign|mod
+visas|workers|for
+workers|195,000|to
+three|next|num-mod
+years|three|amount-value
+195,000|years|for
+boost|80,000|up
+total|current|mod
+80,000|total|from

@@ -1,0 +1,62 @@
+speaker|former|mod
+speaker|u.s.|nn
+speaker|house|nn
+attorneys|speaker|for
+speaker|newt gingrich|person
+speaker|and|punc
+ex-wife|his|gen
+ex-wife|soon-to-be|mod
+speaker|ex-wife|conj
+expect|attorneys|subj
+approve|judge|subj
+divorce|couple|gen
+approve|divorce|obj
+divorce|month|within
+judge|court|nn
+judge|brook hedge|person
+is|set|pred
+set|hear|rel
+hear|set|subj
+hear|arguments|obj
+hear|morning|mod
+gifts|records|conj
+records|and|punc
+gingrich|other|mod
+gingrich|documents|nn
+girlfriend|gingrich|gen
+records|girlfriend|conj
+gifts|callista bisek|appo
+turn over|what|obj
+turn over|gifts|subj
+cobb county|his|gen
+turn over|cobb county|in
+cobb county|divorce|appo
+judge|washington|nn
+ordered|judge|subj
+ordered|bisek|obj
+bisek|answer|rel
+answer|bisek|subj
+answer|questions|obj
+questions|oath|under
+oath|marianne gingrich|for
+answer|and|punc
+answer|provide|conj
+provide|bisek|subj
+provide|documents|obj
+documents|related|vrel
+related|documents|obj
+affair|her|gen
+related|affair|to
+affair|gingrich|with
+lawyer|newt gingrich|for
+says|lawyer|subj
+speaker|former|mod
+speaker|u.s. house|nn
+speaker|and|punc
+wife|his|gen
+speaker|wife|conj
+says|signed|fc
+signed|speaker|subj
+settlement|final|mod
+settlement|divorce|nn
+signed|settlement|obj

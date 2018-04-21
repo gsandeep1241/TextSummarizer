@@ -1,0 +1,55 @@
+ap|washington|nn
+ap|(|punc
+trial|justice department|gen
+trial|landmark|nn
+trial|antitrust|mod
+trial|and|punc
+legal actions|earlier|mod
+trial|legal actions|conj
+legal actions|microsoft corp.|against
+cost|trial|subj
+cost|$13.3 million|obj
+decade|past|mod
+$13.3 million|decade|over
+said|department|subj
+said|wednesday|mod
+accounting|its|gen
+accounting|first|post
+accounting|public|mod
+said|accounting|in
+includes|figure|subj
+includes|about $7 million|obj
+about $7 million|investigating|rel
+investigating|about $7 million|subj
+investigating|and|punc
+investigating|suing|conj
+suing|about $7 million|subj
+suing|microsoft|obj
+microsoft|trial|in
+trial|pending|pnmod
+judge|u.s.|nn
+judge|district|mod
+pending|judge|before
+judge|thomas penfield jackson|person
+significant|most|mod
+lawsuits|significant|mod
+lawsuits|business|mod
+lawsuits|decades|in
+phase|first|post
+verdict|two-part|mod
+phase|verdict|of
+come|phase|subj
+come|month|mod
+described|experts|subj
+described|$7 million|obj
+$7 million|as|mod
+$7 million|compared|vrel
+compared|$7 million|obj
+compared|expense|with
+antitrust cases|other|mod
+antitrust cases|major|nn
+expense|antitrust cases|of
+antitrust cases|where|wha
+run|easily|mod-before
+run|costs|subj
+run|$750,000|obj

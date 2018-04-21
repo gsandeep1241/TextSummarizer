@@ -1,0 +1,157 @@
+secretary|housing|nn
+secretary|andrew cuomo|person
+secretary|who|whn
+visited|secretary|subj
+visited|reservation|obj
+reservation|last|vrel
+last|reservation|obj
+last|august|mod
+said|secretary|subj
+said|is|fc
+is|metaphor|pred
+tour|poverty|nn
+metaphor|tour|for
+is|for|mod
+for|sits|comp1
+sits|it|subj
+sits|shannon county|in
+tract|poorest|mod
+tract|census|nn
+shannon county|tract|appo
+tract|nation|in
+two|at least|num-mod
+distributors|two|nn
+distributors|major|mod
+refused|already|mod-before
+refused|distributors|subj
+refused|deliver|fc
+deliver|distributor|subj
+reservation|central|mod
+reservation|washington|nn
+deliver|reservation|to
+reservation|and|punc
+tiny|means|nn
+reservation|tiny|conj
+been|in|mod-before
+wapato|nearby|mod
+been|wapato|in
+been|able|pred
+been|get|mod
+get|beer|obj
+reservations|american indian|nn
+get|reservations|subj
+get|infusion|obj
+infusion|$1.2 billion|of
+money|federal|mod
+$1.2 billion|money|in
+get|for|mod
+care|health|nn
+education|care|conj
+care|and|punc
+enforcement|law|nn
+care|enforcement|conj
+enforcement|president|under
+president|clinton|person
+2001|proposed|mod
+budget|2001|mod-before
+for|budget|comp1
+budget|education|subj
+aide|white house|nn
+said|aide|subj
+budget|said|mod
+seeking|get|mod
+accurate|more|mod
+count|accurate|mod
+get|count|obj
+population|country|gen
+population|american indian|nn
+count|population|of
+turning to|census bureau|subj
+leaders|tribal|mod
+turning to|leaders|obj
+residents|reservations|on
+reservations|help|rel
+help|reservation|subj
+overcome|residents|subj
+feelings|long-standing|mod
+overcome|feelings|obj
+feelings|wariness|of
+wariness|or|punc
+wariness|anger|conj
+anger|federal government|toward
+treaties|made|vrel
+made|treaties|obj
+made|tribe|between
+tribe|and|punc
+tribe|federal government|conj
+federal government|1887 and 1889|in
+reduced|treaties|subj
+boundaries|reservation|gen
+reduced|boundaries|obj
+reduced|but|punc
+reduced|granted|conj
+granted|treaties|subj
+granted|lake|obj1
+lake|coeur|to
+'alenes|d|mod
+granted|'alenes|obj2
+polls|public|mod
+shown|polls|subj
+measure|gambling|nn
+shown|measure|obj
+measure|proposition 5|appo
+shown|winning|mod
+winning|poll|subj
+winning|majority|obj
+support|voters|among
+voters|many|whn
+many|voters|of
+are|sympathetic|pred
+sympathetic|decades|to
+privation|indian|mod
+are|privation|of
+privation|state|in
+state|that|whn
+paid|state|subj
+paid|bounties|obj
+parts|indian|mod
+parts|body|nn
+bounties|parts|for
+parts|1850s|in
+gamblers|u.s.|nn
+beginning|gamblers|subj
+beginning|discover|mod
+discover|gambler|subj
+bookies|legal|mod
+discover|bookies|obj
+discover|down|mod
+accept|gladly|mod-before
+accept|who|subj
+accept|wagers|obj
+wagers|anywhere|from
+wagers|world|in
+world|_|punc
+daring|seemingly|mod
+retaliation|daring|mod
+retaliation|legal|mod
+world|retaliation|appo
+sam|uncle|nn
+retaliation|sam|from
+tribes|indian|mod
+are|in|pred
+fighting|court|nn
+are|fighting|in
+fighting|right|for
+right|establish|comp1
+establish|tribe|subj
+bingo|multistate|nn
+establish|bingo|obj
+bingo|lottery|conj
+lottery|and|punc
+games|casino|nn
+lottery|games|conj
+games|that|whn
+offer|games|subj
+jackpots|big|mod
+offer|jackpots|obj
+resist|tribes|subj

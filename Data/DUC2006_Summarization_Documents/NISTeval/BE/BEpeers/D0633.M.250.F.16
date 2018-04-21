@@ -1,0 +1,169 @@
+tool|crime-fighting|mod
+borrowing|tool|from
+tool|used|vrel
+used|tool|obj
+used|new york city|in
+george pataki|gov.|title
+announced|george pataki|subj
+program|pilot|nn
+announced|program|obj
+program|designed|vrel
+designed|help|mod
+help|george pataki|subj
+data|counties|nn
+data|share|nn
+data|crime|nn
+help|data|obj
+help|map|conj
+map|george pataki|subj
+map|trends|obj
+map|and|punc
+map|nab|conj
+nab|george pataki|subj
+criminals|more|mod
+nab|criminals|obj
+one|following|mod
+pages|front|mod
+one|pages|appo
+tabloids|new york|gen
+pages|tabloids|of
+was|once|mod-before
+was|king|pred
+chances|knicks|gen
+chances|playoff|nn
+drugs|new|mod
+drugs|cancer|nn
+chances|drugs|conj
+drugs|and|punc
+episode|final|mod
+drugs|episode|conj
+of|`|punc
+of|`|punc
+fox|seinfeld|nn
+fox|'|punc
+fox|'|punc
+episode|fox|of
+fox|and|punc
+experts|other|mod
+experts|crime|nn
+fox|experts|conj
+said|chances|subj
+trends|two|nn
+trends|dominant|mod
+said|influencing|fc
+influencing|trends|subj
+rate|nation|gen
+rate|crime|nn
+influencing|rate|obj
+children|40 million|nn
+are|children|pred
+children|age|under
+age|10|of
+are|nationwide|mod
+got|we|subj
+got|crime|obj
+crime|going|rel
+going|crime|subj
+direction|one|nn
+going|direction|in
+direction|and|punc
+policy|social|mod
+direction|policy|conj
+policy|going|rel
+going|policy|subj
+going|other|in
+going|'|punc
+going|'|punc
+going|said|mod
+allen beck|dr.|title
+said|allen beck|subj
+statistician|justice department|gen
+statistician|lead|nn
+allen beck|statistician|appo
+trends|criminal|mod
+trends|justice|nn
+statistician|trends|on
+studies|nationwide|mod
+show|studies|subj
+enforce|police|subj
+enforce|curfew|obj
+drops|crime|nn
+curfew|drops|appo
+show|said|fc
+said|that|subj
+said|daniel glaser|obj
+professor|university of southern california|nn
+daniel glaser|professor|conj
+professor|who|whn
+specializes|professor|subj
+crime|juvenile|mod
+specializes|crime|in
+professor|and|punc
+prevention|crime|nn
+professor|prevention|conj
+'s|easy|pred
+'s|attribute|mod
+attribute|it|subj
+drops|crime|nn
+attribute|drops|obj
+drops|things|to
+things|curfew|like
+but|'s|comp1
+'s|really|guest
+'s|jobs|pred
+jobs|and|punc
+jobs|economy|conj
+economy|that|whn
+play|economy|subj
+role|big|mod
+play|role|obj
+said|she|subj
+was|right|pred
+right|develop|fc
+develop|clearly texas|subj
+laws|strong|mod
+develop|laws|obj
+laws|dealing with|for
+activities|criminal|mod
+dealing with|activities|obj
+activities|and|punc
+laws|strong|mod
+activities|laws|conj
+laws|covering|rel
+covering|law|subj
+crime|juvenile|mod
+covering|crime|obj
+crime|let|rel
+let|crime|subj
+know|them|subj
+know|that|c
+are|consequences|pred
+behavior|their|gen
+consequences|behavior|for
+are|'|punc
+are|'|punc
+are|said|mod
+mike jones|bush|nn
+mike jones|press|nn
+mike jones|aide|nn
+said|mike jones|subj
+xinhua|february 2|nn
+xinhua|(|punc
+angeles|xinhua|appo
+california|and|punc
+california|rest|conj
+rest|united states|of
+reported|california|subj
+drop|continuing|mod
+reported|drop|obj
+rates|crime|nn
+drop|rates|in
+seems|it|subj
+seems|difficult|desc
+difficult|police|for
+police|as|punc
+police|well|punc
+police|as|punc
+police|criminologists|conj
+criminologists|explain|rel
+explain|criminologists|subj

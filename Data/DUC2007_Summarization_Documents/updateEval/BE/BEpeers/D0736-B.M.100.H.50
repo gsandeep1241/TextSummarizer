@@ -1,0 +1,56 @@
+winners|category|in
+receive|winners|subj
+award|$10,000|nn
+award|cash|nn
+receive|award|obj
+award|and|punc
+sculpture|crystal|nn
+award|sculpture|conj
+republican|high-tech-workers ( washington )-three|nn
+republican|prominent|mod
+hatch|senators-orrin|nn
+hatch|utah|of
+utah|phil gramm|conj
+phil gramm|texas|of
+phil gramm|and|punc
+phil gramm|spencer abraham|conj
+spencer abraham|michigan-introduce|of
+bill|that|whn
+boost|bill|subj
+boost|number|obj
+number|visas|of
+workers|high-tech|mod
+workers|foreign|mod
+visas|workers|for
+workers|195,000|to
+three|next|num-mod
+years|three|amount-value
+195,000|years|for
+boost|80,000|up
+total|current|mod
+80,000|total|from
+fans|john grisham|nn
+fans|who|whn
+wait|fans|subj
+wait|until|mod
+thriller|his|gen
+thriller|new|mod
+thriller|legal|mod
+thriller|"|punc
+doubleday|the brethren|nn
+doubleday|"|punc
+doubleday|(|punc
+thriller|doubleday|appo
+doubleday|$27.95|appo
+published|)|punc
+until|published|comp1
+published|thriller|obj
+get|feb 1|subj
+get|sneak preview|obj
+courtesy|first two|nn
+courtesy|chapters|nn
+courtesy|online|mod
+sneak preview|courtesy|of
+courtesy|publisher|of
+publisher|and|punc
+publisher|liquid audio|conj

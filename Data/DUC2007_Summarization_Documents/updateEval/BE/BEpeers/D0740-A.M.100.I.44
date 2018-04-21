@@ -1,0 +1,58 @@
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first|obj
+first|pilot|rel
+pilot|first|subj
+pilot|balloon|obj
+balloon|world|around
+balloon|swiss|mod
+pilot|balloon|subj
+pilot|bertrand piccard|obj
+teammate|his|gen
+teammate|new|mod
+tony brown|british|mod
+tony brown|flight engineer|nn
+teammate|tony brown|appo
+said|teammate|subj
+said|be|fc
+be|ready|pred
+be|later|mod
+be|month|mod
+attempt|new|mod
+month|attempt|for
+attempt|fly|rel
+fly|attempt|subj
+fly|nonstop|desc
+nonstop|world|round
+team|composed|vrel
+composed|team|obj
+composed|bertrand piccard|of
+bertrand piccard|wim verstraeten|conj
+wim verstraeten|and|punc
+wim verstraeten|andy elson|conj
+been|due to|pred
+been|lift-off|due to
+'oex|chateau|nn
+'oex|d|mod
+lift-off|'oex|from
+alps|swiss|mod
+'oex|alps|in
+morning|thursday|nn
+alps|morning|on
+pilots bertrand piccard|switzerland|from
+switzerland|and|punc
+switzerland|wim verstraeten|conj
+wim verstraeten|belgium|from
+departed|plus|mod-before
+andy elson|flight engineer|nn
+departed|andy elson|plus
+andy elson|britain|from
+departed|pilots bertrand piccard|subj
+'oex|chateau|nn
+'oex|d|mod
+departed|'oex|from
+switzerland|western|mod
+departed|switzerland|in

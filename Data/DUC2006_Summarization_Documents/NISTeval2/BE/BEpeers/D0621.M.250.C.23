@@ -1,0 +1,163 @@
+crushed|fuzhou city|in
+crushed|police|subj
+gang|three-member|mod
+crushed|gang|obj
+gang|responsible|pnmod
+burglary|90|num
+responsible|burglary|for
+burglary|and|punc
+cases|theft|nn
+burglary|cases|conj
+cases|june 1995|since
+gang|criminal|mod
+members|gang|of
+gang|foshan city|in
+foshan city|south|of
+guangdong province|china|gen
+guangdong province|which|whn
+controlled|guangdong province|obj
+controlled|by|by-subj
+gang|larger|mod
+larger|and|punc
+larger|more|conj
+gang|notorious|mod
+controlled|gang|by
+macao|neighboring|mod
+gang|macao|in
+apprehended|guangdong province|obj
+apprehended|by|by-subj
+police|local|mod
+apprehended|police|by
+urged|china|subj
+urged|portugal|obj
+urged|sunday|mod
+sunday|take|rel
+take|sunday|subj
+measures|tougher|mod
+take|measures|obj
+crime|gang-related|mod
+measures|crime|against
+crime|macau|in
+macau|ensure|rel
+ensure|macau|subj
+colony|portuguese|nn
+handover|colony|gen
+handover|smooth|mod
+ensure|handover|obj
+rule|chinese|nn
+handover|rule|to
+rule|1999|in
+agency|china|gen
+agency|xinhua|nn
+agency|news|nn
+said|agency|subj
+police|working|rel
+working|police|subj
+authorities|hong kong|nn
+working|authorities|with
+said|arrested|fc
+arrested|police|subj
+members|18|num
+arrested|members|obj
+members|gang|of
+province|southern|mod
+province|guangdong|nn
+gang|province|in
+quoted|south china morning post|subj
+source|unidentified|mod
+source|prison|nn
+quoted|source|obj
+source|saying|as
+saying|south china morning post|subj
+saying|that|c
+cheung|and|punc
+defendants|other|mod
+cheung|defendants|conj
+were|afraid|pred
+accomplices|cheung|gen
+afraid|try|fc
+try|accomplices|subj
+try|poison|fc
+poison|accomplice|subj
+poison|them|obj
+zhang fusen|head|conj
+delegation|chinese|nn
+head|delegation|of
+delegation|told|vrel
+told|delegation|obj1
+session|fifth|post
+told|session|obj2
+session|un commission on crime prevention|of
+un commission on crime prevention|and|punc
+justice|criminal|mod
+un commission on crime prevention|justice|conj
+justice|that|c
+participate|justice|obj
+participate|china|subj
+activities|united nations|nn
+participate|activities|in
+prevention|crime|nn
+activities|prevention|in
+prevention|and|punc
+justice|criminal|mod
+prevention|justice|conj
+authorities|china|gen
+authorities|law enforcement|nn
+cracked|authorities|subj
+cases|numerous|mod
+cracked|cases|obj
+china|southeast|mod
+cases|china|in
+china|involving|rel
+involving|china|subj
+involving|killing|obj
+killing|kidnapping|conj
+kidnapping|and|punc
+kidnapping|racketeering|conj
+racketeering|members|by
+gangs|criminal|mod
+members|gangs|of
+gangs|which|whn
+entered|gangs|subj
+entered|china|obj
+amended|china|subj
+law|its|gen
+law|criminal|nn
+amended|law|obj
+amended|recently|mod
+amended|enhance|mod
+enhance|china|subj
+enhance|fight|obj
+fight|organized crime|against
+organized crime|money-laundering|conj
+crime|terrorist|mod
+money-laundering|crime|conj
+crime|trafficking|conj
+immigrants|illegal|mod
+trafficking|immigrants|of
+immigrants|and|punc
+crimes|environment-related|mod
+immigrants|crimes|conj
+ceremony|opening|mod
+speaking|ceremony|at
+ceremony|seventh world conference|of
+seventh world conference|asia crime prevention foundation|of
+asia crime prevention foundation|deputy procurator-general|appo
+procuratorate|supreme people|gen
+deputy procurator-general|procuratorate|of
+procuratorate|china liang guoqing|of
+china liang guoqing|called for|vrel
+called for|china liang guoqing|obj
+called for|enhancing|mod
+enhancing|cooperation|obj
+countries|asian|nn
+cooperation|countries|among
+countries|fight|rel
+fight|country|subj
+fight|crimes|obj
+fight|and|punc
+fight|set up|conj
+set up|country|subj
+regime|crime|nn
+regime|prevention|nn
+set up|regime|obj

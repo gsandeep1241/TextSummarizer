@@ -1,0 +1,69 @@
+countries|founder|nn
+countries|euro|of
+scheduled|as|mod-before
+currency|new|mod
+currency|single|mod
+as|known|comp1
+known|currency|obj
+scheduled|countries|obj
+scheduled|adopt|mod
+adopt|country|subj
+currency|new|mod
+adopt|currency|obj
+adopt|while|mod
+banks|and|punc
+banks|exchanges|conj
+while|start|comp1
+start|banks|subj
+start|using|mod
+using|bank|subj
+using|euro|obj
+scriptural|all|mod
+transactions|scriptural|mod
+euro|transactions|in
+transactions|writing|such as
+writing|bank|subj
+writing|checks|obj
+writing|using|conj
+using|bank|subj
+using|credit|obj
+using|and|punc
+using|charge|conj
+charge|bank|subj
+charge|cards|obj
+cards|and|punc
+bonds|buying|nn
+cards|bonds|conj
+bonds|and|punc
+bonds|stocks|conj
+summit|saturday|gen
+confirmed|summit|by
+of state|european|mod
+summit|of state|of
+of state|and|punc
+of state|government|conj
+countries|11|num
+countries|euro|nn
+have|countries|subj
+have|prepare|fc
+prepare|country|subj
+prepare|put|mod
+euro|70 billion|nn
+put|euro|obj
+pool|circulation|nn
+pool|while|nn
+euro|pool|into
+50 billion|another|num-mod
+euro|50 billion|nn
+euro|reserve|in
+reserve|make|rel
+make|reserve|subj
+money|new|mod
+make|money|obj
+money|impregnable|pnmod
+impregnable|speculators|against
+cost|total|mod
+cost|introducing|of
+introducing|euro|obj
+estimated|cost|obj
+be|at|pred

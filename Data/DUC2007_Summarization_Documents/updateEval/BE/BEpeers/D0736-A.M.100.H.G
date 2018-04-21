@@ -1,0 +1,62 @@
+show|oprah winfrey|gen
+show|tv|nn
+continues|show|subj
+continues|garner|mod
+garner|show|subj
+nominations|emmy|nn
+garner|nominations|obj
+appears|such as|mod-before
+appears|wally lamb|such as
+appears|author|subj
+show|her|gen
+appears|show|on
+show|promote|rel
+promote|show|subj
+book|his|gen
+promote|book|obj
+certain|almost|mod
+is|certain|pred
+is|put|mod
+put|it|subj
+put|it|obj
+list|best-seller|nn
+put|list|on
+played|oprah|subj
+part|big|mod
+played|part|obj
+part|emergence|in
+culture|tell-all|mod
+emergence|culture|of
+tv|national|mod
+culture|tv|on
+show|her|gen
+is|all|pred
+all|learning|about
+learning|who|whn
+show|one|nn
+had|show|on
+had|oprah|subj
+member|audience|nn
+take|member|subj
+take|stick|obj
+take|and|punc
+take|beat|conj
+beat|member|subj
+beat|box|on
+box|labeled|vrel
+labeled|box|obj1
+labeled|"|punc
+labeled|guilt|obj2
+took|oprah|subj
+show|her|gen
+took|show|obj
+show|bahamas|to
+bahamas|where|wha
+included|lineup|subj
+contest|"|punc
+contest|sexiest island man|nn
+contest|"|punc
+included|contest|obj
+contest|and|punc
+makeovers|bathing suit|nn
+contest|makeovers|conj

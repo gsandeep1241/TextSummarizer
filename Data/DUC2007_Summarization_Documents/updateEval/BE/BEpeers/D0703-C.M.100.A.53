@@ -1,0 +1,60 @@
+spokesman|european commission|nn
+ec|(|punc
+european commission|ec|abbrev
+ec|)|punc
+denied|today|mod-before
+denied|formally|amod
+denied|spokesman|subj
+denied|newspaper|obj1
+denied|reports|obj2
+reports|that|c
+is|"|punc
+is|drawing|pred
+drawing|plans|up
+plans|delay|rel
+delay|plan|subj
+delay|launch|obj
+currency|single|mod
+launch|currency|of
+currency|euro|appo
+is|secretly|punc
+is|"|punc
+has|france|subj
+struck|already|mod
+coins|struck|mod
+coins|one billion|nn
+has|coins|obj
+euro|european|mod
+euro|single|mod
+euro|currency|nn
+coins|euro|of
+euro|which|whn
+launched|euro|obj
+launched|by|by-subj
+launched|january 1999|by
+agence france-presse|reported|mod
+january 1999|agence france-presse|appo
+afp|(|punc
+agence france-presse|afp|abbrev
+afp|)|punc
+agence france-presse|thursday|on
+order|seize|comp1
+seize|opportunity|obj
+opportunity|share in|comp1
+share in|start|obj
+share in|up|mod
+up|euro|of
+euro|which|whn
+scheduled|euro|obj
+scheduled|january 1 , 1999 ,|for
+government|bulgarian|mod
+adopted|government|subj
+adopted|system|obj
+commission|monetary|mod
+system|commission|of
+commission|july 1 , 1997 ,|on
+lev|bulgarian|mod
+connection|lev|between
+lev|and|punc
+mark|german|mod
+lev|mark|conj

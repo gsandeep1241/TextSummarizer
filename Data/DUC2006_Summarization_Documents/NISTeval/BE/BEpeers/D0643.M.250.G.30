@@ -1,0 +1,139 @@
+causes|causes|concerning
+causes|and|punc
+causes|effects|conj
+causes|el nino|subj
+causes|reversals|obj
+patterns|normal|mod
+patterns|weather|nn
+reversals|patterns|of
+resulting|drought|in
+wet|usually|mod
+locales|wet|mod
+drought|locales|in
+resulting|and|punc
+resulting|flooding|conj
+areas|arid|mod
+flooding|areas|in
+causing|anomaly|obj
+anomaly|weather|of
+weather|and|punc
+weather|climate|conj
+event|el nino|nn
+help|event|subj
+help|cut|obj
+stemming|temporarily|amod
+stemming|release|obj
+release|carbon dioxide|of
+carbon dioxide|pacific ocean|from
+suggested|scientists|subj
+suggested|thursday|mod
+brought|shift|subj
+rainfall|heavy|mod
+brought|rainfall|obj
+rainfall|and|punc
+rainfall|flash floods|conj
+flash floods|indonesia|to
+indonesia|august|in
+drought|long|mod
+indonesia|drought|after
+drought|caused|vrel
+caused|drought|obj
+caused|by|by-subj
+phenomenon|el nino|nn
+caused|phenomenon|by
+studying|bangladesh|subj
+studying|effects|obj
+effects|el nino|of
+el nino|order|in
+order|develop|rel
+develop|order|subj
+develop|model|obj
+model|help|rel
+help|model|subj
+understand|farmers|subj
+pattern|global|mod
+pattern|weather|mod
+understand|pattern|obj
+understand|when|wha
+coast|pacific|nn
+ocean current|coast|in
+coast|peru|off
+warms up|ocean current|subj
+warms up|or|punc
+warms up|cools|conj
+cools|ocean current|subj
+cools|down|mod
+report|press|nn
+said|report|subj
+cools|said|mod
+cools|monday|mod
+concerning|programs|obj
+programs|and|punc
+techniques|scientific|mod
+programs|techniques|conj
+concerning|end|by
+end|1997|of
+become|already|amod
+become|el nino|subj
+become|celebrity|obj
+celebrity|sorts|of
+california|storm-battered|mod
+sorts|california|in
+programs|television news|nn
+california|programs|appo
+programs|offered|vrel
+flurry|tabloid|nn
+offered|flurry|obj2
+updates|el nino|nn
+flurry|updates|of
+news|good|mod
+is|that|c
+forecast|now|guest
+forecast|they|subj
+forecast|el nino|obj
+el nino|precision|with
+predict|el nino|during
+predict|years|subj
+effect|its|gen
+predict|effect|obj
+weather|world|gen
+effect|weather|on
+predict|months|mod
+predict|advance|in
+forecast|government|gen
+forecast|long-term|mod
+maps|forecast|subj
+retreat|winter|nn
+maps|retreat|for
+maps|largely|mod
+call|meteorologists|subj
+call|climatology|obj1
+call|'|punc
+call|'|punc
+call|essentially|punc
+call|tossup|desc
+tossup|most|with
+most|north america|of
+north america|given|vrel
+given|tossup|obj1
+given|even chance|obj2
+even chance|having|of
+having|forecast|subj
+having|below|guest
+having|average|obj
+average|above|mod
+average|average|conj
+average|or|punc
+temperatures|average|mod
+average|temperatures|conj
+hope|time|by
+el nino|next|post
+time|arrives|comp1
+arrives|el nino|subj
+hope|scientists|subj
+be|able|pred
+be|give|mod
+better|much|mod
+forecasts|better|mod
+give|forecasts|obj1
+give|el|obj2

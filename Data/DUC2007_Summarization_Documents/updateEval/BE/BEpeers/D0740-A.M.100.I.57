@@ -1,0 +1,49 @@
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first|obj
+first|pilot|rel
+pilot|first|subj
+pilot|balloon|obj
+balloon|world|around
+pilot|nonstop|mod
+says|team|subj
+says|is|fc
+ready|technically|mod
+is|ready|pred
+is|fly|mod
+fly|team|subj
+branson|and|punc
+branson|fossett|conj
+are|take off|pred
+take off|marrakech|from
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first person|obj
+first person|pilot|rel
+pilot|first person|subj
+pilot|balloon|obj
+balloon|world|around
+pilot|nonstop|mod
+drifted|however|mod-before
+drifted|trio|subj
+drifted|further|mod
+last|north|subj
+last|monday|mod
+communications|diplomatic|mod
+allowed|communications|after
+communications|britain|between
+britain|and|punc
+britain|china|conj
+continue|balloonists|subj
+continue|flying|mod
+flying|balloonist|subj
+flying|long|guest
+china|left|mod
+flying|china|obj
+china|quickly|pnmod

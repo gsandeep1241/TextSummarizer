@@ -1,0 +1,135 @@
+set up|government|subj
+network|nationwide|mod
+set up|network|obj
+network|fitting|of
+fitting|government|subj
+fitting|stations|obj
+seats|child|nn
+stations|seats|for
+seats|help|rel
+help|seat|subj
+children|save|nn
+lives|children|gen
+help|lives|obj
+crashes|car|nn
+lives|crashes|in
+praising|daimlerchrysler|obj
+daimlerchrysler|and|punc
+daimlerchrysler|general motors|conj
+programs|their|gen
+programs|child|nn
+programs|seat|nn
+programs|safety|nn
+general motors|programs|for
+chairman|national transportation safety board|of
+criticized|chairman|subj
+automakers|six|nn
+automakers|other|mod
+criticized|automakers|obj
+doing|not|amod
+automakers|doing|for
+doing|chairman|subj
+doing|enough|obj
+device|warns|rel
+warns|device|obj
+warns|that|subj
+unbuckled|device|subj
+unbuckled|drivers|obj
+chime|intermittent|mod
+drivers|chime|with
+unbuckled|until|mod
+until|buckle|comp1
+buckle|they|subj
+belts|their|gen
+belts|seat|nn
+buckle|belts|obj
+contend|critics|subj
+adults|larger|mod
+adults|who|whn
+wear|adults|subj
+belts|seat|nn
+wear|belts|obj
+contend|put|fc
+put|adults|obj
+risk|greater|mod
+put|risk|at
+stations|fitting|mod
+established|stations|obj
+established|united states|across
+sites|vehicle|nn
+sites|inspection|nn
+united states|sites|at
+offices|motor vehicle|nn
+offices|administration|nn
+sites|offices|conj
+stations|fire|nn
+offices|stations|conj
+stations|or|punc
+dealerships|automobile|nn
+stations|dealerships|conj
+said|hall|subj
+launched|national highway traffic safety administration|subj
+look|its|gen
+launched|look|obj
+look|ways|at
+ways|improve|rel
+improve|way|subj
+safety|child|nn
+safety|seat|nn
+improve|safety|obj
+improve|including|mod
+system|possible|mod
+system|rating|nn
+including|system|obj
+hearing|public|mod
+including|hearing|with
+developed|mercedes|subj
+developed|number|obj
+features|safety|nn
+number|features|of
+features|years|over
+years|that|c
+allows|freely|mod-before
+allows|company|subj
+copy|years|obj
+copy|others|subj
+engine|top-of-the-line|mod
+be|t6|pred
+t6|2.8-liter|appo
+six-cylinder|inline|nn
+2.8-liter|six-cylinder|appo
+turbochargers|double|mod
+six-cylinder|turbochargers|with
+turbochargers|rated|vrel
+rated|turbochargers|obj
+horsepower|whopping|mod
+horsepower|272|amount-value
+rated|horsepower|at
+benefits|recorders|gen
+convinced|benefits|of
+benefits|james hall|conj
+james hall|chairman|conj
+chairman|national transportation safety board|of
+national transportation safety board|last|conj
+last|called|vrel
+called|last|obj
+called|devices|for
+devices|cars|on
+cars|trains|conj
+trains|buses|conj
+buses|and|punc
+buses|ships|conj
+acknowledged|she|subj
+lying|child|nn
+acknowledged|lying|obj
+seat|rear|mod
+lying|seat|on
+seat|his|with
+near|head|subj
+near|door|obj
+kneeling|his|with
+chest|door|against
+be|in|pred
+be|danger|in
+bag|side|nn
+bag|air|nn

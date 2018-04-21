@@ -1,0 +1,143 @@
+energy|general|in
+is|bargain|pred
+capacity|power|nn
+reached|capacity|subj
+megawatts|800|amount-value
+reached|megawatts|obj
+research|japanese|mod
+research|new|mod
+research|energy|nn
+research|and|punc
+institute|development|nn
+research|institute|conj
+helped|research|subj
+helped|power station|obj
+power station|part|as
+project|solar energy|nn
+project|cooperative|mod
+part|project|of
+project|china|between
+china|and|punc
+china|japan|conj
+japan|help|rel
+help|japan|subj
+areas|china|gen
+areas|less-developed|mod
+help|areas|obj
+participants|forty|nn
+identify|world|subj
+projects|national|mod
+identify|projects|obj
+projects|involved|rel
+involved|framework|within
+program|world|nn
+program|energy|nn
+framework|program|of
+source|local|mod
+flown|source|according to
+equipment|solar energy|nn
+flown|soon|guest
+flown|equipment|obj
+flown|harare|to
+harare|hangzhou|from
+hangzhou|capital|pnmod
+china|east|mod
+zhejiang province|china|gen
+capital|zhejiang province|of
+provided|equipment|obj
+provided|by|by-subj
+provided|zhejiang provincial energy research institute|by
+provided|zhejiang meida solar energy industry corporation ltd. china|subj
+provided|solar systems|obj
+households|rural|mod
+solar systems|households|to
+households|zimbabwe|in
+zimbabwe|generate|rel
+generate|zimbabwe|subj
+generate|electricity|obj
+electricity|1998|in
+cooperation|israel|with
+lead to|cooperation|subj
+results|better|mod
+lead to|results|obj
+officials|regional|mod
+believe|officials|subj
+lead to|believe|mod
+has|project|subj
+solar|large|mod
+receiver|solar|mod
+has|receiver|obj
+receiver|which|whn
+operates|receiver|subj
+operates|area|over
+square meters|540|amount-value
+area|square meters|of
+operates|and|punc
+operates|provide|conj
+provide|receiver|subj
+kilowatts|100|amount-value
+provide|kilowatts|obj
+kilowatts|heating|of
+heating|project|subj
+heating|or|punc
+heating|cooling|conj
+cooling|project|subj
+cooling|capacity|obj
+consisted of|team|subj
+official|united nations development program|nn
+consisted of|official|obj
+official|charge|in
+facility|global|mod
+facility|environment|nn
+charge|facility|of
+implementation|energetic|mod
+implementation|program|of
+increase|greatly|amod
+increase|implementation|subj
+increase|level|obj
+level|developing|of
+developing|implementation|subj
+developing|and|punc
+developing|using|conj
+using|implementation|subj
+sources|renewable|mod
+sources|energy|nn
+using|sources|obj
+using|and|punc
+promote|actively|amod
+using|promote|conj
+promote|implementation|subj
+promote|preservation|obj
+preservation|environment|of
+environment|and|punc
+environment|development|conj
+development|economy|of
+announced|today|mod-before
+announced|germany|subj
+plan|its|gen
+announced|plan|obj
+expand|considerably|amod
+plan|expand|comp1
+expand|germany|subj
+capacity|its|gen
+capacity|production|nn
+expand|capacity|obj
+capacity|solar cells|of
+solar cells|and|punc
+solar cells|modules|conj
+modules|bid|in
+bid|replace|comp1
+replace|united states|obj
+provider|world|nn
+provider|no.1|nn
+united states|provider|as
+technology|solar|mod
+provider|technology|of
+provided|race|subj
+company|his|gen
+provided|company|obj
+company|opportunity|with
+opportunity|take advantage of|comp1
+take advantage of|race|subj
+technologies|emerging|mod
+take advantage of|technologies|obj

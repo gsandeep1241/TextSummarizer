@@ -1,0 +1,137 @@
+experts|national weather service|nn
+predicted|experts|subj
+nina--|la|nn
+predicted|nina--|obj
+effects|phenomenon|gen
+phenomenon|effects|whn
+are|roughly|guest
+are|opposite|pred
+'s--|el nino|nn
+opposite|'s--|of
+nina--|bring|rel
+bring|nina--|obj1
+bring|phenomenon|subj
+bring|los angeles|obj2
+drier|slightly|mod
+year|drier|mod
+bring|year|mod
+year|normal|than
+counterpart|its|gen
+counterpart|warm|mod
+influence|counterpart|like
+counterpart|el nino|appo
+condition|la nina|nn
+influence|condition|subj
+climate|global|mod
+influence|climate|obj
+climate|and|punc
+climate|weather|conj
+influence|until|mod
+subsided|completely|amod
+until|subsided|comp1
+subsided|it|subj
+el nino|and|punc
+el nino|la nina|conj
+are|things|pred
+are|'|punc
+are|'|punc
+are|said|mod
+said|ants leetmaa|subj
+ants leetmaa|director|appo
+service|weather|mod
+climate prediction center|service|gen
+director|climate prediction center|of
+sister|assertive|mod
+la nina|sister|appo
+year|last|post
+el nino|year|gen
+el nino|hellacious|mod
+sister|el nino|of
+contributed to|already|amod
+contributed to|la nina|subj
+weather|freakish|mod
+contributed to|weather|obj
+patterns|disturbed|mod
+patterns|weather|mod
+were|proof|pred
+having|el nino|subj
+having|effect|obj
+weather|south african|nn
+effect|weather|on
+forecasts|earlier|mod
+conditions|dry|mod
+forecasts|conditions|for
+were|correct|pred
+reversed|el nino|subj
+reversed|trigger|mod
+trigger|el nino|subj
+trigger|floods|obj
+reversed|it|subj
+led|el nino|subj
+said|he|subj
+la nina|spanish|appo
+for|`|punc
+for|`|punc
+spanish|little girl|for
+is|'|punc
+is|just|guest
+is|opposite|pred
+conditions|warm|mod
+is|conditions|with
+conditions|el nino|of
+is|el nino|with
+el nino|or|punc
+el nino|la nina|conj
+dog|sheep|nn
+is|dog|pred
+dog|driving|rel
+driving|dog|subj
+driving|sheep|obj
+organizing|force|obj
+force|giving|rel
+giving|force|subj
+giving|shape|obj
+chaotic|otherwise|mod
+flow|chaotic|mod
+shape|flow|to
+flow|weather|of
+weather|seas|across
+seas|and|punc
+seas|continents|conj
+prediction|conservative|mod
+was|prediction|pred
+prediction|that|whn
+discounted|prediction|subj
+discounted|possibility|obj
+end|immediate|mod
+possibility|end|of
+end|el nino|to
+el nino|or|punc
+episode|la nina|nn
+el nino|episode|conj
+years|last|post
+years|20|amount-value
+oceanographers|years|over
+developed|oceanographers|subj
+developed|understanding|obj
+el nino|and|punc
+el nino|la nina|conj
+form|el nino|subj
+although|is|comp1
+affecting|already|mod
+rainfall|affecting|mod
+is|rainfall|pred
+rainfall|southeast asia|in
+influenced|noticeably|amod
+influenced|it|subj
+weather|north america|gen
+influenced|weather|obj
+weather|said|rel
+said|weather|obj
+said|leetmaa|subj
+said|instead|mod
+water|warm|mod
+be|water|pred
+over|left|mod
+be|over|mod
+over|el nino|from

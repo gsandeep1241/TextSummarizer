@@ -1,0 +1,67 @@
+divorce|newt gingrich|gen
+moves|divorce|subj
+moves|courtroom|to
+time|first|post
+courtroom|time|for
+moves|today|mod
+judge|ruled|vrel
+ruled|judge|obj
+ruled|thursday|mod
+thursday|that|c
+aide|congressional|mod
+linked|thursday|obj
+linked|aide|subj
+linked|romantically|mod
+speaker|former|mod
+speaker|house|nn
+romantically|speaker|with
+speaker|newt gingrich|person
+testify|judge|subj
+case|his|gen
+case|divorce|nn
+testify|case|in
+move|surprise|nn
+initiated|move|in
+initiated|newt gingrich|subj
+deposition|his own|gen
+initiated|deposition|obj
+aide|washington|nn
+aide|congressional|mod
+deposition|aide|of
+aide|named|vrel
+named|aide|obj
+divorce|his|gen
+named|divorce|in
+wants|gingrich|subj
+wants|know|fc
+know|gingrich|subj
+know|whether|c
+wife|his|gen
+wife|estranged|mod
+put|wife|subj
+put|him|obj
+put|surveillance|under
+put|shortly|mod
+put|before|mod
+before|became|comp1
+became|he|subj
+became|speaker|obj
+house|u.s.|nn
+speaker|house|of
+kept|newt gingrich|subj
+kept|pressure|obj
+wife|his|gen
+wife|estranged|mod
+pressure|wife|on
+kept|wednesday|guest
+asking|newt gingrich|subj
+asking|judge|obj
+judge|force|rel
+force|judge|subj
+turn over|her|subj
+turn over|money|obj
+money|says|rel
+says|he|subj
+says|hoarding|fc
+hoarding|money|obj
+hoarding|she|subj

@@ -1,0 +1,70 @@
+daytime emmys|major|mod
+nominees|daytime emmys|for
+series|drama|nn
+children|all|pre
+children|my|gen
+children|'|punc
+children|'|punc
+children|abc|appo
+lives|our|gen
+lives|'|punc
+lives|'|punc
+lives|nbc|appo
+general hospital|'|punc
+general hospital|'|punc
+general hospital|abc|appo
+young|and|punc
+young|restless|conj
+young|'|punc
+young|'|punc
+young|cbs|appo
+game|or|punc
+participation|audience|nn
+game|participation|conj
+show|game|subj
+is|right|pred
+squares|hollywood|nn
+wheel|fortune|of
+money|win ben stein|gen
+money|'|punc
+money|'|punc
+money|comedy central|appo
+series|children|gen
+planet|jim henson|gen
+planet|animal show|nn
+planet|'|punc
+planet|'|punc
+planet|animal|nn
+guy|science|nn
+guy|'|punc
+guy|'|punc
+guy|pbs-syndicated|appo
+nick news|'|punc
+nick news|'|punc
+nick news|nickelodeon|appo
+rainbow|reading|nn
+rainbow|'|punc
+rainbow|'|punc
+rainbow|pbs|appo
+program|children|gen
+program|animated|mod
+arthur|'|punc
+arthur|'|punc
+arthur|pbs|appo
+dalmatians|disney|gen
+dalmatians|101|num
+series|'|punc
+series|'|punc
+series|abc|appo
+doug|disney|gen
+doug|'|punc
+doug|'|punc
+doug|abc|appo
+steven spielberg presents animaniacs|'|punc
+steven spielberg presents animaniacs|'|punc
+steven spielberg presents animaniacs|wb|appo
+steven spielberg presents pinky|and|punc
+steven spielberg presents pinky|brain|conj
+steven spielberg presents pinky|'|punc
+steven spielberg presents pinky|'|punc
+steven spielberg presents pinky|wb|appo

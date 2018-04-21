@@ -1,0 +1,59 @@
+judge|u.s.|nn
+judge|district|mod
+judge|dee benson|person
+postponed|judge|subj
+postponed|trial|obj
+trial|jan 17|until
+postponed|after|mod
+after|said|comp1
+said|microsoft|subj
+attorneys|its|gen
+attorneys|key|mod
+said|enmeshed|fc
+enmeshed|attorneys|obj
+action|federal|mod
+action|antitrust|mod
+enmeshed|action|in
+action|microsoft|against
+microsoft|washington|in
+launched|microsoft|subj
+attack|new|mod
+launched|attack|obj
+attack|arguing|rel
+arguing|attack|subj
+uncovered|not|amod
+arguing|uncovered|fc
+uncovered|caldera|subj
+uncovered|evidence|obj
+evidence|support|rel
+support|evidence|subj
+claims|its|gen
+support|claims|obj
+claims|that|c
+used|microsoft|subj
+marketing|illegal|mod
+used|marketing|obj
+arguing|and|punc
+arguing|licensing|conj
+licensing|attack|subj
+licensing|tactics|obj
+rival|microsoft|gen
+rival|major|mod
+market|u.s.|nn
+rival|market|in
+market|software|for
+helps|it|subj
+helps|atmospherics|obj
+case|government|gen
+atmospherics|case|of
+information|detailed|mod
+information|company-by-company|mod
+much|information|of
+information|prices|on
+prices|makers|to
+makers|microsoft|for
+operating system|industry-standard|mod
+operating system|windows|nn
+submitted|operating system|obj
+testimony|previous|mod
+submitted|testimony|in

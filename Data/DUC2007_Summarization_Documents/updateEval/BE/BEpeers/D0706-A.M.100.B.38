@@ -1,0 +1,50 @@
+aung san suu kyi|nobel|nn
+aung san suu kyi|laureate|mod
+offered|aung san suu kyi|subj
+offered|thursday|guest
+thursday|end|rel
+end|thursday|subj
+road|her|gen
+end|road|obj
+standoff|side|nn
+offered|standoff|obj
+government|military|mod
+standoff|government|with
+offered|if|c
+agrees|government|subj
+agrees|release|fc
+release|government|subj
+members|jailed|mod
+release|members|obj
+political party|her|gen
+members|political party|of
+guises|various|mod
+military|guises|in
+guises|1962|since
+earlier|week|in
+new light|state-run|mod
+commentary|new light|in
+new light|myanmar|of
+signed|commentary|subj
+signed|"|punc
+said|"|punc
+signed|said|fc
+said|supreme court justice|subj
+said|that|c
+citizen|british|mod
+is|citizen|pred
+deport|government|subj
+deport|her|obj
+diplomats|foreign|mod
+diplomats|and|punc
+official|government|nn
+diplomats|official|conj
+said|diplomats|subj
+said|were|fc
+were|demonstrations|pred
+were|warnings|after
+warnings|government|from
+government|and|punc
+call|reported|mod
+government|call|conj
+call|calm|for

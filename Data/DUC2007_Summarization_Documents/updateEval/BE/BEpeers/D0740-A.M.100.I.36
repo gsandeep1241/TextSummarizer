@@ -1,0 +1,60 @@
+balloon|swiss|mod
+pilot|balloon|subj
+pilot|bertrand piccard|obj
+teammate|his|gen
+teammate|new|mod
+tony brown|british|mod
+tony brown|flight engineer|nn
+teammate|tony brown|appo
+said|teammate|subj
+said|be|fc
+be|ready|pred
+attempt|new|mod
+ready|attempt|for
+attempt|fly|rel
+fly|attempt|subj
+fly|nonstop|desc
+nonstop|world|round
+bertrand piccard|swiss|mod
+bertrand piccard|balloon|nn
+bertrand piccard|pilot|mod
+announced|bertrand piccard|subj
+announced|that|c
+chosen|he|subj
+chosen|brian jones|obj
+teammate|his|gen
+brian jones|teammate|as
+attempt|his|gen
+attempt|next|post
+teammate|attempt|for
+attempt|circling|at
+circling|he|subj
+circling|world|obj
+world|balloon|in
+swiss bertrand piccard|and|punc
+wim verstraeten|his|gen
+wim verstraeten|belgian|mod
+wim verstraeten|team-member|mod
+swiss bertrand piccard|wim verstraeten|conj
+lifted off|swiss bertrand piccard|subj
+lifted off|breitling orbiter|in
+'oex|chateau|nn
+'oex|d|mod
+breitling orbiter|'oex|from
+'oex|lake geneva|above
+lake geneva|journey|for
+journey|aimed at|vrel
+aimed at|journey|obj
+aimed at|circumnavigating|mod
+circumnavigating|swiss bertrand piccard|subj
+circumnavigating|earth|obj
+is|optimistic|pred
+grant|soon|amod
+grant|china|subj
+permission|swiss-based|mod
+permission|balloon|nn
+permission|team|nn
+grant|permission|obj
+permission|overfly|rel
+overfly|permission|subj
+overfly|country|obj

@@ -1,0 +1,145 @@
+survived|we|subj
+survived|much|obj
+survived|longer|mod
+survived|than|mod
+than|thought|comp1
+thought|anyone|subj
+engineers|its|gen
+as|like|comp1
+like|engineers|subj
+like|say|fc
+say|engineer|subj
+kept going|galileo|subj
+kept going|"|punc
+kept going|well|mod
+warranty|its|gen
+well|warranty|past
+years|two|amount-value
+operate|years|obj
+years|jupiter|around
+cleared|spacecraft|obj
+cleared|december 1997|in
+extension|mission|nn
+cleared|extension|for
+more|two|nn
+extension|more|of
+cleared|years|mod
+analysis|initial|mod
+data|early|mod
+analysis|data|of
+probe|galileo|nn
+data|probe|from
+encouraged|analysis|subj
+encouraged|scientists|obj
+scientists|review|rel
+review|scientist|subj
+theories|their|gen
+review|theories|obj
+evolution|planetary|mod
+theories|evolution|of
+review|scientists|according to
+conference|nasa press|nn
+scientists|conference|at
+review|monday|mod
+probe|galileo|nn
+suggests|probe|subj
+suggests|review|obj
+science|planetary|mod
+review|science|of
+probe|cone-shaped|mod
+probe|released|vrel
+released|probe|obj
+released|galileo|from
+galileo|july 13|on
+released|and|punc
+released|entered|conj
+entered|probe|subj
+atmosphere|jupiter|gen
+entered|atmosphere|into
+atmosphere|december 7|on
+craft|first|post
+craft|man-made|mod
+was|craft|pred
+was|ever|mod
+was|dip into|mod
+dip into|probe|subj
+dip into|atmosphere|obj
+atmosphere|planet|of
+dip into|and|punc
+dip into|sent|conj
+sent|probe|subj
+sent|back|guest
+sent|data|obj
+way|its|gen
+data|way|on
+data|demise|to
+spacecraft|nasa|gen
+spacecraft|aging|mod
+spacecraft|galileo|nn
+flew|spacecraft|subj
+miles|380|amount-value
+flew|miles|within
+io|jupiter|gen
+io|moon|nn
+miles|io|of
+flew|exposing|mod
+exposing|spacecraft|subj
+exposing|craft|obj
+much|so|mod
+radiation|that|c
+controllers|mission|nn
+feared|controllers|subj
+might|not|neg
+feared|survive|fc
+survive|radiation|obj
+survive|probe|subj
+mission|galileo|gen
+over|technically|mod
+is|over|pred
+agency|space|nn
+is|agency|but
+orbit|its|gen
+orbit|jupiter|around
+so|that|c
+flies|repeatedly|mod-before
+flies|it|subj
+flies|europa|by
+distributed|new york times special features|by
+new york times special features|)|punc
+two|about|num-mod
+years|two|amount-value
+new york times special features|years|for
+galileo|space probe|nn
+years|gathering|rel
+gathering|years|obj1
+gathering|galileo|subj
+more|ever|mod
+evidence|more|mod
+gathering|evidence|obj2
+evidence|that|c
+ocean|large|mod
+lies|ocean|subj
+lies|hidden|desc
+surface|frozen|mod
+surface|fractured|mod
+hidden|surface|beneath
+europa|jupiter|gen
+europa|moon|nn
+surface|europa|of
+collected|data|obj
+collected|december 1995|in
+collected|when|wha
+set|probe|nn
+set|loose|pnmod
+spacecraft|galileo|nn
+loose|spacecraft|from
+plunged into|in|mod-before
+plunged into|orbit|in
+orbit|jupiter|around
+plunged into|set|subj
+atmosphere|planet|gen
+plunged into|atmosphere|obj
+probe|galileo|nn
+near|probe|subj
+moon|jupiter|nn
+near|moon|obj

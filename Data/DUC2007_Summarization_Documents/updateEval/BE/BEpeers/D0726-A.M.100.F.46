@@ -1,0 +1,61 @@
+president|al gore|person
+take|president|subj
+step|his|gen
+step|first|post
+step|formal|mod
+take|step|obj
+step|running|toward
+running|vice president|subj
+running|president|for
+president|2000|in
+president|notifying|by
+notifying|federal election commission|obj
+notifying|that|c
+formed|he|subj
+organization|campaign|nn
+formed|organization|obj
+said|aides|subj
+aides|vice president|to
+formed|said|mod
+president|al gore|person
+president|criticized|vrel
+criticized|president|obj
+having|not|amod
+criticized|having|for
+women|enough|mod
+having|women|obj
+inner circle|his|gen
+women|inner circle|in
+hired|president|subj
+strategist|veteran|mod
+strategist|female|mod
+hired|strategist|obj
+manager|his|gen
+manager|deputy|nn
+manager|campaign|nn
+be|manager|pred
+bid|his|gen
+bid|2000|num
+bid|presidential|mod
+manager|bid|for
+ate|vice president|subj
+ate|lunch|obj
+lunch|contributors|with
+campaign|his|gen
+campaign|2000|num
+campaign|presidential|mod
+contributors|campaign|to
+ate|and|punc
+ate|moderated|conj
+moderated|vice president|subj
+forum|public|mod
+moderated|forum|obj
+care|long-term|mod
+care|health|nn
+forum|care|on
+2000|president|gen
+president|al gore|person
+appointed|campaign|subj
+appointed|campaign|obj1
+appointed|pro|obj2
+pro|local|with

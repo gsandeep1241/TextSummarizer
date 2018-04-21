@@ -1,0 +1,143 @@
+investigators|aided|pnmod
+interpreters|arabic|nn
+aided|interpreters|by
+pored over|investigators|subj
+recorder|cockpit|nn
+recorder|voice|nn
+pored over|recorder|obj
+flight|egyptair|nn
+recorder|flight|of
+monday|990|num
+pored over|monday|mod
+monday|try|rel
+try|monday|subj
+try|determine|fc
+determine|investigator|subj
+determine|whether|c
+act|criminal|mod
+caused|act|subj
+caused|plane|obj
+plane|crash|rel
+crash|plane|subj
+crash|two weeks ago|obj
+two weeks ago|killing|rel
+killing|two weeks ago|subj
+killing|all|guest
+people|217|num
+killing|people|obj
+people|board|on
+investigators|united states|from
+united states|and|punc
+united states|egypt|conj
+review|investigators|subj
+review|part|obj
+system|flight|nn
+system|control|nn
+part|system|of
+system|tail|in
+tail|boeing|of
+boeing|767|num
+airplane|part|as
+part|investigation|of
+investigation|crash|into
+crash|egyptair flight 990|of
+safety|national|mod
+safety|transportation|nn
+chairman|safety|of
+officials|egyptian|mod
+officials|aviation|nn
+demanded|officials|subj
+demanded|that|c
+provide|united states|subj
+information|detailed|mod
+information|radar|nn
+provide|information|obj
+crash|last|post
+crash|october|nn
+crash|egyptair flight 990|nn
+information|crash|on
+crash|explain|rel
+explain|crash|subj
+images|high-speed|mod
+images|radar|nn
+explain|images|obj
+images|plane|near
+moments|its|gen
+moments|final|mod
+plane|moments|in
+pilot|egyptair|nn
+pilot|seeking|rel
+seeking|pilot|subj
+seeking|asylum|obj
+pilot|england|in
+england|who|whn
+says|england|subj
+says|has|fc
+has|egyptair|subj
+has|information|obj
+crash|october|nn
+crash|deadly|mod
+has|crash|about
+crash|egyptair flight 990|of
+interviewed|pilot|obj
+interviewed|by|by-subj
+investigators|us|nn
+investigators|accident|nn
+interviewed|investigators|by
+were|same|aboard
+members|73|num
+members|family|nn
+were|members|pred
+victims|egyptian|mod
+members|victims|of
+flight|egyptair|nn
+victims|flight|of
+flight|990|num
+which|767|num
+boeing|which|whn
+crashed|boeing|subj
+crashed|atlantic ocean|into
+coast|northeastern|mod
+atlantic ocean|coast|off
+coast|us|of
+crashed|shortly|mod
+shortly|taking off|after
+taking off|john f kennedy international airport|from
+john f kennedy international airport|way|on
+way|cairo|to
+sunday|early|mod
+taking off|sunday|mod
+ntsb|(|punc
+national transportation safety board|ntsb|abbrev
+ntsb|)|punc
+said|national transportation safety board|subj
+said|been|fc
+been|unable|pred
+unable|conclude|fc
+conclude|it|subj
+caused|what|subj
+caused|crash|obj
+crash|egyptair flight 990|of
+egyptair flight 990|which|whn
+was|heading|pred
+heading|cairo|for
+cairo|new york|from
+new york|october 31|on
+october 31|1999|num
+was|when|wha
+plunged into|suddenly|mod-before
+plunged into|it|subj
+plunged into|ocean|obj
+ocean|killing|rel
+killing|ocean|subj
+killing|all|guest
+people|217|num
+killing|people|obj
+people|board|on
+captain|who|whn
+submitted|captain|subj
+report|egyptair|nn
+submitted|report|obj
+weeks|airlines|nn
+weeks|two|amount-value
+report|weeks|to

@@ -1,0 +1,65 @@
+issued|judge|subj
+order|gag|nn
+issued|order|obj
+order|lawyers|for
+lawyers|involved|vrel
+involved|lawyers|obj
+trial|matthew shepard|nn
+trial|murder|nn
+involved|trial|in
+involved|saying|mod
+saying|judge|subj
+injured|"|punc
+injured|gravely|mod-before
+saying|injured|fc
+injured|they|subj
+injured|"|punc
+injured|defendant|obj
+defendant|right|pnmod
+trial|fair|mod
+right|trial|to
+asked|prosecutor|subj
+jurors|71|num
+jurors|prospective|mod
+asked|jurors|obj
+jurors|set aside|rel
+set aside|juror|subj
+set aside|emotions|obj
+emotions|pity|of
+pity|and|punc
+pity|rage|conj
+chosen|trial|for
+trial|death|in
+shepard|gay|mod
+shepard|college student|nn
+death|shepard|of
+sentence|possible|mod
+sentence|death|nn
+escaping|sentence|obj
+sentenced|russell henderson|obj
+sentenced|by|by-subj
+judge|district|mod
+sentenced|judge|by
+judge|jeffrey donnell|person
+part|his|gen
+judge|part|for
+part|beating|in
+beating|and|punc
+beating|murder|conj
+murder|student|of
+student|shepard|appo
+declined|shepard|subj
+declined|discuss|fc
+discuss|shepard|subj
+discuss|trial|obj
+discuss|saying|mod
+saying|shepard|subj
+saying|only|guest
+saying|that|c
+she|and|punc
+husband|her|gen
+she|husband|conj
+want|she|subj
+want|allow|fc
+allow|she|subj
+run|justice|subj

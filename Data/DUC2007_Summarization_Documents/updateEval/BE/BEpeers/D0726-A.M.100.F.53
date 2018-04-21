@@ -1,0 +1,60 @@
+president|al gore|person
+president|criticized|vrel
+criticized|president|obj
+having|not|amod
+criticized|having|for
+women|enough|mod
+having|women|obj
+inner circle|his|gen
+women|inner circle|in
+hired|president|subj
+strategist|veteran|mod
+strategist|female|mod
+hired|strategist|obj
+manager|his|gen
+manager|deputy|nn
+manager|campaign|nn
+be|manager|pred
+bid|his|gen
+bid|2000|num
+bid|presidential|mod
+manager|bid|for
+2000|president|gen
+president|al gore|person
+appointed|campaign|subj
+appointed|campaign|obj1
+appointed|pro|obj2
+connections|local|mod
+connections|washington|nn
+pro|connections|with
+director|its|gen
+director|political|mod
+connections|director|as
+lawyer|san antonio|nn
+jose villarreal|lawyer|appo
+lawyer|serving as|rel
+serving as|lawyer|subj
+serving as|treasurer|obj
+campaign|president|gen
+president|al gore|person
+campaign|2000|num
+campaign|presidential|mod
+treasurer|campaign|of
+said|jose villarreal|subj
+said|monday|guest
+said|that|c
+work|he|subj
+work|make|mod
+make|he|subj
+make|sure|desc
+campaign|gore|nn
+fund|campaign|gen
+letter|"|punc
+letter|and|punc
+letter|spirit|conj
+spirit|"|punc
+spirit|llaw|of
+announced|also|mod
+forego|they|subj
+campaigns|presidential|mod
+forego|campaigns|obj

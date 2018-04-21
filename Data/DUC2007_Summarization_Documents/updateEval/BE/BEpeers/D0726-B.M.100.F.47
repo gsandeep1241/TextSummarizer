@@ -1,0 +1,61 @@
+kennedy|patrick|nn
+kennedy|d-r.i.|appo
+president|endorsed|mod
+president|al gore|person
+nomination|democratic|mod
+nomination|presidential|mod
+president|nomination|for
+nomination|2000|in
+named|al gore|subj
+named|veteran|obj1
+campaigns|clinton-gore|nn
+campaigns|presidential|mod
+veteran|campaigns|of
+be|his|pred
+press secretary|campaign|nn
+named|press secretary|obj2
+bradley|retired|pnmod
+retired|senate|from
+senate|1996|in
+mulled|briefly|mod-before
+mulled|bradley|subj
+mulled|independent|obj
+independent|run|vrel
+run|independent|obj
+run|president|for
+spent|then|mod
+time|spent|mod
+run|time|mod
+time|lecturing|rel
+lecturing|time|subj
+lecturing|stanford university|at
+stanford university|california|in
+california|deciding|before
+deciding|challenge|fc
+challenge|gore|obj
+nomination|democratic|mod
+nomination|presidential|mod
+gore|nomination|for
+criticized|klain|obj
+criticized|by|by-subj
+allies|gore|nn
+criticized|allies|by
+allies|president|after
+president|clinton|person
+president|called|vrel
+called|president|obj1
+called|reporter|desc
+reporter|new york times|for
+called|and|punc
+called|said|conj
+said|president|subj
+said|gore|obj
+gore|needed|vrel
+needed|gore|obj
+needed|loosen up|mod
+loosen up|klain|subj
+trail|campaign|nn
+loosen up|trail|on
+bill bradley|new jersey|of
+sole|gore|gen
+new jersey|sole|appo

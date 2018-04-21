@@ -1,0 +1,74 @@
+edward kennedy|sen.|title
+endorse|edward kennedy|subj
+endorse|al gore|obj
+al gore|president|for
+president|wednesday|person
+president|move|in
+hopes|gore|nn
+hopes|campaign|nn
+move|help|rel
+help|move|obj
+help|hopes|subj
+help|voters|with
+voters|new hampshire|in
+door|next|post
+new hampshire|door|appo
+massachusetts|kennedy|gen
+door|massachusetts|to
+in|and|punc
+in|with|conj
+democrats|wavering|mod
+in|democrats|with
+help|nationwide|mod
+president|al gore|person
+said|president|subj
+said|sunday|guest
+chairman|his|gen
+chairman|campaign|nn
+chairman|tony coelho|appo
+doing|`|punc
+doing|`|punc
+said|doing|fc
+doing|chairman|subj
+job|great|mod
+doing|job|obj
+doing|'|punc
+doing|'|punc
+doing|and|punc
+doing|stay|conj
+stay|chairman|subj
+report|government|nn
+found|report|despite
+found|that|subj
+management|questionable|mod
+management|financial|mod
+found|management|obj
+found|while|mod
+while|directed|comp1
+directed|coelho|subj
+pavilion|u.s.|nn
+directed|pavilion|obj
+world|1998|num
+pavilion|world|at
+world|fair|pnmod
+fair|portugal|in
+woman|stamford|nn
+become|woman|subj
+maker|official|mod
+maker|yarmulke|nn
+become|maker|obj
+ticket|gore-lieberman|nn
+ticket|presidential|mod
+maker|ticket|of
+called|gore|subj
+called|coelho|obj1
+friend|`|punc
+friend|`|punc
+friend|close|mod
+called|friend|desc
+called|'|punc
+called|'|punc
+called|and|punc
+called|said|conj
+said|gore|subj
+said|he|obj

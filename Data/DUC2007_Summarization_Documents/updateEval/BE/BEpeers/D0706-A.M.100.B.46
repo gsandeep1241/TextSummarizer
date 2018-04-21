@@ -1,0 +1,63 @@
+20|at least|num-mod
+members|20|nn
+members|more|mod
+groups|various|mod
+groups|anti-government|mod
+groups|armed|mod
+members|groups|of
+groups|myanmar|in
+surrendered|members|subj
+surrendered|government|to
+government|last|vrel
+last|government|obj
+last|month|mod
+arrests|myanmar|subj
+persons|40|num
+arrests|persons|obj
+acts|attempted|mod
+acts|terrorist|mod
+persons|acts|for
+military|myanmar|nn
+convene|military|subj
+convene|parliament|obj
+looms|deadline|nn
+parliament|looms|as
+aung san suu kyi|nobel|nn
+aung san suu kyi|laureate|mod
+offered|aung san suu kyi|subj
+offered|end|mod
+end|aung san suu kyi|subj
+standoff|her|gen
+standoff|road|mod
+standoff|side|nn
+end|standoff|obj
+government|military|mod
+standoff|government|with
+end|if|c
+agrees|government|subj
+agrees|release|fc
+release|government|subj
+members|jailed|mod
+release|members|obj
+political party|her|gen
+members|political party|of
+citizen|myanmar|as
+renews|citizen|subj
+threat|deportation|nn
+renews|threat|obj
+country|democratic|mod
+is|country|pred
+government|military|mod
+government|burma|in
+killed|government|subj
+killed|people|obj
+people|1988|in
+opposition|myanmar|nn
+says|opposition|subj
+says|detain|fc
+detain|authorities|subj
+members|187|num
+members|more|mod
+detain|members|obj
+known|also|amod
+known|myanmar|obj

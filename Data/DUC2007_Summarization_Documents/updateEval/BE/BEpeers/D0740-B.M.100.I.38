@@ -1,0 +1,62 @@
+team|swiss-british|nn
+team|hoping|rel
+hoping|team|subj
+be|first|pred
+first|fly|rel
+fly|first|subj
+fly|balloon|obj
+balloon|world|around
+passed|nonstop|mod-before
+passed|team|subj
+passed|south|obj
+south|japan|of
+passed|today|mod
+passed|trying|mod
+trying|team|subj
+trying|avoid|fc
+avoid|thunderstorms|obj
+thunderstorms|that|whn
+ended|thunderstorms|subj
+ended|flight|obj
+team|rival|mod
+flight|team|of
+ended|week|mod
+adventurers|bertrand piccard|appo
+bertrand piccard|switzerland|of
+switzerland|and|punc
+switzerland|brian jones|conj
+brian jones|england|of
+steered|adventurers|subj
+balloon|their|gen
+steered|balloon|obj
+balloon|pacific ocean|over
+pacific ocean|hawaii|toward
+hawaii|and|punc
+hawaii|california|conj
+california|or|punc
+california|mexico|conj
+team|swiss-english|nn
+team|balloon|nn
+soared|team|subj
+soared|mexico|over
+today|early|mod
+soared|today|mod
+completing|team|subj
+journey|six-day|nn
+completing|journey|obj
+journey|pacific ocean|across
+pacific ocean|attempt|in
+attempt|become|comp1
+balloonists|first|post
+become|balloonists|obj
+balloonists|travel|rel
+travel|balloonist|subj
+travel|nonstop|mod
+nonstop|world|around
+said|smith|subj
+said|piccard|obj
+piccard|and|punc
+piccard|jones|conj
+jones|set|vrel
+set|jones|obj1
+set|record|obj2

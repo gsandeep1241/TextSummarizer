@@ -1,0 +1,63 @@
+lawyers|justice department|nn
+savored|lawyers|subj
+victory|resounding|mod
+savored|victory|obj
+evening|friday|nn
+savored|evening|mod
+case|their|gen
+savored|case|in
+case|microsoft|against
+victory|that|c
+official|one|nn
+attributed|victory|obj
+attributed|official|subj
+strategy|brilliant|mod
+truth|simple|mod
+argument|its|gen
+argument|closing|mod
+said|argument|in
+trial|microsoft|nn
+argument|trial|in
+said|government|subj
+said|tuesday|guest
+said|that|c
+is|`|punc
+is|`|punc
+is|simply|punc
+is|impossible|pred
+impossible|imagine|subj
+imagine|it|subj
+imagine|'|punc
+imagine|'|punc
+imagine|that|c
+will|not|neg
+found|company|obj
+found|violated|mod
+violated|company|subj
+antitrust laws|nation|gen
+violated|antitrust laws|obj
+antitrust laws|based|vrel
+based|antitrust laws|obj
+based|mountains|on
+evidence|courtroom|nn
+mountains|evidence|of
+()|reviewing|after
+proposal|last-ditch|mod
+proposal|settlement|nn
+reviewing|proposal|obj
+proposal|offered|vrel
+offered|proposal|obj
+offered|by|by-subj
+offered|microsoft|by
+night|friday|nn
+offered|night|mod
+lawyers|government|for
+concluded|lawyers|subj
+concluded|that|c
+was|inadequate|pred
+was|settle|mod
+settle|it|subj
+antitrust case|landmark|nn
+settle|antitrust case|obj
+giant|software|nn
+antitrust case|giant|against

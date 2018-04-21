@@ -1,0 +1,66 @@
+remains|he|subj
+remains|job|on
+remains|until|mod
+congress|new|mod
+elects|formally|mod-before
+until|elects|comp1
+elects|congress|subj
+speaker|new|mod
+elects|speaker|obj
+elects|jan. 6.|mod
+become|already|mod-before
+but|become|comp1
+become|gingrich|subj
+become|speaker|obj
+speaker|name|in
+become|only|mod
+members|trying|rel
+trying|member|subj
+trying|reach|fc
+reach|livingston|obj
+livingston|phone|by
+got|members|subj
+signals|constant|mod
+signals|busy|mod
+got|signals|obj
+got|and|punc
+got|forced|conj
+walk|members|subj
+office|his|gen
+walk|office|to
+office|get through|rel
+get through|office|subj
+office|gingrich|gen
+office|press|nn
+inquiries|office|to
+office|which|whn
+average|typically|mod
+100 to 150|average|mod
+calls|office|obj
+calls|100 to 150|subj
+calls|day|mod
+dropped|inquiries|subj
+fewer|30|than
+nice|different|mod
+nice|hill|nn
+king|nice|of
+nice|see|rel
+see|nice|subj
+see|you|obj
+go|king|subj
+holding|hands|obj
+people|fewer|mod
+hands|people|conj
+people|seemed|vrel
+notice|people|subj
+notice|speaker|obj
+speaker|who|whn
+dressed|speaker|obj
+slacks|black|mod
+dressed|slacks|in
+shoes|white|mod
+slacks|shoes|conj
+shoes|and|punc
+jacket|brown|mod
+jacket|leather|nn
+shoes|jacket|conj

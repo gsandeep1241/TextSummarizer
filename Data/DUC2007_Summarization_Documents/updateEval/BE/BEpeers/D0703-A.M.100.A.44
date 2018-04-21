@@ -1,0 +1,62 @@
+investors|private|mod
+are|set|pred
+set|benefit|rel
+benefit|set|subj
+introduction|1999|num
+benefit|introduction|from
+currency|single|mod
+currency|european|mod
+introduction|currency|of
+currency|euro|conj
+euro|thanks|conj
+opportunities|expanded|mod
+opportunities|investment|nn
+thanks|opportunities|to
+risks|reduced|mod
+risks|currency|nn
+opportunities|risks|conj
+risks|and|punc
+competitions|rising|mod
+risks|competitions|conj
+spokesman|european commission|nn
+ec|(|punc
+european commission|ec|abbrev
+ec|)|punc
+denied|today|mod-before
+denied|formally|amod
+denied|spokesman|subj
+denied|newspaper|obj1
+denied|reports|obj2
+reports|that|c
+is|"|punc
+is|drawing|pred
+drawing|plans|up
+plans|delay|rel
+delay|plan|subj
+delay|launch|obj
+currency|single|mod
+launch|currency|of
+currency|euro|appo
+is|secretly|punc
+is|"|punc
+said|lushinga|subj
+importance|euro-currency|of
+said|depend on|fc
+depend on|importance|subj
+partners|zambia|gen
+partners|major|mod
+partners|trading|nn
+depend on|partners|obj
+euro|european|mod
+euro|single|mod
+euro|currency|nn
+go ahead|euro|subj
+go ahead|schedule|on
+schedule|january 1 , 1999|on
+membership|broad|mod
+schedule|membership|with
+realization|actual|mod
+skepticism|realization|about
+currency|single|mod
+currency|european|mod
+realization|currency|of

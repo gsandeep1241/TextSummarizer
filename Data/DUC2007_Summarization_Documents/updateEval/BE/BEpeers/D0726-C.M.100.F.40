@@ -1,0 +1,59 @@
+president|al gore|person
+president|who|whn
+continues|president|subj
+continues|reshuffle|mod
+campaign|his|gen
+campaign|struggling|mod
+campaign|presidential|mod
+reshuffle|campaign|obj
+selected|president|subj
+selected|donna brazile|obj
+manager|his|gen
+manager|new|mod
+manager|campaign|nn
+be|manager|pred
+said|officials|subj
+be|said|mod
+be|today|mod
+president|al gore|person
+said|president|subj
+said|sunday|guest
+chairman|his|gen
+chairman|campaign|nn
+chairman|tony coelho|appo
+doing|`|punc
+doing|`|punc
+said|doing|fc
+doing|chairman|subj
+job|great|mod
+doing|job|obj
+doing|'|punc
+doing|'|punc
+doing|and|punc
+doing|stay|conj
+stay|chairman|subj
+report|government|nn
+found|report|despite
+found|that|subj
+management|questionable|mod
+management|financial|mod
+found|management|obj
+found|while|mod
+while|directed|comp1
+directed|coelho|subj
+pavilion|u.s.|nn
+directed|pavilion|obj
+world|1998|num
+pavilion|world|at
+world|fair|pnmod
+fair|portugal|in
+president|u.s.|nn
+president|al gore thursday|person
+named|president|subj
+william daley|commerce secretary|nn
+named|william daley|obj
+william daley|take over|rel
+take over|william daley|subj
+campaign|his|gen
+campaign|presidential|mod
+take over|campaign|obj

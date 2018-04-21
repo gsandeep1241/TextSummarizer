@@ -1,0 +1,58 @@
+government|australian|mod
+report|government|gen
+report|environmental|mod
+mine|jabiluka|nn
+mine|uranium|nn
+report|mine|on
+mine|located|vrel
+located|mine|obj
+located|kakadu natural park|in
+released|report|obj
+released|thursday|mod
+released|found|conj
+found|report|subj
+found|is|fc
+is|not|neg
+is|under|pred
+is|threat|under
+found|and|punc
+found|attacked|conj
+attacked|report|subj
+report|unesco|nn
+attacked|report|obj
+report|that|whn
+said|report|subj
+said|was|fc
+was|in|pred
+was|danger|in
+government|australia|gen
+government|conservative|mod
+defied|government|subj
+body|u.n.|nn
+declaration|body|gen
+defied|declaration|obj
+declaration|that|c
+area|world heritage|nn
+is|area|pred
+area|declaring|by
+declaring|government|subj
+declaring|allow|fc
+allow|it|subj
+allow|uranium|obj1
+allow|mining|obj2
+mining|jabiluka|at
+jabiluka|park|within
+senator|greens|nn
+senator|bob brown|person
+said|senator|subj
+said|sunday|mod
+heritage bureau|world|nn
+night|saturday|nn
+kyoto|granted|vrel
+granted|kyoto|obj1
+government|australian|mod
+granted|government|obj2
+government|april 15|until
+april 15|produce|rel
+produce|april 15|subj
+produce|evidence|obj

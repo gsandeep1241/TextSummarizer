@@ -1,0 +1,57 @@
+arrested|military|subj
+300|more than|num-mod
+arrested|300|obj
+300|members|of
+political party|suu kyi|gen
+members|political party|of
+political party|national league for democracy|appo
+arrested|prevent|mod
+prevent|military|subj
+prevent|it|obj
+convening|parliament|obj
+parliament|elected|vrel
+elected|parliament|obj
+elected|1990|in
+government|u.s.|nn
+issued|government|subj
+issued|statement|obj
+statement|condemning|rel
+condemning|statement|subj
+condemning|threat|obj
+threat|deport|rel
+deport|threat|subj
+deport|suu kyi|obj
+suu kyi|and|punc
+suu kyi|arrest|conj
+members|her|gen
+members|party|nn
+arrest|members|of
+though|passed|comp1
+passed|anniversary|subj
+passed|quietly|mod
+activity|stepped-up|mod
+be|activity|pred
+activity|opposition|by
+opposition|led|vrel
+led|opposition|obj
+led|by|by-subj
+led|daw aung san suu kyi|by
+aung san suu kyi|nobel|nn
+aung san suu kyi|laureate|mod
+offered|aung san suu kyi|subj
+offered|end|mod
+end|aung san suu kyi|subj
+standoff|her|gen
+standoff|road|mod
+standoff|side|nn
+end|standoff|obj
+government|military|mod
+standoff|government|with
+end|if|c
+agrees|government|subj
+agrees|release|fc
+release|government|subj
+members|jailed|mod
+release|members|obj
+political party|her|gen
+members|political party|of

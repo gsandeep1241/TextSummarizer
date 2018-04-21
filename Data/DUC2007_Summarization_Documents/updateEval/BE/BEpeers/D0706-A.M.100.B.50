@@ -1,0 +1,61 @@
+doctors|her|gen
+took|doctors|subj
+samples|blood|nn
+took|samples|obj
+took|fearing|mod
+fearing|doctor|subj
+fearing|contracted|fc
+contracted|she|subj
+contracted|jaundice|obj
+jaundice|or|punc
+jaundice|disease|conj
+disease|spending|after
+spending|she|subj
+days|nine|amount-value
+spending|days|obj
+car|her|gen
+days|car|in
+kilometers|three|nn
+kilometers|colleagues|nn
+kilometers|32|amount-value
+car|kilometers|with
+kilometers|(|punc
+miles|19|amount-value
+kilometers|miles|appo
+car|)|punc
+car|yangon|outside
+tin oo|gen.|title
+tin oo|one|appo
+generals|top|mod
+generals|four|nn
+one|generals|of
+council|21-member|mod
+council|ruling|mod
+council|military|mod
+generals|council|in
+said|tin oo|subj
+said|working|fc
+working|suu kyi|subj
+working|"|punc
+working|in|punc
+working|collaboration|punc
+working|with|punc
+working|underground|punc
+working|terrorists|obj
+terrorists|and|punc
+power|super|mod
+countries|power|mod
+terrorists|countries|conj
+working|"|punc
+reported|new light|subj
+new light|myanmar|of
+working|reported|mod
+seats|assembly|in
+election|1990|num
+assembly|election|in
+election|but|punc
+election|military|conj
+military|refused|vrel
+refused|military|obj
+refused|honor|mod
+honor|results|obj

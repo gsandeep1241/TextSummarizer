@@ -1,0 +1,48 @@
+'s|speculation|pred
+speculation|cbs|inside
+executives|cbs|nn
+'s|executives|pred
+executives|who|whn
+leaking|executives|subj
+leaking|word|obj
+word|talks|of
+goal|their|gen
+convincing|goal|subj
+convincing|wall street analysts|obj
+convincing|is|fc
+is|serious|pred
+serious|reducing|about
+reducing|network|subj
+reducing|costs|obj
+costs|which|whn
+have|costs|subj
+impact|positive|mod
+have|impact|obj
+stock|cbs|gen
+impact|stock|on
+heard poll|tailwind americans|on
+see|heard poll|subj
+retraction|cnn|gen
+see|retraction|obj
+story|its|gen
+story|operation tailwind|nn
+retraction|story|of
+see|as|mod
+decline|overall|mod
+part|decline|of
+decline|media|in
+as|'s|comp1
+'s|accuracy|pred
+'s|poll|according to
+poll|released|rel
+released|august 6 , 1998|mod
+released|by|by-subj
+released|pew research center|by
+pew research center|people|for
+people|and|punc
+people|press|conj
+lamb|even|pnmod
+even|oomph|with
+oomph|oprah|of
+cost|lamb|subj
+cost|himself|obj

@@ -1,0 +1,143 @@
+sensor|belt buckle|in
+determines|sensor|subj
+determines|if|c
+buckled|driver|subj
+buckled|up|mod
+light|red|nn
+light|dashboard|on
+goes on|light|subj
+chime|intermittent|mod
+sounds|chime|subj
+sounds|until|mod
+until|latched|comp1
+latched|belt|obj
+set up|government|subj
+network|nationwide|mod
+set up|network|obj
+network|fitting|of
+fitting|government|subj
+fitting|stations|obj
+seats|child|nn
+stations|seats|for
+seats|help|rel
+help|seat|subj
+children|save|nn
+lives|children|gen
+help|lives|obj
+crashes|car|nn
+lives|crashes|in
+crashes|national transportation safety board|appo
+national transportation safety board|recommended|vrel
+recommended|national transportation safety board|obj
+recommended|wednesday|mod
+establishing|daimlerchrysler ag|subj
+service|new|mod
+establishing|service|obj
+service|quarter|at
+dealerships|its|gen
+quarter|dealerships|of
+dealerships|advise|rel
+advise|dealerships|subj
+advise|parents|obj
+on|install|pcomp-c
+seats|car|nn
+install|seats|obj
+seats|protect|rel
+protect|seat|subj
+protect|children|obj
+year|next|post
+have|year|by
+have|daimlerchrysler|subj
+have|capacity|obj
+capacity|conduct|comp1
+conduct|daimlerchrysler|subj
+inspections|800,000|num
+conduct|inspections|obj
+conduct|annually|mod
+conduct|make|mod
+make|sure|desc
+sure|buckled|fc
+buckled|children|obj
+buckled|properly|mod
+seats|child|nn
+properly|seats|in
+seats|child|nn
+installed|properly|amod
+installed|seats|obj
+in|both|punc
+vehicles|new|mod
+new|and|punc
+new|older|conj
+vehicles|daimlerchrysler|nn
+installed|vehicles|in
+officials|company|nn
+said|officials|subj
+installed|said|mod
+speaking|to|guest
+highway|state|nn
+speaking|highway|to
+officials|safety|nn
+speaking|officials|obj
+officials|san antonio|in
+offered|hall|subj
+offered|variety|obj
+variety|proposals|of
+proposals|coinciding|rel
+coinciding|proposal|subj
+period|busy|mod
+period|driving|mod
+coinciding|period|with
+holiday|labor day|nn
+period|holiday|of
+coinciding|week|mod
+have|monday|on
+officers|police|nn
+officers|new jersey|throughout
+have|officers|subj
+have|authority|obj
+authority|stop|rel
+stop|authority|subj
+stop|drivers|obj
+drivers|who|whn
+are|not|neg
+wearing|drivers|subj
+belts|seat|nn
+wearing|belts|obj
+announced|government|subj
+standards|new|mod
+standards|air bag|nn
+announced|standards|obj
+friday|that|whn
+seek|friday|subj
+standards|improve|rel
+improve|friday|subj
+improve|protection|obj
+protection|children|of
+children|and|punc
+adults|small|mod
+children|adults|conj
+installed|mid-1970s|since
+installed|general motors corp.|subj
+module|sensing|nn
+installed|module|obj
+airbags|its|gen
+module|airbags|along with
+airbags|that|whn
+measured|airbags|subj
+performance|airbag|nn
+measured|performance|obj
+benefits|recorders|gen
+convinced|benefits|of
+benefits|james hall|conj
+james hall|chairman|conj
+chairman|national transportation safety board|of
+month|last|post
+called|month|mod-before
+national transportation safety board|called|vrel
+called|national transportation safety board|obj
+called|devices|for
+devices|cars|on
+cars|trains|conj
+trains|buses|conj
+buses|and|punc
+buses|ships|conj

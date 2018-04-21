@@ -1,0 +1,165 @@
+crimes|violent|mod
+fell|crimes|subj
+fell|10 percent|obj
+10 percent|1996|in
+10 percent|united states|in
+fell|says|mod
+survey|annual|mod
+survey|u.s.|nn
+survey|justice department|nn
+says|survey|subj
+survey|victimization|nn
+survey|u.s.|by
+u.s.|shows|rel
+shows|u.s.|obj1
+shows|department of justice|subj
+crime|violent|mod
+shows|crime|obj2
+shows|down|mod
+shows|nationwide|mod
+nationwide|10 percent|by
+10 percent|and|punc
+crime|property|nn
+10 percent|crime|conj
+shows|down|mod
+down|eight percent|by
+had|1998|in
+had|detroit|subj
+murders|429|num
+had|murders|obj
+murders|or|punc
+murders|44.2|conj
+people|100,000|num
+44.2|people|per
+had|ranking|mod
+ranking|detroit|subj
+ranking|it|obj
+cities|u.s.|nn
+sixth|cities|among
+cities|more|with
+residents|100,000|num
+more|residents|than
+have|again|amod
+have|chicago|subj
+violent|highest|mod
+rate|violent|mod
+rate|crime|nn
+have|rate|obj
+cities|eight|nn
+cities|largest|mod
+cities|u.s.|nn
+rate|cities|of
+have|analysis|according to
+analysis|associated press|by
+sources|law enforcement-oriented|mod
+note|sources|subj
+note|increase|fc
+increase|that|subj
+increase|police|in
+police|staffing|rel
+staffing|police|subj
+staffing|levels|obj
+levels|and|punc
+enforcement|hard-line|mod
+levels|enforcement|conj
+policies|prosecution|nn
+fail|policies|subj
+account for|totally|amod
+fail|account for|fc
+account for|policy|subj
+rates|falling|mod
+rates|crime|nn
+account for|rates|obj
+cause|possible|mod
+cut|crime|nn
+cut|rate|nn
+cause|cut|for
+is|decline|pred
+problem|nation|gen
+problem|crack|nn
+problem|cocaine|nn
+decline|problem|in
+problem|which|whn
+associated|problem|obj
+increase|large|mod
+associated|increase|with
+crime|violence|nn
+increase|crime|in
+people|young|mod
+crime|people|among
+people|1980s|in
+officials|enforcement|nn
+attribute|officials|subj
+drop|continued|mod
+attribute|drop|obj
+rates|crime|nn
+drop|rates|in
+economy|healthy|mod
+rates|economy|to
+programs|crime|nn
+programs|prevention|nn
+economy|programs|conj
+sentences|tougher|mod
+programs|sentences|conj
+sentences|and|punc
+officers|more|mod
+officers|police|nn
+sentences|officers|conj
+programs|street|on
+repeated|clinton|subj
+budget|his|gen
+fiscal year|next|post
+budget|fiscal year|for
+proposing|what|obj
+proposing|budget|subj
+proposing|help|mod
+help|budget|subj
+crime|cut|nn
+crime|firearm-related|mod
+help|crime|obj
+help|including|mod
+dollars|5 million|nn
+dollars|u.s.|nn
+including|dollars|obj
+dollars|dozens|for
+prosecutors|new|mod
+prosecutors|federal|mod
+dozens|prosecutors|of
+prosecutors|and|punc
+prosecutors|23.8 million dollars|conj
+120|more than|num-mod
+agents|120|nn
+agents|new|mod
+23.8 million dollars|agents|for
+agents|bureau of alcohol|of
+bureau of alcohol|tobacco|conj
+tobacco|and|punc
+tobacco|firearms|conj
+president|u.s.|nn
+president|bill clinton|person
+ordered|president|subj
+ordered|his|obj1
+ordered|government|obj2
+government|develop|rel
+develop|government|subj
+develop|plan|obj
+federal-state|closer|mod
+cooperation|federal-state|mod
+plan|cooperation|for
+cooperation|increase|rel
+increase|cooperation|subj
+increase|prosecution|obj
+prosecution|criminals|of
+criminals|use|rel
+use|criminals|subj
+use|firearms|obj
+use|and|punc
+use|take|conj
+take|criminals|subj
+steps|other|mod
+take|steps|obj
+steps|aimed at|vrel
+aimed at|steps|obj
+aimed at|reducing|mod
+violence|gun|nn
+reducing|violence|obj

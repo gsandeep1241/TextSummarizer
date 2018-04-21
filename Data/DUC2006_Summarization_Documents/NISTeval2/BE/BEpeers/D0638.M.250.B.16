@@ -1,0 +1,153 @@
+probe|which|whn
+been|in|pred
+been|orbit|in
+orbit|jupiter|around
+jupiter|december 1995|since
+flew|probe|subj
+miles|220|amount-value
+flew|miles|within
+surface|moon|gen
+miles|surface|of
+flew|said|mod
+manager|project|nn
+said|manager|subj
+manager|jim erickson|person
+jet propulsion laboratory|nasa|gen
+manager|jet propulsion laboratory|of
+probe|made|vrel
+made|probe|obj1
+flyby|closest-ever|mod
+made|flyby|desc
+flyby|10:06 p.m. pdt|at
+said|sunday|mod-before
+said|probe|subj
+manager|project|nn
+said|manager|obj
+manager|jim erickson|person
+jet propulsion laboratory|nasa|gen
+manager|jet propulsion laboratory|of
+jet propulsion laboratory|pasadena|in
+reported|problems|obj
+reported|however|mod
+reported|after|mod
+flyby|closest-ever|mod
+moon|jupiter|gen
+moon|innermost|mod
+moon|large|mod
+flyby|moon|of
+after|took place|comp1
+took place|flyby|subj
+took place|sunday|mod
+took place|10:06 p.m. pdt|at
+took place|said|mod
+manager|project|nn
+said|manager|subj
+manager|jim erickson|person
+jet propulsion laboratory|nasa|gen
+manager|jet propulsion laboratory|of
+jet propulsion laboratory|pasadena|in
+detected|also|mod-before
+detected|probe|subj
+hole|large|mod
+detected|hole|obj
+magnetic field|jupiter|gen
+hole|magnetic field|in
+magnetic field|io|near
+detected|leading to|mod
+leading to|probe|subj
+leading to|speculation|obj
+about|whether|c
+possesses|io|subj
+magnetic field|its own|gen
+possesses|magnetic field|obj
+moon|first|post
+moon|planetary|mod
+be|moon|pred
+moon|known|vrel
+known|moon|obj
+known|have|mod
+have|it|subj
+have|one|obj
+launched|galileo|obj
+launched|space shuttle atlantis|aboard
+space shuttle atlantis|october 18 , 1989|on
+took|it|subj
+took|data|obj
+flyby|its|gen
+data|flyby|during
+miles|559|amount-value
+flyby|miles|within
+moon|jupiter|gen
+miles|moon|of
+moon|last|vrel
+last|moon|obj
+last|december 7|mod
+last|probe|as
+probe|passed|vrel
+passed|probe|obj
+passed|by|by-subj
+passed|io|by
+way|its|gen
+io|way|on
+way|enter|rel
+enter|way|subj
+enter|orbit|obj
+orbit|jupiter|around
+comes from|evidence|subj
+comes from|galileo|obj
+galileo|satellite|conj
+satellite|launched|vrel
+launched|satellite|obj
+launched|1989|in
+1989|peer|rel
+peer|1989|subj
+peer|down|mod
+down|jupiter|on
+satellite|and|punc
+moons|its|gen
+moons|larger|mod
+satellite|moons|conj
+ap|angeles|nn
+ap|(|punc
+evidence|new|mod
+spacecraft|nasa|gen
+spacecraft|galileo|nn
+evidence|spacecraft|from
+bolsters|evidence|subj
+bolsters|theories|obj
+theories|that|c
+ocean|liquid|mod
+lies|ocean|subj
+lies|crust|beneath
+europa|jupiter|gen
+europa|moon|nn
+crust|europa|of
+europa|scientists|appo
+scientists|reported|vrel
+reported|scientists|obj
+reported|monday|mod
+reported|analyzing|after
+analyzing|ocean|subj
+analyzing|results|obj
+flyby|probe|gen
+flyby|latest|mod
+results|flyby|from
+discovered|also|mod-before
+discovered|probe|subj
+belt|intense|mod
+belt|new|mod
+belt|radiation|nn
+discovered|belt|obj
+tops|jupiter|gen
+tops|cloud|nn
+belt|tops|above
+tops|and|punc
+absence|veritable|mod
+tops|absence|conj
+jupiter|lighting|nn
+jupiter|"|punc
+hopes|jupiter|gen
+hopes|moons|nn
+hopes|boost|nn
+absence|hopes|of
+hopes|finding life|of

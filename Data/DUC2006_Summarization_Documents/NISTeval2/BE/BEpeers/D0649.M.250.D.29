@@ -1,0 +1,152 @@
+vladimir putin|man|appo
+man|nominated|rel
+nominated|man|obj
+nominated|boris n. yeltsin|subj
+minister|russia|gen
+minister|prime|mod
+nominated|minister|as
+minister|and|punc
+successor|his|gen
+successor|preferred|mod
+minister|successor|conj
+successor|president|as
+spy|former|mod
+is|spy|pred
+operator|shrewd|mod
+operator|bureaucratic|mod
+spy|operator|conj
+operator|and|punc
+inexperienced|completely|mod
+politician|inexperienced|mod
+politician|public|mod
+operator|politician|conj
+vladimir putin|twentysomething|mod
+vladimir putin|bright|mod
+vladimir putin|who|whn
+is|now|guest
+president|russia|gen
+president|acting|mod
+is|president|pred
+majored in|vladimir putin|subj
+majored in|law|obj
+majored in|there|mod
+finishing|vladimir putin|subj
+school|secondary|nn
+finishing|school|obj
+school|1970|in
+expects|everyone|subj
+win|putin|subj
+win|presidency|obj
+presidency|outright|pnmod
+elections|upcoming|mod
+outright|elections|in
+is|russia|for
+russia|that|whn
+is|now|pred
+now|keen|pnmod
+keen|improve|fc
+improve|and|punc
+improve|develop|conj
+develop|relations|obj
+relations|west|with
+is|sensible|pred
+sensible|putin|for
+putin|choose|rel
+choose|putin|subj
+choose|britain|obj
+country|first|post
+country|western|mod
+britain|country|as
+country|visit|rel
+visit|country|subj
+is|stage|at
+is|unclear|pred
+is|view|in
+view|fact|of
+fact|that|c
+run|never|amod
+run|putin|subj
+run|office|for
+run|and|punc
+run|is|conj
+official|former|mod
+official|intelligence|nn
+is|official|pred
+official|elevated|vrel
+elevated|official|obj
+office|national|mod
+elevated|office|to
+office|aappointment|by
+met with|putin|subj
+met with|boris yeltsin|obj
+president|former|mod
+boris yeltsin|president|appo
+president|who|whn
+anointed|president|subj
+anointed|putin|obj
+heir apparent|his|gen
+putin|heir apparent|as
+manipulation|successful|mod
+'s|manipulation|pred
+manipulation|media|of
+'s|forward|mod
+forward|putin|subj
+forward|government|obj1
+forward|war|obj2
+republic|rebellious|mod
+war|republic|in
+republic|chechnya|of
+forward|and|punc
+forward|publicize|conj
+publicize|putin|subj
+image|his|gen
+image|preferred|mod
+image|campaign|nn
+publicize|image|obj
+image|tough-talking|of
+leader|effective|mod
+tough-talking|leader|appo
+is|one|pred
+reasons|many|nn
+one|reasons|of
+fear|detractors|subj
+fear|him|obj
+problem|third|post
+is|that|c
+aware|insufficiently|mod
+is|aware|pred
+resources|its|gen
+aware|resources|of
+notes|putin|nn
+resources|notes|appo
+bill bradley|and|punc
+bill bradley|john mccain|conj
+demand|bill bradley|subj
+sanctions|economic|mod
+demand|sanctions|obj
+sanctions|russia|against
+assaults|its|gen
+assaults|`|punc
+assaults|`|punc
+assaults|brutal|mod
+assaults|'|punc
+assaults|'|punc
+russia|assaults|for
+civilians|chechen|nn
+assaults|civilians|on
+budget|bigger|mod
+budget|defense|nn
+stressed|he|subj
+was|stressed|mod-before
+choice|`|punc
+choice|`|punc
+choice|conscious|mod
+was|choice|pred
+choice|'|punc
+choice|'|punc
+related|not|mod-before
+choice|related|vrel
+related|choice|obj
+events|recent|mod
+related|events|to
+events|north caucasus|in

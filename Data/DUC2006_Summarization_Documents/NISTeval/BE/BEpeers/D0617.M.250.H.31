@@ -1,0 +1,124 @@
+killed|crash|subj
+killed|all|guest
+passengers|217|num
+killed|passengers|obj
+passengers|and|punc
+passengers|crewmen|conj
+engines|plane|gen
+engines|two|nn
+source|much|of
+much|electrical power|of
+electrical power|board|on
+were|turned|pred
+were|off|mod
+shutdown|cockpit|nn
+off|shutdown|from
+shutdown|scenario|conj
+scenario|that|whn
+puzzled|scenario|subj
+pilots|commercial|mod
+pilots|airline|nn
+puzzled|pilots|obj
+scenario|and|punc
+specialists|aviation|nn
+scenario|specialists|conj
+doubt|investigators|nn
+doubt|that|c
+crash|plane|subj
+doubt|which|whn
+resulted|doubt|subj
+resulted|death|in
+death|all|of
+all|217|num
+act|criminal|mod
+pilot|nor|punc
+pilot|co-pilot|conj
+co-pilot|egyptair flight 990|of
+egyptair flight 990|radioed|vrel
+radioed|egyptair flight 990|obj1
+radioed|kind|obj2
+call|distress|nn
+kind|call|of
+controllers|air|mod
+controllers|traffic|nn
+call|controllers|to
+wreckage|plane|gen
+about 70 percent|wreckage|of
+recovered|about 70 percent|obj
+floor|ocean|nn
+recovered|floor|from
+recovered|following|mod
+following|about 70 percent|subj
+plunge|jet|gen
+following|plunge|obj
+island|massachusetts|nn
+plunge|island|off
+island|nantucket|of
+nantucket|oct 31|on
+estimates|faa|subj
+estimates|that|c
+hit|plane|subj
+hit|water|obj
+1:51 a.m.|about|mod
+water|1:51 a.m.|at
+minutes|four|amount-value
+1:51 a.m.|minutes|appo
+transmission|its|gen
+transmission|last|post
+minutes|transmission|after
+points|that|subj
+points|cause|to
+theory|leading|mod
+is|that|c
+brought|plane|obj
+brought|down|mod
+act|deliberate|mod
+down|act|by
+copilot|backup|nn
+act|copilot|of
+flight|egyptair|nn
+crashed|flight|subj
+crashed|oct 31|mod
+island|massachusetts|nn
+crashed|island|off
+island|nantucket|of
+crashed|killing|mod
+killing|flight|subj
+people|217|num
+killing|people|obj
+people|board|on
+minister|egyptian|mod
+minister|who|whn
+commenting on|minister|subj
+commenting on|report|obj
+report|new york review|in
+magazine|books|nn
+new york review|magazine|of
+said|minister|subj
+said|however|guest
+said|was|fc
+was|speculative|pred
+middle east news agency|egypt|gen
+reported|middle east news agency|subj
+was|reported|mod
+problem|electrical|mod
+explain|also|amod
+explain|problem|subj
+transponder|plane|gen
+stopped working|transponder|subj
+explain|said|fc
+said|jim hall|subj
+flight|egyptair|nn
+crashed|flight|subj
+crashed|atlantic ocean|into
+crashed|shortly|mod
+shortly|taking off|after
+taking off|flight|subj
+taking off|new york international airport|from
+new york international airport|october 31 , 1999 ,|on
+way|its|gen
+new york international airport|way|on
+new york international airport|cairo|to
+taking off|killing|mod
+people|217|num
+killing|people|obj

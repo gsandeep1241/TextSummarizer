@@ -1,0 +1,48 @@
+is|extension|like
+oprah winfrey show|"|punc
+extension|oprah winfrey show|of
+is|television|pred
+television|therapy|as
+took|oprah winfrey|subj
+show|her|gen
+took|show|obj
+show|bahamas|to
+bahamas|week|for
+success|ratings|nn
+been|success|pred
+success|launching|since
+launching|winfrey|subj
+launching|"|punc
+launching|the oprah winfrey show|obj
+the oprah winfrey show|"|punc
+the oprah winfrey show|1986|num
+daytime emmys|32|num
+winning|daytime emmys|obj
+daytime emmys|and|punc
+award|lifetime|nn
+award|achievement|nn
+daytime emmys|award|conj
+after|taking|comp1
+taking|oprah winfrey|subj
+taking|herself|obj
+taking|running|out of
+host|best|mod
+host|talk show|nn
+running|host|for
+ceremony|year|gen
+host|ceremony|at
+anna wintour|vogue|gen
+exults|anna wintour|subj
+note|editor|gen
+exults|note|in
+note|front|at
+issue|oprah|nn
+front|issue|of
+staff|magazine|nn
+thrilled|staff|obj
+thrilled|when|wha
+heard|we|subj
+heard|that|c
+wanted|oprah winfrey|subj
+wanted|made|fc
+made|glamorous|desc

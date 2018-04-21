@@ -1,0 +1,150 @@
+court|macau|gen
+court|district|mod
+ordered|yesterday|mod-before
+ordered|court|subj
+detention|pre-trial|mod
+ordered|detention|obj
+women|two|nn
+detention|women|of
+charges|preliminary|mod
+women|charges|on
+association|criminal|mod
+charges|association|of
+source|police|nn
+said|source|subj
+tat-hou|wong|nn
+said|facing|fc
+facing|tat-hou|subj
+charges|possible|mod
+facing|charges|obj
+membership|organised|mod
+membership|crime|nn
+charges|membership|of
+arrested|saturday|on
+arrested|police|subj
+ho|illegal|mod
+ho|chinese|nn
+ho|immigrant|nn
+ho|surnamed|mod
+arrested|ho|obj
+ho|suspected|pnmod
+suspected|kidnapping|of
+kidnapping|and|punc
+kidnapping|extortion|conj
+committed|allegedly|mod-before
+extortion|committed|vrel
+committed|extortion|obj
+committed|1995 and 1996|between
+1995 and 1996|and|punc
+national|thai|mod
+1995 and 1996|national|conj
+national|working|rel
+working|national|subj
+working|bouncer|as
+discotheque|heavy club|nn
+bouncer|discotheque|in
+discotheque|which|whn
+owned|reportedly|amod
+owned|discotheque|obj
+owned|by|by-subj
+owned|wan|by
+attempts|stop|rel
+stop|attempt|subj
+stop|manufacture|obj
+manufacture|and|punc
+manufacture|sale|conj
+sale|firearms|of
+increased|attempts|obj
+harm|obvious|mod
+increased|harm|because of
+harm|society|to
+carried out|executions|obj
+carried out|shangqiu|in
+china|central|mod
+henan province|china|gen
+shangqiu|henan province|of
+carried out|nanping|in
+china|east|mod
+fujian province|china|gen
+nanping|fujian province|of
+of|and|punc
+of|in|conj
+of|xianyang|in
+china|northwest|mod
+shaanxi province|china|gen
+xianyang|shaanxi province|of
+yesterday|and|punc
+yesterday|today|conj
+is|ready|pred
+is|strengthen|mod
+strengthen|china|subj
+strengthen|cooperation|obj
+countries|other|mod
+cooperation|countries|with
+countries|and|punc
+countries|international organizations|conj
+international organizations|combating|in
+crime|organized|mod
+crime|transnational|mod
+combating|crime|obj
+official|senior|mod
+official|chinese|nn
+said|official|subj
+combating|said|mod
+combating|here|mod
+combating|today|mod
+made|point|obj
+made|today|mod
+made|by|by-subj
+made|li changhe|by
+representative|deputy|nn
+li changhe|representative|appo
+delegation|chinese|nn
+representative|delegation|of
+session|sixth|post
+made|session|at
+session|united nations commission on crime prevention|of
+united nations commission on crime prevention|and|punc
+justice|criminal|mod
+united nations commission on crime prevention|justice|conj
+police|chinese|nn
+intensified|police|subj
+fight|their|gen
+intensified|fight|obj
+gangs|criminal|mod
+fight|gangs|against
+intensified|and|punc
+intensified|smashed|conj
+smashed|police|subj
+smashed|many|obj
+two|past|num-mod
+years|two|amount-value
+many|years|in
+years|but|punc
+reports|public|mod
+years|reports|conj
+reports|that|c
+growing|still|amod
+growing|gangs|subj
+growing|number|in
+number|and|punc
+number|influence|conj
+noted|he|subj
+growing|noted|mod
+facing|still|amod
+facing|china|subj
+task|difficult|mod
+facing|task|obj
+task|fighting|of
+fighting|china|subj
+fighting|corruption|obj
+corruption|and|punc
+crimes|economic|mod
+corruption|crimes|conj
+fighting|report|according to
+released|recently|mod-before
+report|released|vrel
+released|report|obj
+released|by|by-subj
+released|researchers|by
+researchers|chinese academy of social sciences|from

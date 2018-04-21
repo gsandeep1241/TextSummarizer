@@ -1,0 +1,143 @@
+parti quebecois|quebec|gen
+parti quebecois|ruling|mod
+won|parti quebecois|subj
+seats|enough|mod
+won|seats|obj
+seats|form|rel
+form|seat|subj
+government|majority|nn
+form|government|obj
+election|general|nn
+'s|election|pred
+province|french-speaking|mod
+election|province|in
+province|canada|of
+time|same|post
+fell to|time|at
+support|popular|mod
+government|separatists|gen
+government|provincial|mod
+support|government|for
+government|headed|vrel
+headed|government|obj
+headed|by|by-subj
+headed|premier|by
+premier|lucien bouchard|person
+fell to|support|subj
+point|lowest|mod
+fell to|point|obj
+history|its|gen
+history|five-year|nn
+point|history|in
+fell to|37 percent|around
+arguing|federal government|subj
+arguing|that|c
+consultation|"|punc
+is|consultation|pred
+is|"|punc
+is|not|mod
+step|first|post
+step|legal|mod
+step|confederation|out of
+government|pq|nn
+re-election|government|of
+believed|widely|amod
+believed|re-election|obj
+believed|have|mod
+have|reelection|subj
+have|much|guest
+have|impact|obj
+impact|future|on
+of|both|punc
+future|quebec|of
+quebec|and|punc
+quebec|country|conj
+country|canada|of
+canada|whole|as
+premier|lucien bouchard|person
+leader|separatists|gen
+leader|charismatic|mod
+premier|leader|appo
+hold|premier|subj
+hold|vote|obj
+late|either|mod
+hold|late|mod
+hold|year|mod
+hold|or|punc
+spring|next|amod
+hold|spring|conj
+spring|premier|subj
+plans|he|subj
+plans|call|fc
+call|he|subj
+call|referendum|obj
+referendum|secession|on
+call|if|c
+wins|he|subj
+wins|re-election|obj
+referendum|first|post
+referendum|independence|on
+gained|may 1980|in
+gained|separatists|subj
+gained|40 percent|obj
+40 percent|votes|of
+votes|cast|vrel
+cast|votes|obj
+cast|quebec|in
+province|only|mod
+province|where|whn
+held|province|subj
+last|survey|nn
+last|released|mod
+found|last|subj
+41 percent|quebecers|of
+found|vote|fc
+vote|41 percent|subj
+vote|`|punc
+vote|`|punc
+vote|yes|obj
+yes|'|punc
+yes|vote|in
+vote|separation|on
+'s|about|pred
+'s|life|about
+life|quebecois|nn
+says|life|about
+says|he|subj
+stresses|also|mod-before
+stresses|it|subj
+characteristics|universal|mod
+stresses|like|fc
+like|characteristics|subj
+like|jealousy|obj
+jealousy|immodesty|conj
+immodesty|vanity|conj
+vanity|and|punc
+vanity|arrogance|conj
+but|say|comp1
+say|analysts|subj
+fortunes|separatist|mod
+say|revive|fc
+revive|fortunes|subj
+revive|if|c
+perceived|canada|obj
+trying|canada|subj
+trying|bully|fc
+bully|quebec|obj
+campaign|his|gen
+accused|campaign|in
+accused|charest|subj
+accused|bouchard|obj
+pursuing|recklessly|amod
+bouchard|pursuing|of
+pursuing|charest|subj
+pursuing|referendum|obj
+pursuing|even|mod
+pursuing|though|mod
+polls|opinion|nn
+though|show|comp1
+show|polls|subj
+show|that|c
+oppose|overwhelmingly|mod-before
+oppose|quebecers|subj
+oppose|it|obj

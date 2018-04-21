@@ -1,0 +1,59 @@
+gingrich|filed|vrel
+filed|gingrich|obj
+filed|divorce|for
+years|18|amount-value
+divorce|years|after
+years|marriage|of
+agreed|couple|subj
+agreed|set up|fc
+set up|couple|subj
+account|joint|mod
+set up|account|obj
+set up|and|punc
+set up|transfer|conj
+transfer|couple|subj
+transfer|assets|obj
+assets|it|into
+transfer|until|mod
+divorce|their|gen
+until|is|comp1
+is|final|pred
+demanding|pleadings|in
+pleadings|released|vrel
+released|pleadings|obj
+released|cobb county superior court|in
+demanding|gingrich|subj
+demanding|that|c
+sit|marianne gingrich|subj
+deposition|videotaped|mod
+sit|deposition|for
+attorney|gingrich|gen
+randy evans|attorney|appo
+filed|randy evans|subj
+filed|motion|obj
+motion|cobb county superior court|in
+cobb county superior court|asking|rel
+asking|cobb county superior court|subj
+asking|that|c
+transfer|marianne gingrich|subj
+transfer|money|obj
+account|joint|mod
+money|account|to
+days|14|amount-value
+account|days|within
+speaker|former|mod
+speaker|house|nn
+speaker|newt gingrich|person
+asking|speaker|subj
+asking|judge|obj
+judge|force|rel
+force|judge|subj
+wife|his|gen
+wife|estranged|mod
+turn over|wife|subj
+turn over|money|obj
+money|says|rel
+says|he|subj
+says|hoarding|fc
+hoarding|money|obj
+hoarding|she|subj

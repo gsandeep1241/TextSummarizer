@@ -1,0 +1,161 @@
+president|russian|mod
+announcement|president|gen
+president|boris yeltsin|person
+announcement|resign|rel
+resign|friday|subj
+announcement|and|punc
+announcement|name|conj
+president|acting|mod
+name|president|as
+surprised|announcement|subj
+surprised|nation|obj
+say|many|subj
+say|further|fc
+further|move|subj
+putin|boost|nn
+chance|putin|gen
+further|chance|obj
+chance|winning|of
+winning|move|subj
+race|presidential|mod
+winning|race|obj
+call|critics|subj
+call|putin|obj
+dictator|`|punc
+dictator|`|punc
+dictator|'|punc
+dictator|'|punc
+dictator|and|punc
+russian pinochet|`|punc
+russian pinochet|`|punc
+dictator|russian pinochet|conj
+russian pinochet|'|punc
+russian pinochet|'|punc
+russian pinochet|who|whn
+suspend|russian pinochet|subj
+suspend|civil liberties|obj
+civil liberties|whip|rel
+whip|civil liberty|subj
+whip|russia|obj
+russia|shape|into
+supporters|putin|gen
+make|supporters|according to
+traits|will|nn
+make|traits|subj
+make|him|obj1
+leader|good|mod
+make|leader|desc
+considers|vladimir putin|subj
+considers|it|obj
+issues|complex|mod
+concentrate on|issues|obj
+policy|domestic|mod
+issues|policy|of
+policy|russia|of
+concentrate on|"|punc
+concentrate on|stressed|mod
+aide|president|gen
+stressed|aide|subj
+so|even|mod
+remains|putin|subj
+candidate|unique|mod
+remains|candidate|obj
+candidate|scene|on
+president|acting|mod
+president|vladimir putin|person
+defended|president|subj
+armed forces|russian|mod
+defended|armed forces|obj
+armed forces|tuesday|on
+defended|calling|mod
+calling|president|subj
+calling|talk|obj1
+collapse|army|gen
+talk|collapse|of
+calling|`|punc
+calling|`|punc
+lie|open|mod
+calling|lie|desc
+looked|'i|subj
+scoundrel|last|post
+looked|scoundrel|like
+decided|i|subj
+decided|be|fc
+be|better|pred
+be|do|mod
+do|i|subj
+do|now|obj
+do|than|mod
+her|and|punc
+her|me|conj
+suffer|her|subj
+suffer|later|mod
+than|says|comp1
+says|he|subj
+says|book|in
+'from|entitled|mod
+'from|'|punc
+conversations|first person--|mod
+conversations|vladimir putin|with
+'s|full|pred
+full|words|of
+words|_|punc
+words|promises|appo
+promises|end|rel
+end|promise|subj
+end|corruption|obj
+corruption|promises|appo
+promises|build|rel
+build|promise|subj
+society|our|gen
+build|society|obj
+build|again|mod
+end|_|punc
+end|but|mod
+but|know|comp1
+know|we|subj
+is|really|mod-before
+know|is|fc
+stands|promises|subj
+stands|him|behind
+stands|'|punc
+stands|'|punc
+stands|said|mod
+said|alexei slavin|subj
+voter|russian|mod
+voter|who|whn
+chose|voter|subj
+chose|`|punc
+chose|`|punc
+chose|none|obj
+above|'|punc
+above|'|punc
+sheet|ballot|nn
+above|sheet|on
+sheet|protest|as
+protest|putin|against
+is|-elect|with
+-elect|vladimir putin|person
+-elect|moving|rel
+moving|president-elect|subj
+moving|put|mod
+government|his|gen
+put|government|obj
+government|place|in
+is|rife|pred
+intrigue|behind-the-scenes|nn
+rife|intrigue|with
+is|as|mod
+he|and|punc
+aides|his|gen
+he|aides|conj
+as|try|comp1
+try|he|subj
+try|decide|fc
+decide|he|subj
+decide|politicians|obj
+economists|and|punc
+economists|tycoons|conj
+included|economists|obj
+inner circle|his|gen
+included|inner circle|in

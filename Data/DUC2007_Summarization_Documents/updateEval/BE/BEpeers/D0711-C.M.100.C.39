@@ -1,0 +1,59 @@
+said|company|subj
+said|appeal|fc
+appeal|it|subj
+said|klein|subj
+said|bring|fc
+bring|ruling|subj
+change|positive|mod
+bring|change|obj
+said|he|subj
+said|ruling|obj
+ruling|showed|vrel
+showed|ruling|obj
+showed|is|fc
+is|above|pred
+is|law|above
+was|part|pred
+record|public|mod
+part|record|of
+antitrust case|older|mod
+record|antitrust case|from
+antitrust case|microsoft|against
+suit|justice department|gen
+suit|first|post
+antitrust case|suit|appo
+suit|company|against
+justice department|and|punc
+general|17|num
+general|state attorneys|nn
+justice department|general|conj
+proposed|justice department|subj
+proposed|break|fc
+break|justice department|subj
+break|microsoft|obj
+companies|two|nn
+microsoft|companies|into
+reports|local|mod
+reports|press|nn
+said|reports|subj
+said|that|c
+attorneys|justice department|for
+justice department|and|punc
+states|19|num
+justice department|states|conj
+states|that|whn
+sued|successfully|mod-before
+sued|states|subj
+sued|microsoft|obj
+violations|antitrust|mod
+microsoft|violations|for
+considering|attorneys|subj
+considering|ways|obj
+ways|break up|rel
+break up|way|subj
+break up|company|obj
+company|method|as
+method|curb|rel
+curb|method|subj
+practices|anticompetitive|mod
+curb|practices|obj

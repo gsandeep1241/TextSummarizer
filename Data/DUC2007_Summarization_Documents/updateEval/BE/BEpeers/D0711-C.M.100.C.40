@@ -1,0 +1,63 @@
+judge|u.s.|nn
+judge|federal|mod
+ordered|judge|subj
+ordered|wednesday|guest
+ordered|microsoft corp.|obj
+be|split|pred
+companies|two|nn
+companies|separate|mod
+split|companies|in
+companies|correct|rel
+correct|company|subj
+violations|antitrust|mod
+correct|violations|obj
+says|government|subj
+splitting|government|subj
+splitting|microsoft|obj
+says|prevent|fc
+prevent|that|subj
+system|windows|nn
+prevent|system|obj
+system|that|whn
+runs|system|subj
+80|over|num-mod
+runs|80|on
+computers|personal|nn
+being|used|pred
+being|force|mod
+force|companies|obj
+companies|and|punc
+companies|consumers|conj
+consumers|use|rel
+use|consumer|subj
+products|other|mod
+products|microsoft|nn
+use|products|obj
+judge|federal|mod
+judge|trying|rel
+trying|judge|subj
+antitrust case|microsoft|nn
+trying|antitrust case|obj
+agreed|judge|subj
+morning|thursday|nn
+agreed|delay|fc
+delay|morning|subj
+ruling|his|gen
+ruling|final|mod
+delay|ruling|obj
+delay|for|mod
+filed|giving|mod-before
+giving|judge|subj
+giving|justice department|obj
+justice department|reply|rel
+reply|time|subj
+proposal|microsoft|gen
+reply|proposal|to
+for|filed|comp1
+filed|week|subj
+filed|wednesday|obj
+filed|revise|mod
+revise|week|subj
+break|government|gen
+revise|break|obj
+break|plan|up

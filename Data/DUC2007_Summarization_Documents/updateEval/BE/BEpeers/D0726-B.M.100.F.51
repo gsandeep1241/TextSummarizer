@@ -1,0 +1,41 @@
+president|al gore|person
+named|president|subj
+named|veteran|obj1
+campaigns|clinton-gore|nn
+campaigns|presidential|mod
+veteran|campaigns|of
+be|his|pred
+press secretary|campaign|nn
+named|press secretary|obj2
+kennedy|patrick|nn
+kennedy|d-r.i.|appo
+president|friday|nn
+president|endorsed|mod
+president|al gore|person
+nomination|democratic|mod
+nomination|presidential|mod
+president|nomination|for
+nomination|2000|in
+released|eve|on
+trip|his|gen
+trip|59th|nn
+eve|trip|of
+trip|california|to
+president|al gore|person
+released|president|subj
+released|list|obj
+endorsements|new|mod
+list|endorsements|of
+bid|his|gen
+bid|2000|num
+bid|presidential|mod
+endorsements|bid|for
+leaders|state|nn
+leaders|congressional|mod
+bid|leaders|from
+chairs|kennedy|subj
+chairs|democratic congressional campaign committee|obj
+arm|fund-raising|mod
+democratic congressional campaign committee|arm|appo
+democrats|house|nn
+arm|democrats|of

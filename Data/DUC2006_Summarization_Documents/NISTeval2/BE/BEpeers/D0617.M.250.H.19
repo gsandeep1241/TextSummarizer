@@ -1,0 +1,140 @@
+recorder|plane|gen
+recorder|flight|nn
+recorder|data|nn
+information|recorder|from
+recorder|one|appo
+boxes|two|nn
+boxes|black|nn
+one|boxes|of
+tell|information|subj
+tell|investigators|obj
+thruster|deployed|vrel
+deployed|thruster|obj
+deployed|flight|in
+said|he|subj
+ntsb|(|punc
+national transportation safety board|ntsb|abbrev
+ntsb|)|punc
+said|national transportation safety board|subj
+said|been|fc
+been|unable|pred
+unable|conclude|fc
+conclude|it|subj
+caused|what|subj
+caused|crash|obj
+crash|egyptair flight 990|of
+egyptair flight 990|which|whn
+was|heading|pred
+heading|cairo|for
+cairo|new york|from
+new york|october 31 , 1999 ,|on
+was|when|wha
+plunged into|suddenly|mod-before
+plunged into|it|subj
+plunged into|ocean|obj
+plunged into|killing|mod
+killing|it|subj
+killing|all|guest
+people|217|num
+killing|people|obj
+people|board|on
+is|evidence|pred
+deployment|thrust|nn
+deployment|reverser|nn
+evidence|deployment|of
+deployment|data|in
+data|have|rel
+have|data|obj
+have|we|subj
+said|hall|subj
+said|egyptair flight 990|of
+feet|33,000|num
+cruising|feet|at
+was|uneventful|pred
+was|until|mod
+autopilot|plane|gen
+until|disconnected|comp1
+disconnected|autopilot|subj
+8|about|num-mod
+seconds|8|amount-value
+disconnected|seconds|obj
+seconds|jetliner|before
+people|217|num
+disconnected|people|with
+drop down|atlantic ocean|toward
+investigators|crash|nn
+said|investigators|subj
+said|wednesday|mod
+statement|hall|gen
+said|statement|about
+said|official|subj
+night|friday|nn
+said|night|obj
+night|that|c
+stood|night|obj
+stood|he|subj
+account|his|gen
+account|original|mod
+stood|account|by
+officials|two|nn
+officials|other|mod
+said|officials|subj
+remains|working|mod
+remains|theory|nn
+said|remains|obj
+remains|sent|rel
+sent|remains|obj2
+sent|plane|obj1
+sent|dive|into
+sent|shortly|mod
+shortly|takeoff|after
+kennedy airport|new york|gen
+takeoff|kennedy airport|from
+egyptian|and|punc
+investigators|u.s.|nn
+egyptian|investigators|conj
+seeking|egyptian|subj
+seeking|know|mod
+know|egyptian|subj
+know|exactly|guest
+know|happened|fc
+happened|what|subj
+plane|egyptair|nn
+happened|plane|to
+said|rayan|subj
+happened|said|mod
+process|it|as
+is|read|pred
+read|out|guest
+recorders|cockpit|nn
+recorders|voice|nn
+read|recorders|obj
+made|one|obj1
+difficult|more|mod
+made|difficult|desc
+said|hall|subj
+chief|xinhua ) egyptian pilots association|nn
+chief|walid murad|person
+demanded|chief|subj
+demanded|on|guest
+demanded|sunday|on
+demanded|that|c
+last|u.s.|nn
+last|investigators|nn
+last|probing|mod
+'s|october|mod-before
+pilots|egyptair flight 990|nn
+pilots|crash|nn
+pilots|interview|nn
+'s|pilots|pred
+pilots|who|whn
+said|pilots|subj
+said|saw|fc
+saw|they|subj
+fireball|shooting|nn
+saw|fireball|obj
+site|crash|nn
+fireball|site|near
+recorder|plane|gen
+recorder|flight|nn
+recorder|data|nn

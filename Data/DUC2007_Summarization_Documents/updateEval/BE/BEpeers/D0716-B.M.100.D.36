@@ -1,0 +1,65 @@
+faces|australia|subj
+embarrassment|international|mod
+faces|embarrassment|obj
+mine|jabiluka|nn
+mine|uranium|nn
+embarrassment|mine|over
+committee|u.n.|nn
+faces|committee|with
+committee|demanding|rel
+demanding|committee|subj
+demanding|scrapped|fc
+scrapped|mine|obj
+scrapped|prevent|mod
+prevent|mine|subj
+prevent|it|obj
+prevent|endangering|mod
+area|surrounding|mod
+area|kakadu world heritage|nn
+endangering|area|obj
+car|old|mod
+car|dressed up|vrel
+dressed up|car|obj
+dressed up|look|mod
+lizard|frill-necked|mod
+look|lizard|like
+blocked|car|subj
+blocked|entrance|obj
+site|jabiluka|nn
+site|uranium|nn
+site|mine|nn
+entrance|site|to
+site|borders|inside
+borders|kakadu national park|of
+delegation|high-level|mod
+delegation|united nations|nn
+began|delegation|subj
+began|touring|guest
+touring|delegation|subj
+touring|australia|obj
+began|kakadu national park|obj
+kakadu national park|examine|rel
+examine|kakadu national park|subj
+examine|claims|obj
+mine|uranium|nn
+mine|built|rel
+built|region|in
+claims|threatens|comp1
+threatens|mine|subj
+values|unique|mod
+values|cultural|mod
+cultural|and|punc
+cultural|environmental|conj
+threatens|values|obj
+sites|archaeological|mod
+sites|that|whn
+show|sites|subj
+show|humans|obj
+humans|lived|vrel
+lived|humans|obj
+lived|australia|in
+lived|ago|mod
+damaged|sites|obj
+damaged|by|by-subj
+mine|uranium|nn
+damaged|mine|by

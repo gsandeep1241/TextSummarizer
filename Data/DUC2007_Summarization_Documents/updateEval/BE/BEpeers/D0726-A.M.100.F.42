@@ -1,0 +1,57 @@
+lawyer|san antonio|nn
+jose villarreal|lawyer|appo
+lawyer|serving as|rel
+serving as|lawyer|subj
+serving as|treasurer|obj
+campaign|president|gen
+president|al gore|person
+campaign|2000|num
+campaign|presidential|mod
+treasurer|campaign|of
+said|jose villarreal|subj
+said|monday|guest
+said|that|c
+work|he|subj
+work|make|mod
+make|he|subj
+make|sure|desc
+campaign|gore|nn
+fund|campaign|gen
+letter|"|punc
+letter|and|punc
+letter|spirit|conj
+spirit|"|punc
+spirit|law|of
+director|deputy|nn
+director|communications|nn
+stacie spector|director|appo
+director|white house|at
+move over|stacie spector|subj
+campaign|gore|nn
+move over|campaign|to
+campaign|assist|rel
+assist|campaign|subj
+manager|campaign|nn
+assist|manager|obj
+manager|craig smith|person
+announced|officially|amod
+announced|gore|subj
+campaign|his|gen
+announced|campaign|obj
+nomination|2000|num
+nomination|democratic|mod
+campaign|nomination|for
+announced|but|punc
+announced|raised|conj
+raised|gore|subj
+raised|$8.9 million|obj
+raised|federal election commission|according to
+emerges|gore|subj
+fight|clinton|gen
+fight|impeachment|nn
+emerges|fight|from
+candidate|formidable|mod
+fight|candidate|as
+popularity|gore|gen
+stems from|popularity|subj
+stems from|economy|obj

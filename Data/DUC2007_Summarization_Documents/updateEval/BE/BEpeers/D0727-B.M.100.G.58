@@ -1,0 +1,73 @@
+asked|motion|in
+motion|filed|vrel
+filed|motion|obj
+filed|cobb county superior court|in
+asked|gingrich|subj
+asked|judge|obj
+judge|give|rel
+give|judge|subj
+days|his|gen
+days|wife|nn
+days|marianne|nn
+days|14|amount-value
+give|days|obj
+days|transfer|rel
+transfer|days|subj
+transfer|money|obj
+account|joint|mod
+money|account|to
+account|agreed|rel
+agreed|couple|subj
+agreed|set up|fc
+set up|account|obj
+set up|couple|subj
+month|last|post
+set up|month|mod
+set up|until|mod
+divorce|their|gen
+until|is|comp1
+is|final|pred
+judge|ruled|vrel
+ruled|judge|obj
+ruled|thursday|mod
+thursday|that|c
+aide|congressional|mod
+linked|thursday|obj
+linked|aide|subj
+linked|romantically|mod
+speaker|former|mod
+speaker|house|nn
+romantically|speaker|with
+speaker|newt gingrich|person
+testify|judge|subj
+case|his|gen
+case|divorce|nn
+testify|case|in
+may|last|post
+told|newt gingrich|subj
+wife|his|gen
+told|wife|obj
+told|seeing|fc
+seeing|he|subj
+seeing|woman|obj
+seeing|and|punc
+seeing|wanted|conj
+wanted|he|subj
+wanted|divorce|obj
+attorneys|gingrich|gen
+said|attorneys|subj
+relationship|his|gen
+relationship|`|punc
+relationship|`|punc
+relationship|intimate|mod
+said|relationship|obj
+relationship|'|punc
+relationship|'|punc
+callista bisek|congressional|mod
+callista bisek|aide|nn
+relationship|callista bisek|with
+callista bisek|started|vrel
+started|callista bisek|obj
+started|november 1993|in
+started|year|about
+year|republican|before

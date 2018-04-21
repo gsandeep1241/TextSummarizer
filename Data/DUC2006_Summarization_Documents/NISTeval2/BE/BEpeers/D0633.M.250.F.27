@@ -1,0 +1,136 @@
+rate|property|nn
+rate|crime|nn
+division|rhudy|gen
+rate|division|in
+declined|rate|subj
+declined|8.4 percent|obj
+declined|while|mod
+crimes|violent|mod
+while|rose|comp1
+rose|crimes|subj
+rose|13.2 percent|obj
+cause|possible|mod
+cut|crime|nn
+cut|rate|nn
+cause|cut|for
+is|decline|pred
+problem|nation|gen
+problem|crack|nn
+problem|cocaine|nn
+decline|problem|in
+problem|which|whn
+associated|problem|obj
+increase|large|mod
+associated|increase|with
+crime|violence|nn
+increase|crime|in
+people|young|mod
+crime|people|among
+people|1980s|in
+rate|crime|nn
+rate|west|in
+west|and|punc
+west|south|conj
+declined|rate|subj
+3|nearly|num-mod
+declined|3|obj
+while|saw|comp1
+saw|midwest|subj
+saw|drop|obj
+drop|2 percent|of
+pass|1985|since
+jail|nation|gen
+jail|and|punc
+population|prison|nn
+jail|population|conj
+1985|grown|rel
+grown|1985|obj
+grown|jail|subj
+130 percent|and|punc
+130 percent|it|conj
+pass|soon|amod
+pass|130 percent|subj
+pass|2 million|obj
+pass|even|mod
+pass|as|mod
+rates|crime|nn
+as|continue|comp1
+continue|rates|subj
+decline|six-year|nn
+continue|decline|obj
+national crime victimization survey|annual|mod
+results|national crime victimization survey|of
+national crime victimization survey|begun|vrel
+begun|national crime victimization survey|obj
+begun|1972|in
+show|results|subj
+show|that|c
+rates|property|nn
+rates|crime|nn
+continue|rates|subj
+trend|25-year|nn
+trend|downward|mod
+continue|trend|obj
+line|bottom|nn
+efforts|all|pre
+line|efforts|to
+is|that|pred
+has|gov. bush|subj
+violent|lowest|mod
+rate|violent|mod
+rate|crime|nn
+has|rate|obj
+years|26|amount-value
+rate|years|in
+years|and|punc
+rate|lowest|mod
+rate|murder|nn
+years|rate|conj
+rate|1950s|since
+cities|nation|gen
+cities|big|mod
+experienced|cities|subj
+decline|steepest|mod
+experienced|decline|obj
+rate|their|gen
+rate|crime|nn
+decline|rate|in
+drop|5 percent|nn
+experienced|drop|with
+experienced|while|mod
+counties|suburban|mod
+while|saw|comp1
+saw|counties|subj
+saw|decrease|obj
+decrease|4 percent|of
+were|down|guest
+were|1 percent|pred
+janet reno|attorney general|title
+attributed|janet reno|subj
+attributed|decline|obj
+rate|crime|nn
+decline|rate|of
+to|"|punc
+officers|more|mod
+officers|police|nn
+rate|officers|to
+officers|street|on
+partnerships|greater|mod
+street|partnerships|conj
+agencies|law enforcement|nn
+partnerships|agencies|between
+efforts|continued|mod
+agencies|efforts|conj
+efforts|keep|comp1
+keep|janet reno|subj
+keep|guns|obj
+guns|away|pnmod
+away|criminals|from
+criminals|and|punc
+approach|balanced|mod
+criminals|approach|conj
+approach|that|whn
+includes|approach|subj
+includes|prevention|obj
+punishment|and|punc
+punishment|supervision|conj

@@ -1,0 +1,163 @@
+forces|taking|rel
+taking|force|subj
+taking|part|obj
+part|exercises|in
+include|forces|subj
+include|interior ministry|obj
+interior ministry|border guard service|conj
+border guard service|federal security service|conj
+federal security service|and|punc
+federal security service|troops|conj
+troops|stationed|vrel
+stationed|troops|obj
+stationed|stavropol|around
+south|1,200|num
+south|kilometers|nn
+south|(|punc
+miles|750|amount-value
+south|miles|nn
+south|)|punc
+stavropol|south|appo
+south|moscow|of
+bombed|warplanes|subj
+station|republic|gen
+station|television|nn
+bombed|station|obj
+station|grozny|in
+grozny|friday|on
+friday|and|punc
+saturday|early|mod
+friday|saturday|conj
+bombed|and|punc
+bombed|damaged|conj
+damaged|warplanes|subj
+damaged|equipment|obj
+equipment|repair|beyond
+media|russian|mod
+reported|media|subj
+damaged|reported|mod
+cited|russian defense ministry|subj
+regions|five|nn
+cited|regions|obj
+chechnya|central|mod
+central|eastern|conj
+eastern|and|punc
+eastern|western|conj
+regions|chechnya|in
+chechnya|that|whn
+hit|chechnya|obj
+hit|artillery|in
+artillery|and|punc
+raids|air|nn
+artillery|raids|conj
+24|previous|num-mod
+hours|24|amount-value
+raids|hours|in
+borders|all|pre
+closed|borders|obj
+closed|last week|mod
+closed|trapping|mod
+trapping|border|subj
+trapping|up|guest
+up|20,000|to
+trapping|refugees|obj
+refugees|trying|rel
+trying|refugee|subj
+trying|flee|fc
+flee|chechnya|obj
+militants|islamic|mod
+militants|chechnya|from
+launched|militants|subj
+waves|two|nn
+launched|waves|obj
+waves|assaults|of
+assaults|daghestan|on
+daghestan|august|since
+forces|federal|mod
+continued|forces|subj
+continued|prepare|mod
+prepare|force|subj
+prepare|weapons|obj
+weapons|and|punc
+weapons|equipment|conj
+use|combat|nn
+equipment|use|for
+continued|and|punc
+continued|taking|conj
+taking|forces|subj
+taking|measures|obj
+measures|improve|rel
+improve|measure|subj
+improve|coordination|obj
+coordination|units|between
+agency|interfax|nn
+agency|news|nn
+units|agency|appo
+agency|quoted|vrel
+service|ministry|gen
+service|press|nn
+quoted|service|obj2
+service|saying|as
+reported|interfax|subj
+reported|that|c
+'s|tuesday|on
+'s|envoy|pred
+envoy|chechnya|to
+chechnya|nikolai koshman|appo
+community|chechen|nn
+representatives|community|of
+of|and|punc
+of|of|conj
+parliament|1996|num
+parliament|chechen|nn
+of|parliament|of
+arrived|representatives|subj
+arrived|mozdok|in
+mozdok|set up|rel
+set up|mozdok|subj
+bodies|local|mod
+bodies|governing|mod
+set up|bodies|obj
+agency|interfax|nn
+agency|news|nn
+arrived|agency|according to
+arrived|sergeyev|subj
+arrived|uzbekistan|in
+uzbekistan|analyze|rel
+analyze|wednesday|subj
+analyze|performance|obj
+exercise|southern|nn
+exercise|commonwealth|nn
+exercise|shield-99|nn
+performance|exercise|of
+exercise|aimed at|vrel
+aimed at|exercise|obj
+aimed at|fighting|mod
+fighting|wednesday|subj
+terrorist|large|mod
+units|terrorist|mod
+fighting|units|obj
+units|russian|with
+kyrgyz|and|punc
+forces|uzbek|nn
+kyrgyz|forces|conj
+forces|russian|mod
+forces|federal|mod
+continued|forces|subj
+raids|air|nn
+continued|raids|obj
+positions|rebel|mod
+raids|positions|on
+positions|chechnya|in
+continued|wednesday|mod
+continued|as|mod
+as|imposed|comp1
+imposed|restrictions|obj
+republic|breakaway|mod
+imposed|republic|in
+republic|prevent|rel
+prevent|republic|subj
+attacks|rebel|mod
+prevent|attacks|obj
+holidays|may|nn
+attacks|holidays|during

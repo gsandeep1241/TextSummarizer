@@ -1,0 +1,53 @@
+is|due|pred
+world heritage committee bureau|meeting|rel
+meeting|world heritage committee bureau|subj
+meeting|kyoto|in
+designed|recommendations|obj
+designed|remove|mod
+remove|recommendation|subj
+dangers|real|mod
+real|and|punc
+real|potential|conj
+remove|dangers|obj
+dangers|one|from
+national parks|australia|gen
+famous|most|mod
+national parks|famous|mod
+one|national parks|of
+located|northern territory|in
+australia|northwest|mod
+covers|kakadu national park|subj
+km|20,000|num
+km|square|mod
+covers|km|obj
+site|government-approved|mod
+site|mine|mod
+is|in|pred
+is|area|in
+area|surrounded|vrel
+surrounded|area|obj
+surrounded|by|by-subj
+kakadu national park|aboriginal-owned|mod
+surrounded|kakadu national park|by
+government|australia|gen
+government|conservative|mod
+defied|government|subj
+body|u.n.|nn
+declaration|body|gen
+defied|declaration|obj
+declaration|that|c
+area|world heritage|nn
+is|area|pred
+area|declaring|by
+declaring|government|subj
+declaring|allow|fc
+allow|it|subj
+mining|uranium|nn
+allow|mining|obj
+mining|jabiluka|at
+jabiluka|park|within
+government|australian|mod
+insisted|already|amod
+insisted|government|subj
+insisted|that|c
+remain|jabiluka|subj

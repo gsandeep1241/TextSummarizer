@@ -1,0 +1,61 @@
+asked|newt gingrich|subj
+asked|judge|obj
+judge|settle|rel
+settle|judge|subj
+divorce|his|gen
+settle|divorce|obj
+divorce|relying on|by
+agreement|financial|mod
+relying on|agreement|obj
+he|and|punc
+wife|his|gen
+he|wife|conj
+agreement|worked out|rel
+worked out|agreement|obj
+worked out|he|subj
+separation|six-year|nn
+worked out|separation|during
+separation|that|whn
+began|separation|subj
+began|when|wha
+speaker|former|mod
+speaker|house|nn
+came back to|speaker|subj
+home|empty|mod
+came back to|home|obj
+judge|ruled|vrel
+ruled|judge|obj
+ruled|thursday|mod
+thursday|that|c
+aide|congressional|mod
+linked|thursday|obj
+linked|aide|subj
+linked|romantically|mod
+speaker|former|mod
+speaker|house|nn
+romantically|speaker|with
+speaker|newt gingrich|person
+testify|judge|subj
+case|his|gen
+case|divorce|nn
+testify|case|in
+motions|coming|mod
+probe|motions|subj
+aspects|financial|mod
+probe|aspects|obj
+case|divorce|nn
+aspects|case|of
+divorce|newt gingrich|gen
+moves|divorce|subj
+moves|courtroom|to
+time|first|post
+courtroom|time|for
+moves|today|mod
+moves|as|mod
+as|argue|comp1
+argue|lawyers|subj
+questions|32|num
+is|really|guest
+questions|just|pre
+questions|32|num
+is|questions|pred

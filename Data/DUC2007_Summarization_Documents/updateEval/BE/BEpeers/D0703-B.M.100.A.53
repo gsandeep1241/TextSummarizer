@@ -1,0 +1,50 @@
+bank|euro|subj
+bank|notes|obj
+become|coins|subj
+become|legal tender|obj
+legal tender|january 1 , 2002|on
+become|while|mod
+currencies|national|mod
+countries|euro|nn
+countries|founder|nn
+currencies|countries|of
+while|stop|comp1
+stop|currencies|subj
+stop|circulating|mod
+circulating|currency|subj
+circulating|completely|mod
+completely|july 1 , 2002|by
+minister|bulgarian|mod
+minister|muravei radev|person
+experience|lev|subj
+connection|its|gen
+experience|connection|obj
+connection|euro|with
+experience|automatically|mod
+experience|as|mod
+currency|european|mod
+currency|single|mod
+as|comes|comp1
+comes|currency|subj
+comes|use|into
+three|less than|num-mod
+months|three|amount-value
+later|months|amount-value
+comes|later|mod
+process|entire|mod
+process|transition|of
+accomplished|process|obj
+accomplished|by|by-subj
+accomplished|july 1 , 1999|by
+euro|european|mod
+euro|single|mod
+euro|currency|nn
+go ahead|euro|subj
+go ahead|schedule|on
+schedule|january 1 , 1999|on
+membership|broad|mod
+schedule|membership|with
+go ahead|survey|according to
+economists|prominent|mod
+economists|british|mod
+survey|economists|of

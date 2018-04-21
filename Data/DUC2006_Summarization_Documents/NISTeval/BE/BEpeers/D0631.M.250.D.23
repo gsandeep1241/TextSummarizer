@@ -1,0 +1,154 @@
+route|air france concorde|nn
+route|en|nn
+route|new york|to
+crashes|route|subj
+crashes|paris|outside
+crashes|shortly|mod
+shortly|takeoff|after
+crashes|killing|mod
+killing|route|subj
+killing|all|guest
+people|109|num
+killing|people|obj
+people|board|on
+board|and|punc
+people|four|nn
+board|people|conj
+people|ground|on
+pondered|aftermath|in
+aftermath|crash|of
+some|pilots|of
+pilots|who|whn
+flown|pilots|subj
+flown|them|obj
+pondered|some|subj
+pondered|paradox|obj
+pondered|wednesday|mod
+investigators|french|nn
+investigators|looking|rel
+looking|investigator|subj
+looking|crash|into
+crash|july|on
+crash|2000|of
+crash|air france concorde|of
+said|investigators|subj
+said|was|fc
+was|probable|pred
+probable|that|c
+piece|16-inch|nn
+piece|metal|of
+metal|found|vrel
+found|metal|obj
+found|runway|on
+caused|piece|subj
+caused|tire|obj
+tire|blow out|rel
+blow out|tire|subj
+blow out|sending|mod
+sending|debris|obj
+debris|tire|from
+tanks|fuel|nn
+tire|tanks|through
+sending|and|punc
+sending|triggering|conj
+triggering|fire|obj
+fire|that|whn
+brought|fire|subj
+brought|down|guest
+brought|plane|obj
+removed|investigators|subj
+engines|two|nn
+removed|engines|obj
+site|concorde|nn
+site|crash|nn
+engines|site|from
+site|hopes|in
+jet|air france|nn
+jet|supersonic|mod
+wreckage|jet|of
+hopes|help|rel
+help|wreckage|subj
+determine|hopes|subj
+determine|cause|obj
+cause|disaster|of
+disaster|that|whn
+killed|disaster|subj
+people|113|num
+killed|people|obj
+authorities|british|mod
+authorities|aviation|nn
+ruled|formally|mod-before
+ruled|authorities|subj
+airliner|concorde|nn
+airliner|supersonic|mod
+ruled|airliner|obj
+airliner|unfit|pnmod
+unfit|fly|to
+ruled|unless|mod
+manufacturers|its|gen
+unless|took|comp1
+took|manufacturers|subj
+took|steps|obj
+steps|prevent|rel
+prevent|step|subj
+prevent|problems|obj
+problems|led to|rel
+led to|problems|obj
+led to|that|subj
+led to|july|on
+crash|2000s|nn
+crash|fatal|mod
+crash|air france concorde|nn
+led to|crash|of
+crash|paris|near
+grounded|air france|subj
+concordes|its|gen
+concordes|five|nn
+concordes|remaining|mod
+grounded|concordes|obj
+grounded|immediately|mod
+crash|july 25|nn
+immediately|crash|after
+crash|concorde flight af 4590|of
+concorde flight af 4590|which|whn
+plunged|concorde flight af 4590|subj
+plunged|to|guest
+plunged|ground|to
+90|about|num-mod
+seconds|90|amount-value
+plunged|seconds|obj
+seconds|take-off|after
+plunged|killing|mod
+killing|air france|subj
+people|113|num
+killing|people|obj
+fatal accident|first|post
+people|fatal accident|in
+fatal accident|involving|rel
+involving|fatal accident|subj
+airplane|supersonic|mod
+involving|airplane|obj
+while|suspended|comp1
+suspended|air france|subj
+flights|its|gen
+flights|concorde|nn
+suspended|flights|obj
+crash|july 25|nn
+immediately|crash|after
+flights|ordered|rel
+ordered|flights|obj1
+ordered|british airways|subj
+ordered|only|guest
+ordered|one|obj2
+concordes|its own|gen
+putting|concordes|obj
+concordes|service|into
+members|family|nn
+flown|members|obj
+flights|germany|from
+germany|air france|by
+air france|which|whn
+suspended|air france|subj
+suspended|all|obj
+flights|concorde|subj
+flights|immediately|mod

@@ -1,0 +1,61 @@
+europeans|three|nn
+set off|europeans|subj
+set off|wednesday|obj
+set off|switzerland|from
+quest|latest|mod
+switzerland|quest|in
+quest|circle|rel
+circle|quest|subj
+circle|world|obj
+world|non-stop|pnmod
+non-stop|balloon|in
+replaces|jones|subj
+engineer|fellow|mod
+engineer|british|mod
+engineer|flight|nn
+replaces|engineer|obj
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first|obj
+first|pilot|rel
+pilot|first|subj
+pilot|balloon|obj
+balloon|world|around
+pilot|nonstop|mod
+teams|four|nn
+teams|other|mod
+are|also|guest
+bids|planning|nn
+are|bids|pred
+bids|record|for
+team|composed|vrel
+composed|team|obj
+composed|bertrand piccard|of
+bertrand piccard|wim verstraeten|conj
+wim verstraeten|and|punc
+wim verstraeten|andy elson|conj
+been|due to|pred
+been|lift-off|due to
+'oex|chateau|nn
+'oex|d|mod
+lift-off|'oex|from
+alps|swiss|mod
+'oex|alps|in
+morning|thursday|nn
+alps|morning|on
+bid|balloon|gen
+bid|round-the-world|mod
+abandoned|bid|obj
+abandoned|after|mod
+after|refused|comp1
+refused|china|subj
+refused|it|obj1
+refused|entry|obj2
+entrepreneur|british|mod
+wished|entrepreneur|subj
+wished|brietling orbiter ii|obj1
+good luck|team|nn
+wished|good luck|obj2

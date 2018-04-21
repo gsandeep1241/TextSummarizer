@@ -1,0 +1,151 @@
+relatives|boy|gen
+relatives|miami|nn
+custody|given|mod
+custody|temporary|mod
+were|custody|pred
+custody|elian|of
+international elian|_|punc
+international elian|miami|appo
+miami|_|punc
+miami|sides|appo
+case|elian gonzales|nn
+sides|case|in
+case|remained|vrel
+remained|case|obj
+friday|defiant|mod
+remained|friday|mod
+remained|as|mod
+as|awaited|comp1
+awaited|they|subj
+awaited|decision|obj
+court|federal|mod
+court|appeals|nn
+decision|court|of
+on|whether|c
+rafter|6-year-old|mod
+rafter|cuban|mod
+transferred|rafter|obj
+transferred|custodianship|to
+father|his|gen
+custodianship|father|of
+relatives|miami|nn
+relatives|elian gonzales|of
+lost|friday|mod-before
+lost|relatives|subj
+battle|their|gen
+battle|final|mod
+be|battle|pred
+battle|prevent|rel
+prevent|battle|subj
+return|boy|gen
+prevent|return|obj
+return|cuba|to
+officials|u.s.|nn
+postponed|officials|subj
+postponed|deadline|obj
+deadline|revoking|for
+revoking|official|subj
+status|boy|gen
+status|custody|nn
+revoking|status|obj
+plane|chartered|mod
+was|waiting|pred
+waiting|dulles international airport|at
+dulles international airport|washington|in
+washington|carry|rel
+carry|washington|subj
+carry|elian|obj
+elian|and|punc
+family|his|gen
+elian|family|conj
+family|and|punc
+family|friends|conj
+friends|cuba|to
+in|(|punc
+international|i|nn
+international|)|punc
+international|and|punc
+international|(|punc
+categories|l|mod
+categories|)|punc
+categories|lifestyle|nn
+international|categories|conj
+-elian|_|punc
+elian gonzales|clarified|mod
+situation|elian gonzales|gen
+situation|legal|mod
+-elian|situation|appo
+situation|brushing|by
+brushing|aside|guest
+judge|florida|nn
+interference|judge|gen
+brushing|interference|obj
+exiles|cuban|mod
+most|hurt|nn
+be|most|pred
+most|battle|by
+side|more|mod
+side|americans|nn
+battle|side|as
+decision|u.s. government|gen
+side|decision|with
+decision|send|rel
+send|decision|subj
+home|boy|nn
+send|home|obj
+case|elian gonzalez|of
+repugnant|most|mod
+expression|repugnant|mod
+is|expression|pred
+expression|law|of
+is|'|punc
+is|'|punc
+is|said|mod
+said|alarcon|subj
+man|fidel castro|gen
+man|top|mod
+alarcon|man|appo
+issues|american|mod
+issues|policy|nn
+man|issues|on
+have|i|subj
+concerns|great|mod
+have|concerns|obj
+concerns|that|c
+see|i|subj
+resolution|peaceful|mod
+see|resolution|obj
+resolution|situation|to
+media|cuba|nn
+media|state|nn
+media|saturday|on
+revealed|media|subj
+details|very few|mod
+revealed|details|obj
+revealed|when|wha
+reported|they|subj
+meeting|last week|gen
+reported|meeting|obj
+head of state|73-year-old|mod
+meeting|head of state|between
+head of state|and|punc
+boy|6-year-old|mod
+head of state|boy|conj
+after|rescued|comp1
+rescued|child|obj
+rescued|nov 25|on
+became|he|subj
+became|subject|obj
+dispute|international|mod
+dispute|custody|nn
+subject|dispute|of
+father|his|gen
+dispute|father|between
+father|cuba|in
+cuba|and|punc
+relatives|their|gen
+cuba|relatives|conj
+relatives|united states|in
+be|willing|pred
+be|stay|mod
+stay|he|subj

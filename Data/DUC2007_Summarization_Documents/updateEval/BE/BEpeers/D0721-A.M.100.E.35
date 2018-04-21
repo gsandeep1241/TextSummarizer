@@ -1,0 +1,54 @@
+issued|judge|subj
+order|gag|nn
+issued|order|obj
+order|lawyers|for
+lawyers|involved|vrel
+involved|lawyers|obj
+trial|matthew shepard|nn
+trial|murder|nn
+involved|trial|in
+involved|saying|mod
+saying|judge|subj
+injured|`|punc
+injured|`|punc
+injured|gravely|mod-before
+saying|injured|fc
+injured|they|subj
+injured|'|punc
+injured|'|punc
+injured|defendant|obj
+defendant|right|pnmod
+trial|fair|mod
+right|trial|to
+exists|there|subj
+real|very|mod
+danger|real|mod
+danger|that|c
+playing|counsel|gen
+playing|media|to
+gravely|already|mod
+injured|gravely|amod
+injured|danger|obj
+injured|playing|subj
+injured|or|punc
+made|at least|mod-before
+injured|made|conj
+made|danger|obj1
+made|playing|subj
+more|much|mod
+difficult|more|mod
+made|difficult|desc
+seating|jury|obj
+wrote|case|in
+judge|barton r. voigt|person
+wrote|judge|subj
+wrote|thursday|mod
+ruling|voigt|gen
+stemmed from|ruling|subj
+stemmed from|dispute|obj
+dispute|lawyers|between
+lawyers|representing|rel
+representing|lawyer|subj
+representing|aaron mckinney|obj
+aaron mckinney|and|punc
+aaron mckinney|russell henderson|conj

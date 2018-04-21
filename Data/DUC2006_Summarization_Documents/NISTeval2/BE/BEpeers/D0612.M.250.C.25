@@ -1,0 +1,136 @@
+found|cdc|subj
+3 to 10|60|num
+3 to 10|children|nn
+3 to 10|ages|nn
+found|3 to 10|obj
+3 to 10|who|whn
+had|3 to 10|subj
+had|autism|obj
+autism|or|punc
+disorders|autism-related|mod
+autism|disorders|conj
+had|said|mod
+said|jacquelyn bertrand|subj
+psychologist|developmental|mod
+jacquelyn bertrand|psychologist|appo
+psychologist|cdc|at
+knows|one|subj
+knows|causes|fc
+causes|what|subj
+causes|it|obj
+causes|although|mod
+although|suggests|comp1
+suggests|research|subj
+suggests|goes wrong|fc
+goes wrong|something|subj
+development|critical|mod
+development|fetal|mod
+development|brain|nn
+goes wrong|development|during
+found|researchers|subj
+high|unusually|mod
+levels|high|mod
+proteins|four|nn
+levels|proteins|of
+found|associated with|fc
+associated with|levels|subj
+development|brain|nn
+associated with|development|obj
+samples|all|pre
+samples|children|from
+children|who|whn
+diagnosed|children|obj
+diagnosed|autism|with
+autism|or|punc
+retardation|mental|mod
+autism|retardation|conj
+symptoms|autism|of
+range|symptoms|subj
+incidence|true|mod
+making|incidence|obj
+incidence|disorder|of
+disorder|difficult|pnmod
+assess|said|mod
+said|dr marie bristol-power|subj
+dr marie bristol-power|who|whn
+coordinates|dr marie bristol-power|subj
+research|autism|nn
+coordinates|research|obj
+research|national institute of child health and human development|at
+national institute of child health and human development|bethesda|in
+studying|anatomy|obj
+brains|autistic|mod
+anatomy|brains|of
+trying|researchers|subj
+causes|brain|in
+interaction|complex|mod
+interaction|genes|of
+genes|and|punc
+genes|environment|conj
+causes|interaction|subj
+causes|things|obj
+things|go|rel
+go|thing|subj
+go|astray|mod
+need|researchers|subj
+need|look at|fc
+look at|researcher|subj
+babies|more|mod
+look at|babies|obj
+said|he|subj
+look at|said|mod
+look at|see|mod
+see|exactly|guest
+abnormalities|movement|nn
+see|predict|fc
+predict|abnormalities|subj
+predict|autism|obj
+suggest|which|subj
+disorders|developmental|mod
+suggest|like|fc
+like|disorders|subj
+like|schizophrenia|obj
+schizophrenia|or|punc
+disorder|attention|nn
+disorder|deficit|nn
+schizophrenia|disorder|conj
+question|major|mod
+question|me|for
+is|whether|c
+more|just|mod
+prevalent|more|mod
+'s|prevalent|pred
+'s|(|punc
+'s|than|mod
+thought|)|punc
+thought|or|punc
+thought|it|conj
+than|'s|comp1
+'s|on|pred
+'s|rise|on
+'s|'|punc
+'s|'|punc
+'s|parents|as
+parents|and|punc
+suspect|doctors|nn
+parents|suspect|conj
+'s|said|mod
+eric london|dr|title
+said|eric london|subj
+eric london|vice president|conj
+affairs|medical|mod
+vice president|affairs|of
+affairs|national alliance|at
+national alliance|autism research|for
+autism research|princeton|in
+princeton|and|punc
+princeton|consultant|conj
+consultant|investigation|for
+go|they|subj
+go|connecticut child development center|to
+connecticut child development center|milford|in
+milford|where|wha
+couple|india|from
+showed up|couple|subj
+child|their|gen
+showed up|child|with

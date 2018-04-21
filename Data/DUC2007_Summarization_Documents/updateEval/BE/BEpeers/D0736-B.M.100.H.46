@@ -1,0 +1,57 @@
+show|talk|nn
+oprah winfrey|host|nn
+show|starting|rel
+starting|oprah winfrey|subj
+spring|next|mod-before
+spring|magazine|subj
+hearst corp. i|magazine publisher|nn
+spring|hearst corp. i|with
+love|show|subj
+word|printed|mod
+love|word|obj
+love|and|punc
+appreciated|always|amod
+love|appreciated|conj
+appreciated|show|subj
+connection|unique|mod
+appreciated|connection|obj
+connection|author|between
+author|and|punc
+author|reader|conj
+appreciated|said|mod
+said|oprah winfrey|subj
+novel|set|vrel
+set|novel|obj
+set|china|in
+wins|novel|subj
+award|national|mod
+award|book|nn
+wins|award|obj
+figure|powerful|mod
+winfrey|figure|appo
+world|book|nn
+figure|world|in
+book club|oprah|gen
+world|book club|because of
+received|winfrey|subj
+medal|50th|mod
+medal|anniversary|nn
+received|medal|obj
+medal|foundation|from
+sherry lansing|chairwoman|appo
+group|paramount|gen
+group|motion picture|nn
+chairwoman|group|of
+group|1992|since
+replaced|sherry lansing|subj
+replaced|oprah winfrey|obj
+powerful|most|mod
+woman|powerful|mod
+oprah winfrey|woman|as
+business|entertainment|nn
+woman|business|in
+founded|winfrey|subj
+blub|her|gen
+blub|book|nn
+founded|blub|obj
+blub|1996|in

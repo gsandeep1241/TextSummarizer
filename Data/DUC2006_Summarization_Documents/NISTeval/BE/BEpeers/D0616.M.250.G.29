@@ -1,0 +1,153 @@
+determined|russia|obj
+determined|liberate|mod
+liberate|russia|subj
+republic|entire|mod
+republic|breakaway|mod
+liberate|republic|obj
+republic|chechnya|of
+liberate|and|punc
+liberate|restore|conj
+restore|russia|subj
+life|normal|mod
+restore|life|obj
+civilians|chechen|nn
+life|civilians|of
+restore|said|mod
+minister|russian|mod
+minister|defense|nn
+said|minister|subj
+minister|igor sergeyev|person
+forces|russian|mod
+forces|federal|mod
+continued|forces|subj
+raids|air|nn
+continued|raids|obj
+positions|rebel|mod
+raids|positions|on
+positions|chechnya|in
+continued|as|mod
+as|imposed|comp1
+imposed|restrictions|obj
+republic|breakaway|mod
+imposed|republic|in
+republic|prevent|rel
+prevent|republic|subj
+attacks|rebel|mod
+prevent|attacks|obj
+holidays|may|nn
+attacks|holidays|during
+reports|preliminary|mod
+indicate|reports|subj
+indicate|that|c
+servicemen|36|num
+servicemen|russian|mod
+killed|servicemen|obj
+74|another|num-mod
+injured|74|subj
+injured|in|guest
+injured|five|in
+attacks|terrorist|mod
+injured|attacks|obj
+attacks|chechnya|in
+aide|russian|mod
+aide|presidential|mod
+chechnya|aide|appo
+aide|chechnya sergei yastrzhembsky|on
+chechnya sergei yastrzhembsky|announced|vrel
+announced|chechnya sergei yastrzhembsky|obj
+announced|here|mod
+maneuvers|military|mod
+maneuvers|which|whn
+run|maneuvers|subj
+tighten|coordination|obj
+forces|various|mod
+coordination|forces|between
+forces|fight|rel
+fight|force|subj
+attacks|terrorist|mod
+fight|attacks|obj
+fight|free|conj
+free|force|subj
+free|hostages|obj
+free|and|punc
+free|combat|conj
+combat|force|subj
+combat|smuggling|obj
+smuggling|_|punc
+smuggling|exactly|appo-mod
+smuggling|sort|appo
+sort|incidents|of
+incidents|rise|on
+republics|russia|gen
+republics|fringe|mod
+rise|republics|in
+demands|maskhadov|subj
+demands|that|c
+airstrikes|and|punc
+attacks|artillery|nn
+airstrikes|attacks|conj
+stopped|airstrikes|obj
+withdrawn|subsequently|mod-before
+withdrawn|completely|amod
+withdrawn|troops|obj
+withdrawn|chechnya|from
+commanders|military|mod
+commanders|who|whn
+directing|commanders|subj
+directing|operations|obj
+operations|chechnya|in
+put|commanders|obj
+trial|international|mod
+put|trial|on
+measures|aiming|rel
+aiming|measures|subj
+aiming|maintain|fc
+maintain|law|obj
+law|and|punc
+order|public|mod
+law|order|conj
+order|region|in
+be|comprehensive|pred
+be|and|punc
+be|carried out|conj
+carried out|measures|obj
+plan|single|mod
+carried out|plan|according to
+carried out|'|punc
+carried out|'|punc
+carried out|said|mod
+minister|russian|mod
+minister|interior|mod
+said|minister|subj
+minister|sergei stepashin|person
+agency|itar-tass|nn
+agency|news|nn
+warned|residents|obj
+go out|resident|subj
+go out|and|punc
+go out|motor|conj
+motor|resident|subj
+warned|prohibited|fc
+prohibited|transport|obj
+prohibited|curfew|during
+conflict|first|post
+fought|conflict|during
+conflict|1994-96|in
+fought|chechnya|subj
+troops|russian|mod
+fought|troops|obj
+standstill|humiliating|mod
+troops|standstill|to
+said|on|mod-before
+said|visit|on
+visit|london|to
+said|putin|subj
+learned|only|mod-before
+said|learned|fc
+learned|he|subj
+learned|commission|about
+reports|media|nn
+commission|reports|from
+welcomed|he|subj
+creation|its|gen
+welcomed|creation|obj

@@ -1,0 +1,132 @@
+raises|it|subj
+decision|national|mod
+decision|question-whose|mod
+raises|is|fc
+is|it|pred
+is|administer|mod
+administer|decision|subj
+drugs|behavior-modifying|mod
+administer|drugs|obj
+is|also|amod
+is|one|pred
+one|most|of
+diverted|commonly|amod
+most|diverted|vrel
+diverted|most|obj
+diverted|and|punc
+diverted|stolen|conj
+stolen|most|subj
+stolen|substances|obj
+substances|america|in
+students|high school|nn
+reported|students|obj
+reported|abuse|mod
+abuse|student|subj
+abuse|it|obj
+out-of-control|his|gen
+behaviors|hurting|mod
+are|mark|pred
+frightening|how|mod
+is|lose control|pred
+pill|easy-to-use|mod
+availability|pill|of
+is|sure|pred
+is|fuel|mod
+fuel|availability|subj
+fuel|debate|obj
+about|whether|c
+is|overdiagnosed|pred
+ritalin|or|punc
+alternatives|its|gen
+alternatives|generic|mod
+ritalin|alternatives|conj
+are|overprescribed|pred
+know|we|subj
+know|if|c
+has|it|subj
+has|do|fc
+do|we|subj
+do|with|guest
+do|communities|obj
+structure|family|nn
+communities|structure|conj
+games|tv|nn
+games|video|nn
+structure|games|conj
+games|or|punc
+games|anything|conj
+do|but|mod
+but|is|comp1
+is|perception|pred
+perception|that|c
+disturbances|behavioral|mod
+are|on|pred
+are|rise|on
+is|adhd|pred
+adhd|which|whn
+become|adhd|subj
+become|increasingly|guest
+become|common|obj
+common|years|in
+become|since|mod
+described|first|amod
+since|described|comp1
+described|it|obj
+described|by|by-subj
+described|american psychiatric association|by
+american psychiatric association|1980|in
+need|parents|subj
+need|discuss|fc
+discuss|parent|subj
+discuss|all|guest
+options|available|mod
+options|treatment|nn
+discuss|options|obj
+pediatrician|their|gen
+options|pediatrician|with
+pediatrician|make|rel
+make|pediatrician|obj1
+make|they|subj
+decision|informed|mod
+make|decision|desc
+be|best|pred
+child|their|gen
+best|child|for
+be|says|mod
+says|koplewicz|subj
+doing|what|obj
+doing|we|subj
+focusing on|we|subj
+focusing on|adhd|obj
+focusing on|fin|subj
+kids|a few|nn
+needs|kids|gen
+focusing on|needs|obj
+treatments|effective|mod
+are|treatments|pred
+reveal|addition|in
+reveal|it|subj
+reveal|whether|c
+forms|different|mod
+are|forms|pred
+forms|adhd|of
+adhd|that|whn
+respond|adhd|subj
+respond|better|mod
+better|or|punc
+better|worse|conj
+drugs|specific|mod
+worse|drugs|to
+promising|beginning|mod
+beginning|"|punc
+beginning|said|mod
+edward hallowell|dr.|title
+said|edward hallowell|subj
+edward hallowell|psychiatrist|conj
+psychiatrist|and|punc
+psychiatrist|author|conj
+of|"|punc
+author|driven to distraction|of
+driven to distraction|"|punc
+driven to distraction|book|appo
+book|adhd|about

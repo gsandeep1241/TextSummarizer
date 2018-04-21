@@ -1,0 +1,140 @@
+crows|four|nn
+crows|dead|mod
+found|crows|subj
+found|in|guest
+found|new jersey|in
+positive|tested|mod
+found|positive|obj
+virus|west nile-like|mod
+positive|virus|for
+responsible|deaths|for
+five|at least|num-mod
+people|five|nn
+deaths|people|of
+area|new york city|nn
+area|metropolitan|mod
+people|area|in
+birds|dead|mod
+number|birds|of
+birds|that|whn
+tested|birds|subj
+tested|positive|obj
+virus|west nile|nn
+positive|virus|for
+doubled|nearly|amod
+doubled|number|subj
+doubled|week|in
+week|322|to
+doubled|and|punc
+doubled|expanded|conj
+expanded|number|obj
+county|10th|nn
+expanded|county|to
+officials|state|nn
+said|officials|subj
+expanded|said|mod
+expanded|thursday|mod
+one|critical|mod
+is|that|c
+be|no longer|amod
+be|certain|pred
+certain|that|c
+virus|west nile|nn
+been|never|amod
+been|present|pred
+present|united states|in
+been|because|mod
+scientists|federal|mod
+specifically|never|mod
+checked|specifically|mod-before
+because|checked|comp1
+checked|scientists|subj
+checked|it|for
+outbreaks|earlier|mod
+checked|outbreaks|in
+outbreaks|and|punc
+cases|individual|mod
+outbreaks|cases|conj
+cases|q.|nn
+cases|how|nn
+encephalitis|west nile|nn
+cases|encephalitis|of
+occurred|cases|subj
+a.|u.s.|nn
+occurred|a.|in
+evidence|documented|mod
+is|evidence|pred
+animal-to-animal|or|punc
+transmission|animal-to-person|mod
+animal-to-animal|transmission|conj
+virus|west nile|nn
+transmission|virus|of
+watching|scientists|subj
+ran up to|i|subj
+ran up to|lab|obj
+lab|take|rel
+take|lab|subj
+take|look|obj
+look|photo|at
+photo|taken|rel
+taken|photo|obj
+taken|they|subj
+taken|sample|of
+taken|'|punc
+taken|'|punc
+taken|said|mod
+said|timperi|subj
+clucks|menino|subj
+last|discovery|subj
+last|summer|mod
+arrived|west nile|subj
+arrived|new york city|in
+new york city|coupled|pnmod
+coupled|confirmation|with
+month|that|c
+circulating|month|obj
+circulating|virus|subj
+triggered|locally|mod-before
+four|at least|num-mod
+states|four|nn
+locally|states|in
+confirmation|triggered|comp1
+triggered|month|subj
+effort|extraordinary|mod
+effort|national|mod
+triggered|effort|obj
+effort|track|rel
+track|effort|subj
+track|microbe|obj
+do|not|neg
+prompt|odds|subj
+attitude|casual|mod
+prompt|attitude|obj
+mother|brookline|nn
+attitude|mother|from
+mother|who|whn
+has|mother|subj
+reason|extra|mod
+has|reason|obj
+reason|concern|for
+found|she|subj
+crow|dead|mod
+found|crow|obj
+driveway|her own|gen
+crow|driveway|on
+driveway|coolidge corner|near
+found|later|mod-before
+coolidge corner|found|vrel
+found|coolidge corner|obj
+found|infected|mod
+virus|west nile|nn
+infected|virus|with
+infected|and|punc
+infected|learned|conj
+learned|she|subj
+learned|week|guest
+learned|that|c
+mosquitoes|infected|mod
+are|on|pred
+street|her|gen
+are|street|on

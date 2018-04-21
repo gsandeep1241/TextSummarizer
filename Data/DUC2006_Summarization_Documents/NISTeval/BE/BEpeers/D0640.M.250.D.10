@@ -1,0 +1,150 @@
+ships|russian|mod
+hunt for|ships|subj
+submarine|missing|mod
+hunt for|submarine|obj
+remains|kursk|subj
+floor|barents sea|nn
+remains|floor|on
+officials|russian|mod
+said|officials|subj
+was|not|neg
+said|carrying|fc
+carrying|kursk|subj
+carrying|nuclear weapons|obj
+navy|russian|mod
+says|navy|subj
+certainly|virtually|mod
+says|certainly|guest
+says|that|c
+crew|all|subj
+crew|dead|mod
+perishing|most|amod
+crew|perishing|mod
+perishing|all|subj
+moments|first|post
+perishing|moments|in
+moments|disaster|of
+submarines|russian|mod
+submarines|rescue|nn
+made|submarines|subj
+attempts|four|nn
+attempts|unsuccessful|mod
+made|attempts|obj
+attempts|dock|rel
+dock|attempt|subj
+dock|kursk|with
+dock|overnight|mod
+official|top|mod
+official|russian|mod
+official|monday|on
+denied|official|subj
+denied|reports|obj
+reports|that|c
+service|nation|gen
+service|security|nn
+investigating|service|subj
+month|last|post
+sinking|month|gen
+investigating|sinking|obj
+submarine|nuclear|mod
+sinking|submarine|of
+investigating|and|punc
+investigating|presented|conj
+presented|service|subj
+findings|its|gen
+presented|findings|obj
+findings|president|to
+president|vladimir putin|person
+efforts|intensive|mod
+continued|efforts|subj
+continued|friday|mod
+continued|barents sea|in
+barents sea|save|rel
+save|barents sea|subj
+crew|118|num
+save|crew|obj
+submarine|russia|gen
+submarine|kursk|nn
+submarine|nuclear|mod
+crew|submarine|aboard
+submarine|that|whn
+went down|submarine|subj
+went down|seabed|to
+seabed|last|vrel
+last|seabed|obj
+last|saturday|mod
+signed|contracts|obj
+operation|salvage|nn
+signed|operation|for
+said|klebanov|subj
+likely|most|mod
+include|likely|amod
+said|include|fc
+include|work|subj
+include|dutch|obj
+dutch|and|punc
+companies|belgian|mod
+dutch|companies|conj
+reported|interfax|subj
+include|reported|mod
+vessel|second|post
+vessel|carrying|rel
+carrying|vessel|subj
+carrying|british|obj
+british|and|punc
+divers|norwegian|mod
+british|divers|conj
+is|due|pred
+scene|disaster|of
+disaster|sunday|on
+attempts|dock|rel
+dock|attempt|subj
+dock|escape hatch|with
+fail|attempts|subj
+fail|again|mod
+officials|u.s.|nn
+said|officials|subj
+sinking|kursk|gen
+said|was|fc
+was|most|pred
+caused|likely|mod-before
+most|caused|vrel
+caused|most|obj
+caused|by|by-subj
+caused|misfiring|by
+misfiring|one|of
+torpedoes|its|gen
+one|torpedoes|of
+russian|and|punc
+officials|nato|nn
+russian|officials|conj
+held|russian|subj
+meeting|four-hour|nn
+held|meeting|obj
+headquarters|nato|nn
+meeting|headquarters|at
+headquarters|brussels|in
+brussels|discuss|rel
+discuss|brussels|subj
+kind|assistance|of
+alliance|western|mod
+offer|alliance|subj
+offer|help|fc
+help|alliance|subj
+save|kind|subj
+crew|118|num
+save|crew|obj
+submarine|nuclear|mod
+crew|submarine|of
+submarine|trapped|pnmod
+trapped|bed|on
+bed|barents sea|of
+ilya klebanov|prime minister|nn
+ilya klebanov|who|whn
+overseeing|ilya klebanov|subj
+mission|salvage|nn
+overseeing|mission|obj
+told|ilya klebanov|subj
+told|lawmakers|obj1
+told|that|obj2
+company|norwegian|mod

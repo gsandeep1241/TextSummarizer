@@ -1,0 +1,59 @@
+ruling|his|gen
+wrote|ruling|in
+judge|district|nn
+judge|thomas penfield jackson|person
+wrote|judge|subj
+violated|microsoft|subj
+violated|sherman antitrust act|obj
+proposed|until|guest
+proposed|friday|until
+friday|submit|rel
+submit|friday|subj
+proposed|each|subj
+proposed|remedies|obj
+judge|u.s.|nn
+judge|district|mod
+remedies|judge|to
+judge|thomas penfield jackson|person
+judge|who|whn
+ruled|judge|subj
+ruled|on|guest
+ruled|april 3|on
+ruled|that|c
+used|illegally|mod-before
+used|microsoft|subj
+dominance|its|gen
+used|dominance|obj
+market|operating systems|nn
+dominance|market|in
+market|hurt|rel
+hurt|market|subj
+hurt|competition|obj
+judge|district court|nn
+judge|thomas penfield jackson|person
+gone along|judge|subj
+recommendation|government|nn
+gone along|recommendation|with
+giant|software|nn
+be|split|pred
+split|two|in
+two|one|conj
+one|that|whn
+sell|one|subj
+sell|operating systems|obj
+operating systems|and|punc
+operating systems|another|conj
+develop|that|subj
+develop|and|punc
+develop|market|conj
+market|that|subj
+software|microsoft|gen
+software|popular|mod
+software|office|nn
+market|software|obj
+software|and|punc
+properties|internet|nn
+software|properties|conj
+judge|thomas penfield jackson|appo
+district|u.s.|nn
+thomas penfield jackson|district|of

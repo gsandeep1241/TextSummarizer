@@ -1,0 +1,51 @@
+car|old|mod
+car|dressed up|vrel
+dressed up|car|obj
+dressed up|look|mod
+lizard|frill-necked|mod
+look|lizard|like
+blocked|car|subj
+blocked|entrance|obj
+site|jabiluka|nn
+site|uranium|nn
+site|mine|nn
+entrance|site|to
+site|borders|inside
+borders|kakadu national park|of
+kakadu national park|friday|on
+protesters|opposed|vrel
+opposed|protesters|obj
+mine|uranium|nn
+opposed|mine|to
+chained|protesters|subj
+chained|themselves|obj
+4|car-lizard|mod
+4|about|num-mod
+chained|4|to
+spokeswoman|blockade|nn
+spokeswoman|kerry nettle|person
+resources|mine|mod
+resources|builder|nn
+resources|energy|nn
+resources|australia|of
+denied|resources|subj
+denied|mine|obj
+impact|adverse|mod
+impact|kakadu|on
+attack|firebomb|nn
+attack|caused|vrel
+caused|attack|obj
+caused|more|mod
+damage|100,000|num
+damage|australian dollars|nn
+more|damage|than
+caused|monday|mod
+office|darwin|nn
+caused|office|to
+office|company|of
+company|building|rel
+building|company|subj
+mine|controversial|mod
+mine|jabiluka|nn
+mine|uranium|nn
+building|mine|obj

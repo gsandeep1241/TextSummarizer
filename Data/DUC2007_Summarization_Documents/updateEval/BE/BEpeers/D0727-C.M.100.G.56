@@ -1,0 +1,49 @@
+session|today|gen
+reached|session|after
+session|report|rel
+report|session|obj
+report|mediator|subj
+report|court|to
+report|whether|c
+hit|gingriches|subj
+reached|impasse|subj
+reached|settlement|obj
+reached|or|punc
+reached|made|conj
+made|impasse|subj
+made|progress|obj
+agreement|divorce|nn
+progress|agreement|toward
+agreement|nov 23|on
+went|again|amod
+nov 23|went|rel
+went|marianne gingrich|subj
+went|court|fc
+court|nov 23|obj
+court|marianne gingrich|subj
+court|time|mod
+time|washington|in
+divorce|gingriches|gen
+second|newt gingrich|gen
+be|second|pred
+second|and|punc
+second|marianne gingrich|conj
+be|first|mod
+ordered|bisek|obj
+ordered|sit|mod
+sit|bisek|subj
+sit|deposition|for
+lawyers|marianne gingrich|gen
+deposition|lawyers|with
+settled|case|obj
+settled|before|mod
+before|happened|comp1
+happened|that|subj
+earns|what|obj
+earns|newt gingrich|subj
+plans|marianne gingrich|nn
+plans|continue|rel
+continue|plan|subj
+continue|her|obj
+work|plans|subj
+work|red cross|with

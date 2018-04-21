@@ -1,0 +1,62 @@
+adversary|powerful|mod
+is|adversary|pred
+pockets|deep|mod
+adversary|pockets|with
+is|not|mod
+not|deep|as
+deep|government|as
+government|but|punc
+government|deep|conj
+deep|enough|pnmod
+enough|wage|to
+fight|long|mod
+chooses|it|subj
+after|videotaped|comp1
+videotaped|showing|subj
+videotaped|testimony|obj
+bill gates|microsoft|nn
+bill gates|co-founder|nn
+testimony|bill gates|from
+alleges|government|subj
+alleges|that|c
+used|systematically|mod-before
+used|company|subj
+dominance|its|gen
+used|dominance|obj
+market|operating system|nn
+dominance|market|over
+computers|personal|nn
+market|computers|for
+thwart|illegally|amod
+computers|thwart|rel
+thwart|computer|subj
+thwart|competition|obj
+case|microsoft|nn
+case|warden|appo
+warden|noted|vrel
+noted|warden|obj
+focuses on|case|subj
+fights|company|gen
+focuses on|fights|obj
+fights|competitors|with
+competitive|highly|mod
+industry|competitive|mod
+industry|fast-moving|mod
+competitors|industry|in
+microsoft|and|punc
+trustbrusters|justice department|nn
+microsoft|trustbrusters|conj
+july 16|reach|rel
+reach|microsoft|subj
+reach|settlement|obj
+settlement|that|whn
+requires|settlement|subj
+requires|company|obj
+company|change|rel
+change|company|subj
+change|variety|obj
+practices|business|mod
+variety|practices|of
+change|including|mod
+aspects|key|mod
+including|aspects|obj

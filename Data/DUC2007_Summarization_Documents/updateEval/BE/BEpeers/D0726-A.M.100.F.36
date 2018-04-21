@@ -1,0 +1,66 @@
+president|al gore|person
+secured|in|mod-before
+secured|show|in
+force|political|mod
+show|force|of
+force|kick|rel
+kick|force|subj
+campaign|his|gen
+campaign|2000|num
+campaign|presidential|mod
+kick|campaign|off
+secured|president|subj
+secured|endorsements|obj
+secured|monday|guest
+leader|house|nn
+leader|minority|nn
+secured|leader|of
+leader|dick gephardt|person
+leader|and|punc
+stalwarts|party|nn
+leader|stalwarts|conj
+states|early|mod
+states|battleground|nn
+stalwarts|states|from
+states|new hampshire|of
+new hampshire|and|punc
+new hampshire|iowa|conj
+lawyer|san antonio|nn
+jose villarreal|lawyer|appo
+lawyer|serving as|rel
+serving as|lawyer|subj
+serving as|treasurer|obj
+campaign|president|gen
+president|al gore|person
+campaign|2000|num
+campaign|presidential|mod
+treasurer|campaign|of
+said|jose villarreal|subj
+said|monday|guest
+said|that|c
+work|he|subj
+work|make|mod
+make|he|subj
+make|sure|desc
+campaign|gore|nn
+fund|campaign|gen
+letter|`|punc
+letter|`|punc
+letter|and|punc
+letter|spirit|conj
+spirit|'|punc
+spirit|'|punc
+spirit|law|of
+president|al gore|person
+president|criticized|vrel
+criticized|president|obj
+having|not|amod
+criticized|having|for
+women|enough|mod
+having|women|obj
+inner circle|his|gen
+women|inner circle|in
+hired|president|subj
+strategist|veteran|mod
+strategist|female|mod
+hired|strategist|obj

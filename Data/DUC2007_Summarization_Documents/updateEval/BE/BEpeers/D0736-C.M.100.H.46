@@ -1,0 +1,57 @@
+lawsuit|accusing|rel
+accusing|lawsuit|subj
+accusing|oprah winfrey|obj
+pictures|her|in
+go|book|subj
+go|trial|to
+claims|winfrey|subj
+claims|paid|fc
+paid|she|subj
+paid|photographers|obj
+photographers|more|pnmod
+more|$250,000|than
+$250,000|license|for
+license|use|rel
+use|license|subj
+use|pictures|obj
+only|not|mod
+pictures|only|pnmod
+only|book|in
+use|anywhere|but
+anywhere|wants|rel
+wants|anywhere|obj
+wants|she|subj
+actor|veteran|mod
+actor|jack lemmon|person
+favorite|hollywood|nn
+actor|favorite|appo
+drew|actor|subj
+drew|standing ovation|obj
+drew|when|wha
+won|he|subj
+actor|best|mod
+won|actor|obj
+actor|miniseries|in
+miniseries|or|punc
+miniseries|movie|conj
+movie|oprah winfrey presents|for
+politician|first|post
+is|politician|pred
+politician|invited|vrel
+invited|politician|obj
+stage|television|nn
+invited|stage|to
+stage|oprah winfrey|of
+oprah winfrey|chicago|in
+extension|real-life|nn
+is|extension|pred
+extension|fantasy|of
+is|bestowing|mod
+bestowing|oprah|subj
+bestowing|gifts|obj
+audiences|her|gen
+audiences|television|nn
+gifts|audiences|on
+audiences|and|punc
+audiences|opportunities|conj
+opportunities|self-enhancement|for

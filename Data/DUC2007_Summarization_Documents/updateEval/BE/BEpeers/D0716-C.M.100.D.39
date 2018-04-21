@@ -1,0 +1,54 @@
+thousands|tourists|of
+visit|thousands|subj
+visit|park|obj
+visit|year|mod
+visit|200,000|about
+visit|tourists|subj
+visit|park|obj
+visit|year|mod
+government|australia|gen
+government|conservative|mod
+defied|government|subj
+body|u.n.|nn
+declaration|body|gen
+defied|declaration|obj
+declaration|that|c
+area|world heritage|nn
+is|area|pred
+area|declaring|by
+declaring|government|subj
+declaring|allow|fc
+allow|it|subj
+mining|uranium|nn
+allow|mining|obj
+mining|jabiluka|at
+jabiluka|park|within
+site|government-approved|mod
+site|mine|mod
+is|in|pred
+is|area|in
+area|surrounded|vrel
+surrounded|area|obj
+surrounded|by|by-subj
+kakadu national park|aboriginal-owned|mod
+surrounded|kakadu national park|by
+calling on|environmentalists|subj
+government|australian|mod
+approve|government|subj
+project|uranium|nn
+project|mining|nn
+approve|project|obj
+project|adjacent|pnmod
+adjacent|park|to
+rejected|government|subj
+concerns|their|gen
+concerns|environmental|mod
+rejected|concerns|obj
+rejected|saying|mod
+saying|government|subj
+saying|jobs|obj
+income|export|nn
+income|generated|rel
+project|mining|nn
+generated|project|from
+is|important|pred

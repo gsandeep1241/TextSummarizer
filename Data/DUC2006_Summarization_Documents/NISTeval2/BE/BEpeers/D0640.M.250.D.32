@@ -1,0 +1,145 @@
+commission|russian|mod
+commission|governmental|mod
+commission|accident|on
+kursk|submarine|mod
+accident|kursk|of
+kursk|sinking in|rel
+sinking in|kursk|subj
+sinking in|barents sea|obj
+rejected|commission|subj
+explanations|11|num
+explanations|original|mod
+rejected|explanations|obj
+explanations|disaster|for
+adviser|president|gen
+president|clinton|person
+adviser|national|mod
+adviser|security|nn
+adviser|samuel berger|appo
+provided|adviser|subj
+counterpart|his|gen
+counterpart|russian|mod
+provided|counterpart|obj
+summary|written|mod
+summary|what|of
+officials|intelligence|nn
+kursk|nuclear-powered submarine|nn
+kursk|sink|rel
+sink|kursk|subj
+last|kursk|subj
+last|month|mod
+divers|norwegian|mod
+opened|divers|subj
+hatch|inner|mod
+opened|hatch|obj1
+russian|sunken|nn
+hatch|russian|of
+kursk|nuclear-powered submarine|nn
+unit|kursk|gen
+unit|ninth|mod
+opened|unit|obj2
+deputy|russian|mod
+deputy|prime|person
+said|ilya klebanov|subj
+said|that|c
+object|big|mod
+collision|object|with
+caused|collision|subj
+submarine|kursk|nn
+submarine|nuclear|mod
+caused|submarine|obj
+submarine|sink|rel
+sink|submarine|subj
+sink|bottom|to
+bottom|barents sea|of
+deputy|russian|mod
+deputy|prime|person
+ilya klebanov|who|whn
+leads|ilya klebanov|subj
+commission|government|nn
+leads|commission|obj
+commission|probing|rel
+probing|commission|subj
+probing|incident|obj
+said|ilya klebanov|subj
+said|that|c
+object|heavy|mod
+collision|object|with
+caused|collision|subj
+submarine|kursk|nn
+submarine|nuclear|mod
+caused|submarine|obj
+submarine|sink|rel
+sink|submarine|subj
+sink|bottom|to
+bottom|barents sea|of
+general|russian|mod
+claimed|general|subj
+kursk|rescuers|nn
+kursk|wrecked|mod
+kursk|nuclear|mod
+kursk|submarine|nn
+claimed|resembled|fc
+resembled|kursk|subj
+resembled|equipment|obj
+submarine|other|mod
+was|memphis|pred
+submarine|nuclear-powered|mod
+submarine|attack|nn
+memphis|submarine|conj
+submarine|based|vrel
+based|groton|in
+submarine|and|punc
+submarine|one|conj
+submarines|two|nn
+submarines|american|mod
+one|submarines|of
+submarines|spying|rel
+spying|submarine|subj
+russian|largest|mod
+exercise|russian|mod
+exercise|naval|mod
+spying|exercise|on
+exercise|years|in
+spying|when|wha
+struck|disaster|subj
+struck|kursk|obj
+kursk|morning|on
+chief|russian northern fleet mikhail motsak|of
+confirmed|officially|mod-before
+confirmed|chief|subj
+confirmed|death|obj
+submarine|kursk|nn
+submarine|nuclear|mod
+death|submarine|aboard
+meeting|russians|between
+russians|and|punc
+delegates|nato|nn
+russians|delegates|conj
+delegates|brussels|in
+include|meeting|subj
+link-up|telephone|nn
+include|link-up|obj
+link-up|british|with
+rescue|submarine|subj
+rescue|experts|obj
+experts|morthwood|in
+morthwood|and|punc
+discussion|wider|mod
+morthwood|discussion|conj
+discussion|angle|about
+rescue|which|at
+was|lying|pred
+lying|seabed|on
+seabed|water|conj
+water|and|punc
+conditions|weather|mod
+water|conditions|conj
+conditions|and|punc
+matters|other|mod
+matters|organizational|mod
+organizational|and|punc
+organizational|technical|conj
+conditions|matters|conj
+officials|russian|mod
+assertions|officials|gen

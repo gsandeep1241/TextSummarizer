@@ -1,0 +1,154 @@
+vouchers|new|mod
+vouchers|u.s.|nn
+vouchers|federal|mod
+vouchers|housing|nn
+vouchers|assistance|nn
+created|vouchers|obj
+created|1994|after
+number|people|of
+people|making|rel
+making|people|subj
+making|$12,000|obj
+number|or|punc
+exceeded|less|mod
+number|exceeded|conj
+units|low-rent|mod
+number|units|of
+units|4.4 million|by
+renters|two|nn
+renters|low-income|mod
+were|renters|pred
+unit--|low-cost|mod
+renters|unit--|for
+unit--|west|in
+west|closer|pnmod
+closer|three|to
+people|10|num
+eight|people|out of
+line|federal|mod
+line|poverty|nn
+people|line|below
+line|many|appo
+wage|minimum|nn
+many|wage|on
+pay|eight|subj
+30|more than|num-mod
+pay|30|obj
+income|their|gen
+income|rent|for
+poor|all|mod
+more|poor|mod
+more|renters|nn
+more|spent|mod
+three-fifths|more|of
+income|their|gen
+income|rent|on
+paying|1997 5.4 million|subj
+paying|more|mod
+more|50%|than
+50%|income|of
+income|housing|for
+created|1998|in
+1998|90,000|num
+vouchers|new|mod
+vouchers|rent|nn
+created|vouchers|obj
+subsidy|$283 million|nn
+subsidy|rent|nn
+seekers|50,000|num
+seekers|welfare|mod
+seekers|job|nn
+subsidy|seekers|for
+concentrations|large|mod
+were|concentrations|pred
+poor|extremely|mod
+people|poor|mod
+concentrations|people|of
+projects|dysfunctional|mod
+projects|public|mod
+projects|housing|nn
+people|projects|in
+bring in|families|obj
+families|earning|rel
+earning|family|subj
+earning|more|obj
+suspended|preferences|obj
+suspended|homeless|for
+homeless|people|conj
+people|spending|rel
+spending|people|subj
+spending|more|obj
+more|50%|than
+50%|income|of
+income|housing|on
+victims|domestic|mod
+victims|violence|nn
+housing|victims|conj
+victims|and|punc
+victims|people|conj
+people|displaced|vrel
+displaced|people|obj
+displaced|by|by-subj
+action|government|nn
+displaced|action|by
+action|which|whn
+took|action|subj
+took|units|obj
+units|away|pnmod
+families|poorest|mod
+away|families|from
+prices|real estate|nn
+rising|prices|obj
+governments|local|nn
+increased|governments|subj
+increased|construction|obj
+construction|and|punc
+construction|sale|conj
+sale|low|of
+low|and|punc
+housing|moderate-income|mod
+low|housing|conj
+trusts|lucrative|mod
+trusts|real estate|nn
+trusts|investment|nn
+arose|trusts|subj
+fund|privately|amod
+arose|fund|mod
+fund|trust|subj
+projects|low-income|mod
+projects|housing|nn
+fund|projects|obj
+budget|$25 billion|nn
+budget|fy1999|nn
+budget|housing|nn
+provided|budget|subj
+provided|$1.8 billion|obj
+vouchers|new|mod
+$1.8 billion|vouchers|in
+vouchers|and|punc
+vouchers|$822 million|conj
+$822 million|construction|for
+construction|and|punc
+construction|rehabilitation|conj
+units|apartment|nn
+rehabilitation|units|of
+units|and|punc
+subsidies|rent|nn
+units|subsidies|conj
+subsidies|low-income|for
+increased|2000|in
+subsidies|federal|mod
+subsidies|rent|nn
+increased|subsidies|subj
+increased|40%|from
+40%|50%|to
+increased|adding|mod
+adding|subsidy|subj
+units|1.4 million|amount-value
+adding|units|obj
+adding|nationwide|mod
+used|vouchers|obj
+used|pay|mod
+pay|voucher|subj
+mortgages|home|nn
+pay|mortgages|obj

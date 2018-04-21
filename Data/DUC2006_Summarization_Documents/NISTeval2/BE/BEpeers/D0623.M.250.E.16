@@ -1,0 +1,164 @@
+police|thai|mod
+vow|police|subj
+vow|enforce|fc
+enforce|police|subj
+laws|anti-smoking|mod
+enforce|laws|obj
+laws|enacted|rel
+enacted|jordan|subj
+law|banning|rel
+banning|law|subj
+banning|smoking|obj
+places|public|mod
+smoking|places|in
+places|but|punc
+places|people|conj
+enacted|ignore|fc
+ignore|laws|obj
+ignore|law|subj
+xinhua|june 6|nn
+xinhua|(|punc
+johannesburg|xinhua|appo
+smokers|south africa|across
+hounded|soon|guest
+hounded|smokers|obj
+places|public|mod
+hounded|places|out of
+hounded|because|mod
+clamp-down|tough|mod
+clamp-down|smoking|on
+smoking|shops|in
+shops|and|punc
+shops|banks|conj
+because|imposed|comp1
+imposed|clamp-down|obj
+paper|saturday|nn
+paper|star|nn
+reported|paper|subj
+imposed|reported|mod
+xinhua|october 30|nn
+xinhua|(|punc
+here|iranian|mod
+here|cabinet|mod
+approved|wednesday|subj
+approved|bill|obj
+bill|prohibiting|rel
+prohibiting|bill|subj
+prohibiting|smoking|obj
+places|public|mod
+smoking|places|in
+places|move|in
+move|intensify|rel
+intensify|move|subj
+campaign|its|gen
+campaign|nationwide|mod
+campaign|anti-smoking|mod
+intensify|campaign|obj
+believe|we|subj
+number|cities|of
+cities|and|punc
+cities|province|conj
+province|banning|rel
+banning|province|subj
+banning|smoking|obj
+places|public|mod
+smoking|places|at
+believe|go|fc
+go|number|subj
+go|higher|mod
+go|soon|mod
+go|because|mod
+country|whole|mod
+because|promoting|comp1
+promoting|country|subj
+drive|anti-smoking|mod
+promoting|drive|obj
+drive|"|punc
+drive|han changlin|appo
+vice-president|association|of
+association|told|vrel
+told|association|obj1
+told|xinhua|obj2
+told|today|mod
+ruled out|influence|but
+influence|smoking|of
+places|public|mod
+ban|places|in
+cities|26|num
+places|cities|in
+cities|country|throughout
+ruled out|ban|obj
+added|official|subj
+xinhua|february 5|nn
+xinhua|(|punc
+bonn|xinhua|appo
+parliament|german|mod
+rejected|thursday|mod-before
+rejected|parliament|subj
+bill|tough|mod
+bill|anti-smoking|mod
+rejected|bill|obj
+bill|which|whn
+tried|bill|subj
+tried|make|fc
+make|parliament|subj
+places|public|mod
+make|places|obj
+places|buses|conj
+buses|and|punc
+places|working|mod
+buses|places|conj
+places|free|pnmod
+free|smoking|of
+smoking|germany|in
+regulation|referring to|rel
+referring to|regulation|obj
+referring to|she|subj
+took effect|which|subj
+took effect|today|mod
+smoking|bans|nn
+places|public|mod
+smoking|places|in
+local|smoking|rel
+smoking|local|subj
+smoking|ban|obj
+go into|local|subj
+go into|effect|obj
+go into|tomorrow|mod
+signs|smoking|mod
+signs|"|punc
+signs|and|punc
+slogans|admonitory|mod
+signs|slogans|conj
+seen|signs|obj
+streets|major|mod
+seen|streets|on
+on|at|conj
+areas|busy|mod
+areas|shopping|nn
+on|areas|at
+at|and|punc
+at|in|conj
+places|public|mod
+at|places|in
+places|beijing|in
+sign|and|punc
+sign|others|conj
+placed|sign|obj
+locations|easy-to-see|mod
+placed|locations|in
+streets|major|mod
+locations|streets|on
+on|in|conj
+areas|busy|mod
+areas|shopping|nn
+on|areas|in
+in|and|punc
+in|in|conj
+places|public|mod
+in|places|in
+places|city|around
+adds|ruling|subj
+adds|caution|obj
+laws|anti-smoking|mod
+caution|laws|to

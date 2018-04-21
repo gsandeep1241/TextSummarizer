@@ -1,0 +1,145 @@
+governor|illinois|of
+done|governor|subj
+done|so|obj
+state|george w. bush|gen
+so|state|in
+nominee|presumed|mod
+nominee|republican|mod
+nominee|presidential|mod
+bush|nominee|appo
+made|bush|subj
+remark|dna|nn
+made|remark|obj
+remark|teleconference|during
+teleconference|austin|from
+organization|catholic|nn
+organization|journalists|nn
+austin|organization|with
+organization|meeting|rel
+meeting|organization|subj
+meeting|in|guest
+meeting|baltimore|in
+150|another|num-mod
+people|150|nn
+meeting|people|obj
+people|protested|vrel
+protested|people|obj
+mansion|governor|gen
+protested|mansion|outside
+mansion|austin|in
+because|is|comp1
+is|now|guest
+nominee|presumptive|mod
+nominee|republican|mod
+is|nominee|pred
+nominee|president|for
+actions|richard a. oppel jr.|gen
+actions|governor|as
+are|under|pred
+intense|more|mod
+scrutiny|intense|mod
+are|scrutiny|under
+scrutiny|_|punc
+scrutiny|none|appo
+so|more|mod
+none|so|guest
+enforcement|his|gen
+enforcement|vigorous|mod
+none|enforcement|than
+penalty|death|nn
+enforcement|penalty|of
+doing|only|amod
+doing|george w. bush|subj
+state|his|gen
+people|state|in
+state|expected|vrel
+expected|state|obj
+expected|just|mod
+just|president|as
+president|bill clinton|person
+did|what|obj
+did|people|subj
+did|when|wha
+was|governor|pred
+governor|arkansas|of
+office|bush|gen
+but|said|comp1
+said|office|subj
+said|have|fc
+have|george w. bush|subj
+have|authority|obj
+change|independently|amod
+authority|change|rel
+change|authority|subj
+sentences|death|nn
+change|sentences|obj
+sentences|or|punc
+executions|stop|nn
+sentences|executions|conj
+campaigns|bush|nn
+scheduled|campaigns|as
+nomination|republican|mod
+nomination|presidential|mod
+campaigns|nomination|for
+nomination|iowa|in
+iowa|and|punc
+iowa|new hampshire|conj
+inmates|seven|nn
+inmates|texas|nn
+scheduled|inmates|obj
+scheduled|put|mod
+put|death|to
+put|including|mod
+including|one|obj
+one|who|whn
+committed|one|subj
+crime|george w. bush|gen
+committed|crime|obj
+crime|17-year-old|as
+helped|bush|for
+punishment|capital|nn
+helped|punishment|subj
+george w. bush|politician|as
+said|bush|subj
+said|supports|fc
+supports|george w. bush|subj
+penalty|death|nn
+supports|penalty|obj
+supports|and|punc
+supports|believe|conj
+believe|george w. bush|subj
+person|innocent|mod
+believe|executed|fc
+executed|person|obj
+executed|texas|in
+administration|his|gen
+texas|administration|during
+said|bush|subj
+president|gore|person
+supporter|death penalty|nn
+president|supporter|appo
+said|has|fc
+has|president|subj
+has|nothing|obj
+nothing|gain|rel
+gain|nothing|subj
+speaking|out|mod
+law|texas|nn
+accept|law|under
+accept|bush|subj
+recommendations|board|nn
+accept|recommendations|obj
+recommendations|pardon|rel
+pardon|recommendation|subj
+pardon|graham|obj
+pardon|or|punc
+pardon|commute|conj
+commute|recommendation|subj
+sentence|his|gen
+commute|sentence|obj
+george w. bush|and|punc
+george w. bush|it|conj
+george w. bush|(|punc
+george w. bush|republican party|appo
+care|)|punc
+care|george w. bush|subj

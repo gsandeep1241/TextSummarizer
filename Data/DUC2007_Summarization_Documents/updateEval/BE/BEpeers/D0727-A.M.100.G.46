@@ -1,0 +1,65 @@
+marriage|gingrich|gen
+marriage|second|post
+is|marriage|pred
+attorney|newt gingrich|gen
+attorney|randolph evans|appo
+denied|attorney|subj
+denied|allegation|obj
+denied|and|punc
+denied|said|conj
+said|attorney|subj
+handled|always|amod
+said|handled|fc
+handled|marianne gingrich|subj
+money|couple|gen
+handled|money|obj
+have|even|amod
+have|newt gingrich|subj
+have|checkbook|obj
+gives|it|subj
+gives|them|obj1
+gives|support|obj2
+support|live|rel
+live|support|subj
+live|off|mod
+said|randy evans|subj
+have|gingrich|subj
+deal|divorce|nn
+have|deal|obj
+office|gingrich|gen
+calls|office|to
+office|and|punc
+house|mrs.gingrich|gen
+office|house|conj
+went|calls|subj
+went|unanswered|desc
+went|late|mod
+newt gingrich|and|punc
+aide|congressional|mod
+newt gingrich|aide|conj
+aide|named|vrel
+named|aide|obj
+case|his|gen
+case|divorce|nn
+named|case|in
+trying|newt gingrich|subj
+trying|keep|fc
+keep|newt gingrich|subj
+keep|lawyers|obj
+wife|gingrich|gen
+lawyers|wife|for
+wife|finding out|from
+finding out|details|obj
+relationship|their|gen
+details|relationship|of
+counterclaim|her|gen
+accuses|counterclaim|in
+petition|gingrich|gen
+petition|july 29|nn
+petition|divorce|nn
+counterclaim|petition|to
+accuses|marianne gingrich|subj
+husband|her|gen
+accuses|husband|obj
+husband|transferring|of
+transferring|marianne gingrich|subj

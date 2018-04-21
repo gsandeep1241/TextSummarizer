@@ -1,0 +1,59 @@
+seriously|most|mod
+devastated|seriously|mod
+province|devastated|mod
+is|province|pred
+is|after|mod
+quake|monster|nn
+after|hit|comp1
+hit|quake|subj
+turkey|western|mod
+hit|turkey|obj
+bruce presgrave|geophysicist|appo
+geophysicist|u.s geological survey national earthquake information center|with
+u.s geological survey national earthquake information center|golden|in
+said|bruce presgrave|subj
+said|is|fc
+is|common|pred
+earthquakes|large|mod
+common|earthquakes|for
+earthquakes|occur|rel
+occur|earthquake|subj
+surges|multiple|mod
+occur|surges|in
+succession|rapid|mod
+surges|succession|in
+minister|turkey|gen
+minister|prime|mod
+promised|minister|subj
+building|stricter|mod
+promised|building|obj1
+promised|rules|obj2
+rules|prevent|rel
+prevent|rule|subj
+prevent|any|obj
+any|more|pnmod
+construction|shoddy|mod
+more|construction|of
+construction|blamed|vrel
+blamed|construction|obj
+blamed|thousands|for
+thousands|deaths|of
+earthquake|last week|gen
+earthquake|massive|mod
+deaths|earthquake|from
+days|eight|amount-value
+temblor|powerful|mod
+temblor|7.4-magnitude|mod
+days|temblor|after
+reduced|days|subj
+swath|wide|mod
+reduced|swath|obj
+turkey|western|mod
+swath|turkey|of
+turkey|rubble|to
+said|searchers|subj
+held out|still|mod-before
+said|held out|fc
+held out|they|subj
+held out|hopes--|obj
+held out|though|mod

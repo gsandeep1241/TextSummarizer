@@ -1,0 +1,65 @@
+speaker|former|mod
+speaker|house|nn
+speaker|newt gingrich|person
+filed for|speaker|subj
+filed for|divorce|obj
+wife|his|gen
+divorce|wife|from
+years|18|amount-value
+wife|years|of
+filed for|saying|mod
+saying|speaker|subj
+marriage|his|gen
+broken|`|punc
+broken|`|punc
+broken|irretrievably|amod
+saying|broken|fc
+broken|marriage|obj
+newt gingrich|and|punc
+aide|congressional|mod
+newt gingrich|aide|conj
+aide|named|vrel
+named|aide|obj
+case|his|gen
+case|divorce|nn
+named|case|in
+trying|newt gingrich|subj
+trying|keep|fc
+keep|newt gingrich|subj
+keep|lawyers|obj
+wife|gingrich|gen
+lawyers|wife|for
+wife|finding out|from
+finding out|details|obj
+relationship|their|gen
+details|relationship|of
+lawyers|divorce|nn
+wife|newt gingrich|gen
+lawyers|wife|for
+subpoenaed|lawyers|subj
+subpoenaed|cards|obj
+cards|e-mail|conj
+records|phone|nn
+e-mail|records|conj
+records|and|punc
+documents|other|mod
+records|documents|conj
+documents|woman|from
+woman|who|whn
+linked|romantically|amod
+linked|woman|obj
+speaker|former|mod
+speaker|house|nn
+linked|speaker|to
+wife|estranged|mod
+wife|newt gingrich|of
+wants|wife|subj
+judge|cobb county|subj
+judge|freeze|mod
+freeze|cobb county|subj
+assets|couple|gen
+freeze|assets|obj
+freeze|until|mod
+divorce|their|gen
+until|is|comp1
+is|final|pred

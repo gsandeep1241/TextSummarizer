@@ -1,0 +1,59 @@
+george w. bush|gov.|title
+george w. bush|texas|of
+republican|likely|mod
+candidate|republican|mod
+texas|candidate|appo
+said|george w. bush|subj
+said|that|c
+enforce|president|as
+enforce|"|punc
+enforce|fully|punc
+enforce|he|subj
+enforce|antitrust laws|obj
+enforce|"|punc
+enforce|but|punc
+would|not|neg
+enforce|discuss|conj
+discuss|he|subj
+discuss|specifics|obj
+specifics|case|of
+discuss|because|mod
+because|remained|comp1
+remained|it|subj
+remained|litigation|in
+remained|and|punc
+remained|appealed|conj
+appealed|it|obj
+appealed|by|by-subj
+appealed|microsoft|by
+calls|justice department|subj
+calls|for|mod
+breaking|justice department|subj
+be|microsoft|up
+breaking|be|fc
+be|agency|pred
+for|'s|comp1
+'s|first|guest
+action|such|pre
+'s|action|pred
+suit|1974|num
+suit|antitrust|mod
+action|suit|since
+suit|att corp.|against
+att corp.|that|whn
+led to|att corp.|subj
+led to|breakup|obj
+giant|telephone|nn
+breakup|giant|of
+stated|them|among
+stated|company|subj
+stated|that|c
+broken up|never|amod
+broken up|courts|subj
+broken up|company|obj
+violations|antitrust|mod
+company|violations|for
+breakups|previous|mod
+all|breakups|of
+been|result|pred
+result|settlements|of

@@ -1,0 +1,147 @@
+president|clinton|person
+admit|president|subj
+admit|committed perjury|fc
+committed perjury|he|subj
+committed perjury|when|wha
+said|he|subj
+said|had|fc
+had|he|subj
+relationship|sexual|mod
+had|relationship|obj
+relationship|monica s. lewinsky|with
+vote|they|subj
+vote|impeachment|against
+even if|lie|comp1
+lie|clinton|subj
+lie|deposition|in
+deposition|that|whn
+does|not|neg
+mean|necessarily|amod
+mean|deposition|subj
+mean|committed perjury|fc
+committed perjury|he|subj
+charged|clinton|obj
+charged|perjury|with
+perjury|based|vrel
+based|perjury|obj
+based|testimony|on
+witness|single|mod
+witness|contradictory|mod
+testimony|witness|of
+said|democrats|subj
+case|perjury|nn
+case|president|against
+said|comes|fc
+comes|case|subj
+comes|down|mod
+to|whether|c
+touched|clinton|subj
+touched|lewinsky|obj
+manner|certain|mod
+lewinsky|manner|in
+said|clinton|subj
+said|that|c
+statement|his|gen
+was|`|punc
+was|`|punc
+accurate|legally|mod
+was|accurate|pred
+was|'|punc
+was|'|punc
+was|because|mod
+relations|sexual|mod
+definition|relations|of
+relations|used|vrel
+used|relations|obj
+case|jones|nn
+used|case|in
+because|was|comp1
+was|limited|pred
+said|point|at
+deposition|jones|nn
+point|deposition|in
+said|clinton|subj
+had|never|amod
+had|i|subj
+relations|sexual|mod
+had|relations|obj
+relations|monica lewinsky|with
+contradicted|that|subj
+answers|his|gen
+contradicted|answers|obj
+answers|questions|to
+deposition|his|gen
+deposition|sworn|mod
+questions|deposition|in
+case|jones|nn
+deposition|case|in
+being|alone|pred
+lewinsky|ms.|title
+alone|lewinsky|with
+heart|case|of
+case|president|against
+is|allegation|pred
+allegation|that|c
+lied|clinton|subj
+jury|grand|nn
+lied|jury|before
+lied|when|wha
+said|he|subj
+testimony|his|gen
+civil|earlier|mod
+case|civil|mod
+testimony|case|in
+said|was|fc
+was|truthful|pred
+judge|district|mod
+judge|walter l. nixon|person
+judge|mississippi|of
+mississippi|charged|pnmod
+charged|lying|with
+jury|federal|mod
+jury|grand|nn
+lying|jury|to
+washington|_|punc
+judge|federal|mod
+washington|judge|appo
+judge|monday|person
+judge|found|vrel
+found|judge|obj1
+found|president|obj2
+president|clinton|person
+contempt of court|civil|mod
+president|contempt of court|in
+contempt of court|lying|for
+lying|deposition|in
+deposition|nature|about
+relationship|his|gen
+relationship|sexual|mod
+nature|relationship|of
+monica s. lewinsky|former|mod
+monica s. lewinsky|white house|nn
+monica s. lewinsky|intern|nn
+relationship|monica s. lewinsky|with
+even if|lie|comp1
+lie|president|subj
+lie|oath|under
+relationship|sexual|mod
+oath|relationship|about
+grounds|insufficient|mod
+is|grounds|pred
+grounds|impeachment|for
+laws|federal|mod
+laws|perjury|nn
+require|laws|subj
+require|prosecutors|obj
+prosecutors|prove|rel
+prove|prosecutor|subj
+prove|that|c
+lied|`|punc
+lied|`|punc
+lied|knowingly|mod-before
+lied|'|punc
+lied|'|punc
+lied|offenders|subj
+lied|oath|under
+oath|and|punc
+oath|that|conj

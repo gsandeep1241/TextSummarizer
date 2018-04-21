@@ -1,0 +1,16 @@
+manual check of 5 lines in 2006_modified_scores.txt, plus all 0 scores
+
+1. line 111	OKAY
+D0615       1       0.08    2       1       105     S       5       5      5        4       5       1
+
+2. line 320	OKAY
+D0631       25      0.337   12      7       114     I       4       4      4        5       2       2
+
+3. line 97	OKAY	
+D0614        22      0.1905  6       6       104     L       5       3      4        2       2       3
+
+4. line 10	OKAY
+D0601        23      0.2184  7       3       100     V       4       4      3        2       2       3
+
+5. line 286	OKAY
+D0629       8       0.2683  6       2       112     V       1       2      1        5       1       3

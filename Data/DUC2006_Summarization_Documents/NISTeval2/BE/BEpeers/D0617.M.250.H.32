@@ -1,0 +1,140 @@
+retrieved|submarine|subj
+recorder|flight|nn
+recorder|data|nn
+retrieved|recorder|obj
+piece|crucial|mod
+bringing|piece|obj
+piece|evidence|of
+hope|investigators|nn
+reveal|hope|subj
+reveal|crashed|fc
+crashed|egyptair flight 990|subj
+investigators|aided|vrel
+aided|investigators|obj
+pored over|investigators|subj
+recorder|cockpit|nn
+recorder|voice|nn
+pored over|recorder|obj
+recorder|egyptair flight 990|of
+egyptair flight 990|try|rel
+try|egyptair flight 990|subj
+try|determine|fc
+determine|investigator|subj
+determine|whether|c
+act|criminal|mod
+caused|act|subj
+caused|plane|obj
+plane|crash|rel
+crash|plane|subj
+crash|two weeks ago|obj
+two weeks ago|killing|rel
+killing|two weeks ago|subj
+killing|all|guest
+people|217|num
+killing|people|obj
+been|unable|pred
+unable|conclude|fc
+conclude|it|subj
+caused|what|subj
+caused|crash|obj
+crash|egyptair flight 990|of
+carrier|egyptair|gen
+carrier|national|mod
+flight 990|carrier|of
+off|john f. kennedy international airport|from
+route|new york|nn
+route|(|punc
+route|)|punc
+route|en|nn
+john f. kennedy international airport|route|in
+route|cairo|to
+is|transcript|pred
+transcript|translated|vrel
+translated|transcript|obj
+minutes|final|mod
+minutes|two|amount-value
+translated|minutes|of
+conversation|taped|mod
+conversation|cockpit|nn
+minutes|conversation|of
+conversation|egyptair flight 990|of
+egyptair flight 990|crashed|rel
+crashed|egyptair flight 990|obj
+crashed|it|subj
+investigators|u.s.|nn
+investigators|probing|rel
+probing|investigator|subj
+probing|egyptair flight 990|obj
+crash|investigators|subj
+pilots|interview|nn
+crash|pilots|obj
+officials|egyptian|mod
+officials|aviation|nn
+demanded|officials|subj
+demanded|provide|fc
+provide|united states|subj
+information|detailed|mod
+information|radar|nn
+provide|information|obj
+crash|egyptair flight 990|nn
+information|crash|on
+crash|explain|rel
+explain|crash|subj
+images|high-speed|mod
+images|radar|nn
+explain|images|obj
+crashed|egyptair flight 990|subj
+crashed|atlantic|into
+airport|new york|nn
+atlantic|airport|from
+crashed|killing|mod
+killing|egyptair flight 990|subj
+people|217|num
+killing|people|obj
+release|public|mod
+release|reports|of
+reports|compiling|rel
+compiling|report|subj
+compiling|facts|obj
+crash|egyptair flight 990|nn
+facts|crash|in
+step|routine|mod
+is|step|pred
+step|but|punc
+step|one|conj
+one|likely|pnmod
+likely|fan|to
+dispute|international|mod
+caused|what|subj
+last|tragedy|nn
+caused|last|obj
+fan|fall|rel
+fall|fan|obj
+fall|dispute|subj
+coast|new england|nn
+fall|coast|off
+investigators|u.s.|nn
+continuing|investigators|subj
+continuing|search|obj
+recorder|cockpit|nn
+recorder|voice|nn
+search|recorder|for
+depths|ocean|nn
+recorder|depths|from
+depths|where|wha
+767-300|boeing|nn
+767-300|egyptair flight 990|on
+crashed|767-300|subj
+official|senior|mod
+official|u.s.|nn
+raised|official|subj
+raised|possibility|obj
+possibility|egyptair flight 990|of
+crashed|egyptair flight 990|subj
+crashed|atlantic|into
+coast|united states|nn
+atlantic|coast|off
+crashed|shortly|mod
+shortly|taking off|after
+taking off|egyptair flight 990|subj
+taking off|new|from

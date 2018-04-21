@@ -1,0 +1,48 @@
+judge|u.s.|nn
+judge|federal|mod
+ordered|judge|subj
+ordered|wednesday|guest
+ordered|microsoft corp.|obj
+be|split|pred
+companies|two|nn
+companies|separate|mod
+split|companies|in
+companies|correct|rel
+correct|company|subj
+violations|antitrust|mod
+correct|violations|obj
+judge|district court|nn
+judge|thomas penfield jackson|person
+gone along|judge|subj
+recommendation|government|nn
+gone along|recommendation|with
+giant|software|nn
+be|split|pred
+split|two|in
+two|one|conj
+one|that|whn
+sell|one|subj
+sell|operating systems|obj
+operating systems|and|punc
+operating systems|another|conj
+develop|that|subj
+develop|and|punc
+develop|market|conj
+market|that|subj
+software|microsoft|gen
+software|popular|mod
+software|office|nn
+market|software|obj
+software|and|punc
+properties|internet|nn
+software|properties|conj
+upheld|judgment|obj
+penalty|harshest|mod
+penalty|antitrust|mod
+be|penalty|pred
+penalty|leveled|vrel
+leveled|penalty|obj
+corporation|u.s.|nn
+leveled|corporation|against
+leveled|since|mod
+since|&t agreed to spin off the "baby bell" regional phone companies in 1982.|at

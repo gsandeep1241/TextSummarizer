@@ -1,0 +1,65 @@
+discovered|oprah winfrey|subj
+discovered|lamb|obj
+discovered|time|mod
+discovered|after|mod
+after|published|comp1
+published|he|subj
+book|his|gen
+book|first|post
+published|book|obj
+'s|come undone|pred
+come undone|"|punc
+come undone|which|whn
+became|come undone|subj
+bestseller|monster|nn
+became|bestseller|obj
+on|"|punc
+over|oprah|on
+says|winfrey|subj
+believe|what|obj
+believe|i|subj
+is|that|c
+looking|all|amod
+looking|we|subj
+looking|something|for
+makes|it|subj
+makes|sense|obj
+sense|that|c
+film|latest|mod
+series|her|gen
+series|"|punc
+series|oprah winfrey presents|nn
+series|"|punc
+film|series|in
+is|"|punc
+is|david|pred
+david|and|punc
+david|lisa|conj
+two|1962|num
+two|film|nn
+two|about|num-mod
+remake|two|of
+disturbed|emotionally|mod-before
+disturbed|remake|subj
+disturbed|teen-agers|obj
+teen-agers|who|whn
+meet|teen-agers|subj
+meet|institution|at
+meet|and|punc
+meet|form|conj
+form|teen-agers|subj
+friendship|tentative|mod
+friendship|healing|nn
+form|friendship|obj
+is|extension|like
+oprah winfrey show|"|punc
+extension|oprah winfrey show|of
+is|television|pred
+television|therapy|as
+david|and|punc
+david|lisa|conj
+comes from|"|punc
+comes from|david|subj
+comes from|oprah winfrey|obj
+oprah winfrey|who|whn
+joins|oprah winfrey|subj

@@ -1,0 +1,148 @@
+impetus|record|rel
+record|impetus|subj
+record|information|obj
+information|aid|rel
+aid|information|subj
+investigators|crash|nn
+aid|investigators|obj
+came from|impetus|subj
+came from|national transportation safety board|obj
+national transportation safety board|which|whn
+recommended|national transportation safety board|subj
+recommended|in|guest
+recommended|1997|in
+recommended|that|c
+develop|automakers|subj
+develop|onboard|obj
+devices|collision-sensing|nn
+devices|and-recording|mod
+reports|aaa new jersey automobile club|nn
+reports|that|c
+60 percent|children|of
+killed|reports|obj
+killed|60 percent|subj
+accidents|automobile|nn
+killed|accidents|in
+wearing|reports|subj
+belts|seat|nn
+wearing|belts|obj
+most|http://nhtsa.dot.gov|nn
+most|data|of
+data|that|c
+gives|data|obj
+gives|system|subj
+gives|crash|mod
+crash|system|subj
+crash|investigators|obj
+isn|new|pred
+information|such|pre
+used|information|obj
+used|decades|for
+decades|reconstruct|rel
+reconstruct|decade|subj
+reconstruct|accidents|obj
+reconstruct|said|mod
+said|phil haseltine|subj
+phil haseltine|president|appo
+president|automotive coalition for traffic safety|of
+funded|auto-industry|subj
+funded|group|obj
+said|hall|subj
+tests|crash|nn
+tests|that|c
+pass|tests|obj
+pass|automakers|subj
+compliance|federal|mod
+compliance|safety|nn
+pass|compliance|for
+said|include|fc
+include|tests|subj
+dummies|child|nn
+include|dummies|obj
+seats|back|nn
+dummies|seats|in
+seats|learn|rel
+learn|seat|subj
+well|how|mod
+learn|protect|fc
+protect|vehicles|subj
+protect|them|obj
+protect|head|from
+head|and|punc
+injuries|neck|nn
+head|injuries|conj
+manufacturers|auto|nn
+reacted|manufacturers|subj
+reacted|coolly|mod
+coolly|advisory|to
+advisory|national highway traffic safety administration|from
+reacted|saying|mod
+saying|manufacturer|subj
+bags|side|nn
+bags|air|nn
+bags|used|vrel
+used|conjunction|in
+restraints|age-appropriate|mod
+conjunction|restraints|with
+enhance|significantly|amod
+saying|enhance|fc
+enhance|bags|subj
+enhance|safety|obj
+recommend|only|amod
+recommend|board|subj
+initiatives|auto|nn
+initiatives|safety|nn
+recommend|initiatives|obj
+recommendations|its|gen
+carry|recommendations|subj
+weight|great|mod
+carry|weight|obj
+weight|federal government|within
+decided|it|subj
+decided|build|fc
+build|it|subj
+build|large|guest
+facilities|scale|nn
+facilities|simulation|nn
+build|facilities|obj
+facilities|carry out|rel
+carry out|facility|subj
+tests|collision|nn
+carry out|tests|obj
+carry out|and|punc
+carry out|promote|conj
+promote|facility|subj
+promote|production|obj
+systems|automobile|nn
+systems|safety|nn
+production|systems|of
+standards|new|mod
+require|standards|under
+require|national highway traffic safety administration|subj
+bags|air|nn
+require|bags|obj
+bags|protect|rel
+protect|bag|subj
+occupants|vehicle|nn
+protect|occupants|obj
+test|25|num
+test|mph|nn
+test|crash|nn
+occupants|test|in
+test|level|conj
+level|supported|vrel
+supported|level|obj
+supported|by|by-subj
+supported|automakers|by
+automakers|rather|punc
+automakers|than|punc
+automakers|test|conj
+mph|30|num
+test|mph|at
+mph|favored|pnmod
+advocates|consumer|nn
+favored|advocates|by
+announced|speech|in
+speech|january|in
+announced|hall|subj
+announced|safety|obj

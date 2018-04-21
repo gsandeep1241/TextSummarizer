@@ -1,0 +1,58 @@
+embassy|british|nn
+embassy|yangon|in
+denied|embassy|subj
+denied|allegations|obj1
+allegations|myanmar|in
+press|state-run|mod
+denied|press|obj2
+leader|opposition|nn
+leader|aung san suu kyi|person
+citizen|british|mod
+is|citizen|pred
+is|while|mod
+newspapers|military-run|mod
+newspapers|friday|on
+while|renewed|comp1
+renewed|newspapers|subj
+renewed|threats|obj
+threats|deport|rel
+deport|threat|subj
+laureate|nobel|nn
+deport|laureate|obj
+members|20|num
+members|more|mod
+groups|various|mod
+groups|anti-government|mod
+groups|armed|mod
+members|groups|of
+groups|myanmar|in
+surrendered|members|subj
+surrendered|government|to
+asked|burma students democratic front|subj
+asked|chuan|obj
+chuan|letter|in
+government|military|mod
+government|burma|in
+killed|government|subj
+killed|people|obj
+people|1988|in
+began|military|subj
+began|rounding up|mod
+rounding up|military|subj
+members|nld|nn
+rounding up|members|obj
+members|prevent|rel
+prevent|member|subj
+prevent|party|obj
+party|convening|from
+convening|parliament|obj
+parliament|elected|vrel
+elected|parliament|obj
+elected|1990|in
+protesters|pro-democracy|mod
+adopted|protesters|subj
+adopted|note|obj
+refused|military|subj
+refused|honor|fc
+honor|military|subj
+honor|results|obj

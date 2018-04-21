@@ -1,0 +1,58 @@
+aftershocks|27|num
+jolted|aftershocks|subj
+turkey|western|mod
+jolted|turkey|obj
+turkey|past|in
+jolted|hours|mod
+jolted|after|mod
+earthquake|strong|mod
+after|rocked|comp1
+rocked|earthquake|subj
+rocked|area|obj
+area|early|pnmod
+early|day|in
+600|at least|num-mod
+people|600|nn
+confirmed|people|obj
+confirmed|dead|mod
+thousands|others|of
+injured|thousands|subj
+injured|in|guest
+injured|6.7-degree|in
+injured|earthquake|obj
+earthquake|which|whn
+ripped|earthquake|subj
+turkey|western|mod
+ripped|turkey|through
+turkey|3:00 am|at
+3:00 am|(|punc
+gmt|0000|num
+3:00 am|gmt|appo
+located|epicenter|obj
+70|about|num-mod
+kilometers|70|amount-value
+southeast|kilometers|nn
+located|southeast|at
+southeast|istanbul|of
+city|industrial|mod
+located|city|near
+city|izmit|of
+turkey|north-western|mod
+izmit|turkey|in
+blaze|turkey|nn
+blaze|)|punc
+blaze|refinery|in
+turkey|western|mod
+refinery|turkey|in
+been|under|pred
+been|control|under
+been|after|mod
+efforts|strong|mod
+after|made|comp1
+made|efforts|subj
+experts|foreign|mod
+experts|rescue|nn
+made|experts|by
+fire|strong|mod
+ismail alakoc|fire|appo
+fire|izmit refinery|of

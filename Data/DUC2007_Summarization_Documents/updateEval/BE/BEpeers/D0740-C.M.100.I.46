@@ -1,0 +1,53 @@
+minute|last|post
+reached|minute|in
+attendants|flight|nn
+negotiations|attendants|conj
+attendants|and|punc
+attendants|america west airlines|conj
+reached|negotiations|subj
+agreement|contract|nn
+reached|agreement|obj
+achieving|what|obj
+called|promoters|subj
+milestone|last|post
+milestone|great|mod
+called|milestone|obj
+milestone|aviation|of
+aviation|bertrand piccard|conj
+bertrand piccard|and|punc
+legends|brian jones|nn
+legends|joined|mod
+bertrand piccard|legends|conj
+legends|wright brothers|like
+wright brothers|and|punc
+wit|charles lindbergh|nn
+completion|wit|gen
+wright brothers|completion|conj
+manned|first|mod
+flight|manned|mod
+flight|round-the-world|mod
+flight|balloon|nn
+completion|flight|of
+said|international olympic committee|subj
+said|that|c
+award|they|subj
+award|olympic order|obj1
+olympic order|balloonists|to
+award|bertrand piccard|obj2
+bertrand piccard|and|punc
+bertrand piccard|brian jones|conj
+brian jones|who|whn
+are|first|pred
+first|circumnavigate|rel
+circumnavigate|first|subj
+circumnavigate|world|obj
+world|balloon|in
+said|walton ferrell|subj
+said|arrive|fc
+arrive|balloon|subj
+arrive|washington|in
+arrive|autumn|mod
+envelope|balloon|nn
+parts|envelope|of
+kept|parts|obj
+kept|switzerland|in

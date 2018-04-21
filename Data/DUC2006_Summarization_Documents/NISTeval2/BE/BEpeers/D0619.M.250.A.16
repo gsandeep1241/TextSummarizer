@@ -1,0 +1,151 @@
+allowed|christian coalition|obj1
+allowed|booth|obj2
+said|black|subj
+redefine|me|subj
+redefine|that|obj
+group|special|mod
+group|interest|nn
+group|that|whn
+fundamentally|so|mod
+is|fundamentally|guest
+is|at|pred
+is|odds|at
+principles|core|nn
+odds|principles|with
+party|republican|mod
+principles|party|of
+here|least|post
+are|here|at
+are|texas|in
+are|large|mod-before
+are|against|pred
+are|homosexuality|against
+'s|in|guest
+platform|our|gen
+'s|platform|in
+'s|'|punc
+'s|'|punc
+john mccain|arizona|nn
+john mccain|sen.|title
+'s|john mccain|pred
+john mccain|who|whn
+seeking|john mccain|subj
+nomination|republican|mod
+nomination|presidential|mod
+seeking|nomination|obj
+met|recently|mod-before
+nomination|met|vrel
+met|nomination|obj
+met|log cabin republicans|with
+log cabin republicans|washington|in
+opposes|bush|like
+opposes|mccain|subj
+marriage|gay|mod
+opposes|marriage|obj
+marriage|and|punc
+marriage|adoption|conj
+laws|new|mod
+laws|hate-crime|mod
+laws|but|punc
+laws|he|conj
+told|laws|subj
+told|group|obj
+told|battle|fc
+battle|he|subj
+discrimination|gays|against
+fissure|deep|mod
+fissure|political|mod
+exposing|fissure|obj
+party|republican|mod
+fissure|party|in
+uc regent ward connerly|and|punc
+members|other|mod
+members|prominent|mod
+members|gop|nn
+members|party|nn
+uc regent ward connerly|members|conj
+announced|uc regent ward connerly|subj
+opposition|their|gen
+announced|opposition|obj
+announced|thursday|mod
+announced|proposition 22|to
+proposition 22|measure|appo
+ballot|march 7|nn
+measure|ballot|on
+ballot|that|whn
+ban|ballot|subj
+marriage|gay|mod
+ban|marriage|obj
+delegate|alternative|mod
+delegate|gop|nn
+carl schmid|delegate|appo
+convention|gop|nn
+delegate|convention|to
+convention|washington|from
+serves|who|subj
+serves|board|on
+board|human rights campaign|of
+gay|largest|mod
+organization|gay|mod
+organization|rights|nn
+organization|advocacy|nn
+human rights campaign|organization|appo
+organization|nation|in
+said|fin|subj
+said|was|fc
+was|meeting|pred
+meeting|bush|with
+bush|effort|in
+improve|`|punc
+improve|`|punc
+effort|improve|comp1
+improve|he|subj
+improve|understanding|obj
+people|gay|mod
+understanding|people|of
+people|and|punc
+issues|gay|mod
+people|issues|conj
+party|republican|mod
+issues|party|within
+leader|one|of
+groups|texas|gen
+conservative|most|mod
+groups|conservative|mod
+groups|christian|nn
+one|groups|of
+criticized|leader|subj
+officials|national|mod
+officials|republican|mod
+officials|party|nn
+criticized|officials|obj
+officials|thursday|on
+officials|inviting|for
+inviting|leader|subj
+congressman|homosexual|mod
+inviting|congressman|obj
+congressman|speak|rel
+speak|congressman|subj
+convention|gop|nn
+speak|convention|at
+convention|philadelphia|in
+week|next|post
+speak|week|mod
+said|ivers|subj
+said|that|c
+paradigm|`|punc
+paradigm|`|punc
+paradigm|old|mod
+paradigm|social|mod
+paradigm|conservative|mod
+paradigm|'|punc
+paradigm|'|punc
+paradigm|republican|in
+showing|week|mod-before
+showing|`|punc
+showing|`|punc
+republican|showing|rel
+showing|republican|obj
+showing|party|subj
+signs|paradigm|subj
+signs|that|obj

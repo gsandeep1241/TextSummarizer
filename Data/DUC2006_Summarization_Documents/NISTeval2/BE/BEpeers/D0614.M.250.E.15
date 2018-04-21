@@ -1,0 +1,143 @@
+campaign|33-day|nn
+maintained|campaign|in
+leader|pq|nn
+leader|bouchard|person
+maintained|leader|subj
+maintained|that|obj
+government|his|gen
+seek|government|subj
+seek|referendum|obj
+independence|quebec|nn
+referendum|independence|on
+independence|canada|from
+canada|winning|rel
+winning|canada|subj
+exist|"|punc
+exist|conditions|subj
+sought|also|mod-before
+sought|we|subj
+sought|mandate|obj
+mandate|get|comp1
+get|we|subj
+get|conditions|obj
+referendum|winning|mod
+said|referendum|for
+sovereignty|quebec|nn
+referendum|sovereignty|on
+conditions|said|comp1
+said|bouchard|subj
+issue|referendum|nn
+said|issue|of
+moving|bouchard|gen
+politics|quebec|nn
+moving|politics|into
+keep|moving|subj
+movement|independence|nn
+keep|movement|obj1
+movement|province|in
+keep|alive|desc
+referendum|1995|num
+came|referendum|in
+referendum|independence|on
+province|restive|mod
+province|quebec|of
+came|province|subj
+votes|a few|nn
+votes|thousand|nn
+came|votes|within
+votes|secession|of
+for|getting tough|comp1
+getting tough|canada|subj
+getting tough|quebec|on
+getting tough|just|mod
+getting tough|as|mod
+as|show|comp1
+show|polls|subj
+movement|sovereignty|nn
+show|movement|obj
+movement|going|rel
+going|movement|subj
+going|nowhere|mod
+rest|canada|of
+while|considers|comp1
+considers|rest|subj
+considers|this|obj1
+election|crucial|mod
+considers|election|obj2
+separatists|staunchest|mod
+separatists|quebec|nn
+concede|separatists|subj
+concede|that|c
+gone out|passion|subj
+movement|secession|nn
+gone out|movement|of
+continue|quebec|subj
+continue|agitate for|mod
+agitate for|quebec|subj
+agitate for|better|guest
+schools|french|nn
+agitate for|schools|obj
+schools|and|punc
+schools|services|conj
+services|rest|for
+canada|french-speaking|mod
+rest|canada|of
+liberals|quebec|nn
+leader|liberals|of
+liberals|jean charest|appo
+said|leader|subj
+said|offer|fc
+offer|election|subj
+choice|clear|mod
+offer|choice|obj
+choice|voters|to
+french-speaking|mostly|mod
+province|french-speaking|mod
+voters|province|in
+is|if|c
+is|divisible|pred
+is|so|mod-before
+is|quebec|pred
+quebec|"|punc
+jean chretien|canadian|mod
+jean chretien|prime minister|title
+quebec|jean chretien|appo
+jean chretien|noted|vrel
+noted|jean chretien|obj
+noted|shortly|mod
+shortly|referendum|after
+people|quebec|of
+want|like|mod-before
+want|people|like
+people|all|of
+all|canada|of
+want|people|subj
+want|country|obj
+country|ours|of
+country|work|rel
+work|country|subj
+work|and|punc
+work|be|conj
+be|success|pred
+has|government|obj
+has|it|subj
+said|charest|subj
+government|separatist|mod
+government|quebec|in
+hold|government|subj
+hold|referendum|obj
+hold|if|c
+re|they|obj
+election|provincial|mod
+re|election|in
+referendum|october 1995|nn
+increased|referendum|in
+vote|quebec|gen
+vote|favor|in
+favor|separation|of
+increased|vote|subj
+49|just|pre
+49|over|num-mod
+increased|49|to
+quebec liberal party|anti-separatist|mod
+winning|though|amod

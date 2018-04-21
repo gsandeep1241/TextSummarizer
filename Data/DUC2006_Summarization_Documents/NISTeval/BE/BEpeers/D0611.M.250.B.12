@@ -1,0 +1,170 @@
+keeps|solarization|subj
+keeps|diseases|obj
+diseases|and|punc
+diseases|blemishes|conj
+blemishes|bay|at
+farm|vero beach|nn
+farm|organic|mod
+farm|vegetable|mod
+bay|farm|on
+gardeners|organic|mod
+use|gardeners|subj
+chemicals|synthetic|mod
+use|chemicals|obj
+take|they|subj
+steps|other|mod
+take|steps|obj
+steps|protect|rel
+protect|step|subj
+garden|their|gen
+protect|garden|obj
+garden|pests|from
+pathologist|plant|nn
+pathologist|left|rel
+left|daniel o chellemi|subj
+pathologist|and|punc
+pathologist|kevin o dare|conj
+grower|organic|mod
+grower|vero beach|from
+inspect|progress|obj
+treatment|new|mod
+treatment|soil|nn
+progress|treatment|of
+eschews|definition|by
+farming|organic|mod
+eschews|farming|subj
+fertilizers|artificial|mod
+eschews|fertilizers|obj
+fertilizers|and|punc
+fertilizers|pesticides|conj
+harnessing|instead|amod
+pesticides|harnessing|rel
+harnessing|pesticide|subj
+harnessing|power|obj
+substances|natural|mod
+power|substances|of
+bacteria|compost|nn
+substances|bacteria|such as
+bacteria|and|punc
+insects|pest-targeted|mod
+bacteria|insects|conj
+insects|and|punc
+netting|protective|mod
+insects|netting|conj
+netting|build|rel
+build|netting|subj
+soil|healthy|mod
+build|soil|obj
+build|and|punc
+build|keep|conj
+keep|netting|subj
+forces|invading|mod
+keep|forces|obj
+forces|bay|at
+insects|anti-pest|mod
+applied|also|guest
+applied|insects|obj
+applied|crops|to
+to|and|punc
+to|for|conj
+to|vegetable|for
+vegetable|and|punc
+growth|fruit|nn
+growth|tree|nn
+vegetable|growth|conj
+applied|and|punc
+applied|help|conj
+help|insects|subj
+help|improve|mod
+improve|insect|subj
+improve|quality|obj
+produce|farm|mod
+quality|produce|of
+moving|windward|subj
+moving|reliance|toward
+reliance|chemicals|on
+10|at least|num-mod
+years|10|amount-value
+chemicals|years|for
+years|reducing|rel
+reducing|years|subj
+use|pesticide|nn
+reducing|use|obj
+80 percent|as much as|pre
+use|80 percent|by
+80 percent|says|rel
+says|80 percent|obj
+says|jones|subj
+started|we|subj
+started|thinking|obj
+started|if|c
+control|we|subj
+control|pests|obj
+control|organically|mod
+go|not|mod-before
+go|all the way|mod
+garden|the park|nn
+garden|rose|nn
+being|tended|pred
+tended|organic compound|with
+being|and|punc
+watered|soon|mod-before
+being|watered|conj
+watered|garden|obj
+system|drip-irrigation|mod
+watered|system|with
+with|rather|punc
+with|than|conj
+with|sprinklers|than
+sprinklers|which|whn
+soak|sprinklers|subj
+plant|whole|mod
+soak|plant|obj
+soak|and|punc
+soak|encourage|conj
+encourage|sprinklers|subj
+growth|fungus|nn
+encourage|growth|obj
+than|and|punc
+than|in|conj
+use|turn|nn
+use|pesticide|nn
+than|use|in
+topolos|who|whn
+()|adopting|before
+principles|biodynamic|mod
+principles|farming|mod
+adopting|principles|obj
+farmed|three years ago|mod-before
+farmed|topolos|subj
+vineyards|topolos|nn
+farmed|vineyards|obj
+farmed|organically|mod
+years|10|amount-value
+organically|years|for
+said|topolos|subj
+said|heals|fc
+heals|biodynamics|subj
+effects|negative|mod
+heals|effects|obj
+chemicals|farm|mod
+effects|chemicals|of
+chemicals|helping|by
+helping|biodynamics|subj
+helping|soil|obj
+soil|regenerate|rel
+regenerate|soil|subj
+energy|its|gen
+energy|original|mod
+regenerate|energy|obj
+regenerate|so|mod
+so|fend off|comp1
+fend off|vines|subj
+fend off|insects|obj
+insects|and|punc
+insects|diseases|conj
+favorite|jones|nn
+favorite|eat|rel
+eat|way|subj
+tom jones|strawberries|nn
+eat|tom jones|obj

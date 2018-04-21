@@ -1,0 +1,56 @@
+gas|japan marks|nn
+gas|subway|nn
+gas|nerve|nn
+people|attack|nn
+people|twelve|nn
+killed|people|obj
+injured|5,300|obj
+injured|attack|in
+major|america|nn
+major|west|nn
+major|dodges|nn
+strike|major|subj
+strike|phoenix|obj1
+strike|(|punc
+strike|ap|obj2
+minute|last|post
+reached|minute|in
+attendants|flight|nn
+negotiations|attendants|conj
+attendants|and|punc
+attendants|america west airlines|conj
+reached|negotiations|subj
+agreement|contract|nn
+reached|agreement|obj
+strike|possible|mod
+threatened|strike|subj
+threatened|leave|mod
+leave|strike|subj
+leave|up|mod
+passengers|100,000|num
+up|passengers|to
+passengers|stranded|vrel
+stranded|passengers|obj
+stranded|weekend|mod
+peace|africa|nn
+global balloonists sail|peace|over
+monitors|global balloonists sail|subj
+kosovo|depart|nn
+monitors|kosovo|obj
+driver|truck|nn
+entered|driver|subj
+crossing|track|nn
+entered|crossing|obj
+remains|question|subj
+remains|unanswered|desc
+performance|friday|gen
+based|performance|on
+'s|threat|pred
+threat|upstage|rel
+upstage|threat|subj
+youngsters|such|pre
+upstage|youngsters|obj
+youngsters|martina hingis|as
+martina hingis|and|punc
+sisters|williams|nn
+martina hingis|sisters|conj

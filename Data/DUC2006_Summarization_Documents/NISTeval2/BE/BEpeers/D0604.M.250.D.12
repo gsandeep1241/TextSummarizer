@@ -1,0 +1,138 @@
+tuesday|screened|mod
+was|tuesday|pred
+was|night|mod
+cities|eight|nn
+cities|north american|nn
+was|cities|in
+executives|movie theater|nn
+cities|executives|for
+and--|their|gen
+and--|families|nn
+fans|star wars|nn
+bundle|fans|of
+fans|who|whn
+finagled|somehow|mod-before
+finagled|fans|subj
+finagled|some|obj1
+finagled|tickets|obj2
+two|about|num-mod
+weeks|two|amount-value
+weeks|go|rel
+go|weeks|subj
+go|release|before
+episode|new|mod
+episode|film star|nn
+episode|wars|nn
+release|episode|of
+episode|1.|num
+are|there|mod-before
+are|so|guest
+sites|star wars|nn
+are|sites|pred
+sites|web|on
+jedi temple|one|nn
+jedi temple|site|nn
+creator|jedi temple|of
+analyzing|months|for
+fans|star wars|nn
+analyzing|fans|subj
+analyzing|second|obj
+trailer|phantom menace|nn
+trailer|movie|nn
+second|trailer|of
+say|lego|subj
+say|coming out|fc
+coming out|it|subj
+lines|two|nn
+lines|product|nn
+coming out|lines|with
+lines|_|punc
+lines|lego star wars classic|appo
+lego star wars classic|and|punc
+lego star wars classic|lego star wars episode brochstein|conj
+allow|that|subj
+build|kids|subj
+build|spacecraft|obj
+movies|first three|nn
+movies|star wars|nn
+spacecraft|movies|from
+movies|and|punc
+film|new|mod
+movies|film|conj
+film|using|rel
+using|film|subj
+pieces|traditional|mod
+pieces|lego|nn
+using|pieces|obj
+festival|three-day|nn
+festival|fan|nn
+festival|wings|at
+wings|rockies museum|over
+appearances|phantom menace|nn
+appearances|sneak|mod
+appearances|peeks|nn
+rockies museum|appearances|with
+appearances|many|by
+stars|film|nn
+many|stars|of
+stars|including|rel
+including|star|subj
+jake lloyd|young|mod
+including|jake lloyd|obj
+jake lloyd|who|whn
+plays|jake lloyd|subj
+darth vader|anakin skywalker|nn
+darth vader|(|punc
+darth vader|aka|nn
+plays|darth vader|obj
+darth vader|)|punc
+darth vader|and|punc
+merchandise|marketplace|nn
+merchandise|hawking|nn
+darth vader|merchandise|conj
+films|all|pre
+films|star wars|nn
+merchandise|films|from
+june 19|proclaimed|rel
+proclaimed|june 19|obj
+proclaimed|they|subj
+celebration|fan day in|nn
+be|celebration|pred
+celebration|star wars episode daoudi|of
+anniversary|phantom menace|nn
+anniversary|one-month|nn
+anniversary|want|rel
+want|they|subj
+devotees|gather|rel
+gather|devotee|subj
+dress|their|gen
+dress|friends|nn
+gather|dress|obj
+characters|their|gen
+characters|favorite|mod
+dress|characters|as
+gather|and|punc
+gather|go|conj
+go|devotee|subj
+see|devotees|subj
+like|over|mod-before
+over|and|punc
+over|over|conj
+just|again|mod
+like|just|amod
+see|like|fc
+like|anniversary|obj
+like|movie|subj
+day|opening|mod
+like|day|on
+prequel|much-anticipated|mod
+like|prequel|of
+fans|die-hard|mod
+fans|star wars|nn
+fans|occupying|rel
+occupying|fan|subj
+occupying|themselves|obj
+occupying|as|mod
+as|wait|comp1
+wait|they|subj
+wait|premiere|for

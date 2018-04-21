@@ -1,0 +1,144 @@
+provide|meeting|subj
+information|scientific|mod
+scientific|and|punc
+scientific|technical|conj
+provide|information|obj
+status|current|mod
+information|status|on
+status|el nino|of
+of|as|conj
+of|one|as
+forces|major|mod
+one|forces|of
+forces|acting on|rel
+acting on|force|subj
+system|global|mod
+system|climate|nn
+acting on|system|obj
+of|and|punc
+of|with|conj
+of|potential|with
+potential|affect|rel
+affect|potential|subj
+patterns|weather|mod
+affect|patterns|obj
+patterns|areas|in
+areas|globe|of
+departures|normal|from
+exceeded|departures|subj
+degrees|+4|nn
+exceeded|degrees|obj
+degrees|celsius|pnmod
+east|equator|nn
+celsius|east|along
+degrees|120|amount-value
+west|degrees|nn
+east|west|of
+exceeded|and|punc
+exceeded|were|conj
+were|greater|pred
+were|than|mod
+celsius|+5|nn
+celsius|degrees|nn
+than|near|comp1
+near|celsius|subj
+near|galapagos islands|obj
+says|coast|along
+peru|northern|mod
+coast|peru|of
+says|wmo|subj
+publication|its|gen
+publication|new|mod
+says|publication|in
+publication|el nino update|appo
+is|el nino|with
+el nino|or|punc
+el nino|la nina|conj
+dog|sheep|nn
+is|dog|pred
+dog|driving|rel
+driving|dog|subj
+driving|sheep|obj
+organizing|force|obj
+force|giving|rel
+giving|force|subj
+giving|shape|obj
+chaotic|otherwise|mod
+flow|chaotic|mod
+shape|flow|to
+flow|weather|of
+weather|seas|across
+seas|and|punc
+seas|continents|conj
+years|last|post
+years|20|amount-value
+oceanographers|years|over
+developed|oceanographers|subj
+developed|understanding|obj
+el nino|and|punc
+el nino|la nina|conj
+form|el nino|subj
+changes|winds|in
+winds|and|punc
+winds|atmospheric pressure|conj
+atmospheric pressure|allowing|rel
+allowing|atmospheric pressure|subj
+water|warm|mod
+water|surface|mod
+flow|water|subj
+flow|east|mod
+east|el nino|in
+allowing|or|punc
+allowing|spreading|conj
+spreading|atmospheric pressure|subj
+west|cool|mod
+west|water|nn
+spreading|west|obj
+west|la nina|in
+help|farmers|nn
+help|needed|mod
+help|chart|rel
+chart|help|subj
+chart|their|obj
+crop|help|subj
+crop|calendar|obj1
+calendar|keep|rel
+keep|calendar|subj
+keep|themselves|obj
+crop|updated|desc
+mood|changing|mod
+updated|mood|with
+mood|nature|of
+cope|better|amod
+nature|cope|rel
+cope|nature|subj
+cope|it|with
+cope|and|punc
+cope|vary|conj
+vary|nature|subj
+planting|periods|obj
+said|he|subj
+said|adding|mod
+adding|he|subj
+adding|that|c
+prepared|model|obj
+prepared|by|by-subj
+prepared|sparrso|by
+sparrso|and|punc
+sparrso|bangladesh agriculture research council|conj
+bureau|weather|nn
+experienced|bureau|according to
+bureau|pretoria|in
+capital|south africa|of
+south africa|cold|conj
+cold|and|punc
+weather|rainy|mod
+cold|weather|conj
+experienced|capital|obj
+experienced|parts|in
+parts|summer|of
+region|rainfall|nn
+region|south africa|in
+was|not|neg
+was|normal|pred
+normal|time of year|for

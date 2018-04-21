@@ -1,0 +1,80 @@
+disk|helpline|from
+helpline|detecting|rel
+detecting|helpline|subj
+9400|more than|num-mod
+viruses|9400|nn
+viruses|other|mod
+viruses|computer|nn
+detecting|viruses|obj
+suspects|immediately|subj
+viruses|computer|nn
+suspects|viruses|obj
+suspects|whenever|wha
+stops working|printer|subj
+crashes|system|nn
+even|one|obj
+one|altering|rel
+altering|one|subj
+altering|system|obj
+altering|and|punc
+altering|notifying|conj
+notifying|one|subj
+notifying|hacker|obj
+hacker|e-mail|via
+computer|vulnerable|pnmod
+attacks|further|mod
+vulnerable|attacks|to
+computers|new|mod
+computers|coming from|rel
+coming from|computer|subj
+coming from|factory|obj
+loaded|computers|subj
+program|anti-virus|mod
+loaded|program|with
+'s|case|pred
+'s|when|wha
+opening|someone|nn
+infected|opening|subj
+attachment|e-mail|nn
+infected|attachment|obj
+attachment|christmas day|on
+christmas day|and|punc
+christmas day|mypics|conj
+mypics|detecting|rel
+detecting|mypics|subj
+clock|computer|gen
+detecting|clock|obj
+clock|changing|pnmod
+changing|2000|to
+receiving|virus|obj
+small|relatively|mod
+virus|small|pnmod
+users|home|nn
+users|computer|nn
+small|users|for
+waste|shame|subj
+time|more|mod
+waste|time|obj
+time|and|punc
+time|energy|conj
+energy|viruses|on
+viruses|and|punc
+viruses|worms|conj
+world-wide|internet|through
+support|computer|subj
+support|lines|obj
+lines|inundating|rel
+inundating|line|subj
+inundating|monday|obj
+inundating|calls|with
+outbreaks|new|mod
+calls|outbreaks|about
+virus|file-killing|mod
+outbreaks|virus|of
+detectors|smoke|nn
+installing|detectors|obj
+detectors|home|in
+home|and|punc
+changing|never|mod
+batteries|changing|mod
+home|batteries|conj

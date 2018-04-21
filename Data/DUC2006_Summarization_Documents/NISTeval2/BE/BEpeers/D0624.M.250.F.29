@@ -1,0 +1,130 @@
+government|british|mod
+february 26--|rejected|rel
+rejected|february 26--|obj
+rejected|government|subj
+calls|february 26--|subj
+jack straw|home secretary|nn
+calls|jack straw|for
+jack straw|resign|rel
+resign|jack straw|subj
+resign|publication|over
+publication|details|of
+details|witnesses|of
+case|stephen lawrence|nn
+witnesses|case|in
+informants|named|mod
+are|now|pred
+protection|police|nn
+are|protection|under
+are|after|mod
+names|their|gen
+after|made|comp1
+made|names|obj1
+made|public|desc
+mps|opposition|nn
+mps|conservative|mod
+mps|party|nn
+called|mps|subj
+called|straw|obj
+straw|resign|rel
+resign|straw|subj
+resign|error|for
+mandela|winner|appo
+winner|nobel peace prize|of
+said|mandela|subj
+ceremony|award|nn
+said|ceremony|obj
+ceremony|ranked|pnmod
+occasions|important|mod
+ranked|occasions|among
+life|his|gen
+occasions|life|of
+'s|possibility|pred
+possibility|that|c
+die|i|subj
+reach|i|subj
+world|new|mod
+reach|world|obj
+have|i|subj
+memories|fond|mod
+have|memories|obj
+calling for|commission|subj
+calling for|reform|obj
+reform|race relations act|of
+race relations act|include|rel
+include|race relations act|subj
+include|police|obj
+include|and|punc
+include|said|conj
+said|race relations act|subj
+said|be|fc
+be|determination|pred
+determination|make|rel
+make|determination|subj
+equality|racial|mod
+make|equality|obj1
+make|reality|desc
+said|she|subj
+authorities|british|mod
+authorities|and|punc
+authorities|police|conj
+said|learned|fc
+learned|authorities|subj
+murder|1993|num
+learned|murder|from
+stephen lawrence|black|mod
+stephen lawrence|teen-ager|nn
+murder|stephen lawrence|of
+stephen lawrence|gang|by
+youths|white|mod
+gang|youths|of
+youths|and|punc
+youths|failure|conj
+failure|police|of
+police|investigate|rel
+investigate|police|subj
+death|his|gen
+investigate|death|obj
+investigate|adequately|mod
+present|report|subj
+portrait|damning|mod
+present|portrait|obj
+incompetence|police|nn
+portrait|incompetence|of
+incompetence|and|punc
+prejudice|racial|mod
+incompetence|prejudice|conj
+present|and|punc
+present|conclude|conj
+conclude|report|subj
+conclude|that|c
+'s|largest|guest
+force|police|nn
+'s|force|pred
+is|guilty|pred
+racism|pervasive|mod
+racism|institutional|mod
+guilty|racism|of
+stand|it|subj
+stand|fact|for
+fact|that|c
+were|able|pred
+were|smoke out|mod
+smoke out|we|subj
+smoke out|prejudice|obj
+require|it|subj
+require|determination|obj
+monument|real|mod
+monument|stephen lawrence|to
+found|laws|in
+laws|passed|vrel
+passed|laws|obj
+passed|by|by-subj
+passed|parliament|by
+by|but|punc
+by|in|conj
+change|fundamental|mod
+by|change|in
+change|attitude|in
+society|our|gen
+attitude|society|in

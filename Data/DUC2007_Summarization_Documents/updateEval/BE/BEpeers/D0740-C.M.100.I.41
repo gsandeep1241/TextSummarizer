@@ -1,0 +1,36 @@
+manned|first|subj
+manned|balloon|obj
+manned|ever|mod
+manned|make|mod
+make|first|subj
+trip|non-stop|mod
+make|trip|obj
+trip|earth|around
+air|and|punc
+museum|space|nn
+air|museum|conj
+museum|washington|in
+owners|its|gen
+walton ferrell|spokesman|appo
+spokesman|air|for
+air|and|punc
+museum|space|nn
+air|museum|conj
+said|walton ferrell|subj
+said|arrive|fc
+arrive|balloon|subj
+arrive|washington|in
+arrive|autumn|mod
+capsule|and|punc
+capsule|most|conj
+most|balloon|of
+presented|capsule|obj
+air|smithsonian institution|gen
+presented|air|to
+air|and|punc
+museum|space|nn
+air|museum|conj
+envelope|balloon|nn
+parts|envelope|of
+kept|parts|obj
+kept|switzerland|in

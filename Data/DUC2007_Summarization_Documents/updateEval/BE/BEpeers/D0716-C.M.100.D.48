@@ -1,0 +1,51 @@
+senator|greens|nn
+senator|bob brown|person
+said|senator|subj
+said|sunday|mod
+heritage bureau|world|nn
+night|saturday|nn
+kyoto|granted|vrel
+granted|kyoto|obj1
+government|australian|mod
+granted|government|obj2
+government|april 15|until
+april 15|produce|rel
+produce|april 15|subj
+produce|evidence|obj
+produce|why|wha
+should|not|neg
+declare|united nations|subj
+declare|kakadu national park|obj
+kakadu national park|which|whn
+surrounds|kakadu national park|subj
+mine|jabiluka|nn
+mine|uranium|nn
+surrounds|mine|obj
+located|northern territory|in
+australia|northwest|mod
+findings|mission|of
+kakadu national park|report|rel
+report|kakadu national park|obj
+report|findings|subj
+were|inconsistent|pred
+inconsistent|fact|with
+mine|ranger|nn
+mine|uranium|nn
+20|less than|num-mod
+km|20|amount-value
+km|jabiluka|from
+operated|km|subj
+years|20|amount-value
+operated|years|for
+impact|adverse|mod
+years|impact|with
+impact|kakadu|on
+site|government-approved|mod
+site|mine|mod
+is|in|pred
+is|area|in
+area|surrounded|vrel
+surrounded|area|obj
+surrounded|by|by-subj
+kakadu national park|aboriginal-owned|mod
+surrounded|kakadu national park|by

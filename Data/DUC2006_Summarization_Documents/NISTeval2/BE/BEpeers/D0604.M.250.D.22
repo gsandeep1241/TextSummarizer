@@ -1,0 +1,177 @@
+wars|star|nn
+fans|wars|gen
+be|with|pred
+be|you|with
+starting|april 30|mod
+host|denver|subj
+star wars celebration|lucasfilm ltd.-sanctioned|nn
+star wars celebration|`|punc
+star wars celebration|`|punc
+host|star wars celebration|obj
+star wars celebration|'|punc
+star wars celebration|'|punc
+festival|three-day|nn
+festival|fan|nn
+star wars celebration|festival|appo
+festival|wings|at
+with|`|punc
+with|`|punc
+rockies museum|phantom menace|with
+sneak|'|punc
+sneak|'|punc
+wings|sneak|rel
+sneak|wings|obj
+sneak|rockies museum|subj
+peeks|appearances|appo
+appearances|many|by
+stars|film|gen
+many|stars|of
+sneak|including|mod
+including|peeks|subj
+jake lloyd|young|mod
+including|jake lloyd|obj
+jake lloyd|who|whn
+plays|jake lloyd|subj
+plays|anakin skywalker|obj
+plays|(|punc
+plays|a.k.a.|mod
+darth vader|)|punc
+darth vader|and|punc
+hawking|marketplace|nn
+darth vader|hawking|conj
+merchandise|darth vader|subj
+merchandise|from|guest
+merchandise|all|from
+star wars|`|punc
+star wars|`|punc
+films|star wars|gen
+films|'|punc
+merchandise|films|obj
+student|18-year-old|mod
+student|german|mod
+student|college|nn
+moritz minzlaff|student|appo
+student|karlsruhe|in
+karlsruhe|south|pnmod
+south|heidelberg|of
+posted|moritz minzlaff|subj
+message|internet|nn
+posted|message|obj
+message|begging|rel
+begging|message|subj
+star wars|fellow|mod
+star wars|foreign|mod
+star wars|`|punc
+star wars|`|punc
+fans|star wars|gen
+fans|'|punc
+begging|fans|obj
+fans|join|rel
+join|fan|subj
+join|him|obj
+traveling to|united states|obj
+united states|see|rel
+see|united states|subj
+see|`|punc
+see|`|punc
+see|phantom menace|obj
+phantom menace|'|punc
+phantom menace|'|punc
+dates|may|nn
+dates|(|punc
+dates|opening|mod
+phantom menace|dates|in
+start|north america|nn
+dates|start|outside
+start|june|in
+help|new york times syndicate|subj
+package|ian spelling|gen
+package|star wars countdown|nn
+package|which|whn
+guide|package|subj
+readers|your|gen
+guide|readers|obj
+premiere|may 19|nn
+readers|premiere|to
+while|said|comp1
+said|he|subj
+said|that|c
+is|not|neg
+fanboy|`|punc
+fanboy|`|punc
+is|fanboy|pred
+fanboy|'|punc
+fanboy|'|punc
+pejorative|mildly|mod
+slang|pejorative|mod
+fanboy|slang|appo
+obsessive|aggressively|mod
+star wars|obsessive|mod
+star wars|`|punc
+star wars|`|punc
+fan|star wars|gen
+fan|'|punc
+slang|fan|for
+mention|he|subj
+mention|that|c
+star wars|john williams|nn
+star wars|`|punc
+star wars|`|punc
+theme|star wars|gen
+theme|'|punc
+played|theme|obj
+reception|his|gen
+reception|wedding|nn
+played|reception|at
+played|two years ago|mod
+i--|episode|nn
+was|'|punc
+was|'|punc
+tuesday|screened|mod
+was|tuesday|pred
+was|night|mod
+cities|eight|nn
+cities|north american|nn
+was|cities|in
+executives|movie theater|nn
+cities|executives|for
+and--|their|gen
+and--|families|nn
+of|`|punc
+of|`|punc
+fans|star wars|gen
+fans|'|punc
+bundle|fans|of
+fans|who|whn
+finagled|somehow|mod-before
+finagled|fans|subj
+finagled|some|obj1
+finagled|tickets|obj2
+sandy baker|vice president|appo
+vice president|marketing|of
+theaters|mann|nn
+marketing|theaters|for
+said|sandy baker|subj
+said|taking|mod
+taking|sandy baker|subj
+taking|`|punc
+taking|`|punc
+taking|phantom|obj
+taking|'|punc
+taking|'|punc
+taking|off|punc
+taking|the|punc
+taking|schedules|punc
+chinese|mann|gen
+taking|chinese|at
+chinese|and|punc
+locations|its|gen
+locations|westwood village|nn
+chinese|locations|conj
+taking|after|mod
+after|decided|comp1
+decided|june 17|obj
+decided|long|mod
+decided|before|mod
+before|debuted|comp1
+debuted|movie|subj

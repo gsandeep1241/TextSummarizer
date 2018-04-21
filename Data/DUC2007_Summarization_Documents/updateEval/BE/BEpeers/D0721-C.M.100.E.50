@@ -1,0 +1,58 @@
+was|bartender|as
+bartender|fireside lounge|at
+fireside lounge|laramie|in
+was|one|pred
+people|last|post
+one|people|of
+people|see|rel
+see|people|subj
+see|matthew shepard|obj
+17 months ago|alive|mod
+see|17 months ago|mod
+see|before|mod
+roofers|two|nn
+roofers|local|mod
+before|lured|comp1
+lured|roofers|subj
+lured|him|obj
+lured|truck|into
+lured|beat|conj
+beat|roofers|subj
+beat|him|obj
+beat|robbed|conj
+robbed|roofers|subj
+robbed|him|obj
+robbed|and|punc
+robbed|left|conj
+left|roofers|subj
+left|him|obj
+fence|wooden|mod
+dead|fence|on
+fence|outskirts|on
+outskirts|town-all|of
+student|21-year-old|mod
+shepard|student|appo
+student|university of wyoming|at
+because|was|comp1
+was|gay|pred
+asked for|originally|amod
+asked for|prosecution|subj
+penalty|death|nn
+asked for|penalty|obj
+penalty|aaron mckinney|for
+aaron mckinney|killing|for
+student|21-year-old|mod
+student|college|nn
+matthew shepard|student|conj
+student|but|punc
+shepard|later|mod
+parents|shepard|gen
+student|parents|conj
+killing|agreed|rel
+agreed|matthew shepard|subj
+agreed|spare|fc
+spare|killing|obj1
+spare|matthew shepard|subj
+spare|him|obj2
+injection|lethal|mod
+spare|injection|from

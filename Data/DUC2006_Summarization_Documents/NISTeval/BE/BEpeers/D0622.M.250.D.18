@@ -1,0 +1,139 @@
+reached|virus|subj
+reached|new york|obj
+new york|last|vrel
+last|new york|obj
+last|summer|mod
+last|bird|in
+bird|imported|pnmod
+imported|israel|from
+zdanek hubalek|west nile|nn
+zdanek hubalek|expert|mod
+zdanek hubalek|czech academy of sciences|of
+escaped|originally|amod
+escaped|it|subj
+escaped|sloan-kettering institute|from
+sloan-kettering institute|new york|in
+new york|where|wha
+given|1950s|in
+strain|virus|of
+given|strain|obj
+patients|95|num
+patients|terminal|mod
+patients|cancer|nn
+given|patients|to
+treatment|experimental|mod
+patients|treatment|as
+georgia|and|punc
+states|other|mod
+georgia|states|conj
+states|atlantic|on
+atlantic|and|punc
+coasts|gulf|nn
+atlantic|coasts|conj
+may|not|neg
+prepared|georgia|obj
+prepared|resurgence|for
+virus|west nile|nn
+resurgence|virus|of
+illness|imported|mod
+virus|illness|appo
+illness|that|whn
+infected|illness|subj
+infected|61|obj
+infected|and|punc
+infected|killed|conj
+killed|illness|subj
+killed|seven|obj
+seven|northeast|in
+northeast|last|vrel
+last|northeast|obj
+last|fall|mod
+last|and|punc
+last|spread|conj
+spread|northeast|subj
+spread|south|guest
+south|migrating|with
+migrating|georgia|subj
+spread|birds|obj
+birds|centers|conj
+control|disease|nn
+centers|control|for
+control|and|punc
+control|prevention|conj
+prevention|warned|vrel
+warned|prevention|obj
+warned|thursday|mod
+virus|west nile|nn
+publicity|virus|about
+virus|and|punc
+efforts|counties|nn
+efforts|'intensified|mod
+efforts|mosquito|nn
+efforts|control|nn
+virus|efforts|conj
+prompted|publicity|subj
+residents|more|mod
+prompted|residents|obj
+residents|call|rel
+call|resident|subj
+crows|dead|mod
+call|crows|about
+crows|found|rel
+found|crows|obj
+found|they|subj
+led to|which|subj
+led to|more|obj
+more|testing|rel
+testing|more|subj
+testing|said|guest
+said|dennis mcgowan|subj
+testing|spokesman|obj
+spokesman|state|for
+new jersey|disease control|nn
+new jersey|officials|nn
+new jersey|left|mod
+centers|new jersey|for
+new jersey|wednesday|on
+wednesday|await|rel
+await|wednesday|subj
+await|results|obj
+results|tests|of
+tests|mosquitoes|on
+mosquitoes|and|punc
+mosquitoes|sparrows|conj
+counties|four|nn
+counties|northern|mod
+sparrows|counties|in
+counties|that|whn
+show|counties|subj
+far|how|mod
+west|far|mod
+show|west|obj
+virus|west nile|nn
+show|spread|fc
+spread|virus|subj
+virus|west nile|nn
+reported|not|guest
+because|reported|comp1
+reported|virus|obj
+reported|united states|in
+united states|august|until
+summer|late|mod
+reported|summer|in
+summer|and|punc
+summer|fall|conj
+cases|61|num
+infection|severe|mod
+cases|infection|of
+infection|and|punc
+deaths|seven|nn
+infection|deaths|conj
+reported|cases|obj
+reported|new york|in
+reported|area|subj
+area|centers|conj
+control|disease|nn
+centers|control|for
+control|and|punc
+control|prevention|conj
+reported|reported|mod

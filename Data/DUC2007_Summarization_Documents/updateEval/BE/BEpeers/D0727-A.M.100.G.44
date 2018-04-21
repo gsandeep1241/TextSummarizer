@@ -1,0 +1,71 @@
+attorney|newt gingrich|gen
+attorney|randolph evans|appo
+said|evans|subj
+said|tuesday|guest
+said|that|c
+newt gingrich|and|punc
+newt gingrich|bisek|conj
+had|`|punc
+had|`|punc
+had|newt gingrich|subj
+had|relationship|obj
+had|'|punc
+had|'|punc
+had|but|punc
+had|declined|conj
+declined|newt gingrich|obj
+declined|define|mod
+define|newt gingrich|subj
+define|it|obj
+wife|estranged|mod
+speaker|former|mod
+speaker|u.s. house|nn
+wife|speaker|of
+speaker|newt gingrich|person
+wants|wife|subj
+judge|cobb county|subj
+judge|freeze|mod
+freeze|cobb county|subj
+assets|couple|gen
+freeze|assets|obj
+freeze|until|mod
+divorce|their|gen
+until|is|comp1
+is|final|pred
+speaker|former|mod
+speaker|house|nn
+speaker|newt gingrich|person
+filed for|speaker|subj
+filed for|divorce|obj
+wife|his|gen
+divorce|wife|from
+years|18|amount-value
+wife|years|of
+filed for|saying|mod
+saying|speaker|subj
+marriage|his|gen
+broken|`|punc
+broken|`|punc
+broken|irretrievably|amod
+saying|broken|fc
+broken|marriage|obj
+gingrich|filed|vrel
+filed|gingrich|obj
+filed|divorce|for
+filed|july 29|mod
+filed|marianne gingrich|from
+gingrich|mrs.|title
+filed|gingrich|subj
+papers|court|nn
+filed|papers|obj
+papers|august|in
+august|accusing|rel
+accusing|august|subj
+accusing|gingrich|obj
+gingrich|trying|of
+trying|transfer|fc
+transfer|assets|obj
+filing|divorce|nn
+assets|filing|before
+gingrich|mrs.|title
+lawyers|gingrich|gen

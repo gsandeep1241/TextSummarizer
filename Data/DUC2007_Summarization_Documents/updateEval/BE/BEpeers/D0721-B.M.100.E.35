@@ -1,0 +1,47 @@
+testified|man|subj
+angered|he|obj
+advance|sexual|mod
+met up with|advance|by
+matthew shepard|gay|mod
+matthew shepard|college student|nn
+advance|matthew shepard|by
+bar|same|post
+matthew shepard|bar|inside
+met up with|later|mod-before
+angered|met up with|fc
+met up with|shepard|subj
+killers|his|gen
+killers|alleged|mod
+met up with|killers|obj
+witness|first|post
+witness|defense|nn
+was|witness|pred
+witness|called|vrel
+called|witness|obj
+trial|murder|nn
+called|trial|in
+trial|aaron mckinney|of
+opened|defense|subj
+case|its|gen
+opened|case|obj
+opened|friday|mod
+charged|mckinney|obj
+charged|robbery|with
+robbery|kidnapping|conj
+kidnapping|and|punc
+kidnapping|murder|conj
+charged|and|punc
+charged|sentenced|conj
+sentenced|mckinney|obj
+sentenced|death|to
+attorneys|his|gen
+trying|attorneys|subj
+trying|convince|fc
+convince|attorney|subj
+convince|jury|obj
+convince|is|fc
+is|guilty|pred
+guilty|manslaughter|of
+manslaughter|rather|punc
+manslaughter|than|punc
+manslaughter|murder|conj

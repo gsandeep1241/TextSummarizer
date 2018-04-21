@@ -1,0 +1,126 @@
+april 26--|date|nn
+triggers|chernobyl|nn
+triggers|disaster|nn
+triggers|anniversary--|mod
+take|then|mod-before
+take|look|obj
+docs|attached|mod
+docs|zipped|mod
+look|docs|at
+office|presidential|mod
+did|not|neg
+specify|office|subj
+specify|kind|obj
+virus|computer|nn
+kind|virus|of
+virus|disturbed|vrel
+disturbed|virus|obj
+daily|its|gen
+disturbed|work|fc
+work|daily|subj
+is|also|mod-before
+is|name|pred
+painkiller|narcotic|mod
+name|painkiller|of
+painkiller|made|vrel
+made|painkiller|obj
+made|by|by-subj
+made|knoll laboratories|by
+been|that|c
+vendors|antivirus|mod
+picked|vendors|subj
+picked|this|obj
+picked|up|mod
+picked|"|punc
+picked|so|mod
+rule|first|post
+so|is|comp1
+is|install|pred
+program|tough|mod
+program|antivirus|mod
+install|program|obj
+so|around|mod
+long|so|mod
+been|long|guest
+looks|user|to
+looks|program|subj
+fireworks|animated|mod
+operating systems|rival|mod
+operating systems|macintosh|such as
+macintosh|and|punc
+macintosh|unix|conj
+are|apparently|mod-before
+are|not|neg
+are|vulnerable|pred
+india|at least|appo-mod
+owners|10,000|num
+owners|computer|nn
+india|owners|appo
+owners|reported|vrel
+reported|owners|obj
+reported|infected|mod
+ranks|contrast|in
+love bug|original|mod
+love bug|"|punc
+ranks|"|punc
+ranks|only|mod-before
+ranks|love bug|subj
+ranks|5|at
+5|scale|on
+found|smith|subj
+fingerprints|digital|mod
+found|fingerprints|obj
+fingerprints|linking|rel
+linking|fingerprint|subj
+writer|virus|nn
+linking|writer|obj
+writer|called|vrel
+called|writer|obj1
+called|vicodines|desc
+vicodines|virus|to
+mentioned|also|mod-before
+warning|mentioned|vrel
+mentioned|warning|obj
+mentioned|specifically|mod
+infected|warning|subj
+infected|files|obj
+news groups alt.sex|internet|nn
+files|news groups alt.sex|on
+virus|chernobyl|nn
+known|virus|obj
+known|taiwan|in
+taiwan|cih|as
+known|using|mod
+using|virus|subj
+initials|chen|gen
+using|initials|obj
+is|harmless|pred
+is|unless|mod
+unless|opens|comp1
+opens|recipient|subj
+file|attached|mod
+opens|file|obj
+virus|chernobyl|nn
+infiltrate|virus|unlike
+infiltrate|it|subj
+environment|business|mod
+infiltrate|environment|obj
+experts|other|mod
+disagreed|experts|subj
+over|whether|c
+destructive|most|mod
+virus|destructive|mod
+was|virus|pred
+was|ever|mod
+disk|helpline|from
+detect|disk|subj
+9400|more than|num-mod
+viruses|9400|nn
+viruses|other|mod
+viruses|computer|nn
+detect|viruses|obj
+developed|companies|subj
+developed|software|obj
+software|that|whn
+detects|software|subj
+detects|virus|obj

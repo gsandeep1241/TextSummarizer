@@ -1,0 +1,167 @@
+law|new|mod
+enable|law|subj
+authorities|local|mod
+enable|authorities|obj
+authorities|ban|rel
+ban|authority|subj
+ban|smoking|obj
+places|public|mod
+smoking|places|in
+ban|and|punc
+ban|designate|conj
+designate|authority|subj
+designate|areas|obj
+areas|where|wha
+allowed|smoking|obj
+spokesman|health|nn
+province|gauteng|nn
+spokesman|province|of
+quoted|spokesman|obj
+quoted|saying|as
+prohibited|generally|amod
+prohibited|smoking|obj
+places|public|mod
+prohibited|places|in
+buildings|government|nn
+places|buildings|such as
+buildings|and|punc
+buildings|auditoriums|conj
+auditoriums|and|punc
+smoking|areas|nn
+smoking|ban|nn
+auditoriums|smoking|conj
+smoking|bars|in
+bars|and|punc
+bars|restaurants|conj
+given up|smokers|subj
+habit|their|gen
+habit|long-term|mod
+given up|habit|obj
+given up|since|mod
+regulations|current|mod
+regulations|anti-smoking|mod
+since|went into|comp1
+went into|regulations|subj
+went into|effect|obj
+effect|beijing|in
+beijing|and|punc
+beijing|shanghai|conj
+shanghai|where|wha
+stalls|cigarette|nn
+reported|stalls|subj
+sales|low|mod
+reported|sales|obj
+cabinet|october 30|nn
+cabinet|(|punc
+cabinet|xinhua|nn
+cabinet|)|punc
+cabinet|iranian|mod
+approved|wednesday|subj
+approved|bill|obj
+bill|prohibiting|rel
+prohibiting|bill|subj
+prohibiting|smoking|obj
+places|public|mod
+smoking|places|in
+places|move|in
+move|intensify|rel
+intensify|move|subj
+campaign|its|gen
+campaign|nationwide|mod
+campaign|anti-smoking|mod
+intensify|campaign|obj
+health department|california|gen
+hoped|health department|subj
+hoped|that|c
+owners|bar|nn
+owners|and|punc
+owners|patrons|conj
+comply with|eventually|amod
+comply with|owners|subj
+law|new|mod
+comply with|law|obj
+stems from|ban|subj
+workplace|california|gen
+workplace|indoor|mod
+stems from|workplace|obj
+workplace|smoking|rel
+smoking|workplace|subj
+smoking|prohibition|obj
+prohibition|that|whn
+started|prohibition|subj
+started|1994|in
+tried|toronto|subj
+tried|become|fc
+become|toronto|subj
+city|canada|gen
+city|first|post
+become|city|obj
+city|ban|rel
+ban|city|subj
+ban|smoking|obj
+smoking|bars|in
+bars|and|punc
+bars|restaurants|conj
+ban|but|punc
+ban|backed down|conj
+backed down|city|subj
+year|last|post
+backed down|year|mod
+backed down|face|in
+defiance|widespread|mod
+face|defiance|of
+outlaws|bill|subj
+outlaws|smoking|obj
+places|enclosed|mod
+places|public|mod
+smoking|places|in
+stations|train|nn
+places|stations|like
+stations|and|punc
+malls|shopping|nn
+stations|malls|conj
+like|and|punc
+like|in|conj
+like|workplace|in
+cities|big|mod
+took|beijing|such as
+beijing|shanghai|conj
+shanghai|tianjin|conj
+tianjin|and|punc
+municipalities|chongqing|nn
+tianjin|municipalities|conj
+municipalities|and|punc
+municipalities|guangzhou|conj
+guangzhou|wuhan|conj
+wuhan|and|punc
+wuhan|xi|conj
+'an|and|punc
+cities|other|mod
+'an|cities|conj
+took|'an|subj
+measures|similar|mod
+took|measures|obj
+took|after|mod
+china|north|mod
+shanxi province|china|gen
+changzhi|shanxi province|of
+after|initiated|comp1
+initiated|changzhi|subj
+law|no-smoking|mod
+initiated|law|obj
+law|november , 1989|in
+is|urgent|pred
+is|step up|mod
+step up|it|subj
+measures|anti-smoking|mod
+step up|measures|obj
+step up|smoking|since
+smoking|second-hand|nn
+become|smoking|subj
+hazard|serious|mod
+hazard|public|mod
+hazard|health|nn
+become|hazard|obj
+hazard|china|in
+hazard|"|punc
+hazard|minister|appo

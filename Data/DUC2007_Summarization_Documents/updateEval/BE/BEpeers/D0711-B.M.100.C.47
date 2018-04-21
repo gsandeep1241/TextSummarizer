@@ -1,0 +1,71 @@
+experts|antitrust|mod
+say|experts|subj
+brief|lessig|nn
+say|give|fc
+give|brief|subj
+give|jackson|obj1
+blueprint|legal|mod
+give|blueprint|obj2
+blueprint|needs|rel
+needs|blueprint|obj
+needs|he|subj
+concluding|expert|subj
+concluding|that|c
+violate|microsoft|subj
+law|tying|nn
+violate|law|obj
+suggests|then|amod
+suggests|lessig|subj
+test|different|mod
+test|antitrust|mod
+suggests|test|obj
+test|software|for
+software|that|c
+government|or|punc
+government|courts|conj
+should|not|neg
+worry about|software|obj
+worry about|government|subj
+worry about|bundling|mod
+bundling|government|subj
+bundling|unless|mod
+company|dominant|mod
+unless|engages in|comp1
+engages in|company|subj
+calls|what|obj1
+calls|he|subj
+calls|"|punc
+bundling|strategic|mod
+calls|bundling|desc
+negotiations|settlement|nn
+after|fail|comp1
+fail|negotiations|subj
+justice department|and|punc
+states|20|num
+justice department|states|conj
+file|justice department|subj
+suit|broad|mod
+suit|antitrust|mod
+file|suit|obj
+suit|microsoft|against
+sitting|according to|mod-before
+antitrust|most|mod
+experts|antitrust|mod
+sitting|experts|according to
+sitting|government|subj
+lead|big|mod
+sitting|lead|on
+lead|while|appo
+while|trying|rel
+trying|microsoft|subj
+trying|limit|fc
+limit|microsoft|subj
+losses|its|gen
+limit|losses|obj
+court|jackson|gen
+losses|court|in
+court|and|punc
+court|planning|conj
+planning|fare|rel
+fare|planning|subj
+limit|better|mod

@@ -1,0 +1,59 @@
+balloon|breitling|nn
+complaining|balloon|as
+balloon|entered|vrel
+entered|balloon|obj
+day|its|gen
+day|18th|mod
+entered|day|mod
+entered|aloft|mod
+entered|however|mod
+pilots|two|nn
+complaining|pilots|subj
+complaining|exhaustion|of
+complaining|and|punc
+complaining|said|conj
+said|pilots|subj
+said|worried|fc
+worried|they|obj
+worried|that|c
+propane|used|vrel
+used|propane|obj
+burners|balloon|gen
+used|burners|in
+run out|propane|subj
+run out|before|mod
+before|reached|comp1
+reached|craft|subj
+reached|finish line|obj
+degrees|9.27|amount-value
+longitude|degrees|nn
+longitude|west|nn
+crawled|balloon|subj
+miles|20|amount-value
+crawled|miles|at
+sped|stretches|in
+stretches|where|wha
+exploit|crew|subj
+streams|jet|nn
+exploit|streams|obj
+sped|breitling|subj
+100|more than|num-mod
+miles|100|amount-value
+sped|miles|at
+adventurers|bertrand piccard|appo
+bertrand piccard|switzerland|of
+switzerland|and|punc
+switzerland|brian jones|conj
+brian jones|england|of
+steered|adventurers|subj
+balloon|their|gen
+steered|balloon|obj
+balloon|pacific ocean|over
+pacific ocean|hawaii|toward
+hawaii|and|punc
+hawaii|california|conj
+california|or|punc
+california|mexico|conj
+center|their|gen
+center|control|nn
+pacific ocean|center|appo

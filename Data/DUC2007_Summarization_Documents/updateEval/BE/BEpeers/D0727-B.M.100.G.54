@@ -1,0 +1,61 @@
+speaker|former|mod
+speaker|house|nn
+speaker|newt gingrich|person
+asking|speaker|subj
+asking|judge|obj
+judge|force|rel
+force|judge|subj
+wife|his|gen
+wife|estranged|mod
+turn over|wife|subj
+turn over|money|obj
+money|says|rel
+says|he|subj
+says|hoarding|fc
+hoarding|money|obj
+hoarding|she|subj
+gives|agreement|subj
+gingrich|mrs.|title
+gives|gingrich|obj1
+gingrich|house|rel
+house|gingrich|obj
+house|couple|subj
+house|marietta|in
+marietta|and|punc
+marietta|gingrich|conj
+apartment|their|gen
+apartment|washington|nn
+gives|apartment|obj2
+asked|bisek|subj
+judge|washington|nn
+asked|judge|obj
+judge|block|rel
+block|judge|subj
+subpoena|marianne gingrich|gen
+block|subpoena|obj
+subpoena|asking|rel
+asking|subpoena|subj
+asking|her|obj
+asking|answer|mod
+answer|questions|obj
+relationship|her|gen
+questions|relationship|about
+speaker|former|mod
+relationship|speaker|with
+gives|agreement|subj
+possession|marianne gingrich|nn
+gives|possession|obj
+marietta|couple|gen
+possession|marietta|of
+gives|home|mod
+but|says|comp1
+says|marianne gingrich|subj
+she|and|punc
+husband|her|gen
+she|husband|conj
+says|were|fc
+were|living together|pred
+living together|marietta|in
+marietta|condo|appo
+most|her|gen
+are|most|pred

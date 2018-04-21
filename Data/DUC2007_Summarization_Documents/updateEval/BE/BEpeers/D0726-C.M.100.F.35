@@ -1,0 +1,51 @@
+woman|stamford|nn
+become|woman|subj
+maker|official|mod
+maker|yarmulke|nn
+become|maker|obj
+ticket|gore-lieberman|nn
+ticket|presidential|mod
+maker|ticket|of
+hearing|that|c
+lieberman|stamford-native|mod
+chosen|lieberman|obj
+running mate|al gore|gen
+chosen|running mate|as
+decided|marsha greenberg|subj
+decided|knit|fc
+knit|marsha greenberg|subj
+knit|him|obj
+result|the end|nn
+yarmulke|blue|mod
+was|yarmulke|pred
+yarmulke|red|with
+striped|white|subj
+reading|letters|nn
+striped|reading|obj
+'gore-lieberman|2000|num
+cap|skull|nn
+is|cap|pred
+cap|worn|vrel
+worn|cap|obj
+worn|by|by-subj
+males|jewish|mod
+worn|males|by
+males|sign|as
+sign|humility|of
+humility|god|before
+orthodox jew|first|post
+orthodox jew|who|whn
+gotten|orthodox jew|obj
+gotten|so|mod
+so|knew|comp1
+knew|i|subj
+knew|he|obj
+wear|orthodox jew|subj
+wear|it|obj
+wear|if|c
+get|i|subj
+get|it|obj
+said|him|to
+said|she|subj
+yarmulke|campaign|nn
+'s|yarmulke|pred

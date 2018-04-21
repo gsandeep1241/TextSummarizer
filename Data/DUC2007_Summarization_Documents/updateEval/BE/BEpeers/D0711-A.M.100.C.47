@@ -1,0 +1,59 @@
+lawsuit|caldera inc.|gen
+lawsuit|antitrust|mod
+trial|lawsuit|of
+lawsuit|microsoft corp.|against
+postponed|trial|obj
+renewed|justice department|subj
+scrutiny|its|gen
+renewed|scrutiny|obj
+violations|alleged|mod
+violations|antitrust|mod
+scrutiny|violations|of
+microsoft|software|nn
+microsoft|giant|nn
+violations|microsoft|by
+suit|government|gen
+suit|antitrust|mod
+allegations|suit|in
+include|allegations|subj
+include|practices|obj
+practices|that|whn
+are|at|pred
+are|heart|at
+sun|breach-of-contract|nn
+sun|case|nn
+heart|sun|of
+sun|filed|vrel
+filed|sun|obj
+filed|microsoft|against
+microsoft|trying|rel
+trying|microsoft|obj
+trying|microsoft|subj
+pollute|"|punc
+trying|pollute|mod
+pollute|microsoft|subj
+pollute|"|punc
+language|sun|gen
+language|internet|nn
+language|programming|nn
+pollute|language|obj
+language|called|vrel
+called|java|desc
+called|by|by-subj
+called|modifying|by
+modifying|it|obj
+seemed|business|subj
+seemed|as usual|mod
+headquarters|microsoft|nn
+as usual|headquarters|at
+day|first|post
+headquarters|day|on
+trial|u.s. government|gen
+trial|antitrust|mod
+day|trial|of
+giant|software|nn
+trial|giant|against
+sherlund|noted|vrel
+noted|sherlund|obj
+rein|ruling|subj
+rein|microsoft|obj

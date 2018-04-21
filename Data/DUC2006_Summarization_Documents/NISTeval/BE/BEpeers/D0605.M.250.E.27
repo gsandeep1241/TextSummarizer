@@ -1,0 +1,171 @@
+celebrex|approved|vrel
+approved|celebrex|obj
+approved|osteoarthritis|for
+osteoarthritis|and|punc
+osteoarthritis|rheumatoid arthritis|conj
+sold|already|amod
+sold|celebrex|subj
+1.1 million|more than|num-mod
+prescriptions|1.1 million|nn
+sold|prescriptions|obj
+sold|making|mod
+making|celebrex|subj
+making|it|obj1
+drug|biggest|mod
+drug|new|mod
+making|drug|desc
+drug|1999|of
+research|controlled|mod
+done|research|obj
+sulfate|chondroitin|nn
+done|sulfate|on
+treatment|popular|mod
+treatment|arthritis|nn
+sulfate|treatment|appo
+drugs|two|nn
+drugs|new|mod
+drugs|injectable|mod
+hyalgan|hyaluronan|nn
+hyalgan|(|punc
+drugs|hyalgan|conj
+hyalgan|)|punc
+hyalgan|and|punc
+synvisk|hylan|nn
+synvisk|g-f20|nn
+synvisk|(|punc
+hyalgan|synvisk|conj
+are|)|punc
+are|also|mod-before
+are|effective|pred
+effective|osteoarthritis|for
+osteoarthritis|knee|of
+effects|celebra|gen
+tested|effects|obj
+effects|rheumatoid arthritis|on
+rheumatoid arthritis|osteoarthritis|conj
+osteoarthritis|and|punc
+pain|dental|mod
+osteoarthritis|pain|conj
+researching|now|guest
+researching|scientists|subj
+researching|signs|obj
+signs|that|c
+help|celebra|subj
+prevent|signs|subj
+cancer|colon|nn
+prevent|cancer|obj
+cancer|and|punc
+disease|alzheimer|gen
+cancer|disease|conj
+believed|cox-2|obj
+believed|play|mod
+play|cox-2|subj
+play|role|obj
+emerge|improvements|subj
+emerge|medical|in
+patients|alternative_many|nn
+patients|osteoarthritis|nn
+run out|eventually|amod
+run out|patients|subj
+options|stop-gap|nn
+run out|options|of
+cartilage|shark|nn
+although|advertised|vrel
+advertised|although|obj
+advertised|help|mod
+ease|although|subj
+ease|osteoarthritis|obj
+osteoarthritis|and|punc
+symptoms|rheumatoid arthritis|nn
+osteoarthritis|symptoms|conj
+is|there|mod-before
+accepted|scientifically|mod
+evidence|accepted|mod
+is|evidence|pred
+evidence|that|c
+cartilage|shark|nn
+works|cartilage|subj
+works|arthritis|for
+research|recent|mod
+research|well-done|mod
+shows|research|subj
+shows|that|c
+soothes|glucosamine|subj
+pain|knee|nn
+soothes|pain|obj
+pain|as|punc
+pain|well|punc
+pain|as|punc
+does|ibuprofen|nn
+pain|does|conj
+effects|side|nn
+has|vioxx|subj
+has|indication|obj
+indication|treatment|for
+pain|acute|mod
+treatment|pain|of
+not_it|celebrex|nn
+not_it|does|nn
+approved|not_it|obj
+approved|treatment|for
+treatment|rheumatoid arthritis|of
+rheumatoid arthritis|and|punc
+rheumatoid arthritis|osteoarthritis|conj
+won|merck|subj
+marketing|slight|mod
+edge|marketing|subj
+edge|friday|obj
+edge|as|mod
+as|approved|comp1
+approved|fda|subj
+approved|vioxx|obj
+pain|menstrual|mod
+vioxx|pain|for
+pain|acute|mod
+pain|pain|conj
+pain|adults|in
+adults|and|punc
+adults|osteoarthritis|conj
+patients|and|punc
+patients|others|conj
+pain|chronic|mod
+others|pain|in
+drugs|nonsteroidal|mod
+drugs|anti-inflammatory|nn
+mostly|drugs|on
+drugs|or|punc
+drugs|nsaids|conj
+nsaids|sold|vrel
+sold|nsaids|obj1
+sold|over-the-counter|obj2
+on|or|punc
+on|at|conj
+strength|prescription|mod
+on|strength|at
+names|brand|nn
+strength|names|under
+names|advil|such as
+advil|daypro|conj
+daypro|lodine|conj
+lodine|and|punc
+lodine|naprosyn|conj
+millions|people|of
+depend on|now|mod-before
+depend on|millions|subj
+depend on|aspirin|obj
+aspirin|ibuprofen|conj
+ibuprofen|and|punc
+ibuprofen|host|conj
+pills|other|mod
+host|pills|of
+pills|called|vrel
+called|pills|obj1
+called|`|punc
+called|`|punc
+drugs|non-steroidal|mod
+drugs|anti-inflammatory|nn
+called|drugs|desc
+drugs|'|punc
+drugs|'|punc
+drugs|or|punc
+drugs|nsaids|conj

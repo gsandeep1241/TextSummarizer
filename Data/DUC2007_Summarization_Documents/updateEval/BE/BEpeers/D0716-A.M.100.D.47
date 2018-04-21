@@ -1,0 +1,53 @@
+mine|fourth|mod
+mine|uranium|nn
+approved|mine|obj
+approved|year|within
+approved|after|mod
+company|energy resources australia|nn
+after|moved|comp1
+moved|company|subj
+moved|fast-track|to
+mine|jabiluka|nn
+fast-track|mine|for
+mine|kakadu national park|in
+project|jabiluka|nn
+considered|project|obj1
+test|litmus|nn
+considered|test|obj2
+projects|other|mod
+projects|potential|mod
+projects|uranium|nn
+projects|mine|nn
+test|projects|for
+projects|australia|in
+mine|planned|mod
+mine|jabiluka|nn
+is|on|pred
+is|edge|on
+kakadu park|22,000|num
+kakadu park|square-kilometer|mod
+edge|kakadu park|of
+kakadu park|which|whn
+is|on|pred
+is|world heritage list|on
+australia|northern|mod
+northern territory|australia|gen
+is|northern territory|in
+arrested|police|subj
+100|more than|num-mod
+protesters|100|nn
+arrested|protesters|obj
+resources|energy|nn
+protesters|resources|at
+development|australia|gen
+development|jabiluka|nn
+development|mine|mod
+resources|development|of
+development|kakadu|at
+area|world|nn
+area|heritage|nn
+area|listed|mod
+development|area|appo
+area|northern territory|in
+protesters|who|whn
+campaigning|protesters|subj

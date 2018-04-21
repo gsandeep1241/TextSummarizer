@@ -1,0 +1,128 @@
+plane|cairo-bound|mod
+plane|passenger|nn
+crashed|plane|subj
+crashed|atlantic ocean|into
+minutes|massachusettes|nn
+minutes|coast|nn
+minutes|40|amount-value
+atlantic ocean|minutes|off
+minutes|takeoff|after
+takeoff|kennedy international airport|from
+kennedy international airport|new york|in
+new york|october 31|on
+boxes|"|punc
+boxes|black|nn
+one|boxes|of
+boxes|"|punc
+boxes|plane|of
+plane|egyptair flight 990|on
+recovered|one|obj
+searchers|u.s.|nn
+announced|searchers|subj
+recovered|announced|mod
+recovered|tuesday|mod
+recorder|flight|nn
+recorder|data|nn
+examination|recorder|of
+recorder|cockpit|nn
+recorder|voice|nn
+recorder|recorder|conj
+data|radar|nn
+recorder|data|conj
+data|and|punc
+amounts|small|mod
+data|amounts|conj
+recorder|wreckage|of
+said|hall|subj
+said|in|guest
+said|november|in
+said|that|c
+was|sign|pred
+failure|mechanical|mod
+sign|failure|of
+failure|that|whn
+caused|failure|subj
+caused|crash|obj
+come from|wednesday|until
+information|only|mod
+happened|what|subj
+happened|egyptair flight 990|to
+come from|information|subj
+come from|analysis|obj
+data|radar|nn
+analysis|data|of
+data|ntsb|by
+ntsb|and|punc
+ntsb|air force|conj
+pilot|egyptair|nn
+pilot|seeking|rel
+seeking|pilot|subj
+seeking|asylum|obj
+asylum|england|in
+england|who|whn
+says|england|subj
+says|has|fc
+has|he|subj
+has|information|obj
+information|october|about
+crash|deadly|mod
+crash|egyptair flight 990|of
+interviewed|crash|obj
+interviewed|by|by-subj
+investigators|u.s.|nn
+investigators|accident|nn
+interviewed|investigators|by
+fueled|speculation|obj
+fueled|because|mod
+767|another|num-mod
+because|crashed|comp1
+crashed|767|subj
+crashed|thailand|in
+thailand|1991|in
+reverser|thrust|nn
+reverser|deployed|vrel
+deployed|reverser|obj
+deployed|flight|in
+officials|egyptian|mod
+officials|aviation|nn
+demanded|officials|subj
+demanded|that|c
+provide|united states|subj
+information|detailed|mod
+information|radar|nn
+provide|information|obj
+october|last|post
+crash|october|gen
+crash|egyptair flight 990|nn
+information|crash|on
+crash|explain|rel
+explain|crash|subj
+images|high-speed|mod
+images|radar|nn
+explain|images|obj
+images|plane|near
+moments|its|gen
+moments|final|mod
+plane|moments|in
+minutes|puzzling|mod
+minutes|final|mod
+minutes|flight|of
+flight|and|punc
+flight|lack|conj
+cause|clear-cut|mod
+lack|cause|of
+cause|emerging|rel
+emerging|cause|subj
+analyses|first|post
+emerging|analyses|from
+black|two|nn
+analyses|black|of
+data|boxes_the|nn
+data|flight|nn
+data|and|punc
+recorders_hall|cockpit|nn
+recorders_hall|voice|nn
+data|recorders_hall|conj
+was|optimistic|pred
+pinpointed|eventually|guest
+pinpointed|cause|obj

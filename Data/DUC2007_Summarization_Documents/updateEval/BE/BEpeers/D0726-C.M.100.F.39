@@ -1,0 +1,61 @@
+presidents|last|post
+presidents|10|num
+five|presidents|of
+served as|first|mod-before
+served as|five|subj
+served as|vice president|obj
+resigned|brazile|subj
+resigned|as|guest
+resigned|deputy|as
+director|national|mod
+director|field|nn
+resigned|director|obj
+director|michael dukakis|for
+campaign|1988|num
+campaign|presidential|mod
+michael dukakis|campaign|in
+campaign|making|after
+making|brazile|subj
+making|comments|obj
+life|personal|mod
+comments|life|about
+opponent|his|gen
+opponent|republican|mod
+life|opponent|of
+making|then|mod
+president|george bush|person
+is|father|pred
+w.|george|nn
+father|w.|of
+front-runner|gop|nn
+bush|front-runner|appo
+campaign|2000|num
+campaign|presidential|mod
+front-runner|campaign|in
+official|senior|mod
+official|gore|nn
+said|official|subj
+said|was|fc
+was|leaving|pred
+reasons|health|nn
+leaving|reasons|for
+for|and|punc
+for|on|conj
+orders|doctor|gen
+for|orders|on
+strategist|prominent|mod
+strategist|democratic|mod
+coelho|strategist|appo
+named|coelho|obj1
+chairman|general|mod
+named|chairman|obj2
+campaign|gore|gen
+campaign|presidential|mod
+chairman|campaign|of
+campaign|1999|in
+shakeup|first|post
+shakeup|major|mod
+campaign|shakeup|in
+campaign|gore|gen
+campaign|presidential|mod
+shakeup|campaign|of

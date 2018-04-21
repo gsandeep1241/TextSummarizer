@@ -1,0 +1,178 @@
+prepare for|retailers|subj
+wars|'star|nn
+star wars|wars|gen
+star wars|although|nn
+star wars|`|punc
+star wars|`|punc
+prepare for|star wars|obj
+i--|episode|nn
+opened|'|punc
+opened|'|punc
+i--|opened|rel
+opened|i--|obj
+opened|phantom menace|subj
+opened|united states|in
+united states|and|punc
+united states|canada|conj
+canada|may 19|on
+released|it|obj
+released|asian|in
+asian|and|punc
+nations|european|nn
+asian|nations|conj
+nations|mid-to|until
+summer|late|mod
+released|summer|mod
+market|world|gen
+market|second|post
+market|largest|mod
+market|movie|nn
+japan|market|appo
+is|home|pred
+home|legions|to
+fans|star wars|nn
+legions|fans|of
+hyped|heavily|mod
+been|hyped|pred
+hyped|media|by
+media|weeks|in
+weeks|leading|rel
+leading|week|subj
+leading|up|mod
+showing|its|gen
+showing|first|post
+up|showing|to
+was|response|pred
+trailer|two-minute|nn
+response|trailer|to
+trailer|_|punc
+trailer|just|appo-mod
+trailer|preview|appo
+mind|you|obj
+for|`|punc
+for|`|punc
+mind|phantom menace|for
+phantom menace|'|punc
+phantom menace|'|punc
+installment|george lucas|gen
+installment|latest|mod
+phantom menace|installment|appo
+is|billed|pred
+billed|prequel|as
+star wars|`|punc
+star wars|`|punc
+trilogy|star wars|gen
+trilogy|'|punc
+prequel|trilogy|to
+starting|april 30|mod
+host|denver|subj
+star wars celebration|lucasfilm ltd.-sanctioned|nn
+star wars celebration|`|punc
+star wars celebration|`|punc
+host|star wars celebration|obj
+star wars celebration|'|punc
+star wars celebration|'|punc
+festival|three-day|nn
+festival|fan|nn
+star wars celebration|festival|appo
+festival|wings|at
+wings|rockies museum|over
+with|`|punc
+with|`|punc
+peeks|phantom menace|nn
+peeks|'|punc
+peeks|'|punc
+peeks|sneak|mod
+rockies museum|peeks|with
+peeks|appearances|appo
+appearances|many|by
+stars|film|gen
+many|stars|of
+jake lloyd|young|mod
+including|jake lloyd|obj
+jake lloyd|who|whn
+plays|jake lloyd|subj
+plays|anakin skywalker|obj
+plays|(|punc
+plays|a.k.a.|mod
+darth vader|)|punc
+darth vader|and|punc
+hawking|marketplace|nn
+darth vader|hawking|conj
+merchandise|darth vader|subj
+merchandise|from|guest
+merchandise|all|from
+star wars|`|punc
+star wars|`|punc
+films|star wars|gen
+films|'|punc
+merchandise|films|obj
+interview|phone|nn
+says|interview|in
+says|he|subj
+says|seen|fc
+seen|he|subj
+seen|first three|obj
+first three|`|punc
+first three|`|punc
+each|star wars|gen
+each|'|punc
+each|films|nn
+each|`|punc
+each|`|punc
+times|200|amount-value
+each|times|nn
+downloaded|easily|mod-before
+downloaded|'|punc
+downloaded|'|punc
+first three|downloaded|rel
+downloaded|first three|obj
+downloaded|each|subj
+copies|internet|nn
+seven|at least|num-mod
+copies|seven|nn
+downloaded|copies|from
+trailer|first|post
+trailer|`|punc
+trailer|`|punc
+trailer|phantom menace|nn
+trailer|'|punc
+trailer|'|punc
+copies|trailer|of
+downloaded|and|punc
+downloaded|organizing|conj
+organizing|first three|obj
+organizing|each|subj
+organizing|web|via
+group|his own|gen
+group|fans|of
+web|see|rel
+see|group|subj
+see|film|obj
+day|opening|mod
+film|day|on
+blitz|may|in
+merchandising|and|punc
+promotion|food|nn
+merchandising|promotion|conj
+blitz|merchandising|subj
+blitz|for|guest
+blitz|long-awaited|for
+star wars|new|mod
+star wars|`|punc
+star wars|`|punc
+movie|star wars|gen
+movie|'|punc
+blitz|movie|obj
+i|_|punc
+i|phantom menace|appo
+scheduled|'|punc
+scheduled|'|punc
+scheduled|i|obj
+scheduled|open|mod
+open|i|subj
+two|about|num-mod
+weeks|two|amount-value
+weeks|go|rel
+go|weeks|subj
+go|before|mod

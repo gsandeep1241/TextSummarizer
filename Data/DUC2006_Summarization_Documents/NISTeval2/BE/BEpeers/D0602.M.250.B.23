@@ -1,0 +1,166 @@
+athletes|olympic|mod
+try|athletes|subj
+try|foil|fc
+foil|athlete|subj
+foil|tests|obj
+tests|using|by
+using|athlete|subj
+agents|masking|nn
+using|agents|obj
+agents|or|punc
+batch|new|mod
+agents|batch|conj
+steroids|difficult-to-trace|mod
+steroids|water-based|mod
+batch|steroids|of
+experts|medical|mod
+say|experts|subj
+take|frequently|amod
+say|take|fc
+take|athletes|subj
+steroids|anabolic|mod
+take|steroids|obj
+steroids|doses|in
+enough|high|mod
+doses|enough|pnmod
+enough|have|comp1
+have|athlete|subj
+consequences|dangerous|mod
+have|consequences|obj
+have|users|with
+users|known|vrel
+known|users|obj
+known|taken|mod
+taken|athlete|subj
+times|10 to 100|amount-value
+taken|times|obj
+dosage|recommended|mod
+steroids|anabolic|mod
+substitutes|synthetic|mod
+are|substitutes|pred
+substitutes|testosterone|for
+testosterone|hormone|conj
+hormone|that|whn
+directs|hormone|subj
+directs|body|obj
+body|produce|rel
+produce|body|subj
+characteristics|male|mod
+produce|characteristics|obj
+mass|increased|mod
+mass|muscle|nn
+characteristics|mass|like
+hair|facial|mod
+mass|hair|conj
+hair|and|punc
+voice|deep|mod
+hair|voice|conj
+chief|east germany|gen
+chief|former|mod
+chief|sports|nn
+chief|and|punc
+director|his|gen
+director|medical|mod
+chief|director|conj
+convicted|chief|obj
+convicted|tuesday|mod
+roles|their|gen
+convicted|roles|for
+secret|top|mod
+roles|secret|in
+secret|doping|rel
+doping|secret|subj
+doping|program|obj
+country|former|mod
+country|communist|nn
+program|country|in
+country|that|whn
+turned|country|subj
+turned|promising|mod
+female|young|mod
+promising|female|obj1
+promising|athletes|obj2
+champions|souped-up|mod
+champions|olympic|mod
+athletes|champions|into
+athletes|two|nn
+athletes|moroccan|mod
+athletes|female|mod
+been|stripped|pred
+stripped|gold|of
+gold|and|punc
+medals|bronze|mod
+gold|medals|conj
+medals|using|for
+using|athlete|subj
+steroid|muscle-building|nn
+using|steroid|obj
+cases|first|post
+cases|reported|mod
+steroid|cases|in
+cases|doping|of
+games|arab|nn
+doping|games|at
+pressed for|international amateur athletic federation|subj
+federations|national|mod
+pressed for|federations|obj
+federations|cuba|of
+cuba|and|punc
+cuba|jamaica|conj
+jamaica|impose|rel
+impose|jamaica|subj
+impose|ban|obj
+javier sotomayor|high|mod
+javier sotomayor|jumper|nn
+ban|javier sotomayor|on
+javier sotomayor|and|punc
+merlene ottey|sprinter|nn
+javier sotomayor|merlene ottey|conj
+merlene ottey|doping|for
+doping|failures|obj
+swimmer|female|mod
+swimmer|wu yanyan|appo
+champion|world|nn
+wu yanyan|champion|appo
+medley|200-meter|nn
+medley|individual|mod
+champion|medley|in
+failed|swimmer|subj
+test|drug|nn
+failed|test|obj
+championships|chinese|nn
+championships|national|mod
+test|championships|at
+failed|and|punc
+failed|banned|conj
+banned|swimmer|obj
+years|four|amount-value
+banned|years|for
+positive|two|nn
+positive|doping|rel
+doping|positive|subj
+doping|tests|obj
+announced|positive|obj
+announced|wednesday|on
+wednesday|just|appo-mod
+days|two|amount-value
+wednesday|days|appo
+days|opening|before
+opening|sydney olympic games|of
+svetlana pospelova|russian|mod
+svetlana pospelova|400-meter|nn
+svetlana pospelova|runner|nn
+tested|svetlana pospelova|subj
+tested|positive|obj
+drugs|banned|mod
+positive|drugs|for
+test|out-ofcompetition|mod
+drugs|test|in
+dana cervantes|spanish|nn
+dana cervantes|pole vaulter|nn
+positive|tested|mod
+was|positive|pred
+positive|august|in
+nandrolone|banned|mod
+nandrolone|steroid|nn
+positive|nandrolone|for

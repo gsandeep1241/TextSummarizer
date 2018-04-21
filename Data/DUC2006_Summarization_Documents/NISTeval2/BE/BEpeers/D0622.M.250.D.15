@@ -1,0 +1,127 @@
+virus|west nile|nn
+virus|mosquito-borne|mod
+is|virus|pred
+virus|that|whn
+cause|virus|subj
+cause|encephalitis|obj
+encephalitis|or|punc
+encephalitis|inflammation|conj
+inflammation|brain|of
+encephalitis|west nile|nn
+passed|encephalitis|obj
+passed|person|from
+person|person|to
+to|or|punc
+to|from|conj
+to|birds|from
+birds|people|to
+pass through|virus|subj
+pass through|mosquito|obj
+appeared|virus|subj
+appeared|only|mod
+only|birds|in
+birds|and|punc
+insects|mosquitoes-bloodsucking|mod
+birds|insects|conj
+insects|that|whn
+spread|insects|subj
+spread|west nile|obj
+west nile|humans|to
+summer|last|post
+virus|west nile|nn
+outbreak|virus|of
+killed|outbreak|subj
+people|seven|nn
+killed|people|obj
+people|queens|in
+60|more than|num-mod
+others|60|nn
+virus|west nile|nn
+victims|virus|of
+experience|typically|mod-before
+experience|victims|subj
+symptoms|flu-like|mod
+experience|symptoms|obj
+people|who|whn
+infected|people|obj
+virus|west nile|nn
+infected|virus|with
+show|people|subj
+symptoms|but|punc
+symptoms|others|conj
+show|suffer|fc
+suffer|symptoms|subj
+symptoms|flu-like|mod
+suffer|symptoms|from
+ticks|infected|vrel
+infected|ticks|obj
+virus|west nile|nn
+infected|virus|with
+found|ticks|obj
+found|asia|in
+asia|and|punc
+asia|africa|conj
+officials|health|nn
+officials|stamford|in
+announced|officials|subj
+announced|that|c
+found|they|subj
+crow|dead|mod
+found|crow|obj
+crow|infected|vrel
+infected|crow|obj
+virus|west nile|nn
+infected|virus|with
+bird|first|post
+bird|infected|mod
+virus|bird|appo
+bird|found|vrel
+found|bird|obj
+found|state|in
+virus|believed|vrel
+believed|virus|obj
+be|west nile|pred
+found|virus|obj
+birds|dead|mod
+found|birds|in
+region|metropolitan|mod
+birds|region|in
+using|we|subj
+using|word|obj
+indicate|that|c
+have|still|mod-before
+have|we|subj
+work|more|mod
+have|work|obj
+determine|if|c
+is|variation|pred
+variation|strain|on
+strain|west nile|of
+west nile|or|punc
+virus|new|mod
+west nile|virus|conj
+said|she|subj
+strain|west nile|nn
+strain|virus|of
+found|strain|obj
+crows|dead|mod
+found|crows|in
+area|new york|nn
+crows|area|in
+officials|health|nn
+concerned|officials|obj
+concerned|that|c
+birds|infected|mod
+spread|birds|subj
+virus|west nile|nn
+spread|virus|obj
+spread|if|c
+migrated|they|subj
+migrated|new york|from
+control|disease|nn
+centers|control|for
+control|and|punc
+control|prevention|conj
+prevention|atlanta|in
+atlanta|and|punc
+atlanta|new|conj

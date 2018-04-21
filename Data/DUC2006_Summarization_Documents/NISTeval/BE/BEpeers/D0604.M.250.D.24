@@ -1,0 +1,132 @@
+star wars|original|mod
+star wars|"|punc
+is|"|punc
+movie|no. 2|nn
+is|movie|pred
+time|all|pre
+movie|time|of
+thing|good|mod
+is|thing|pred
+for|"|punc
+george lucas|star wars|nn
+george lucas|"|punc
+george lucas|creator|nn
+thing|george lucas|for
+blitz|may|in
+merchandising|and|punc
+promotion|food|nn
+merchandising|promotion|conj
+blitz|merchandising|subj
+blitz|for|guest
+blitz|long-awaited|for
+movie|new|mod
+movie|"|punc
+movie|star wars|nn
+movie|"|punc
+blitz|movie|obj
+began|month|mod-before
+began|pez|subj
+began|selling|mod
+selling|pez|subj
+star wars|four|nn
+star wars|new|mod
+star wars|"|punc
+selling|star wars|obj1
+selling|"|punc
+selling|dispensers|obj2
+dispensers|anticipation|in
+anticipation|frenzy|of
+frenzy|leading|rel
+leading|frenzy|subj
+leading|up|mod
+release|may 19|nn
+up|release|to
+of|"|punc
+release|episode|of
+analyzing|months|for
+fans|star wars|nn
+fans|"|punc
+analyzing|fans|subj
+analyzing|second|obj
+of|"|punc
+trailer|the phantom menace|nn
+trailer|"|punc
+trailer|movie|nn
+second|trailer|of
+was|among|pred
+was|handful|among
+handful|fans|of
+fans|who|whn
+began|fans|subj
+began|lining up|mod
+lining up|he|subj
+house|movie|nn
+lining up|house|at
+lining up|hoping|mod
+hoping|he|subj
+hoping|snag|fc
+snag|tickets|obj
+star wars|long-awaited|nn
+star wars|"|punc
+tickets|star wars|to
+film|$115 million|nn
+prequel|"|punc
+is|prequel|pred
+prequel|"|punc
+prequel|set|vrel
+set|prequel|obj1
+30|about|num-mod
+years|30|amount-value
+set|years|obj2
+film|first|post
+film|"|punc
+film|star wars|nn
+film|"|punc
+prequel|film|before
+movie|first|post
+trilogy|new|mod
+movie|trilogy|in
+set|movie|obj1
+set|generation|obj2
+films|first three|nn
+films|"|punc
+films|star wars|nn
+films|"|punc
+generation|films|before
+was|on|guest
+was|site|on
+was|that|c
+released|first|mod-before
+released|lucasfilm|subj
+released|name|obj
+name|film|of
+film|"|punc
+film|phantom menace|appo
+series|"|punc
+series|star wars|nn
+series|"|punc
+has|series|subj
+has|lot|obj
+lot|answer|to
+fiction|science|nn
+'s|foregone conclusion|pred
+star wars|"|punc
+be|"|punc
+be|one|pred
+films|biggest|mod
+one|films|of
+time|all|pre
+films|time|of
+star wars|1.|num
+star wars|"|punc
+phantom menace|"|punc
+phantom menace|$64.8 million|appo
+looks|it|subj
+like|`|punc
+looks|star wars|like
+smells|it|subj
+like|`|punc
+smells|star wars|like
+feels like|it|subj
+feels like|`|punc
+feels like|star wars|obj

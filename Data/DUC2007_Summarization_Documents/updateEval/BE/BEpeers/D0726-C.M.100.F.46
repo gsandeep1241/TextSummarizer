@@ -1,0 +1,64 @@
+travelers|'tennessee|nn
+going|'|punc
+going|travelers|subj
+going|tell|fc
+tell|travelers|subj
+tell|everybody|obj
+everybody|iowa|in
+iowa|and|punc
+iowa|new hampshire|conj
+tell|is|fc
+is|all|mod
+is|about|mod
+kind|enthusiasm|of
+enthusiasm|gore|for
+was|absent|pred
+absent|washington|in
+miles|550|amount-value
+washington|miles|appo
+miles|acknowledged|rel
+acknowledged|miles|obj
+acknowledged|coelho|subj
+president|al gore|person
+president|who|whn
+continues|president|subj
+continues|reshuffle|mod
+campaign|his|gen
+campaign|struggling|mod
+campaign|presidential|mod
+reshuffle|campaign|obj
+selected|president|subj
+selected|donna brazile|obj
+manager|his|gen
+manager|new|mod
+manager|campaign|nn
+be|manager|pred
+said|officials|subj
+were|gore|pred
+said|spending|fc
+spending|i|subj
+spending|lot|obj
+time|more|mod
+spending|time|guest
+spending|california|in
+california|and|punc
+northwest|pacific|nn
+california|northwest|conj
+spending|than|mod
+broke|new york|in
+than|broke|comp1
+broke|gore|subj
+broke|ground|obj
+ground|selecting|by
+selecting|gore|subj
+selecting|senator|obj
+senator|lieberman|person
+replaced|he|subj
+pollster|his|gen
+replaced|pollster|obj
+pollster|mark penn|conj
+mark penn|and|punc
+mark penn|plans|conj
+plans|thin out|rel
+thin out|plan|subj
+thin out|his|obj

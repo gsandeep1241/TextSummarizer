@@ -1,0 +1,48 @@
+justice department|and|punc
+general|17|num
+general|state attorneys|nn
+justice department|general|conj
+proposed|justice department|subj
+proposed|break|fc
+break|justice department|subj
+break|microsoft|obj
+companies|two|nn
+microsoft|companies|into
+conference|news|nn
+expressed|conference|at
+janet reno|attorney general|title
+expressed|janet reno|subj
+expressed|satisfaction|obj
+satisfaction|ruling|over
+judge|district|mod
+judge|thomas penfield jackson|person
+judge|who|whn
+ruled|judge|subj
+ruled|that|c
+used|illegally|mod-before
+used|microsoft|subj
+dominance|its|gen
+used|dominance|obj
+market|operating systems|nn
+dominance|market|in
+market|hurt|rel
+hurt|market|subj
+hurt|competition|obj
+judge|district court|nn
+judge|thomas penfield jackson|person
+planned|judge|subj
+planned|issue|fc
+issue|judge|subj
+ruling|his|gen
+ruling|final|mod
+issue|ruling|obj
+expected|widely|mod-before
+ruling|expected|vrel
+call for|ruling|subj
+call for|breakup|obj
+breakup|company|of
+justice department|eager|pnmod
+eager|impose|fc
+impose|strictures|obj
+practices|microsoft|nn
+strictures|practices|on

@@ -1,0 +1,137 @@
+status|current|mod
+predict|status|concerning
+study|industry|nn
+does|not|neg
+predict|study|subj
+predict|expansion|obj
+expansion|market|of
+sales|online|mod
+market|sales|because of
+figures|its|gen
+figures|current|mod
+figures|sales|mod
+indicate|figures|subj
+publishing|electronic|mod
+indicate|publishing|obj
+ways|other|mod
+market|ways|in
+declined|agency|subj
+declined|comment on|fc
+comment on|agency|subj
+comment on|status|obj
+review|its|gen
+status|review|of
+circulating|challenges|concerning
+circulating|he|subj
+circulating|letter|obj
+letter|booksellers|among
+booksellers|challenge|rel
+challenge|bookseller|subj
+challenge|sale|obj
+sale|regulators|with
+worried|general|in
+opponents|merger|gen
+worried|opponents|obj
+worried|that|c
+purchase|ingram|nn
+give|purchase|subj
+access|barnes noble|nn
+give|access|obj
+data|sales|mod
+access|data|to
+competitors|independent|mod
+data|competitors|of
+give|or|punc
+give|allow|conj
+allow|purchase|subj
+stock|it|subj
+stores|its|gen
+stock|stores|obj
+books|popular|mod
+stores|books|with
+books|that|whn
+be|in|pred
+supply|short|mod
+be|supply|in
+supply|making|while
+making|it|subj
+making|competitor|obj
+wait|amazon.com|nn
+making|wait|like
+title|same|post
+wait|title|for
+associations|booksellers|nn
+maintain|associations|concerning
+associations|state|conj
+state|and|punc
+booksellers|national|mod
+state|booksellers|conj
+maintain|associations|subj
+maintain|that|c
+booksellers|three|nn
+booksellers|on-line|mod
+have|booksellers|subj
+presence|formidable|mod
+have|presence|obj
+presence|california|in
+count|that|subj
+nexus|established|mod
+count|nexus|as
+competition|intensifying|mod
+facing|competition|obj
+association|nation|gen
+association|trade|nn
+booksellers|independent|mod
+association|booksellers|for
+creating|association|subj
+store|its own|gen
+store|national|mod
+store|online|mod
+creating|store|obj
+sense|book|nn
+store|sense|appo
+creating|stave|mod
+stave|association|subj
+stave|off|guest
+competition|fierce|mod
+stave|competition|obj
+competition|amazon.com|from
+amazon.com|and|punc
+amazon.com|barnesandnoble.com|conj
+ventures|successful internet|nn
+begun|ventures|subj
+begun|distract|mod
+distract|venture|subj
+distract|owners|obj
+owners|business|from
+business|selling|of
+selling|venture|subj
+selling|books|obj
+customers|walk-in|mod
+books|customers|to
+selling|eroding|mod
+eroding|character|obj
+character|and|punc
+character|charm|conj
+charm|that|whn
+made|charm|subj
+proprietors|independents|nn
+proprietors|unique|mod
+made|proprietors|obj1
+made|fear|desc
+driven away|also|guest
+driven away|cost|subj
+customers|potential|mod
+driven away|customers|obj
+price|average|mod
+book|paperback|mod
+outpaced|book|subj
+outpaced|rate of inflation|obj
+years|last|post
+years|five|amount-value
+rate of inflation|years|over
+outpaced|rising|mod
+rising|book|subj
+rising|4.56|to
+4.56|4.12|from
+4.12|1994|in

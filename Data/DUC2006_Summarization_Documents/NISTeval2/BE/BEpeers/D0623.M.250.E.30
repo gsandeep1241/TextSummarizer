@@ -1,0 +1,139 @@
+laws|anti-smoking|mod
+outlined|laws|concerning
+killed|week|mod-before
+republicans|senate|nn
+week|republicans|after
+laws|killed|vrel
+killed|laws|obj
+killed|sweeping|mod
+legislation|anti-smoking|mod
+sweeping|legislation|obj
+leaders|house gop|nn
+leaders|thursday|on
+outlined|leaders|subj
+bill|scaled-down|mod
+outlined|bill|obj
+bill|persuade|rel
+persuade|bill|subj
+smoke|teens|subj
+smoke|and|punc
+smoke|urge|conj
+urge|teens|subj
+lift|states|subj
+licenses|driving|mod
+lift|licenses|obj
+licenses|teens|of
+asked|city|subj
+asked|all|guest
+office|government|nn
+asked|office|obj1
+asked|workers|obj2
+workers|set|rel
+set|worker|subj
+set|example|obj
+drive|citywide|mod
+drive|anti-smoking|mod
+example|drive|in
+drive|which|whn
+time|long|mod
+long|and|punc
+long|trying|conj
+be|time|pred
+time|millions|for
+millions|smokers|of
+law|new|mod
+law|anti-smoking|mod
+law|strongest|appo
+strongest|united states|in
+went into|law|subj
+went into|effect|obj
+effect|small hours|in
+small hours|january 1 , 1998|on
+given up|smokers|subj
+habit|their|gen
+habit|long-term|mod
+given up|habit|obj
+given up|since|mod
+regulations|current|mod
+regulations|anti-smoking|mod
+since|went into|comp1
+went into|regulations|subj
+went into|effect|obj
+effect|beijing|in
+beijing|and|punc
+beijing|shanghai|conj
+shanghai|where|wha
+stalls|cigarette|nn
+reported|stalls|subj
+sales|low|mod
+reported|sales|obj
+cleared|arguments|concerning
+bill|drastic|mod
+bill|anti-smoking|mod
+cleared|bill|subj
+hurdle|key|mod
+hurdle|legislative|mod
+cleared|hurdle|obj
+hurdle|parliament|in
+parliament|friday|on
+cleared|paving|mod
+paving|bill|subj
+paving|way|obj
+downs|clamp|nn
+way|downs|for
+downs|advertising|on
+advertising|and|punc
+use|tobacco|nn
+advertising|use|conj
+use|work|at
+work|and|punc
+places|public|mod
+work|places|conj
+companies|chewing gum|nn
+been|eager|pred
+eager|take|fc
+take|company|subj
+take|opportunity|obj
+opportunity|cash|to
+collecting|money|obj
+money|that|whn
+used|money|subj
+used|used|fc
+used|support|mod
+support|habit|obj
+questioned|he|subj
+questioned|whether|c
+images|graphic|mod
+images|consideration|under
+reproduced|images|obj
+reproduced|packages|on
+reproduced|and|punc
+reproduced|said|conj
+said|images|subj
+agreed|previously|mod-before
+said|agreed|fc
+agreed|industry|subj
+agreed|with|guest
+agreed|government|with
+agreed|that|c
+packages|cigarette|nn
+have|packages|subj
+have|warnings|obj
+have|but|punc
+have|disagreed|conj
+disagreed|packages|subj
+say|what|obj
+say|warnings|subj
+large|how|mod
+bodies|local|mod
+bodies|legislative|mod
+passed|bodies|subj
+passed|regulations|obj
+governments|city|nn
+published|governments|subj
+published|orders|obj
+published|prohibit|mod
+prohibit|government|subj
+use|tobacco|nn
+prohibit|use|obj
+use|public|in

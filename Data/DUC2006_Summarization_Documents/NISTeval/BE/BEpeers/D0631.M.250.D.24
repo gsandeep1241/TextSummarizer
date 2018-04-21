@@ -1,0 +1,138 @@
+route|air france concorde|nn
+route|en|nn
+route|new york|to
+crashes|route|subj
+crashes|paris|outside
+crashes|shortly|mod
+shortly|takeoff|after
+crashes|killing|mod
+killing|route|subj
+killing|all|guest
+people|109|num
+killing|people|obj
+people|board|on
+board|and|punc
+people|four|nn
+board|people|conj
+people|ground|on
+resumed|british airways|subj
+flights|its|gen
+flights|concorde|nn
+resumed|flights|obj
+day|single|mod
+pause|day|gen
+flights|pause|after
+resumed|after|mod
+flight|air france|nn
+after|crashed|comp1
+crashed|flight|subj
+crashed|paris|outside
+paris|july 25|on
+crashed|killing|mod
+killing|flight|subj
+people|113|num
+killing|people|obj
+grounded|air france|subj
+grounded|its|obj
+grounded|remaining|mod
+remaining|air france|subj
+concordes|five|nn
+remaining|concordes|obj
+remaining|immediately|mod
+immediately|crash|after
+resumed|british airways|subj
+flights|its|gen
+flights|concorde|nn
+resumed|flights|obj
+resumed|day|mod
+day|crash|after
+continued|british airways|subj
+continued|fly|mod
+fly|british airways|subj
+fleet|its|gen
+fly|fleet|obj
+fleet|concordes|of
+crash|tuesday|gen
+aftermath|crash|of
+air france concorde|chartered|mod
+crash|air france concorde|of
+air france concorde|paris|outside
+killing|all|guest
+people|109|num
+killing|people|obj
+people|airplane|on
+airplane|and|punc
+people|four|nn
+airplane|people|conj
+people|ground|on
+club|elite|mod
+members|club|of
+club|that|whn
+clientele|concorde|gen
+is|clientele|pred
+had|members|subj
+had|qualms|obj
+qualms|flying|about
+flying|member|subj
+flying|jet|obj
+flying|again|mod
+grounded|air france|subj
+concordes|its|gen
+concordes|five|nn
+concordes|remaining|mod
+grounded|concordes|obj
+grounded|immediately|mod
+crash|july 25|nn
+immediately|crash|after
+crash|concorde flight af 4590|of
+concorde flight af 4590|which|whn
+plunged|concorde flight af 4590|subj
+plunged|to|guest
+plunged|ground|to
+90|about|num-mod
+seconds|90|amount-value
+plunged|seconds|obj
+seconds|take-off|after
+plunged|killing|mod
+killing|air france|subj
+people|113|num
+killing|people|obj
+fatal accident|first|post
+people|fatal accident|in
+fatal accident|involving|rel
+involving|fatal accident|subj
+aairplane|supersonic|mod
+involving|aairplane|obj
+while|suspended|comp1
+suspended|air france|subj
+flights|its|gen
+flights|concorde|nn
+suspended|flights|obj
+crash|july 25|nn
+immediately|crash|after
+flights|ordered|rel
+ordered|flights|obj1
+ordered|british airways|subj
+ordered|only|guest
+ordered|one|obj2
+concordes|its own|gen
+putting|concordes|obj
+concordes|service|into
+have|then|amod
+have|modifications|subj
+have|tested|fc
+then|only|mod
+airlines|only|mod
+airlines|two|nn
+airlines|that|whn
+fly|airlines|subj
+fly|concordes|obj
+air france and british air|discuss|rel
+discuss|air france and british air|obj
+discuss|airlines|subj
+return|aircraft|obj
+aircraft|service|to
+before|even|mod
+took off|it|subj
+was|in|pred
+was|trouble|in

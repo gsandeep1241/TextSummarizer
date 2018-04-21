@@ -1,0 +1,153 @@
+targets|worm.explore.zip|subj
+targets|computers|obj
+computers|using|rel
+using|computer|subj
+operating systems|microsoft windows|nn
+using|operating systems|obj
+people|who|whn
+suspect|people|subj
+computer|their|gen
+suspect|infected|fc
+infected|computer|obj
+start|people|subj
+start|with|guest
+start|steps|with
+start|3 and 4|obj
+start|make|conj
+make|people|subj
+make|sure|desc
+systems|their|gen
+sure|are|fc
+are|virus-free|pred
+make|and|punc
+do|then|mod-before
+make|do|conj
+do|people|subj
+1 and 2.|steps|nn
+do|1 and 2.|obj
+bug|new|mod
+known|only|amod
+known|bug|obj
+known|attack|mod
+attack|bug|subj
+attack|computers|obj
+computers|using|rel
+using|computer|subj
+windows 95|microsoft|nn
+windows 95|operating systems|nn
+using|windows 95|obj
+windows 95|windows 98|conj
+windows 98|and|punc
+windows 98|windows nt|conj
+operating systems|rival|mod
+operating systems|macintosh|such as
+macintosh|and|punc
+macintosh|unix|conj
+are|apparently|mod-before
+are|not|neg
+are|vulnerable|pred
+bug|third|post
+bug|major|mod
+is|bug|pred
+bug|sweep|rel
+sweep|bug|subj
+sweep|internet|across
+march|late|mod
+internet|march|since
+sweep|when|wha
+virus|melissa|nn
+overwhelmed|virus|subj
+overwhelmed|systems|obj
+systems|floods|with
+floods|e-mail|of
+damaging|more|mod
+virus|damaging|mod
+named|virus|subj
+named|chernobyl|obj
+chernobyl|struck|pnmod
+april|late|mod
+struck|april|in
+did|most|obj
+harm|its|gen
+most|harm|of
+did|overseas|mod
+said|zamora|subj
+said|is|fc
+is|urgent|pred
+comes up with|congress|subj
+measure|anti-cyber|mod
+measure|crime|nn
+comes up with|measure|obj
+measure|shield|rel
+shield|measure|subj
+community|business|nn
+shield|community|obj
+community|hackers|from
+hackers|who|whn
+attempt|hackers|subj
+attempt|cripple|fc
+systems|country|gen
+systems|computer|nn
+cripple|systems|obj
+disaster|country|gen
+disaster|worst|nn
+disaster|computer|nn
+was|disaster|pred
+was|'|punc
+was|'|punc
+was|said|mod
+said|ahmed hasan|subj
+ahmed hasan|general secretary|appo
+society|computer|nn
+general secretary|society|of
+society|bangladesh|in
+experts|computer|nn
+but|feared|comp1
+feared|experts|subj
+feared|that|c
+viruses|locally-created|mod
+affect|viruses|subj
+affect|machines|obj
+machines|country|across
+students|more|mod
+country|students|as
+students|enrolled|vrel
+enrolled|students|obj
+courses|computer|nn
+enrolled|courses|in
+be|soon|amod
+be|reality|pred
+reality|bangladesh|in
+bangladesh|where|wha
+creators|local|mod
+creators|virus|nn
+reign|creators|subj
+anko shohel|computer expert|nn
+quoted|anko shohel|obj
+quoted|saying|as
+ap|york|nn
+ap|(|punc
+underground|close-knit|mod
+creators|computer|nn
+creators|virus|nn
+underground|creators|of
+creators|split|vrel
+split|creators|obj
+camps|two|nn
+split|camps|into
+camps|news|at
+news|that|c
+one|their own|of
+arrested|one|obj
+releasing|one|subj
+melissa|malicious|mod
+releasing|melissa|obj
+remains|he|subj
+remains|free|desc
+bail|$100,000|nn
+free|bail|on
+determined|not|amod
+determined|cert|subj
+virus|melissa|nn
+determined|originated|fc
+originated|virus|subj

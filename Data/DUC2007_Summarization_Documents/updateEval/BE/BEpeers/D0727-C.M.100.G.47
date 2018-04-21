@@ -1,0 +1,57 @@
+required|mediation|obj
+civil|most|mod
+cases|civil|mod
+required|cases|of
+cases|cobb county superior court|in
+cobb county superior court|where|whn
+filed|where|obj
+filed|gingrich|subj
+filed|divorce|for
+'s|session|pred
+report|mediator|subj
+report|to|guest
+report|court|to
+report|whether|c
+hit|gingriches|subj
+hit|impasse|obj
+hit|reached|conj
+reached|gingriches|subj
+reached|settlement|obj
+reached|or|punc
+reached|made|conj
+made|gingriches|subj
+made|progress|obj
+agreement|divorce|nn
+progress|agreement|toward
+scheduled|couple|obj
+scheduled|appear|mod
+appear|couple|subj
+session|court-ordered|mod
+session|mediation|nn
+appear|session|for
+session|cobb county|in
+mediation|court-ordered|mod
+reached|mediation|during
+mediation|that|whn
+ended|mediation|subj
+hours|12|amount-value
+ended|hours|after
+reached|gingriches|subj
+agreement|tentative|mod
+reached|agreement|obj
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+try|newt gingrich|subj
+try|reach|fc
+reach|newt gingrich|subj
+settlement|divorce|nn
+reach|settlement|obj
+meeting|their|gen
+meeting|first|post
+meeting|face-to-face|mod
+settlement|meeting|in
+meeting|theirsplit|since
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+spent|newt gingrich|subj
+spent|afternoon|obj

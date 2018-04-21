@@ -1,0 +1,51 @@
+doj|(|punc
+department of justice|doj|abbrev
+doj|)|punc
+announced|department of justice|subj
+investigation|ongoing|mod
+investigation|antitrust|mod
+announced|investigation|obj
+investigation|microsoft|of
+microsoft|september 1996|in
+held|may 1998|in
+held|microsoft|subj
+talks|settlement|nn
+held|talks|obj
+talks|doj|with
+doj|but|punc
+trial|major|mod
+trial|antitrust|mod
+doj|trial|conj
+trial|opened|vrel
+opened|trial|obj
+opened|october 19 , 1998|on
+was|accused|pred
+accused|bullying|of
+bullying|microsoft|subj
+bullying|competitors|obj
+competitors|and|punc
+competitors|pattern|conj
+practices|illegal|mod
+pattern|practices|of
+practices|intended|vrel
+protect|practices|subj
+grip|its|gen
+grip|tight|mod
+protect|grip|obj
+grip|market|on
+figured|october 1999|by
+figured|doj|subj
+cost|its|gen
+figured|cost|obj
+figured|proceedings|for
+proceedings|microsoft|against
+decade|past|mod
+microsoft|decade|over
+decade|$13.3 million|as
+part|first|post
+verdict|two-part|mod
+part|verdict|of
+verdict|antitrust case|in
+was|forecast|pred
+month|next|post
+forecast|month|for

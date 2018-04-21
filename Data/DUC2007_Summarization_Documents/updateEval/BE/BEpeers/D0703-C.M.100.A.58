@@ -1,0 +1,55 @@
+rbi|(|punc
+reserve bank of india|rbi|abbrev
+rbi|)|punc
+permitted|reserve bank of india|subj
+banks|indian|mod
+permitted|banks|obj
+banks|transact|rel
+transact|bank|subj
+transact|euro|in
+unit|new|mod
+unit|currency|nn
+euro|unit|appo
+unit|european monetary union|of
+emu|(|punc
+european monetary union|emu|abbrev
+emu|)|punc
+bnrhas|administration board of romania|gen
+bnrhas|central bank|nn
+bnrhas|(|punc
+made|bnrhas|subj
+made|number|obj
+number|decisions|of
+decisions|connection|in
+connection|introduction|with
+currency|single|mod
+introduction|currency|of
+states|european union|gen
+states|member|nn
+currency|states|in
+states|beginning|rel
+beginning|state|subj
+beginning|january 1 , 1999 ,|mod
+director|bnr|nn
+director|adrian vasilescu|person
+said|director|subj
+said|monday|on
+announced|bulgarian national bank|subj
+announced|thursday|guest
+currency|its|gen
+currency|national|mod
+currency|lev|appo
+announced|fixed|fc
+fixed|currency|obj
+fixed|1,955.83|at
+1,955.83|euro|to
+ministers|eu|nn
+ministers|finance|nn
+ministers|who|whn
+fixed|ministers|subj
+rates|exchange|nn
+fixed|rates|obj
+rates|euro|between
+euro|and|punc
+currencies|national|mod
+euro|currencies|conj

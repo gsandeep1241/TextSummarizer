@@ -1,0 +1,65 @@
+team|swiss-british|nn
+team|hoping|rel
+hoping|team|subj
+be|first|pred
+first|fly|rel
+fly|first|subj
+fly|balloon|obj
+balloon|world|around
+passed|nonstop|mod-before
+passed|team|subj
+passed|south|obj
+south|japan|of
+passed|today|mod
+passed|trying|mod
+trying|team|subj
+trying|avoid|fc
+avoid|thunderstorms|obj
+thunderstorms|that|whn
+ended|thunderstorms|subj
+ended|flight|obj
+team|rival|mod
+flight|team|of
+ended|week|mod
+adventurers|bertrand piccard|appo
+bertrand piccard|switzerland|of
+switzerland|and|punc
+switzerland|brian jones|conj
+brian jones|england|of
+steered|adventurers|subj
+balloon|their|gen
+steered|balloon|obj
+balloon|pacific ocean|over
+pacific ocean|hawaii|toward
+hawaii|and|punc
+hawaii|california|conj
+california|or|punc
+california|mexico|conj
+center|their|gen
+center|control|nn
+said|center|subj
+steered|said|mod
+balloon|breitling|nn
+complaining|balloon|as
+balloon|entered|vrel
+entered|balloon|obj
+day|its|gen
+day|18th|mod
+entered|day|mod
+entered|aloft|mod
+entered|however|mod
+pilots|two|nn
+complaining|pilots|subj
+complaining|exhaustion|of
+complaining|and|punc
+complaining|said|conj
+said|pilots|subj
+said|worried|fc
+worried|they|obj
+worried|that|c
+propane|used|vrel
+used|propane|obj
+burners|balloon|gen
+used|burners|in
+run out|propane|subj
+run out|craft|before

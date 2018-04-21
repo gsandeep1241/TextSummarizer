@@ -1,0 +1,60 @@
+judge|cobb county|nn
+judge|dorothy robinson|person
+made|judge|subj
+final|gingriches|gen
+final|divorce|nn
+made|final|obj
+made|and|punc
+made|agreed|conj
+agreed|judge|subj
+agreed|seal|fc
+seal|judge|subj
+seal|agreement|obj
+agreement|which|whn
+signed|agreement|obj
+signed|they|subj
+signed|early|mod
+signed|week|mod
+marianne gingrich|sedate|mod
+marianne gingrich|who|whn
+attend|marianne gingrich|subj
+attend|hearing|obj
+hearing|had|vrel
+had|hearing|obj
+had|only|mod
+say|about|guest
+bitter|often|mod
+divorce|bitter|mod
+divorce|eight-month-long|mod
+say|process|fc
+process|divorce|subj
+period|difficult|mod
+been|period|pred
+period|time|of
+married|we|obj
+married|a very long time|mod
+a very long time|'|punc
+a very long time|'|punc
+a very long time|thursday|on
+told|marianne gingrich|subj
+told|judge|obj
+told|that|c
+irretrievably|indeed|mod
+irretrievably|`|punc
+irretrievably|`|punc
+broken|irretrievably|amod
+broken|marriage|obj
+know|likely|mod-before
+know|never|amod
+know|what else|obj
+know|public|subj
+won|newt gingrich|subj
+won|permission|obj
+permission|depose|rel
+depose|permission|subj
+sister|marianne gingrich|gen
+depose|sister|obj
+sister|and|punc
+sister|friend|conj
+depose|both|mod
+both|ohio|in

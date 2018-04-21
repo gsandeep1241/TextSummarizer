@@ -1,0 +1,56 @@
+result|the end|nn
+yarmulke|blue|mod
+was|yarmulke|pred
+yarmulke|red|with
+striped|white|subj
+reading|letters|nn
+striped|reading|obj
+reading|'|punc
+reading|'gore-lieberman|appo
+'gore-lieberman|2000|num
+passed|bernstein|subj
+cap|skull|nn
+passed|cap|along
+cap|one|to
+aides|lieberman|gen
+one|aides|of
+aides|italian center of stamford|at
+italian center of stamford|where|wha
+senator|and|punc
+senator|president|conj
+president|al gore|person
+visited|senator|subj
+endorse|edward kennedy|subj
+endorse|al gore|obj
+al gore|president|for
+president|wednesday|person
+president|move|in
+hopes|gore|nn
+hopes|campaign|nn
+move|help|rel
+help|move|obj
+help|hopes|subj
+help|voters|with
+voters|new hampshire|in
+door|next|post
+new hampshire|door|appo
+massachusetts|kennedy|gen
+door|massachusetts|to
+in|and|punc
+in|with|conj
+democrats|wavering|mod
+in|democrats|with
+help|nationwide|mod
+daley|who|whn
+chaired|daley|subj
+chaired|1996|guest
+convention|democratic|mod
+chaired|convention|obj
+city|his|gen
+city|native|mod
+convention|city|in
+city|chicago|of
+helped|daley|subj
+win|clinton|subj
+win|white house|obj
+white house|1992|in

@@ -1,0 +1,133 @@
+ap|washington|nn
+ap|(|punc
+release|public|mod
+release|reports|of
+reports|compiling|rel
+compiling|report|subj
+compiling|facts|obj
+crash|egyptair flight 990|nn
+facts|crash|in
+step|routine|mod
+is|step|pred
+step|but|punc
+step|one|conj
+one|likely|pnmod
+likely|fan|to
+dispute|international|mod
+caused|what|subj
+last|tragedy|nn
+caused|last|obj
+fan|fall|rel
+fall|fan|obj
+fall|dispute|subj
+coast|new england|nn
+fall|coast|off
+submarine|operated|vrel
+operated|submarine|obj
+operated|by|by-subj
+control|remote|mod
+operated|control|by
+retrieved|submarine|subj
+recorder|flight|nn
+recorder|data|nn
+retrieved|recorder|obj
+recorder|depths|from
+south|ocean|nn
+depths|south|of
+south|nantucket|of
+nantucket|tuesday|on
+retrieved|bringing|mod
+bringing|submarine|subj
+bringing|to|guest
+bringing|surface|to
+piece|crucial|mod
+bringing|piece|obj
+piece|evidence|of
+evidence|that|c
+hope|investigators|nn
+reveal|evidence|obj
+reveal|hope|subj
+reveal|why|wha
+crashed|egyptair flight 990|subj
+crashed|sea|into
+is|evidence|pred
+deployment|thrust|nn
+deployment|reverser|nn
+evidence|deployment|of
+said|data|in
+data|have|rel
+have|data|obj
+have|we|subj
+said|hall|subj
+said|egyptair flight 990|of
+recorded|it|subj
+conversations|crew|nn
+recorded|conversations|obj
+cockpit|jet|gen
+conversations|cockpit|in
+minutes|final|mod
+minutes|30|amount-value
+cockpit|minutes|during
+minutes|flight|of
+recorded|and|punc
+recorded|prove|conj
+prove|it|subj
+more|even|mod
+important|more|mod
+be|important|pred
+recorder|flight|nn
+recorder|data|nn
+important|recorder|than
+recorder|helping|in
+determine|investigators|subj
+determine|cause|obj
+cause|crash|of
+investigators|united states|from
+united states|and|punc
+united states|egypt|conj
+review|investigators|subj
+review|part|obj
+system|flight|nn
+system|control|nn
+part|system|of
+system|tail|in
+airplane|boeing|gen
+airplane|767|num
+tail|airplane|of
+airplane|part|as
+part|investigation|of
+investigation|crash|into
+crash|egyptair flight 990|of
+chairman|national transportation safety board|of
+said|chairman|subj
+said|friday|mod
+documents|which|whn
+made|documents|obj1
+made|public|desc
+public|friday|on
+made|u.s.|in
+made|and|punc
+made|presented|conj
+presented|documents|obj
+presented|website|on
+website|u.s.|of
+ntsb|(|punc
+national transportation safety board|ntsb|abbrev
+ntsb|)|punc
+did|not|neg
+give|kato|subj
+give|credence|obj1
+credence|theory|to
+give|that|obj2
+downed|missile|by
+downed|but|punc
+downed|stressed|conj
+need|investigate|comp1
+investigate|fully|guest
+crew|flight 990|nn
+investigate|seen|fc
+seen|what|obj
+seen|crew|subj
+ntsb|(|punc
+national transportation safety board|ntsb|abbrev
+ntsb|)|punc

@@ -1,0 +1,140 @@
+day|same|post
+time|same|post
+kenya|neighboring|mod
+time|kenya|in
+exploded|bomb|subj
+exploded|u.s. embassy|outside
+u.s. embassy|nairobi|in
+exploded|killing|mod
+killing|bomb|subj
+people|213|num
+killing|people|obj
+killing|including|mod
+americans|12|num
+including|americans|obj
+people|213|num
+total|people|of
+including|dozen|obj
+bombing|terrorist|mod
+bombing|u.s. embassy|of
+u.s. embassy|nairobi|in
+nairobi|aug. 7.|on
+11|another|num-mod
+people|11|nn
+killed|people|obj
+simultaneous|nearly|mod
+bombing|simultaneous|mod
+killed|bombing|in
+bombing|u.s. embassy|of
+tanzania|neighboring|mod
+u.s. embassy|tanzania|in
+indictment|u.s.|nn
+indictment|federal|mod
+alleges|indictment|subj
+alleges|that|c
+followers|four|nn
+laden|islamic|mod
+laden|extremist|mod
+laden|osama|nn
+laden|bin|nn
+followers|laden|of
+plotted|followers|subj
+campaign|far-reaching|mod
+campaign|terrorist|mod
+plotted|campaign|obj
+campaign|kill|comp1
+kill|follower|subj
+kill|americans|obj
+kill|including|mod
+including|bombings|obj
+embassies|u.s.|nn
+bombings|embassies|of
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+charged|tanzania|subj
+men|two|nn
+charged|men|obj
+counts|11|num
+men|counts|with
+counts|murder|of
+murder|connection|in
+connection|bombing|with
+bombing|u.s. embassy|of
+charged|there|mod
+provides|indictment|subj
+account|first|post
+account|detailed|mod
+provides|account|obj
+account|bombing|of
+bombing|aug 7|on
+embassy|american|nn
+bombing|embassy|of
+embassy|dar es salaam|in
+killed|twelve americans|obj
+bombing|kenya|nn
+bombing|embassy|nn
+killed|bombing|in
+suspect|saudi|subj
+laden|bin|nn
+suspect|accused|fc
+accused|laden|obj
+plotting|laden|subj
+attacks|bomb|nn
+plotting|attacks|obj
+embassies|u.s.|nn
+attacks|embassies|on
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+tanzania|last|vrel
+last|tanzania|obj
+last|august|mod
+august|that|whn
+killed|august|subj
+people|250|num
+killed|people|obj
+bombings|twin|mod
+embassies|u.s.|nn
+bombings|embassies|at
+embassies|tanzania|in
+tanzania|and|punc
+nairobi|kenyan|mod
+nairobi|capital|mod
+tanzania|nairobi|conj
+nairobi|aug 7|on
+killed|bombings|subj
+people|257|num
+killed|people|obj
+people|11|num
+people|them|of
+people|tanzania|in
+targeted|also|mod-before
+targeted|missiles|subj
+camps|afghan-based|mod
+targeted|camps|obj
+militants|islamic|mod
+camps|militants|of
+militants|supporting|rel
+supporting|militant|subj
+laden|fugitive|mod
+laden|osama|nn
+laden|bin|nn
+laden|who|whn
+believe|laden|obj
+believe|investigators|subj
+supporting|was|fc
+was|behind|pred
+was|bombings|behind
+key|two|amount-value
+suspects|key|nn
+bombing|kenya|nn
+suspects|bombing|in
+bombing|who|whn
+linked|bombing|obj
+laden|bin|nn
+linked|laden|to
+handed over|suspects|obj
+handed over|united states|to
+united states|trial|for
+trial|murders|in

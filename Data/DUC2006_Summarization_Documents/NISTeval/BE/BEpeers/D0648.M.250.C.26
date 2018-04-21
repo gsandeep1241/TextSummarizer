@@ -1,0 +1,140 @@
+about 2 percent|adults|of
+have|about 2 percent|subj
+have|disorder|obj
+signs|first|post
+appear|often|mod-before
+appear|signs|subj
+appear|childhood|in
+drug|first|post
+is|drug|pred
+drug|approved|vrel
+approved|drug|obj
+approved|by|by-subj
+approved|fda|by
+approved|specifically|mod
+specifically|treating|for
+treating|paxil|subj
+anxiety disorder|social|mod
+treating|anxiety disorder|obj
+labels|drug|nn
+specify|often|mod-before
+do|not|neg
+specify|labels|subj
+doses|proper|mod
+specify|doses|obj
+doses|children|for
+one|found|vrel
+found|one|obj
+found|1886|in
+displayed|one|obj
+displayed|smithsonian institution|at
+used|it|subj
+be|either/or|pred
+either/or|nature|conj
+nature|or|punc
+nature|nurture|conj
+resort to|people|subj
+resort to|alcohol|obj
+alcohol|or|punc
+alcohol|drugs|conj
+drugs|stave|rel
+stave|drug|subj
+stave|off|guest
+stave|feelings|obj
+but|said|comp1
+said|association|subj
+said|that|c
+yielded|also|mod-before
+yielded|study|subj
+conclusion|one|nn
+conclusion|hopeful|mod
+yielded|conclusion|obj
+study|one|nn
+zoloft|failed|vrel
+failed|zoloft|obj
+was|in|mod-before
+was|fact|in
+was|study|pred
+veterans|male|mod
+veterans|combat|nn
+study|veterans|of
+grossly|so|mod
+underdiagnosed|grossly|mod
+been|underdiagnosed|pred
+underdiagnosed|and|punc
+underdiagnosed|undertreated|conj
+said|ross|subj
+hallmarks|ocd|of
+thoughts|senseless|mod
+senseless|and|punc
+senseless|repetitive|conj
+are|thoughts|pred
+thoughts|and|punc
+thoughts|behaviors|conj
+behaviors|that|whn
+deal with|typically|mod-before
+deal with|behaviors|subj
+deal with|grooming|obj
+grooming|contamination|conj
+contamination|or|punc
+contamination|danger|conj
+conducted|pfizer|subj
+trials|four|nn
+trials|clinical|mod
+conducted|trials|obj
+trials|zoloft|of
+zoloft|treat|rel
+treat|zoloft|subj
+stress|posttraumatic|mod
+treat|stress|obj
+approved|zoloft|obj
+approved|by|by-subj
+approved|food and drug administration|by
+food and drug administration|treatment|for
+treatment|depression|of
+disorder|panic|nn
+depression|disorder|conj
+disorder|and|punc
+disorder|obsessive|mod
+disorder|compulsive|mod
+disorder|disorder|conj
+cause|drug|subj
+cause|variety|obj
+effects|mild|mod
+effects|side|nn
+variety|effects|of
+cause|nervousness|such as
+nervousness|dizziness|conj
+dizziness|and|punc
+dizziness|anxiety|conj
+are|rare|pred
+prescribed|long|amod
+prescribed|psychiatrists|subj
+therapy|psychological|mod
+antidepressants|therapy|along with
+therapy|treat|rel
+treat|therapy|subj
+stress|posttraumatic|mod
+treat|stress|obj
+requires|luvox|subj
+requires|weeks|obj
+weeks|take effect|rel
+take effect|week|subj
+requires|and|punc
+requires|remains|conj
+remains|luvox|subj
+remains|body|in
+body|weeks|for
+remains|after|mod
+after|stop|comp1
+stop|patients|subj
+stop|taking|mod
+taking|patient|subj
+taking|it|obj
+becoming|surgeons|subj
+aware|increasingly|mod
+becoming|aware|desc
+aware|and|punc
+aware|wary|conj
+wary|patients|of
+patients|bdd|with

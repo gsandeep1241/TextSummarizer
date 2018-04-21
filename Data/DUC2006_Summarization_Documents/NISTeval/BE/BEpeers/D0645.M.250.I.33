@@ -1,0 +1,152 @@
+bills|address|rel
+address|bill|subj
+address|problem|obj
+are|pending|pred
+pending|congress|in
+rick a. lazio|rep.|title
+rick a. lazio|r-n.y.|appo
+subcommittee|house|nn
+chairman|subcommittee|of
+subcommittee|housing|on
+housing|and|punc
+opportunity|community|mod
+housing|opportunity|conj
+said|center|subj
+tells|study|subj
+tells|public|obj
+knows|already|mod-before
+tells|knows|fc
+knows|what|obj
+knows|it|subj
+shortage|growing|mod
+is|shortage|pred
+housing|affordable|mod
+shortage|housing|of
+americans|poorest|mod
+housing|americans|for
+are|doing|pred
+doing|better|pnmod
+face chronic problems|still|nn
+better|face chronic problems|but
+says|report|subj
+help|report|subj
+recipients|welfare|mod
+help|recipients|obj
+recipients|as|punc
+recipients|well|punc
+recipients|as|punc
+earners|low-income|mod
+earners|wage|nn
+recipients|earners|conj
+says|competing|fc
+competing|they|subj
+asked|employment|for
+asked|administration|subj
+asked|congress|obj
+congress|approve|rel
+approve|congress|subj
+approve|array|obj
+programs|new|mod
+new|and|punc
+new|expanded|conj
+array|programs|of
+programs|part|as
+budget|1999|num
+budget|fiscal year|nn
+part|budget|of
+calls|what|obj1
+calls|white house|subj
+calls|`|punc
+calls|`|punc
+calls|the|punc
+calls|most|punc
+budget|wide-ranging|mod
+calls|budget|desc
+budget|cities|for
+cities|more|in
+more|decade|than
+expected|also|amod
+give|legislation|subj
+flexibility|housing|nn
+flexibility|authorities|nn
+flexibility|greater|mod
+give|flexibility|obj
+flexibility|setting|in
+setting|legislation|subj
+setting|rents|obj1
+rents|nation|on
+units|1.2 million|nn
+units|public|mod
+units|housing|nn
+setting|units|obj2
+setting|authorize|conj
+authorize|legislation|subj
+authorize|mayors|obj
+mayors|cities|in
+cities|take over|rel
+take over|city|subj
+take over|poorly|guest
+authorities|run|nn
+authorities|housing|nn
+take over|authorities|obj
+authorize|and|punc
+authorize|allow|conj
+allow|legislation|subj
+people|low-income|mod
+people|use|rel
+use|people|subj
+vouchers|federal|mod
+vouchers|housing|nn
+use|vouchers|obj
+vouchers|help|rel
+help|voucher|subj
+pay|people|subj
+pay|costs|obj
+costs|buying|of
+buying|people|subj
+buying|house|obj
+donahue institute|university of massachusetts|gen
+report|donahue institute|by
+concludes|one|subj
+one|four|out of
+households|massachusetts|in
+renters|and|punc
+renters|homeowners|conj
+problem|`|punc
+problem|`|punc
+problem|severe|mod
+problem|housing|nn
+problem|affordability|nn
+number|facing|rel
+facing|number|subj
+facing|homelessness|obj
+homelessness|eviction|conj
+eviction|or|punc
+eviction|foreclosure|conj
+report|issued|vrel
+issued|report|obj
+issued|by|by-subj
+issued|andrew cuomo|by
+secretary|u.s.|nn
+andrew cuomo|secretary|conj
+secretary|housing|of
+housing|and|punc
+development|urban|mod
+housing|development|conj
+issued|said|conj
+said|report|subj
+said|that|c
+families|5.4 million|nn
+families|low-income|mod
+pay|families|subj
+pay|more|obj1
+more|half|than
+incomes|their|gen
+pay|incomes|obj2
+incomes|housing|for
+said|or|punc
+said|live|conj
+live|report|subj
+units|dilapidated|mod
+live|units|in
+increase|12 percent|of

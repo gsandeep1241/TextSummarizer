@@ -1,0 +1,57 @@
+vote|2-2|nn
+deadlocks|ftc|nn
+vote|deadlocks|appo
+deadlocks|taking|on
+taking|action|obj
+action|microsoft|against
+justice department|oct 20-the|nn
+sues|justice department|subj
+sues|microsoft|obj
+sues|charging|mod
+charging|justice department|subj
+charging|company|obj
+company|violated|with
+violated|1994|guest
+settlement|court-approved|mod
+violated|settlement|obj
+settlement|requiring|by
+makers|computer|nn
+requiring|makers|obj
+makers|install|rel
+install|maker|subj
+install|internet explorer|obj
+internet explorer|order|in
+order|license|rel
+license|order|subj
+license|windows|obj
+videotaped|showing|subj
+videotaped|testimony|obj
+bill gates|microsoft|nn
+bill gates|co-founder|nn
+testimony|bill gates|from
+alleges|government|subj
+alleges|that|c
+used|systematically|mod-before
+used|company|subj
+dominance|its|gen
+used|dominance|obj
+market|operating system|nn
+dominance|market|over
+computers|personal|nn
+market|computers|for
+thwart|illegally|amod
+computers|thwart|rel
+thwart|computer|subj
+thwart|competition|obj
+suggests|then|amod
+suggests|lessig|subj
+test|different|mod
+test|antitrust|mod
+suggests|test|obj
+test|software|for
+government|or|punc
+government|courts|conj
+should|not|neg
+worry about|government|subj
+worry about|bundling|obj
+company|dominant|mod

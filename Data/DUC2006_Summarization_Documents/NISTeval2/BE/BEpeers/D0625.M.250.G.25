@@ -1,0 +1,149 @@
+challenged|participants|obj
+challenged|educate|mod
+educate|participant|subj
+people|rural|mod
+educate|people|obj
+usage|proper|mod
+people|usage|on
+usage|condoms|of
+educate|because|mod
+because|are|comp1
+are|reported|pred
+reported|rural areas|in
+said|report|subj
+reported|said|mod
+added|he|subj
+added|that|c
+nurses|ongoing|mod
+strike|nurses|gen
+strike|which|whn
+crippled|strike|subj
+public|most|mod
+hospitals|public|mod
+crippled|hospitals|obj
+hospitals|country|in
+country|last|since
+made|friday|mod-before
+made|strike|subj
+made|situation|obj1
+dangerous|more|mod
+made|dangerous|desc
+malaria|highland|mod
+malaria|which|whn
+occurs|malaria|subj
+occurs|mainly|mod
+mainly|areas|in
+meters|2,000|subj
+level|above|mod
+level|sea|nn
+meters|level|obj
+transmitted|plasmodium|by
+parasite|falciparum|nn
+transmitted|parasite|subj
+transmitted|by|guest
+transmitted|anopheles|by
+transmitted|mosquito|obj
+mosquito|which|whn
+thrives|mosquito|subj
+conditions|wet|mod
+wet|and|punc
+wet|humid|conj
+thrives|conditions|in
+areas|such|pre
+conditions|areas|of
+rains|march-may|nn
+rains|long|mod
+areas|rains|after
+country|east|mod
+country|african|nn
+rains|country|in
+visiting|who|whn
+said|official|subj
+said|that|c
+about 70 percent|people|of
+people|africa|in
+afflicted|visiting|subj
+afflicted|by|guest
+afflicted|four|by
+afflicted|diseases|obj
+kenya times|local|mod
+kenya times|"|punc
+diseases|kenya times|appo
+kenya times|"|punc
+kenya times|reported|vrel
+reported|kenya times|obj
+reported|today|mod
+estimated|that|c
+kenyans|500|num
+die|kenyans|subj
+diseases|aids-related|mod
+die|diseases|of
+die|day|mod
+kenyan|more|mod
+risk|kenyan|mod
+risk|contracting|rel
+contracting|risk|subj
+disease|dreaded|mod
+disease|aids|nn
+contracting|disease|obj
+contracting|if|c
+are|not|neg
+taken|measures|obj
+taken|prevent|mod
+prevent|measure|subj
+prevent|spread|obj
+newspaper|pandemic|mod
+newspaper|kenya times|nn
+spread|newspaper|of
+quoted|thursday|mod-before
+newspaper|quoted|vrel
+quoted|newspaper|obj1
+quoted|official|obj2
+official|saying|as
+called for|also|mod-before
+called for|mati|subj
+called for|review|obj
+policy|government|gen
+review|policy|of
+framework|health|nn
+policy|framework|on
+framework|which|whn
+said|he|subj
+improve|comprehensively|amod
+improve|framework|subj
+co-ordination|donor|nn
+improve|co-ordination|obj
+co-ordination|prevention|in
+prevention|diseases|of
+noted|wilson|subj
+noted|that|c
+reduce|kenyans|subj
+reduce|sexually transmitted diseases|obj
+reduced|aids|obj
+reduced|by|by-subj
+40|at least|num-mod
+reduced|40|by
+country|eastern|mod
+country|african|nn
+leaders|local|mod
+noted|also|mod-before
+noted|leaders|subj
+noted|that|c
+situation|famine|nn
+situation|province|in
+was|aggravated|pred
+aggravated|by|by-subj
+aggravated|lack|by
+supplies|medical|mod
+lack|supplies|of
+supplies|and|punc
+communication|poor|mod
+supplies|communication|conj
+has|now|mod-before
+has|kenya|subj
+cardiologists|20|num
+has|cardiologists|obj
+patients|adult|mod
+cardiologists|patients|for
+patients|fewer|pnmod
+fewer|10|than

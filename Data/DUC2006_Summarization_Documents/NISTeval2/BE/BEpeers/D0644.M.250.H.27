@@ -1,0 +1,146 @@
+part|most|subj
+been|not|amod
+so|been|comp1
+been|over|pred
+been|availability|over
+availability|surplus|of
+of|but|punc
+of|over|conj
+merits|relative|mod
+of|merits|over
+cuts|tax|nn
+merits|cuts|of
+been|increasing|conj
+increasing|debate|subj
+increasing|spending|obj
+increasing|and|punc
+increasing|reducing|conj
+reducing|debate|subj
+debt|national|mod
+reducing|debt|obj
+plan|clinton|gen
+includes|plan|subj
+includes|$34 billion|obj
+years|tax cuts|nn
+five|over|num-mod
+years|five|amount-value
+$34 billion|years|in
+years|$39 billion|conj
+spending|increased|mod
+$39 billion|spending|in
+fiscal year|current|mod
+spending|fiscal year|over
+fiscal year|and|punc
+fiscal year|projects|conj
+surplus|record|mod
+surplus|$117 billion|nn
+leader|house|nn
+leader|majority|nn
+leader|dick armey|person
+leader|r-texas|appo
+slammed|leader|subj
+budget|clinton|gen
+slammed|budget|obj
+budget|using|for
+using|leader|subj
+using|$1 trillion|obj
+money|projected|mod
+money|surplus|nn
+$1 trillion|money|in
+programs|new|mod
+money|programs|for
+programs|rather|punc
+programs|than|punc
+cuts|tax|nn
+programs|cuts|conj
+this week|abc|gen
+this week|"|punc
+said|this week|on
+chief of staff|white house|nn
+chief of staff|john podesta|person
+said|chief of staff|subj
+proposal|latest|mod
+proposal|house|nn
+said|proposal|obj
+decrease|across-the-board|mod
+decrease|tax|nn
+proposed|decrease|subj
+bill archer|rep.|title
+cost|bill archer|by
+chairman|ways and means committee|nn
+r-texas|chairman|appo
+proposed|cost|fc
+cost|r-texas|subj
+$179 billion|government|nn
+cost|$179 billion|obj
+$179 billion|more|pnmod
+payments|interest|nn
+more|payments|in
+than|if|c
+used|surplus|obj
+used|pay|mod
+pay|surplus|subj
+pay|down|guest
+debt|national|mod
+pay|debt|obj
+use|gore|subj
+use|bulk|obj
+bulk|surplus|of
+surplus|spending|for
+spending|gore|subj
+spending|increases|obj
+cuts|tax|nn
+plan|smaller|mod
+plan|tax-cut|nn
+was|based|pred
+forecast|cbo|gen
+forecast|earlier|mod
+based|forecast|on
+forecast|that|c
+years|budget|nn
+years|surplus|nn
+10|over|num-mod
+years|10|amount-value
+come to|years|subj
+come to|$1.78 trillion|obj
+cutters|party|gen
+ardent|more|mod
+cutters|ardent|mod
+cutters|tax|nn
+dismayed|cutters|obj
+aghast|if not|mod
+told|greenspan|subj
+told|congress|obj
+congress|last|vrel
+last|congress|obj
+last|month|mod
+told|that|c
+off|better|mod
+using|off|guest
+using|nation|subj
+surpluses|projected|mod
+surpluses|federal|mod
+surpluses|budget|nn
+using|surpluses|obj
+reduction|debt|nn
+surpluses|reduction|for
+()|reducing|for
+reducing|taxes|obj
+thrust|basic|mod
+plan|republican|mod
+thrust|plan|of
+cut|across-the-board|mod
+is|cut|pred
+rates|income|nn
+rates|tax|nn
+cut|rates|in
+rates|estimated|vrel
+estimated|cut|obj
+years|$1.3 trillion|nn
+ten|over|num-mod
+years|ten|amount-value
+estimated|years|at
+says|bush|subj
+return|fin|subj
+return|surplus|obj
+surplus|taxpayers|to

@@ -1,0 +1,55 @@
+edward kennedy|sen.|title
+endorse|edward kennedy|subj
+endorse|al gore|obj
+al gore|president|for
+president|wednesday|person
+president|move|in
+hopes|gore|nn
+hopes|campaign|nn
+move|help|rel
+help|move|obj
+help|hopes|subj
+help|voters|with
+voters|new hampshire|in
+door|next|post
+new hampshire|door|appo
+massachusetts|kennedy|gen
+door|massachusetts|to
+in|and|punc
+in|with|conj
+democrats|wavering|mod
+in|democrats|with
+help|nationwide|mod
+gained|mccain|subj
+support|independents|from
+independents|and|punc
+independents|democrats|conj
+battles|his|gen
+battles|primary|mod
+democrats|battles|in
+battles|george w. bush|with
+george w. bush|and|punc
+george w. bush|bradley|conj
+trying|support|subj
+trying|hard|guest
+trying|keep|fc
+keep|support|subj
+keep|that|obj
+happening|washington|in
+help|endorsement|subj
+dampen|inf|subj
+dampen|some|obj
+criticisms|bradley|gen
+barbed|most|mod
+criticisms|barbed|mod
+some|criticisms|of
+conservative|closet|mod
+'s|conservative|pred
+conservative|who|whn
+pays|conservative|subj
+service|lip|nn
+pays|service|obj1
+service|campaign|rel
+campaign|service|subj
+reform|finance|nn
+pays|reform|obj2

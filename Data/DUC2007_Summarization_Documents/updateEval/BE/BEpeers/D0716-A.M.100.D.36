@@ -1,0 +1,62 @@
+arrested|police|subj
+100|more than|num-mod
+protesters|100|nn
+arrested|protesters|obj
+resources|energy|nn
+protesters|resources|at
+development|australia|gen
+development|jabiluka|nn
+development|mine|mod
+resources|development|of
+development|kakadu|at
+area|world|nn
+area|heritage|nn
+area|listed|mod
+development|area|appo
+area|northern territory|in
+begun|construction|subj
+begun|ago|mod
+ago|jabiluka|at
+lying|uranium|nn
+lying|mining|nn
+lying|lease|nn
+jabiluka|lying|conj
+lying|boundaries|within
+boundaries|kakadu national park|of
+kakadu national park|listed|pnmod
+listed|united nations education|by
+lying|scientific|conj
+scientific|and|punc
+scientific|cultural organization|conj
+list|its|gen
+list|world heritage|nn
+cultural organization|list|on
+sites|important|mod
+sites|cultural|mod
+cultural|and|punc
+cultural|environmental|conj
+list|sites|of
+mine|fourth|mod
+mine|uranium|nn
+approved|mine|obj
+approved|after|mod
+company|energy resources australia|nn
+era|(|punc
+energy resources australia|era|abbrev
+era|)|punc
+after|moved|comp1
+moved|company|subj
+moved|fast-track|to
+mine|jabiluka|nn
+fast-track|mine|for
+mine|kakadu national park|in
+conservationists|age--|mod
+conservationists|australian|mod
+conservationists|and|punc
+owners|traditional|mod
+owners|aboriginal|mod
+conservationists|owners|conj
+threatened|conservationists|subj
+threatened|blockade|mod
+blockade|conservationist|subj
+blockade|development|obj

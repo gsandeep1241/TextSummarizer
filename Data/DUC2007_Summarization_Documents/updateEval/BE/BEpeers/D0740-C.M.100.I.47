@@ -1,0 +1,55 @@
+voyage|20-day|nn
+voyage|swiss bertrand piccard|conj
+swiss bertrand piccard|and|punc
+swiss bertrand piccard|british brian jones|conj
+after|completed|comp1
+completed|voyage|subj
+circumnavigation|their|gen
+circumnavigation|nonstop|mod
+completed|circumnavigation|obj
+circumnavigation|hot-air balloon|on
+completed|and|punc
+completed|landed|conj
+landed|voyage|obj
+egypt|southern|mod
+landed|egypt|in
+landed|smoothly|mod
+landed|morning|mod
+achieving|what|obj
+called|promoters|subj
+milestone|last|post
+milestone|great|mod
+called|milestone|obj
+milestone|aviation|of
+aviation|piccard|conj
+piccard|and|punc
+legends|jones|nn
+legends|joined|mod
+piccard|legends|conj
+legends|wright brothers|like
+wright brothers|and|punc
+wright brothers|charles lindbergh|conj
+'s|completion|pred
+manned|first|mod
+flight|manned|mod
+flight|round-the-world|mod
+flight|balloon|nn
+completion|flight|of
+first two|piccard|conj
+piccard|switzerland|of
+switzerland|and|punc
+switzerland|jones|conj
+jones|britain|of
+trip|20-day|nn
+ending|egyptian|in
+desert|ending|subj
+said|international olympic committee|subj
+said|that|c
+award|they|subj
+award|olympic order|obj1
+olympic order|balloonists|to
+award|piccard|obj2
+piccard|and|punc
+piccard|jones|conj
+jones|who|whn
+are|first|pred

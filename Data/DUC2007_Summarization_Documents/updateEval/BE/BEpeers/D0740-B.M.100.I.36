@@ -1,0 +1,60 @@
+team|swiss-english|nn
+team|balloon|nn
+soared|team|subj
+completing|team|subj
+completing|across|guest
+completing|pacific ocean|obj
+pacific ocean|attempt|in
+attempt|become|comp1
+balloonists|first|post
+become|balloonists|obj
+balloonists|travel|rel
+travel|balloonist|subj
+travel|nonstop|mod
+nonstop|world|around
+miles|20,000|num
+floated|miles|obj
+miles|europe|over
+europe|africa|conj
+africa|asia|conj
+asia|pacific ocean|conj
+pacific ocean|and|punc
+pacific ocean|central america|conj
+miles|breitling orbiter 3|appo
+breitling orbiter 3|headed|vrel
+headed|breitling orbiter 3|obj
+stretch|home|nn
+headed|stretch|into
+stretch|atlantic ocean|over
+headed|wednesday|mod
+bid|its|gen
+headed|bid|in
+bid|become|rel
+become|bid|subj
+balloon|first|post
+become|balloon|obj
+balloon|circle|rel
+circle|balloon|subj
+circle|world|obj
+circle|nonstop|mod
+team|swiss-british|nn
+team|hoping|rel
+hoping|team|subj
+be|first|pred
+first|fly|rel
+fly|first|subj
+fly|balloon|obj
+balloon|world|around
+passed|nonstop|mod-before
+passed|team|subj
+passed|south|obj
+south|japan|of
+passed|trying|mod
+trying|team|subj
+trying|avoid|fc
+avoid|thunderstorms|obj
+thunderstorms|that|whn
+ended|thunderstorms|subj
+ended|flight|obj
+team|rival|mod
+flight|team|of

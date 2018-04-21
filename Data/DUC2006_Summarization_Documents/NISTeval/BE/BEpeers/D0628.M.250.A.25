@@ -1,0 +1,132 @@
+american academy of pediatrics|monday|on
+issued|american academy of pediatrics|subj
+issued|its|obj1
+guidelines|first|post
+issued|guidelines|obj2
+guidelines|adhd|for
+children|make|nn
+children|sure|mod
+children|untreated|mod
+get|children|subj
+get|help|obj
+help|need|rel
+need|help|obj
+need|they|subj
+ap|chicago|nn
+ap|(|punc
+ap|)|punc
+pediatricians|nation|gen
+ap|asked|rel
+asked|ap|obj2
+asked|pediatricians|obj1
+asked|take|mod
+take|pediatrician|subj
+role|active|mod
+take|role|obj
+role|diagnosing|in
+disorder|attention|nn
+disorder|deficit|nn
+disorder|/|nn
+disorder|hyperactivity|nn
+diagnosing|disorder|obj
+disorder|concern|amid
+concern|that|c
+rambunctious|merely|mod
+children|rambunctious|mod
+medication|given|mod
+medication|unnecessary|mod
+being|medication|pred
+said|lambert|subj
+is|not|neg
+said|opposed|fc
+opposed|she|obj
+treating|she|subj
+youngsters|adhd|nn
+treating|youngsters|obj
+youngsters|stimulants|with
+treating|because|mod
+because|shown|comp1
+shown|benefits|obj
+shown|clearly|mod
+shown|but|mod
+but|believes|comp1
+believes|she|subj
+believes|are|fc
+are|risks|pred
+acknowledged|they|obj
+group|nation|gen
+group|largest|mod
+academy|group|appo
+group|pediatricians|of
+said|academy|subj
+said|is|fc
+is|unclear|pred
+unclear|whether|c
+being|overdiagnosed|pred
+definitions|doctors|gen
+definitions|and|punc
+definitions|treatment|conj
+varies|it|subj
+varies|widely|mod
+use|people|subj
+findings|jacobson|gen
+findings|preliminary|mod
+use|findings|obj
+findings|which|whn
+presented|findings|obj
+presented|he|subj
+presented|society|at
+society|psychological anthropology|for
+psychological anthropology|new mexico|in
+new mexico|september|in
+again|american anthropological association|at
+american anthropological association|chicago|in
+chicago|november|in
+conclude|that|c
+widely|simply|mod
+underdiagnosed|widely|mod
+is|underdiagnosed|pred
+underdiagnosed|britain|in
+said|thelen|subj
+said|prescribed|fc
+prescribed|drug|obj
+prescribed|ehlis|to
+ehlis|psychiatrist|by
+taking|ehlis|subj
+dosage|prescribed|mod
+taking|dosage|obj
+but|said|comp1
+said|jensen|subj
+said|is|fc
+is|that|c
+thousands|children|of
+treated|thousands|obj
+more than one-half|children|of
+children|disorder|with
+diagnosed|not|guest
+diagnosed|more than one-half|obj
+like|we|subj
+like|help|fc
+help|we|subj
+diagnose|all|amod
+diagnose|(|punc
+diagnose|us|subj
+diagnose|)|punc
+diagnose|more|obj
+diagnose|accurately|mod
+diagnose|'|punc
+diagnose|'|punc
+diagnose|said|mod
+james perrin|dr|title
+said|james perrin|subj
+james perrin|author|conj
+author|guidelines|of
+author|and|punc
+professor|associate|nn
+author|professor|conj
+professor|pediatrics|of
+pediatrics|harvard medical school|at
+label|radioactive|mod
+label|`|punc
+label|`|punc
+using|label|obj

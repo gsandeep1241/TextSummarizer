@@ -1,0 +1,59 @@
+wants|also|mod-before
+wants|marianne gingrich|subj
+wants|depose|fc
+depose|marianne gingrich|subj
+depose|callista bisek|obj
+aide|congressional|mod
+speaker|former|mod
+speaker|u.s. house|nn
+has|whom|obj
+has|speaker|subj
+attorney|gingrich|gen
+randy evans|attorney|appo
+filed|randy evans|subj
+filed|motion|obj
+filed|wednesday|mod
+filed|cobb county superior court|in
+cobb county superior court|asking|rel
+asking|cobb county superior court|subj
+asking|that|c
+transfer|gingrich|subj
+transfer|money|obj
+account|joint|mod
+money|account|to
+days|14|amount-value
+account|days|within
+tried|bisek|subj
+tried|block|fc
+block|bisek|subj
+block|subpoena|obj
+subpoena|that|whn
+called for|subpoena|subj
+called for|her|obj
+called for|deposed|mod
+deposed|by|by-subj
+deposed|lawyers|by
+wife|gingrich|gen
+lawyers|wife|for
+wife|marianne|appo
+gives|agreement|subj
+gingrich|mrs.|title
+gives|gingrich|obj1
+gingrich|house|rel
+house|gingrich|obj
+house|couple|subj
+house|marietta|in
+marietta|and|punc
+marietta|gingrich|conj
+apartment|their|gen
+apartment|washington|nn
+gives|apartment|obj2
+refused|bisek|subj
+refused|answer|fc
+answer|bisek|subj
+subpoena|washington|nn
+answer|subpoena|obj
+subpoena|that|whn
+requires|subpoena|subj
+requires|her|obj
+requires|sit|mod

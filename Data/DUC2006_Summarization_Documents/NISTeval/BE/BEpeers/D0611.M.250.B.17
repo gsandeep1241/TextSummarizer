@@ -1,0 +1,13 @@
+protect|environment|obj
+forbid|beijing|subj
+forbid|use|obj
+chlorine|organic|mod
+use|chlorine|of
+chlorine|and|punc
+elements|other|mod
+elements|organic|mod
+elements|chemical|nn
+chlorine|elements|conj
+control|pest|nn
+elements|control|in
+control|1980s|in

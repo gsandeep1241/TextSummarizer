@@ -1,0 +1,55 @@
+spokesman|european commission|nn
+denied|today|mod-before
+denied|formally|amod
+denied|spokesman|subj
+denied|newspaper|obj1
+denied|reports|obj2
+reports|that|c
+is|"|punc
+is|drawing|pred
+drawing|plans|up
+plans|delay|rel
+delay|plan|subj
+delay|launch|obj
+currency|single|mod
+launch|currency|of
+currency|euro|appo
+is|secretly|punc
+is|"|punc
+euro|european|mod
+euro|single|mod
+euro|currency|nn
+go ahead|euro|subj
+go ahead|schedule|on
+schedule|january 1 , 1999|on
+membership|broad|mod
+schedule|membership|with
+go ahead|survey|according to
+economists|prominent|mod
+economists|british|mod
+survey|economists|of
+minister|german|mod
+minister|economics|nn
+minister|guenter rexrodt|person
+said|minister|subj
+said|today|guest
+said|that|c
+german|most|mod
+companies|german|mod
+are|not|neg
+prepared|companies|obj
+prepared|shift|for
+currency|single|mod
+currency|european|mod
+shift|currency|to
+currency|euro|appo
+euro|which|whn
+is|due|pred
+due|launched|rel
+launched|january 1 , 1999|on
+investors|private|mod
+are|set|pred
+set|benefit|rel
+benefit|set|subj
+introduction|1999|num
+benefit|introduction|from

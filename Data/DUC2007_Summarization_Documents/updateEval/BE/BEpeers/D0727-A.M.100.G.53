@@ -1,0 +1,61 @@
+wife|estranged|mod
+speaker|former|mod
+speaker|u.s. house|nn
+wife|speaker|of
+speaker|newt gingrich|person
+wants|wife|subj
+judge|cobb county|subj
+judge|freeze|mod
+freeze|cobb county|subj
+assets|couple|gen
+freeze|assets|obj
+freeze|until|mod
+divorce|their|gen
+until|is|comp1
+is|final|pred
+attorney|newt gingrich|gen
+attorney|randolph evans|appo
+denied|attorney|subj
+denied|allegation|obj
+denied|and|punc
+denied|said|conj
+said|attorney|subj
+handled|always|amod
+said|handled|fc
+handled|marianne gingrich|subj
+money|couple|gen
+handled|money|obj
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+agreed|newt gingrich|subj
+agreed|monday|guest
+agreed|keep|fc
+keep|newt gingrich|subj
+divorce|their|gen
+keep|divorce|obj
+arena_|public|mod
+divorce|arena_|out of
+arena_|now|for
+associate|newt gingrich|gen
+associate|closest|mod
+become|associate|subj
+become|part|obj
+case|his|gen
+case|divorce|nn
+part|case|of
+attempts|marianne gingrich|nn
+case|attempts|as
+attempts|drag out|rel
+drag out|attempt|subj
+drag out|and|punc
+drag out|nail down|conj
+nail down|attempt|subj
+secrets|personal|mod
+personal|and|punc
+personal|financial|conj
+nail down|secrets|obj
+husband|her|gen
+husband|estranged|mod
+secrets|keeping|rel
+keeping|secrets|obj
+keeping|husband|subj

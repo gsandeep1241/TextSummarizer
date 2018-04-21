@@ -1,0 +1,140 @@
+was|miami|in
+uncle|elian|gen
+uncle|great|mod
+uncle|lazaro gonzalez|appo
+custody|given|mod
+custody|temporary|mod
+was|custody|pred
+custody|boy|of
+was|and|punc
+was|moved|conj
+moved|uncle|subj
+moved|him|obj
+home|his|gen
+home|little havana|nn
+moved|home|into
+emerged|midnight|before
+lazaro gonzales|great-uncle|appo
+great-uncle|who|whn
+has|great-uncle|subj
+has|custody|obj
+custody|boy|of
+emerged|lazaro gonzales|subj
+house|his|gen
+emerged|house|from
+house|miami|in
+emerged|and|punc
+emerged|said|conj
+said|lazaro gonzales|subj
+did|not|neg
+said|want|fc
+want|elian|subj
+want|go|fc
+go|elian|subj
+go|washington|to
+go|so|mod
+family|miami|nn
+no one|family|from
+so|go|comp1
+go|no one|subj
+as|speaking|comp1
+speaking|gonzalez|subj
+relatives|his|gen
+relatives|miami|in
+appeared|relatives|subj
+family court|county|mod
+appeared|family court|in
+great-uncle|elian|gen
+appeared|great-uncle|with
+great-uncle|lazaro gonzales|appo
+-elian|_|punc
+gonzales|janet reno|nn
+gonzales|clarified|mod
+situation|gonzales|gen
+situation|legal|mod
+-elian|situation|appo
+situation|brushing|by
+brushing|aside|guest
+judge|florida|nn
+interference|judge|gen
+brushing|interference|obj
+reno|april 12--|mod
+meets with|reno|subj
+relatives|florida|nn
+meets with|relatives|obj
+meets with|and|punc
+meets with|orders|conj
+orders|reno|subj
+orders|them|obj
+orders|surrender|mod
+surrender|reno|subj
+surrender|elian|obj
+cuban american national foundation|powerful|mod
+officials|cuban american national foundation|from
+announced|officials|subj
+announced|that|c
+relatives|miami|nn
+travel to|relatives|subj
+travel to|washington|obj
+travel to|wednesday|mod
+travel to|elian|with
+elian|meeting|for
+father|boy|gen
+meeting|father|with
+learned|gonzalez|subj
+learned|that|c
+father|elian|gen
+expected|father|subj
+relatives|miami|nn
+expected|relatives|obj
+relatives|turn|rel
+turn|relative|subj
+turn|boy|obj
+turn|over|mod
+turn|before|mod
+before|meeting|comp1
+meeting|their|subj
+family|miami|nn
+refused|family|subj
+refused|do|fc
+do|family|subj
+do|that|obj
+relatives|elian|gen
+relatives|miami|nn
+been|unwilling|pred
+been|turn|mod
+turn|relative|subj
+turn|boy|obj
+turn|over|mod
+over|assurances|without
+would|not|neg
+taken back|quickly|amod
+taken back|he|obj
+taken back|cuba|to
+relatives|miami|nn
+relatives|elian gonzales|of
+lost|friday|mod-before
+lost|relatives|subj
+battle|their|gen
+battle|final|mod
+be|battle|pred
+battle|prevent|rel
+prevent|battle|subj
+return|boy|gen
+prevent|return|obj
+return|cuba|to
+said|u.s. immigration and naturalization service|subj
+said|sent|fc
+sent|boy|obj
+sent|cuba|to
+cuba|jan 14|by
+am|father|pred
+father|elian|of
+said|immigration|subj
+said|that|c
+one|only|mod
+am|one|pred
+one|who|whn
+speak|one|subj
+said|him|for
+said|juan miguel gonzalez|subj

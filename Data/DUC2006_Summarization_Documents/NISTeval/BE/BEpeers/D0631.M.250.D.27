@@ -1,0 +1,127 @@
+crash|july 25|nn
+said|crash|after
+investigators|french|nn
+said|investigators|subj
+said|believed|fc
+believed|they|subj
+believed|that|c
+strip|metal|mod
+strip|runway|on
+airport|charles de gaulle|nn
+runway|airport|at
+airport|paris|outside
+caused|strip|subj
+caused|tire|obj
+tire|burst|rel
+burst|tire|subj
+blow-out|caused|vrel
+caused|blow-out|obj1
+caused|chunks|obj2
+chunks|rubber|of
+rubber|rupture|rel
+rupture|rubber|subj
+tanks|fuel|nn
+rupture|tanks|obj
+tanks|located|vrel
+located|tanks|obj
+located|wings|in
+close|blow-out|subj
+engines|concorde|gen
+engines|four|nn
+engines|jet|nn
+close|engines|to
+gear|concorde|gen
+gear|spindly|mod
+gear|stork-like|mod
+gear|landing|nn
+positioned|gear|obj
+positioned|directly|mod
+directly|wings|below
+wings|and|punc
+wings|engines|conj
+while|suspended|comp1
+suspended|air france|subj
+flights|its|gen
+flights|concorde|nn
+suspended|flights|obj
+suspended|immediately|mod
+crash|july 25|nn
+immediately|crash|after
+but|ordered|comp1
+ordered|british airways|subj
+ordered|only|guest
+ordered|one|obj
+concordes|its own|gen
+putting|concordes|obj
+concordes|service|into
+grounded|air france|subj
+concordes|its|gen
+concordes|five|nn
+concordes|remaining|mod
+grounded|concordes|obj
+grounded|immediately|mod
+crash|july 25|nn
+immediately|crash|after
+crash|concorde flight af 4590|of
+concorde flight af 4590|which|whn
+plunged|concorde flight af 4590|subj
+plunged|to|guest
+plunged|ground|to
+90|about|num-mod
+seconds|90|amount-value
+plunged|seconds|obj
+seconds|take-off|after
+plunged|killing|mod
+killing|air france|subj
+people|113|num
+killing|people|obj
+fatal accident|first|post
+people|fatal accident|in
+fatal accident|involving|rel
+involving|fatal accident|subj
+airplane|supersonic|mod
+involving|airplane|obj
+other|only|mod
+operator|other|mod
+operator|concorde|nn
+british airways|operator|appo
+grounded|british airways|subj
+fleet|its|gen
+fleet|entire|mod
+grounded|fleet|obj
+concordes|seven|nn
+fleet|concordes|of
+concordes|tuesday|on
+concordes|learning|after
+learning|british airways|subj
+learning|that|c
+certificate|airworthiness|nn
+revoked|certificate|obj
+revoked|wednesday|mod
+removed|wednesday|on
+technicians|100|num
+removed|carefully|mod-before
+removed|technicians|subj
+engines|two|nn
+removed|engines|obj
+engines|site|from
+site|crash|of
+location|special|mod
+crash|location|to
+location|dugny|at
+north|le bourget|nn
+north|airport|nn
+removed|north|near
+north|paris|of
+certificate|concorde|gen
+certificate|airworthiness|nn
+withdrawal|certificate|of
+civil aviation authority|britain|gen
+certificate|civil aviation authority|by
+was|first|pred
+action|such|pre
+airliner|commercial|mod
+action|airliner|against
+20|more than|num-mod
+years|20|amount-value
+airliner|years|in

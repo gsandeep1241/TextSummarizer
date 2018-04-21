@@ -1,0 +1,66 @@
+balloon|swiss|mod
+pilot|balloon|subj
+pilot|bertrand piccard|obj
+teammate|his|gen
+teammate|new|mod
+tony brown|british|mod
+tony brown|flight engineer|nn
+teammate|tony brown|appo
+said|teammate|subj
+said|be|fc
+be|ready|pred
+be|later|mod
+be|month|mod
+attempt|new|mod
+month|attempt|for
+attempt|fly|rel
+fly|attempt|subj
+fly|nonstop|desc
+nonstop|world|round
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|comp1
+become|it|subj
+become|first|obj
+pilot|swiss|mod
+pilot|balloon|nn
+first|pilot|to
+pilot|announced|rel
+announced|pilot|obj
+announced|bertrand piccard|subj
+announced|wednesday|mod
+wednesday|that|c
+chosen|he|subj
+teammate|his|gen
+brian jones|teammate|as
+teammate|his|for
+attempt|next|mod-before
+attempt|wednesday|obj
+attempt|brian jones|subj
+attempt|circling|at
+circling|brian jones|subj
+circling|world|obj
+world|balloon|in
+bid|piccard|gen
+bid|last|post
+bid|round-the-world|mod
+abandoned|bid|obj
+abandoned|after|mod
+after|refused|comp1
+refused|china|subj
+refused|his|obj1
+entry|balloon|nn
+refused|entry|obj2
+abandoned|causing|mod
+causing|bid|subj
+causing|it|obj
+causing|miss|mod
+miss|out|mod
+winds|jet-stream|nn
+out|winds|on
+winds|needed|vrel
+needed|winds|obj
+needed|speed|mod
+speed|it|obj
+speed|pacific|over

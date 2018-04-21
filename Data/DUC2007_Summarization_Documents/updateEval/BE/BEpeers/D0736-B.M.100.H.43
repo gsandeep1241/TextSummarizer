@@ -1,0 +1,59 @@
+venture|new|mod
+face|venture|subj
+face|competition|obj
+channel|successful|mod
+channel|lifetime|nn
+competition|channel|from
+channel|which|whn
+is|run|pred
+run|walt disney co.|by
+walt disney co.|and|punc
+walt disney co.|hearst corp.|conj
+hearst corp.|as|punc
+hearst corp.|well|punc
+hearst corp.|as|punc
+channel|new|mod
+hearst corp.|channel|conj
+channel|called|vrel
+called|channel|obj1
+called|oxygen|desc
+called|developed|mod
+developed|by|by-subj
+oprah winfrey|talk show|nn
+oprah winfrey|host|nn
+developed|oprah winfrey|by
+oprah winfrey|and|punc
+oprah winfrey|geraldine laybourne|conj
+oprah winfrey|one|appo
+forces|driving|nn
+one|forces|of
+forces|success|behind
+success|nickelodeon|of
+oprah winfrey|show|nn
+oprah winfrey|host|nn
+starting|oprah winfrey|subj
+spring|next|mod-before
+spring|magazine|subj
+hearst corp.|magazine publisher|nn
+spring|hearst corp.|with
+said|hearst|subj
+said|statement|in
+statement|that|c
+magazine|new|mod
+offer|magazine|subj
+offer|articles|obj1
+articles|community|on
+community|family|appo
+family|relationships|appo
+offer|health|obj2
+health|and|punc
+health|fitness|conj
+fitness|fashion|conj
+fashion|and|punc
+fashion|beauty|conj
+beauty|and|punc
+beauty|books|conj
+oprah winfrey|talk show|nn
+oprah winfrey|host|nn
+figure|powerful|mod
+oprah winfrey|figure|appo

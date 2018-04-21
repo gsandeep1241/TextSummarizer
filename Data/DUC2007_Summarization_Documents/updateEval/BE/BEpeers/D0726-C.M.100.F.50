@@ -1,0 +1,61 @@
+president|al gore|person
+said|president|subj
+said|sunday|guest
+chairman|his|gen
+chairman|campaign|nn
+chairman|tony coelho|appo
+doing|"|punc
+said|doing|fc
+doing|chairman|subj
+job|great|mod
+doing|job|obj
+doing|"|punc
+doing|and|punc
+doing|stay|conj
+stay|chairman|subj
+report|government|nn
+found|report|despite
+found|that|subj
+management|questionable|mod
+management|financial|mod
+found|management|obj
+found|while|mod
+while|directed|comp1
+directed|coelho|subj
+pavilion|u.s.|nn
+directed|pavilion|obj
+world|1998|num
+pavilion|world|at
+world|fair|pnmod
+fair|portugal|in
+mayor|former|mod
+mayor|chicago|nn
+son|mayor|of
+mayor|richard daley|person
+mayor|and|punc
+mayor|brother|conj
+brother|city|of
+mayor|current|mod
+'s|mayor|pred
+'s|has|conj
+has|son|subj
+connections|extraordinary|mod
+has|connections|obj
+connections|democratic party|in
+has|and|punc
+has|considered|conj
+considered|son|obj1
+insider|political|mod
+considered|insider|obj2
+insider|ties|with
+to|both|punc
+ties|president|to
+president|clinton|person
+president|and|punc
+president|gore|conj
+is|one|pred
+organizers|democratic party|gen
+experienced|most|mod
+organizers|experienced|mod
+organizers|grass-roots|nn
+one|organizers|of

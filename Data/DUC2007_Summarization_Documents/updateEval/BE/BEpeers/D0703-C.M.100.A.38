@@ -1,0 +1,65 @@
+has|france|subj
+struck|already|mod
+coins|struck|mod
+coins|one billion|nn
+has|coins|obj
+euro|european|mod
+euro|single|mod
+euro|currency|nn
+coins|euro|of
+euro|which|whn
+launched|euro|obj
+launched|by|by-subj
+launched|january 1999|by
+permitted|circular|in
+circular|issued|vrel
+issued|circular|obj
+issued|banks|to
+banks|friday|on
+permitted|rbi|subj
+permitted|banks|obj
+banks|trade|rel
+trade|bank|subj
+invoice|euro|in
+convert|freely|mod-before
+convert|invoice|subj
+currencies|legacy|nn
+currencies|emu|nn
+convert|currencies|obj
+currencies|euro|into
+convert|and|punc
+convert|accept|conj
+accept|invoice|subj
+deposits|euro-denominated|mod
+deposits|bank|nn
+accept|deposits|obj
+deposits|and|punc
+deposits|remittances|conj
+system|romanian|mod
+system|banking|nn
+is|ready|pred
+is|perform|mod
+perform|system|subj
+perform|services|obj
+currency|european|mod
+currency|single|mod
+services|currency|in
+currency|euro|appo
+bnr|and|punc
+commercial banks|romanian|mod
+bnr|commercial banks|conj
+commercial banks|that|c
+want|perform|rel
+perform|want|subj
+services|euro|nn
+perform|services|obj
+have|commercial banks|obj
+have|want|subj
+have|open accounts|to
+open accounts|euro|in
+euro|january 4 , 1999 ,|by
+day|first|post
+day|scheduled|mod
+have|day|mod
+use|euro|nn
+day|use|of

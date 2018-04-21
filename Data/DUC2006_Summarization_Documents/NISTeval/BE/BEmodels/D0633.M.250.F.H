@@ -1,0 +1,127 @@
+decrease|marked|mod
+was|decrease|pred
+in|both|punc
+crimes|violent|mod
+violent|and|punc
+violent|non-violent|conj
+decrease|crimes|in
+crimes|united states|in
+drops|percentage|nn
+drops|many|appo
+many|double digits|in
+recorded|drops|obj
+recorded|murders|for
+murders|rapes|appo
+rapes|burglaries|appo
+theft|personal|mod
+theft|vehicle|nn
+theft|theft|appo
+purse|theft|subj
+theft|property|nn
+decrease|greatest|mod
+was|in|pred
+was|northeast|in
+northeast|followed|vrel
+followed|northeast|obj
+followed|by|by-subj
+followed|west|by
+west|south|conj
+south|and|punc
+south|midwest|conj
+extent|decrease|of
+decrease|murders|in
+illustrated|extent|obj
+illustrated|by|by-subj
+illustrated|chicago|by
+chicago|named|rel
+capital|murder|nn
+named|capital|obj2
+capital|us|of
+us|1999|in
+low|ten-year|nn
+us|low|after
+low|number|in
+number|murders|of
+showed|detroit|subj
+showed|increase|obj
+increase|murders|in
+murders|1999|in
+crimes|other|mod
+declined|crimes|subj
+rates|crime|nn
+were|not|neg
+were|always|guest
+were|uniform|pred
+uniform|any|in
+any|regions|of
+experienced|new york|subj
+drop|huge|mod
+experienced|drop|obj
+drop|number|in
+number|murders|of
+counties|new york state|in
+saw|counties|subj
+saw|increase|obj
+had|california|in
+regions|los angeles|near
+had|regions|subj
+had|decrease|obj
+decrease|crime|in
+had|nearby|mod-before
+had|others|subj
+had|increase|obj
+decreased|richmond|in
+crimes|gun-related|mod
+decreased|crimes|subj
+enforcement|stringent|mod
+enforcement|law|nn
+decreased|enforcement|by
+exile|project|nn
+enforcement|exile|under
+crimes|drug|nn
+arrests|crimes|for
+increase|arrests|subj
+increase|country|throughout
+had|new orleans|subj
+rate|nation|gen
+rate|worst|nn
+rate|murder|nn
+had|rate|obj
+rate|1994|in
+decreased|there|mod-before
+decreased|rate|subj
+decreased|2000|until
+decreased|when|wha
+saw|it|subj
+jump|big|mod
+saw|jump|obj
+was|not|neg
+was|alone|guest
+was|year|pred
+year|having|in
+having|new orleans|subj
+having|increase|obj
+increase|number|in
+number|murders|of
+baltimore|boston|conj
+boston|dallas|conj
+dallas|los angeles|conj
+los angeles|new york|conj
+new york|and|punc
+new york|philadelphia|conj
+showed|also|mod-before
+showed|baltimore|subj
+showed|increase|obj
+increase|year|in
+cities|two|nn
+cities|other|mod
+cities|large|mod
+cities|denver|conj
+denver|and|punc
+denver|phoenix|conj
+showed|cities|subj
+showed|decrease|obj
+number|their|gen
+decrease|number|in
+number|murders|of
+murders|2000|in

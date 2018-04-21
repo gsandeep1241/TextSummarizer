@@ -1,0 +1,63 @@
+newt|and|punc
+proceedings|marianne|nn
+proceedings|divorce|nn
+newt|proceedings|conj
+entered|newt|subj
+phase|new|mod
+entered|phase|obj
+entered|when|wha
+ordered|couple|obj
+ordered|appear|mod
+appear|couple|subj
+session|court-ordered|mod
+session|mediation|nn
+appear|session|for
+session|georgia|in
+hours|mediator|nn
+hours|spent|mod
+hours|12|amount-value
+hours|negotiating|rel
+negotiating|hours|subj
+agreement|settlement|nn
+negotiating|agreement|obj
+agreement|couple|between
+couple|which|whn
+led to|couple|subj
+settlement|"|punc
+settlement|full|mod
+led to|settlement|obj
+details|agreement|nn
+split|they|subj
+split|property|obj
+property|money|conj
+money|and|punc
+assets|other|mod
+money|assets|conj
+y|cobb count|nn
+y|georgia|appo
+georgia|judge|appo
+judge|robinson|person
+judge|made|vrel
+made|judge|obj1
+final|divorce|nn
+made|final|desc
+made|and|punc
+made|agreed|conj
+agreed|judge|subj
+agreed|seal|fc
+seal|agreement|obj
+spared|that|subj
+spared|newt|obj1
+newt|and|punc
+newt|marianne|conj
+spared|embarrassment|obj2
+embarrassment|that|whn
+resulted|embarrassment|subj
+trial|public|mod
+resulted|trial|from
+month|announced|rel
+announced|month|obj
+announced|gingrich|subj
+marry|he|subj
+marry|callista bisek|obj
+callista bisek|alexandria|in

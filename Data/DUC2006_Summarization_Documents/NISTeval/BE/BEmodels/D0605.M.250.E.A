@@ -1,0 +1,181 @@
+degenerative joint disease|osteoarthritis|nn
+degenerative joint disease|(|punc
+are|for|pred
+are|pain|for
+pain|inflammation|conj
+inflammation|and|punc
+modification|disease|nn
+inflammation|modification|conj
+acetaminophen|(|punc
+acetaminophen|tylenol|such as
+used|)|punc
+used|acetaminophen|obj
+used|treat|mod
+treat|acetaminophen|subj
+treat|pain|obj
+treat|alone|mod
+aspirin|motrin|conj
+motrin|and|punc
+motrin|steroids|conj
+used|aspirin|obj
+used|inflammation|for
+paracetamol|non-steroidal anti-inflammatory drugs|conj
+nsaids|(|punc
+non-steroidal anti-inflammatory drugs|nsaids|abbrev
+nsaids|)|punc
+non-steroidal anti-inflammatory drugs|and|punc
+medications|topical|mod
+non-steroidal anti-inflammatory drugs|medications|conj
+are|for|pred
+are|pain|for
+pain|and|punc
+pain|inflammation|conj
+include|older nsaids|subj
+include|advil|obj
+advil|daypro|appo
+daypro|lodine|appo
+lodine|naprosyn|appo
+nsaids|three|nn
+nsaids|new|mod
+containing|cox-2|obj
+inhibitors|cyclooxygenase-2|nn
+inhibitors|)|punc
+mobic|developed-meloxicam|nn
+mobic|(|punc
+been|mobic|pred
+mobic|)|punc
+mobic|celebra|conj
+celebra|and|punc
+celebra|vioxx|conj
+are|painkillers|pred
+painkillers|that|whn
+cut|painkillers|subj
+cut|inflammation|obj
+distress|stomach|nn
+inflammation|distress|with
+hyalgan|hyaluronan|nn
+hyalgan|(|punc
+hyalgan|)|punc
+hyalgan|and|punc
+synvisk|hylan|nn
+synvisk|g-f20|nn
+synvisk|(|punc
+hyalgan|synvisk|conj
+are|)|punc
+drugs|new|mod
+drugs|injectable|mod
+are|drugs|pred
+prescribe|disease|for
+doctors|modification|nn
+prescribe|doctors|subj
+prescribe|sulfasalazine|obj
+sulfasalazine|chloroquine|conj
+chloroquine|penicillamine|conj
+penicillamine|gold|conj
+gold|and|punc
+gold|methotrexate|conj
+loss|weight|nn
+loss|and|punc
+loss|exercise|conj
+recommended|loss|obj
+methods|other|mod
+fail|methods|subj
+have|patients|subj
+replacement|joint|mod
+have|replacement|obj
+supplements--|nutritional|mod
+sulfate|glucosamine|nn
+sulfate--|chondroitin|nn
+become|sulfate--|subj
+become|trendy|desc
+trendy|treating|for
+treating|sulfate --|subj
+treating|osteoarthritis|obj
+treatments|other|mod
+treatments|non-traditional|mod
+include|treatments|subj
+hmp-33|ginger|nn
+hmp-33|extract|nn
+include|hmp-33|obj
+venom|bee|nn
+hmp-33|venom|conj
+bracelets|copper|nn
+venom|bracelets|conj
+herbs|chinese|nn
+bracelets|herbs|conj
+herbs|acupuncture|conj
+chi|tai|mod
+acupuncture|chi|conj
+chi|stinging nettle|conj
+vine|thunder god|nn
+stinging nettle|vine|conj
+vine|ayurveda|conj
+gong|qi|nn
+ayurveda|gong|conj
+gong|and|punc
+resonance|electromagnetic|mod
+gong|resonance|conj
+led|research|subj
+led|scientists|obj
+scientists|develop|rel
+develop|scientist|subj
+develop|drugs|obj
+drugs|that|whn
+treat|drugs|subj
+enzymes|pain/inflammation-producing|mod
+treat|enzymes|obj
+enzymes|but|punc
+enzymes|not|punc
+enzymes|stomach-protecting|mod
+enzymes|enzymes|conj
+led to|this|subj
+inhibitors|cox-2|nn
+led to|inhibitors|obj
+shows|research|subj
+shows|hmp-33|obj
+s-adenosylmethionine|sam|post
+s-adenosylmethionine|(|punc
+give|)|punc
+give|s-adenosylmethionine|subj
+give|relief|obj
+relief|pain|from
+effects|negative|mod
+effects|side|nn
+pain|effects|with
+causes|meloxicam|subj
+complications|gastrointestinal|mod
+causes|complications|obj
+glucosamine|and|punc
+pain|chondroitin|nn
+pain|sooth|nn
+pain|knee|nn
+glucosamine|pain|conj
+pain|as|punc
+pain|well|punc
+pain|as|punc
+pain|ibuprophen|conj
+effects|side|nn
+is|not|neg
+data|enough|mod
+is|data|pred
+data|them|on
+resonance|electromagnetic|mod
+tested|still|guest
+tested|resonance|obj
+is|evidence|pred
+evidence|back up|rel
+back up|evidence|subj
+back up|claims|obj
+bracelets|copper|nn
+claims|bracelets|of
+cartilage|shark|nn
+bracelets|cartilage|conj
+cartilage|and|punc
+cartilage|alfalfa|conj
+studies|acupuncture|on
+acupuncture|and|punc
+surgery|arthroscopic|mod
+acupuncture|surgery|conj
+suggest|studies|subj
+suggest|be|fc
+be|psychological|pred

@@ -1,0 +1,53 @@
+geneva|(|punc
+geneva|ap|appo
+balloon|swiss|mod
+pilot|balloon|subj
+pilot|bertrand piccard|obj
+teammate|his|gen
+teammate|new|mod
+tony brown|british|mod
+tony brown|flight engineer|nn
+teammate|tony brown|appo
+said|teammate|subj
+said|be|fc
+be|ready|pred
+be|later|mod
+be|month|mod
+attempt|new|mod
+month|attempt|for
+attempt|fly|rel
+fly|attempt|subj
+fly|nonstop|desc
+nonstop|world|round
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first|obj
+first|pilot|rel
+pilot|first|subj
+pilot|balloon|obj
+balloon|world|around
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first|obj
+first|pilot|rel
+pilot|first|subj
+pilot|balloon|obj
+balloon|world|around
+pilot|nonstop|mod
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first person|obj
+first person|pilot|rel
+pilot|first person|subj
+pilot|balloon|obj
+balloon|world|around
+pilot|nonstop|mod

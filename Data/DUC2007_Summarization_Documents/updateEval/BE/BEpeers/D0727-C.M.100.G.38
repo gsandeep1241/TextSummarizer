@@ -1,0 +1,65 @@
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+try|newt gingrich|subj
+try|reach|fc
+reach|newt gingrich|subj
+settlement|divorce|nn
+reach|settlement|obj
+reach|today|mod
+meeting|their|gen
+meeting|first|post
+meeting|face-to-face|mod
+reach|meeting|in
+meeting|theirsplit|since
+attorney|newt gingrich|gen
+attorney|randy evans|appo
+says|attorney|subj
+says|refused|fc
+refused|marianne gingrich|subj
+discuss|even|amod
+refused|discuss|fc
+discuss|attorney|subj
+discuss|settlement|obj
+discuss|until|mod
+until|questions|comp1
+questions|she|subj
+questions|bisek|obj
+speaker|former|mod
+speaker|u.s.|nn
+speaker|house|nn
+attorneys|speaker|for
+speaker|newt gingrich|person
+speaker|and|punc
+ex-wife|his|gen
+ex-wife|soon-to-be|mod
+speaker|ex-wife|conj
+expect|attorneys|subj
+approve|judge|subj
+divorce|couple|gen
+approve|divorce|obj
+divorce|month|within
+avoid|agreement|with
+agreement|newt|conj
+newt|and|punc
+newt|marianne gingrich end|conj
+standoff|tense|mod
+standoff|legal|mod
+embarrassing|potentially|mod
+trial|embarrassing|mod
+trial|public|mod
+trial|divorce|nn
+avoid|trial|obj
+closes|settlement|subj
+months|five|amount-value
+closes|months|obj
+wrangling|bitter|mod
+wrangling|legal|mod
+months|wrangling|of
+wrangling|case|in
+closes|culminating|mod
+culminating|settlement|subj
+admission|gingrich|gen
+culminating|admission|with
+admission|last|vrel
+last|admission|obj
+last|month|mod

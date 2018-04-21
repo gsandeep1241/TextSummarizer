@@ -1,0 +1,69 @@
+kiki|catherine|nn
+kiki|`|punc
+kiki|`|punc
+moore|who|whn
+worked|moore|subj
+campaigns|1992 and 1996|nn
+campaigns|clinton-gore|nn
+worked|campaigns|for
+fill|moore|subj
+slot|empty|mod
+slot|press secretary|nn
+fill|slot|obj
+slot|gore|at
+gore|2000|num
+gore|starting|rel
+starting|gore|subj
+starting|sept 7|mod
+chairman|campaign|nn
+chairman|general|mod
+chairman|tony coelho|person
+said|chairman|subj
+warnings|gore|gen
+came|warnings|subj
+came|as|mod
+campaign|his|gen
+campaign|presidential|mod
+as|launched|comp1
+launched|campaign|subj
+launched|`|punc
+launched|`|punc
+con|ganamos|nn
+launched|con|obj
+'we|gore|nn
+'we|'|punc
+'we|'|punc
+'we|(|punc
+'we|'|punc
+win|'we|subj
+win|gore|with
+gore|'|punc
+gore|'|punc
+gore|)|punc
+effort|nationwide|mod
+gore|effort|conj
+effort|build on|rel
+build on|effort|subj
+organizations|political|mod
+build on|organizations|obj
+600|nearly|num-mod
+elected officials|600|nn
+elected officials|hispanic|mod
+organizations|elected officials|of
+effort|and|punc
+leaders|community|mod
+effort|leaders|conj
+leaders|who|whn
+endorsed|leaders|subj
+endorsed|vice president|obj
+vice president|tuesday|person
+president|u.s.|nn
+president|al gore|person
+said|president|subj
+said|wednesday|guest
+said|that|c
+moving|he|subj
+campaign|his|gen
+moving|campaign|obj
+campaign|state|to
+state|tennessee|of

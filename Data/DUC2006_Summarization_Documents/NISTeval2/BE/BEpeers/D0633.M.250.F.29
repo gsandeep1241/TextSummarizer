@@ -1,0 +1,147 @@
+tool|crime-fighting|mod
+borrowing|tool|from
+tool|used|vrel
+used|tool|obj
+used|new york city|in
+george pataki|gov.|title
+announced|george pataki|subj
+program|pilot|nn
+announced|program|obj
+program|designed|vrel
+designed|help|mod
+help|george pataki|subj
+data|counties|nn
+data|share|nn
+data|crime|nn
+help|data|obj
+help|map|conj
+map|george pataki|subj
+map|trends|obj
+map|and|punc
+map|nab|conj
+nab|george pataki|subj
+criminals|more|mod
+nab|criminals|obj
+system|california|nn
+system|state prison|nn
+system|which|whn
+led|system|subj
+boom|huge|mod
+boom|national|mod
+boom|prison-building|mod
+led|boom|obj
+boom|years|for
+recorded|system|subj
+decline|first|post
+recorded|decline|obj
+population|its|gen
+population|inmate|nn
+decline|population|in
+two|more than|num-mod
+decades|two|amount-value
+population|decades|in
+officials|state|nn
+recorded|officials|according to
+experts|criminal|mod
+experts|and|punc
+officials|law enforcement|nn
+experts|officials|conj
+attributed|experts|subj
+attributed|drop|obj
+drop|factors|to
+attributed|including|mod
+including|expert|subj
+including|aging|obj
+boomers|baby|nn
+aging|boomers|of
+incarceration|increased|mod
+boomers|incarceration|appo
+incarceration|criminals|of
+including|declining|mod
+declining|use|obj
+use|crack|of
+officers|additional|mod
+officers|police|nn
+better|policing|mod
+policing|methods|obj
+rates|crime|nn
+rates|involving|rel
+involving|rate|subj
+involving|property|obj
+dropped|including|mod-before
+including|rate|subj
+including|burglary|obj
+burglary|and|punc
+theft|motor vehicle|nn
+burglary|theft|conj
+dropped|rates|subj
+dropped|9 percent|obj
+dropped|from 1998 to 1999|mod
+from 1998 to 1999|decreasing|pnmod
+decreasing|217|from
+households|1,000|num
+households|u.s.|nn
+217|households|per
+households|198|to
+households|1,000|num
+198|households|per
+rate|detroit|gen
+rate|murder|nn
+ranks|still|mod-before
+ranks|rate|subj
+ranks|highest|among
+highest|country|in
+american bar association|and|punc
+fund|children|gen
+fund|defense|nn
+american bar association|fund|conj
+oppose|american bar association|subj
+sentences|death|nn
+oppose|sentences|obj
+offenders|juvenile|mod
+sentences|offenders|for
+stations|local|mod
+compensate for|stations|subj
+gap|murder|nn
+compensate for|gap|obj
+gap|covering|by
+covering|station|subj
+covering|crimes|obj
+crimes|committed|vrel
+committed|crimes|obj
+places|other|mod
+committed|places|in
+in|and|punc
+in|by|conj
+in|reporting on|by
+crimes|local|mod
+reporting on|crimes|obj
+crimes|that|whn
+long|not|mod
+ago|long|mod
+passed|ago|mod-before
+passed|crimes|subj
+apart|drop|from
+crimes|property|nn
+drop|crimes|in
+crimes|violent|mod
+fell|crimes|subj
+fell|3 percent|by
+fell|while|mod
+divisions|valley|gen
+rest|divisions|of
+while|increased|comp1
+increased|rest|subj
+hired|jerry a. oliver|obj
+hired|chief|as
+chief|police|of
+police|1994|in
+had|richmond|subj
+had|decade|obj
+decade|increasing|of
+increasing|richmond|subj
+increasing|numbers|obj
+numbers|homicides|of
+increasing|peaking|mod
+peaking|year|mod
+year|160|at

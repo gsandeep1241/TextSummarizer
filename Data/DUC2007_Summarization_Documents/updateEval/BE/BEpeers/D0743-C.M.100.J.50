@@ -1,0 +1,63 @@
+survivors|26,000|num
+earthquake|august 17 , 1999|nn
+survivors|earthquake|of
+earthquake|that|whn
+devastated|earthquake|subj
+heartland|izmit|gen
+heartland|western|mod
+heartland|industrial|mod
+devastated|heartland|obj
+region|marmara|nn
+heartland|region|in
+are|still|guest
+are|living|pred
+year|tents|nn
+year|one|amount-value
+living|year|in
+year|quake|after
+called|also|amod
+izmit|called|vrel
+called|izmit|obj1
+province|kocaeli|nn
+called|province|desc
+was|epicenter|pred
+quake|7.4-magnitude|mod
+quake|killer|nn
+epicenter|quake|of
+quake|that|whn
+hit|quake|subj
+turkey|western|mod
+hit|turkey|obj
+turkey|august 17|on
+hit|killing|mod
+killing|izmit|subj
+killing|over|guest
+people|14,000|num
+killing|people|obj
+killing|and|punc
+killing|injuring|conj
+injuring|izmit|subj
+injuring|over|guest
+others|27,000|num
+injuring|others|obj
+reported|bogazici kandilli observatory|subj
+reported|that|c
+hit|quake|subj
+hit|izmit|obj1
+110|about|num-mod
+kilometers|110|amount-value
+west|kilometers|nn
+izmit|west|appo
+west|istanbul|of
+city|largest|mod
+hit|city|obj2
+city|turkey|of
+hit|11:11 local time|at
+11:11 local time|(|punc
+gmt|0811|num
+11:11 local time|gmt|appo
+driving|people|obj
+people|panic|into
+anatolia news agency|semi-official|mod
+reported|anatolia news agency|subj
+driving|reported|mod

@@ -1,0 +1,64 @@
+adventurers|bertrand piccard|appo
+bertrand piccard|switzerland|of
+switzerland|and|punc
+switzerland|brian jones|conj
+brian jones|england|of
+steered|adventurers|subj
+balloon|their|gen
+steered|balloon|obj
+balloon|pacific ocean|over
+pacific ocean|hawaii|toward
+hawaii|and|punc
+hawaii|california|conj
+california|or|punc
+california|mexico|conj
+team|balloon|nn
+nears|team|subj
+nears|jamaica|obj
+team|swiss-english|nn
+team|balloon|nn
+300|about|num-mod
+miles|300|amount-value
+was|miles|pred
+miles|jamaica|from
+night|late|mod
+night|wednesday|nn
+was|night|mod
+was|and|punc
+was|hoped|conj
+hoped|team|subj
+hoped|catch|fc
+catch|team|subj
+stream|next|post
+stream|jet|nn
+catch|stream|obj
+caribbean|eastern|mod
+stream|caribbean|over
+pilots brian jones|england|of
+england|and|punc
+england|bertrand piccard|conj
+bertrand piccard|switzerland|of
+flown|pilots brian jones|subj
+flown|further|desc
+further|balloonist|than
+flown|before|mod
+flown|traveling|mod
+traveling|pilots brian jones|subj
+traveling|more|mod
+miles|21,625|num
+more|miles|than
+miles|leaving|after
+leaving|swiss alps|obj
+swiss alps|march 1.|on
+swiss|and|punc
+balloonists|british|mod
+swiss|balloonists|conj
+balloonists|aiming|rel
+aiming|balloonist|subj
+be|first|pred
+first|circle|rel
+circle|first|subj
+circle|world|obj
+floated|nonstop|mod-before
+floated|swiss|subj
+floated|over|mod

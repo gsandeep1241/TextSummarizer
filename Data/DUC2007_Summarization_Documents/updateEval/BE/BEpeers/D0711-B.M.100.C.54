@@ -1,0 +1,59 @@
+may 14 , 1999-microsoft|and|punc
+may 14 , 1999-microsoft|justice department|conj
+reveal|may 14 , 1999-microsoft|subj
+reveal|that|c
+conducting|they|subj
+talks|settlement|nn
+conducting|talks|obj
+talks|aimed at|vrel
+aimed at|talks|obj
+aimed at|heading|mod
+heading|they|subj
+heading|off|guest
+action|wide-ranging|mod
+action|antitrust|mod
+heading|action|obj
+justice department|and|punc
+states|19|num
+justice department|states|conj
+states|suing|rel
+suing|state|subj
+suing|microsoft corp.|obj
+experts|antitrust|mod
+say|experts|subj
+playing|say|mod-before
+playing|justice department|subj
+hand|stong|nn
+playing|hand|obj
+playing|after|mod
+judge|thomas penfield jackson|person
+after|issued|comp1
+issued|judge|subj
+issued|of fact|obj
+of fact|last|vrel
+last|of fact|obj
+last|november|mod
+november|that|whn
+supported|november|subj
+version|government|gen
+supported|version|obj
+version|case|of
+is|to|mod-before
+is|microsoft|to
+microsoft|1997|in
+critic|harsh|mod
+is|critic|pred
+critic|company|of
+experts|antitrust|mod
+say|experts|subj
+say|used|fc
+used|of fact|obj
+used|by|by-subj
+used|dozens|by
+competitors|microsoft|gen
+dozens|competitors|of
+competitors|basis|as
+actions|their own|gen
+actions|private|mod
+actions|antitrust|mod
+basis|actions|of

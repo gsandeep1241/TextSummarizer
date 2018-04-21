@@ -1,0 +1,62 @@
+leader|myanmar|gen
+leader|pro-democracy|mod
+leader|aung san suu kyi|person
+awarded|leader|obj1
+awarded|freedom|obj2
+honor|city|nn
+freedom|honor|of
+night|saturday|nn
+awarded|night|mod
+awarded|recognition|in
+activism|her|gen
+recognition|activism|of
+country|her|gen
+country|southeast|mod
+country|asian|nn
+activism|country|in
+san suu kyi|'aung|nn
+chosen|san suu kyi|obj
+chosen|award|for
+stand|her|gen
+courageous|long|mod
+stand|courageous|mod
+award|stand|because of
+stand|support|in
+support|democracy|of
+democracy|burma|in
+chosen|'|punc
+chosen|'|punc
+chosen|said|mod
+mayor|dublin|gen
+mayor|lord|nn
+said|mayor|subj
+mayor|mary freehill|person
+statistics|official|mod
+exchanged|statistics|according to
+500|more than|num-mod
+members|500|nn
+groups|various|mod
+groups|anti-government|mod
+groups|armed|mod
+members|groups|from
+exchanged|"|punc
+exchanged|members|subj
+exchanged|arms|obj
+arms|peace|for
+peace|"|punc
+peace|government|with
+government|last|vrel
+last|government|obj
+last|year|mod
+up|now|to
+now|17|num
+groups|anti-government|mod
+groups|ethnic|mod
+groups|armed|mod
+groups|as|punc
+groups|well|punc
+groups|as|punc
+groups|mta|conj
+made|groups|subj
+made|peace|obj
+peace|government|with

@@ -1,0 +1,104 @@
+airline|pointed|vrel
+pointed|airline|obj1
+pointed|to|guest
+pointed|one|to
+flight|recent|mod
+flight|post-crash|mod
+flight|concorde|nn
+pointed|flight|obj2
+flight|new york|from
+arrived|airline|subj
+passengers|82|num
+arrived|passengers|with
+performance|plane|gen
+performance|crash|since
+helping|not|amod
+helping|performance|subj
+helping|calm|obj
+calm|fearing|rel
+fearing|calm|subj
+safety|about|mod
+fearing|safety|obj
+aircraft|having|rel
+having|aircraft|subj
+having|rate|obj
+incidents|12.5|num
+incidents|fatal|mod
+rate|incidents|of
+incidents|million|per
+flights|aircraft|subj
+helping|www|according to
+services|emergency|mod
+out|runway|on
+runway|attend to|rel
+attend to|runway|subj
+attend to|landing|obj
+landing|concorde|of
+concorde|heathrow|at
+heathrow|report|after
+bang|loud|mod
+report|bang|of
+bang|engine|in
+plane|first|post
+plane|assigned|vrel
+assigned|plane|obj
+assigned|flight|mod
+pulled|plane|subj
+pulled|after|guest
+pulled|mechanics|after
+work|deciding|mod
+work|more|mod
+pulled|work|obj1
+pulled|needed|desc
+engine|and|punc
+engine|concorde|conj
+rolled|engine|subj
+rolled|out|mod
+airline|british airways|nn
+airline|only|mod
+airline|flying|rel
+flying|airline|subj
+jets|supersonic|mod
+flying|jets|obj
+jets|moment|at
+fleet|french|nn
+moment|fleet|since
+grounded|airline|subj
+traffic|said|mod
+traffic|concorde|nn
+grounded|traffic|upon
+traffic|comparable|pnmod
+days|recent|mod
+comparable|days|in
+period|same|post
+period|time|nn
+traffic|period|to
+period|1999|in
+exploding|tire|obj
+tire|rupturing|rel
+rupturing|tire|subj
+tanks|wing|nn
+tanks|fuel|nn
+rupturing|tanks|obj
+rupturing|starting|mod
+fire|major|mod
+starting|fire|obj
+flight|first|post
+flight|new york|to
+delayed|flight|subj
+refueling|flight|subj
+refueling|problem|obj
+inspection|runway|of
+skipped|inspection|subj
+skipped|day|obj
+day|fire drill|because of
+landing|emergency|nn
+making|landing|obj
+making|after|mod
+smelling|fumes|nn
+after|like|comp1
+like|smelling|subj
+like|fuel|obj
+fuel|getting into|rel
+getting into|fuel|subj
+getting into|cabin|obj

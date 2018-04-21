@@ -1,0 +1,59 @@
+car|old|mod
+car|dressed up|vrel
+dressed up|car|obj
+dressed up|look|mod
+lizard|frill-necked|mod
+look|lizard|like
+blocked|car|subj
+blocked|entrance|obj
+site|jabiluka|nn
+site|uranium|nn
+site|mine|nn
+entrance|site|to
+site|borders|inside
+borders|kakadu national park|of
+kakadu national park|friday|on
+noted|mission|subj
+dangers|severe|mod
+dangers|ascertained|mod
+ascertained|and|punc
+ascertained|potential|conj
+dangers|cultural|to
+cultural|and|punc
+cultural|"|punc
+cultural|mission|conj
+noted|concluded|fc
+concluded|dangers|subj
+concluded|that|c
+exposed|kakadu national park|obj
+exposed|number|to
+threats|serious|mod
+number|threats|of
+threats|which|whn
+placing|threats|subj
+placing|it|obj
+under|both|punc
+danger|ascertained|mod
+ascertained|and|punc
+ascertained|potential|conj
+placing|danger|under
+said|bureau|subj
+said|in|guest
+said|report|in
+after|sent|comp1
+sent|it|subj
+mission|australia|to
+australia|examine|rel
+examine|australia|subj
+said|claims|fc
+claims|mission|subj
+claims|by|guest
+groups|conservation|nn
+claims|groups|by
+claims|that|c
+park|kakadu|nn
+park|(|punc
+park|northern territory|in
+was|)|punc
+was|under|pred
+was|threat|under

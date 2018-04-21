@@ -1,0 +1,52 @@
+jolt|aftershocks|subj
+jolt|turkey|obj
+quake|powerful|mod
+turkey|quake|after
+offered|united states|subj
+offered|help|obj
+help|turkey|to
+offered|after|mod
+earthquake|severe|mod
+after|killed|comp1
+killed|earthquake|subj
+killed|hundreds|obj
+hundreds|people|of
+effort|rescue|nn
+is|fiasco|pred
+earthquakes|fatal|mod
+are|common|pred
+common|turkey|in
+are|occurring|mod
+occurring|earthquake|subj
+occurring|about|mod
+occurring|once|mod
+occurring|every two years|mod
+occurred|earthquake|subj
+occurred|right|obj
+right|area|in
+area|that|c
+described|area|obj
+described|we|subj
+earthquake|such|pre
+earthquake|big|mod
+was|earthquake|pred
+much|pretty|mod
+relaxed|much|mod-before
+relaxed|it|subj
+relaxed|fault|obj
+fault|bay area|in
+recorded|largest|mod
+recorded|turkey|in
+turkey|1976|since
+blaze|western turkey|nn
+blaze|refinery|nn
+blaze|control|under
+blaze|refinery|in
+turkey|western|mod
+refinery|turkey|in
+been|under|pred
+been|control|under
+been|after|mod
+efforts|strong|mod
+after|made|comp1
+made|efforts|subj

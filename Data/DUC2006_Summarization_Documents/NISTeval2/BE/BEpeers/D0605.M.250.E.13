@@ -1,0 +1,132 @@
+drug|third|post
+drug|new|mod
+drug|people|for
+people|suffering|rel
+suffering|people|subj
+suffering|pain|from
+pain|arthritis|of
+approved|drug|obj
+approved|by|by-subj
+regulators|federal|mod
+approved|regulators|by
+said|food and drug administration|subj
+said|approved|fc
+approved|it|subj
+tablets|meloxicam|nn
+approved|tablets|obj
+tablets|treatment|for
+treatment|osteoarthritis|of
+drugs|arthritis|nn
+drugs|those|conj
+those|testing|in
+testing|and|punc
+testing|those|conj
+those|market|on
+being|showcased|pred
+showcased|american college of rheumatology|at
+american college of rheumatology|meeting|rel
+meeting|american college of rheumatology|subj
+meeting|san diego|in
+san diego|where|wha
+trying|company|subj
+trying|show|fc
+show|company|subj
+doctors|arthritis|nn
+show|doctors|obj
+show|why|wha
+treatment|its|gen
+works|treatment|subj
+works|best|mod
+sufferers|pain|nn
+getting|sufferers|subj
+options|new|mod
+options|drug|nn
+getting|options|obj
+options|that|whn
+appear|options|subj
+appear|bring|mod
+bring|sufferer|subj
+bring|relief|obj
+effects|fewer|mod
+effects|side|nn
+relief|effects|with
+other|most|mod
+treatments|other|mod
+effects|treatments|than
+inhibitors|cox 2|nn
+control|inhibitors|subj
+much|pain|nn
+control|much|obj
+much|better|pnmod
+treatments|current|mod
+better|treatments|than
+effects|celebra|gen
+tested|effects|obj
+effects|rheumatoid arthritis|on
+rheumatoid arthritis|osteoarthritis|conj
+osteoarthritis|and|punc
+pain|dental|mod
+osteoarthritis|pain|conj
+researching|scientists|subj
+researching|signs|obj
+signs|that|c
+help|celebra|subj
+prevent|signs|subj
+cancer|colon|nn
+prevent|cancer|obj
+cancer|and|punc
+disease|alzheimer|gen
+cancer|disease|conj
+believed|cox-2|obj
+believed|play|mod
+play|cox-2|subj
+play|role|obj
+study|pilot|mod
+patients|10|num
+study|patients|of
+yielded|study|subj
+results|intriguing|mod
+yielded|results|obj
+one|eight|in
+number|sufferers|of
+swell|number|subj
+side|scientific|mod
+paint|side|on
+researchers|leading|mod
+paint|researchers|subj
+picture|expansive|mod
+paint|picture|obj
+picture|future|of
+treatment|osteoarthritis|nn
+future|treatment|of
+'t|two|nn
+'t|popular|mod
+'t|nutritional|mod
+'t|supplements|nn
+'t|willn|nn
+cure|'t|subj
+cure|arthritis|obj
+cure|but|punc
+cure|improve|conj
+improve|'t|subj
+symptoms|its|gen
+improve|symptoms|obj
+effects|fewer|mod
+effects|side|nn
+symptoms|effects|with
+treatments|traditional|mod
+effects|treatments|than
+concludes|analysis|subj
+studies|15|num
+analysis|studies|of
+improve|concludes|mod
+anticipates|company|subj
+2.5 million|more than|num-mod
+calls|2.5 million|nn
+calls|sales|mod
+anticipates|calls|obj
+calls|doctors|on
+ever|the most|mod
+anticipates|ever|mod
+first year|drug|gen
+ever|first year|in

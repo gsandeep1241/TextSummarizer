@@ -1,0 +1,141 @@
+group|gay|mod
+group|conservative|mod
+time|first|post
+be|time|pred
+man|homosexual|mod
+time|spoken|comp1
+spoken|man|subj
+convention|gop|nn
+convention|national|mod
+spoken|convention|at
+austin texas|_|punc
+groups|anti-gay|mod
+groups|rights|nn
+austin texas|groups|appo
+groups|concerned|vrel
+concerned|groups|obj
+george w bush|gov|title
+want|george w bush|about
+meeting|recent|mod
+republicans|gay|mod
+meeting|republicans|with
+want|now|mod-before
+concerned|want|fc
+want|meeting|subj
+nominee|probable|mod
+nominee|gop|nn
+nominee|presidential|mod
+want|nominee|obj
+nominee|meet with|rel
+meet with|nominee|subj
+meet with|them|obj
+meet with|so|mod
+so|enlighten|comp1
+enlighten|they|subj
+enlighten|bush|obj
+about|`|punc
+about|`|punc
+agenda|homosexual|mod
+agenda|political|mod
+bush|agenda|about
+spokesman|log cabin republicans|for
+organization|country|mod
+organization|largest|mod
+republicans|gay|mod
+organization|republicans|for
+log cabin republicans|said|rel
+said|log cabin republicans|obj
+said|organization|subj
+incident|kolbe|nn
+said|incident|despite
+incident|and|punc
+incident|platform|conj
+the most|by far|mod
+successful|the most|mod
+was|successful|pred
+was|ever|mod
+republicans|homosexual|mod
+ever|republicans|for
+note|gay texas republicans|nn
+urged|party|during
+party|1998|num
+bush|convention|nn
+urged|bush|subj
+urged|gop|obj
+gop|allow|rel
+allow|gop|subj
+allow|state|obj1
+allow|log cabin republicans|obj2
+log cabin republicans|who|whn
+banned|log cabin republicans|obj
+setting up|booth|obj
+booth|do|rel
+do|booth|subj
+do|so|obj
+are|at|pred
+are|turning point|at
+turning point|(|punc
+turning point|republican party|in
+republican party|)|punc
+republican party|gay|on
+gay|and|punc
+issues|lesbian|mod
+gay|issues|conj
+campaign|bush|nn
+spokeswoman|campaign|for
+said|spokeswoman|subj
+said|monday|guest
+governor|two-term|mod
+said|looks|fc
+forward|governor|subj
+forward|to|guest
+forward|republicans|to
+meeting|invitation-only|mod
+forward|meeting|obj1
+republicans|13|num
+republicans|gay|mod
+meeting|republicans|with
+republicans|including|rel
+including|republican|subj
+members|rank-and-file|mod
+including|members|obj
+organization|national|mod
+forward|organization|obj2
+republicans|gay|mod
+organization|republicans|of
+are|lots|pred
+people|gay|mod
+lots|people|of
+people|who|whn
+be|tradition|by
+tradition|and|punc
+tradition|heritage|conj
+be|much|pred
+much|more|pnmod
+more|home|at
+home|republican party|in
+were|it|pred
+were|not|mod
+things|george bush|like
+george bush|embarrassed|rel
+embarrassed|seen|mod
+seen|homosexuals|with
+were|said|mod
+said|things|subj
+said|kenneth sherrill|obj
+professor|political science|nn
+professor|hunter college|at
+hunter college|new york city|in
+new york city|who|whn
+studies|new york city|subj
+rights|gay|mod
+studies|rights|obj
+kenneth sherrill|issues|rel
+issues|kenneth sherrill|obj
+issues|professor|subj
+but|refused|comp1
+refused|bush|subj
+refused|meet with|fc
+meet with|bush|subj
+meet with|log cabin republicans|obj
+gop|gay|mod

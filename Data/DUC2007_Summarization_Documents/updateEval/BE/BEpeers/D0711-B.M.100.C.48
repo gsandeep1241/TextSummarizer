@@ -1,0 +1,67 @@
+staff|may 30-the|nn
+staff|federal trade commission|nn
+opens|staff|subj
+probe|antitrust|mod
+opens|probe|obj
+probe|microsoft corp.|of
+ponders|agency|subj
+ponders|charges|obj
+charges|that|c
+thwarted|illegally|mod-before
+thwarted|microsoft|subj
+thwarted|competition|obj
+competition|adding|while
+adding|microsoft|subj
+codes|hidden|mod
+adding|codes|obj
+software|its|gen
+software|operating system|nn
+codes|software|to
+software|bid|in
+bid|hinder|comp1
+vendors|competing|mod
+vendors|applications|nn
+hinder|vendors|obj
+defeat|microsoft corp.|gen
+defeat|massive|mod
+suit|its|gen
+suit|federal|mod
+suit|antitrust|mod
+defeat|suit|in
+leaves|defeat|subj
+leaves|company|obj
+company|facing|rel
+facing|company|subj
+facing|perhaps|guest
+severe|most|mod
+crisis|severe|mod
+facing|crisis|obj
+history|its|gen
+history|25-year|nn
+crisis|history|in
+attempt|last|vrel
+last|attempt|obj
+last|year|mod
+year|have|rel
+have|year|subj
+have|company|obj
+company|held|vrel
+held|company|obj
+held|contempt of court|in
+contempt of court|violating|for
+decree|earlier|mod
+decree|consent|nn
+violating|decree|obj
+rejected|attempt|obj
+rejected|by|by-subj
+court|appeals|nn
+rejected|court|by
+court|which|whn
+ruled|court|subj
+ruled|that|c
+had|microsoft|subj
+had|right|obj
+right|add|comp1
+add|microsoft|subj
+browsing|internet|nn
+add|browsing|obj

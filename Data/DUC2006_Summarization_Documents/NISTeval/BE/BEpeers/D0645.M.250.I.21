@@ -1,0 +1,145 @@
+material follows|)|punc
+material follows|"|punc
+material follows|trying|rel
+trying|material follows|obj
+trying|we|subj
+trying|entice|mod
+entice|we|subj
+entice|public|obj
+public|come back to|rel
+come back to|public|subj
+housing|public|mod
+come back to|housing|obj
+come back to|"|punc
+come back to|said|mod
+said|george mcquade|subj
+george mcquade|spokesman|appo
+housing authority|los angeles|nn
+housing authority|city|nn
+spokesman|housing authority|for
+folks|poor|mod
+never|almost|mod
+have|never|amod
+have|folks|subj
+have|opportunity|obj
+opportunity|get into|comp1
+get into|folk|subj
+housing|public|mod
+get into|housing|obj
+get into|if|c
+provisions|current|mod
+passed|provisions|obj
+passed|"|punc
+passed|warned|mod
+warned|ed williams|subj
+ed williams|founder|appo
+founder|new york city public housing resident alliance|of
+group|tenant|nn
+group|advocacy|nn
+bill|public|mod
+bill|housing|nn
+pressed|bill|obj
+pressed|mainly|mod
+republicans|congressional|mod
+mainly|republicans|by
+republicans|opposition|over
+opposition|democrats|of
+democrats|and|punc
+secretary|housing and urban development|nn
+democrats|secretary|conj
+secretary|andrew cuomo|person
+secretary|who|whn
+said|secretary|subj
+said|that|c
+bill|republican|mod
+leave|bill|subj
+people|poor|mod
+leave|people|obj
+people|housing|without
+been|past|in
+mission|housing authority|gen
+been|mainly|amod
+been|to|pred
+been|produce|to
+been|and|punc
+been|maintain|conj
+maintain|mission|subj
+housing|low-income|mod
+housing|rental|mod
+housing|help|with
+help|government|of
+maintain|subsides|fc
+subsides|housing|subj
+because|stopped|comp1
+stopped|federal government|subj
+housing|funding|nn
+housing|new|mod
+housing|affordable|mod
+stopped|housing|obj
+agencies|local|mod
+finding|agencies|subj
+ways|other|mod
+finding|ways|obj
+ways|meet|rel
+meet|way|subj
+needs|their|gen
+meet|needs|obj
+meet|"|punc
+meet|said|mod
+said|richard y. nelson jr.|subj
+director|executive|nn
+richard y. nelson jr.|director|conj
+director|national association of housing|of
+national association of housing|and|punc
+officials|redevelopment|nn
+national association of housing|officials|conj
+officials|washington|in
+said|they|subj
+position|his|gen
+said|position|obj
+housing|senate|nn
+position|housing|on
+subcommitteee|combined|vrel
+combined|subcommitteee|obj
+calls|growing|mod
+combined|calls|with
+housing|affordable|mod
+calls|housing|for
+officials|local|mod
+housing|officials|from
+give|subcommitteee|subj
+give|proposal|obj1
+visibility|high|mod
+give|visibility|obj2
+session|next|post
+visibility|session|in
+session|congress|of
+housing|affordable|mod
+calling|housing|obj1
+need|"|punc
+need|glaring|mod
+calling|need|desc
+senator|john kerry|person
+is|set|pred
+set|announce|rel
+announce|set|subj
+announce|tuesday|guest
+proposal|sweeping|mod
+proposal|legislative|mod
+announce|proposal|obj
+proposal|calling for|rel
+calling for|proposal|subj
+calling for|creation|obj
+national housing trust fund|$2 billion|nn
+creation|national housing trust fund|of
+have|we|subj
+need|greatest|mod
+have|need|obj
+housing|affordable|mod
+need|housing|for
+housing|history|in
+secretary|housing|nn
+secretary|andrew cuomo|person
+said|secretary|subj
+said|tuesday|mod
+said|interview|in

@@ -1,0 +1,160 @@
+virus|computer|nn
+virus|timed|pnmod
+pcs|strike|nn
+pcs|windows|nn
+timed|pcs|to
+pcs|christmas day|on
+yet|pose|to
+threat|significant|mod
+prevalence|its|gen
+prevalence|low|mod
+threat|prevalence|because of
+threat|but|punc
+makers|anti-virus|mod
+makers|software|nn
+threat|makers|conj
+pose|gearing|rel
+gearing|pose|obj
+gearing|threat|subj
+gearing|up|mod
+gearing|help|mod
+help|threat|subj
+users|computer|nn
+combat|users|subj
+combat|it|obj
+focused|melissa|subj
+world|computing|nn
+attention|world|gen
+focused|attention|obj
+growing|rapidly|mod
+threat|growing|mod
+attention|threat|on
+viruses|computer|nn
+threat|viruses|of
+era|internet|nn
+viruses|era|in
+focused|and|punc
+focused|underscored|conj
+underscored|melissa|subj
+underscored|need|obj
+users|all|pre
+users|pc|nn
+need|users|of
+users|take|rel
+take|user|subj
+protection|virus|nn
+take|protection|obj
+take|seriously|mod
+vixen|new|mod
+vixen|viral|mod
+as|named|comp1
+named|vixen|obj
+named|by|by-subj
+creator|its|gen
+named|creator|by
+unknown|yet|mod
+elements|unknown|mod
+elements|combines|nn
+creator|elements|as
+of|both|punc
+virus|computer|nn
+elements|virus|of
+virus|(|punc
+virus|spreading|rel
+spreading|virus|subj
+spreading|file|from
+file|file|to
+virus|)|punc
+virus|and|punc
+program|worm|nn
+virus|program|conj
+program|(|punc
+program|spreading|rel
+spreading|program|subj
+spreading|computer|from
+computer|computer|to
+computer|network|over
+all|virtually|mod
+medium|and|punc
+organizations|large|mod
+medium|organizations|conj
+organizations|north america|in
+experienced|medium|subj
+one|at least|num-mod
+infection|one|nn
+infection|computer|nn
+infection|virus|nn
+experienced|infection|obj
+indicated|survey|subj
+computers|all|pre
+about 40 percent|computers|of
+computers|used|vrel
+used|computers|obj
+companies|surveyed|mod
+used|companies|in
+indicated|experience|fc
+experience|about 40 percent|subj
+infection|virus|nn
+experience|infection|obj
+infection|year|within
+()|reporting|while
+likelihood|growing|mod
+reporting|likelihood|obj
+infections|computer|nn
+infections|virus|nn
+likelihood|infections|of
+america|corporate|mod
+infections|america|in
+virus prevalence survey|ncsa|gen
+virus prevalence survey|annual|mod
+reported|also|mod-before
+reported|virus prevalence survey|subj
+reported|that|c
+software|anti-virus|mod
+use|software|of
+grown|use|subj
+grown|60 percent|from
+60 percent|machines|of
+machines|included|vrel
+included|machines|obj
+survey|1996|num
+included|survey|in
+survey|73 percent|to
+73 percent|1997|in
+expert|anti-virus|mod
+liu xu|expert|appo
+suggested|liu xu|subj
+users|computer|nn
+suggested|delete|fc
+delete|users|subj
+delete|virus|obj
+software|anti-virus|mod
+virus|software|with
+software|december 13|before
+delete|or|punc
+delete|change|conj
+change|users|subj
+change|date|obj
+macro|"|punc
+macro|melissa|nn
+macro|"|punc
+macro|or|punc
+virus|w97m--|mod
+virus|melissa|nn
+macro|virus|conj
+spreads|macro|subj
+e-mail|infected|mod
+spreads|e-mail|via
+computers|attacks|nn
+computers|loaded|pnmod
+loaded|microsoft|with
+used|widely|mod-before
+used|computers|subj
+used|word 97|obj
+word 97|or|punc
+programs|word 2000|nn
+team|programs|gen
+team|department of defense-funded|mod
+team|computer|nn
+team|security|nn
+word 97|team|conj

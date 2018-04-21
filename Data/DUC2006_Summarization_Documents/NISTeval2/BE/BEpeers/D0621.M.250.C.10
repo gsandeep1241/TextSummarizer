@@ -1,0 +1,160 @@
+police|china|gen
+police|national|mod
+seized|police|subj
+people|32|num
+seized|people|obj
+people|described|rel
+described|people|obj
+described|they|subj
+accomplices|his|gen
+described|accomplices|as
+police|hong kong|nn
+ask for|police|subj
+ask for|return|obj
+citizen|hong kong|nn
+return|citizen|of
+citizen|who|whn
+commits|citizen|subj
+commits|crimes|obj
+crimes|hong kong|in
+commits|but|punc
+commits|arrested|conj
+arrested|citizen|obj
+arrested|guangdong|in
+said|chen shaoji|subj
+reports|foreign|mod
+said|reports|obj
+wan|reputed|mod
+wan|macau|nn
+wan|crime|nn
+wan|boss|nn
+reports|wan|about
+sought|kuok-koi|subj
+sought|give|fc
+give|kuok-koi|subj
+impression|mistaken|mod
+give|impression|obj1
+impression|that|c
+officers|his|gen
+supported|impression|obj
+supported|officers|subj
+gangs|criminal|mod
+give|gangs|obj2
+gangs|macau|in
+cheung|and|punc
+members|31|num
+cheung|members|conj
+gang|his|gen
+members|gang|of
+arrested|cheung|obj
+arrested|china|in
+china|charges|on
+charges|kidnapping|of
+kidnapping|murder|conj
+murder|and|punc
+murder|armed robbery|conj
+agency|official|mod
+official|chinese|person
+agency|news|nn
+reported|agency|subj
+reported|that|c
+proceedings|all|pre
+were|appropriate|pred
+law|chinese|nn
+appropriate|law|under
+backing|china|subj
+backing|strengthening|obj
+cooperation|international|mod
+strengthening|cooperation|of
+cooperation|fighting|in
+fighting|china|subj
+fighting|crime|obj
+crime|involving|rel
+involving|crime|subj
+involving|firearms|obj
+transnational|especially|mod
+smuggling|transnational|mod
+smuggling|firearms|nn
+firearms|smuggling|appo
+cases|gambling|nn
+involved|cases|subj
+involved|more than 50 million yuan|obj
+money|illicit|mod
+more than 50 million yuan|money|of
+adopted|it|subj
+measures|resolute|mod
+adopted|measures|obj
+measures|fight|rel
+fight|measure|subj
+fight|illegal|obj
+few|past|mod
+authorities|china|gen
+authorities|law enforcement|nn
+cracked|authorities|subj
+cases|numerous|mod
+cracked|cases|obj
+china|southeast|mod
+cases|china|in
+china|involving|rel
+involving|china|subj
+involving|killing|obj
+believe|people|subj
+government|chinese|nn
+believe|do|fc
+do|government|subj
+do|better job|obj
+better job|snuffing out|of
+snuffing out|government|subj
+activity|criminal|mod
+snuffing out|activity|obj
+snuffing out|part|in
+snuffing out|because|mod
+because|plans|comp1
+plans|it|subj
+plans|station|fc
+station|it|subj
+troops|army|nn
+station|troops|obj
+troops|territory|in
+middle|and|punc
+officials|high-level|mod
+middle|officials|conj
+involved|middle|obj
+involved|many|in
+cases|country|gen
+cases|white|mod
+cases|collar|nn
+cases|criminal|mod
+many|cases|of
+amended|china|subj
+law|its|gen
+law|criminal|nn
+amended|law|obj
+amended|recently|mod
+amended|enhance|mod
+enhance|china|subj
+enhance|fight|obj
+fight|organized crime|against
+proposed|cao|subj
+proposed|solutions|obj
+situation|worsening|mod
+solutions|situation|for
+drive|"|punc
+drive|strike-hard|nn
+drive|"|punc
+continue|drive|subj
+continue|curb|mod
+curb|drive|subj
+rates|rising|mod
+rates|crime|nn
+curb|rates|obj
+network|community-level|mod
+network|security|nn
+spread|network|obj
+spread|all|mod
+all|country|across
+spread|as|mod
+as|found|comp1
+found|surveys|subj
+found|that|obj1
+found|places|obj2

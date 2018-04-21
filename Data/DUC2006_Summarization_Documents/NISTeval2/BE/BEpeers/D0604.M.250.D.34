@@ -1,0 +1,154 @@
+is|'|punc
+is|'|punc
+is|back|pred
+precisely|more|mod
+trailer|2-minute|nn
+trailer|10-second|nn
+for|`|punc
+for|`|punc
+trailer|star wars|for
+i|_|punc
+i|phantom menace|appo
+phantom menace|'|punc
+phantom menace|'|punc
+star wars|first|post
+star wars|`|punc
+star wars|`|punc
+film|star wars|gen
+film|'|punc
+phantom menace|film|appo
+film|release|since
+of|`|punc
+of|`|punc
+release|return|of
+return|jedi|of
+jedi|'|punc
+jedi|'|punc
+film|new|mod
+film|written|vrel
+written|film|obj
+written|and|punc
+written|directed|conj
+directed|film|obj
+directed|by|by-subj
+directed|george lucas|by
+jedi|opens|rel
+opens|jedi|obj
+opens|film|subj
+opens|may 21|on
+opens|but|mod
+anticipation|it|for
+but|is|comp1
+is|extraordinary|pred
+executives|distribution|nn
+say|executives|subj
+said|he|subj
+reaction|gimmick|to
+said|made|fc
+made|reaction|subj
+made|it|obj1
+made|inevitable|desc
+inevitable|that|c
+star wars|new|mod
+star wars|`|punc
+star wars|`|punc
+have|'|punc
+have|'|punc
+have|star wars|subj
+appeal|powerful|mod
+appeal|audience|nn
+have|appeal|obj
+said|they|subj
+said|since|mod
+since|have|comp1
+have|they|subj
+base|such|pre
+base|big|mod
+base|fan|nn
+have|base|obj
+set|not|amod
+set|something|obj
+set|up|mod
+set|just|mod
+first|fans|nn
+just|first|for
+first|and|punc
+first|make|conj
+make|sure|pnmod
+sure|shown|fc
+shown|it|obj
+shown|rest|to
+rest|public|of
+quickly|very|mod
+shown|quickly|mod
+said|he|subj
+francisco|_|punc
+francisco|`|punc
+francisco|`|punc
+fan|star wars|gen
+fan|'|punc
+francisco|fan|appo
+fan|set|rel
+set|fan|obj
+set|khari crowder|subj
+set|camp|up
+set|saturday|mod
+set|sidewalk|on
+sidewalk|coronet theater|near
+be|here|pred
+be|month|mod
+said|crowder|subj
+crowder|who|whn
+works|crowder|subj
+works|san francisco|for
+station|radio|nn
+station|name|under
+was|among|pred
+was|handful|among
+handful|fans|of
+fans|who|whn
+began|fans|subj
+began|lining up|mod
+lining up|station|subj
+house|movie|nn
+lining up|house|at
+lining up|hoping|mod
+hoping|snag|fc
+snag|tickets|obj
+star wars|long-awaited|nn
+star wars|`|punc
+star wars|`|punc
+tickets|star wars|to
+line|_|punc
+line|scene|appo
+scene|repeated|pnmod
+cities|other|mod
+repeated|cities|in
+expected|_|punc
+balloon|line|subj
+balloon|film|as
+balloon|may 19|mod
+may 19|opening|rel
+opening|may 19|subj
+opening|approaches|obj
+wait|long|mod
+'s|wait|pred
+wait|and|punc
+wait|lot|conj
+lot|work|of
+work|movie|for
+movie|that|whn
+officially|even|mod
+isn|officially|guest
+isn|set|pred
+set|play|rel
+play|set|subj
+play|coronet|at
+but|looks like|comp1
+looks like|is|fc
+is|with|pred
+is|fans|with
+executive vice president|united artists theaters|nn
+executive vice president|mike pade|person
+believes|executive vice president|subj
+believes|deal|obj

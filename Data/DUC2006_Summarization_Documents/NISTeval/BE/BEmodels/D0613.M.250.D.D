@@ -1,0 +1,153 @@
+born|generation xers|obj
+born|1965|from
+late|1981|as
+children|latchkey|nn
+are|children|pred
+boomer|divorced|mod
+boomer|"|punc
+boomer|baby|nn
+children|boomer|of
+are|"|punc
+are|technology|into
+are|and|punc
+are|sharing|conj
+sharing|they|subj
+culture|worldwide|mod
+culture|pop|mod
+sharing|culture|obj
+described|they|obj
+self-starters|cautious|mod
+cautious|or|punc
+cautious|brash|conj
+brash|independent|conj
+independent|and|punc
+independent|isolated|conj
+needy|yet|mod
+self-starters|needy|mod
+self-starters|cynical|mod
+described|self-starters|as
+self-starters|who|whn
+are|good|pred
+good|change|with
+change|but|punc
+authority|distain|nn
+change|authority|conj
+becoming|1990 's|mid
+becoming|they|subj
+becoming|force|obj
+force|workplace|in
+becoming|times|at
+becoming|conflict|in
+workers|older|mod
+conflict|workers|with
+although|wanted|comp1
+wanted|groups|subj
+environment|same|post
+environment|general|mod
+environment|managerial|mod
+wanted|environment|obj
+demanded|gen xers|subj
+demanded|it|obj
+needed|they|subj
+training|different|mod
+needed|training|obj
+training|and|punc
+feedback|frequent|mod
+training|feedback|conj
+needed|and|punc
+needed|expected|conj
+change|they|subj
+change|jobs|obj
+change|often|mod
+delaying|they|subj
+delaying|marriage|obj
+began|women|subj
+began|feel|mod
+feel|woman|subj
+feel|want|fc
+want|they|subj
+want|everything|obj
+mothers|their|gen
+everything|mothers|like
+symbol|new|mod
+symbol|status|nn
+were|symbol|pred
+feared|gen xers|subj
+feared|rising|fc
+rising|gen xers|subj
+rising|taxes|obj
+taxes|support|rel
+support|tax|subj
+boomers|aging|mod
+support|boomers|obj
+beginning|they|subj
+beginning|save|mod
+save|they|subj
+save|retirement|for
+save|early|mod
+beginning|but|punc
+beginning|choosing|conj
+choosing|they|subj
+investments|conservative|mod
+choosing|investments|obj
+found|they|subj
+found|politics|obj1
+found|boring|desc
+found|and|punc
+align|generally|mod-before
+found|align|conj
+align|they|subj
+align|political parties|with
+were|more|pred
+were|likely|mod
+were|volunteer|mod
+volunteer|they|subj
+volunteer|vote|than
+continued|some|subj
+continued|join|mod
+join|some|subj
+join|peace corps|obj
+getting into|wealthier|subj
+getting into|philanthropy|obj
+suspicions|their|gen
+suspicions|institutions|of
+carried|suspicions|subj
+carried|churches|over
+considered|clergy|subj
+considered|them|obj1
+considered|spiritual|obj2
+spiritual|and|punc
+spiritual|dalai lama|conj
+were|popular|pred
+wanted|market|in
+wanted|they|subj
+recorders|digital|mod
+recorders|video|nn
+wanted|recorders|obj
+recorders|and|punc
+recorders|cameras|conj
+money|online|mod
+cameras|money|conj
+money|and|punc
+fashions|retro|nn
+money|fashions|conj
+fashions|goodwill|from
+preferred|most|subj
+automobiles|foreign|mod
+automobiles|smaller|mod
+preferred|automobiles|obj
+automobiles|honda civic|such as
+were|in|pred
+pursuit|hot|mod
+were|pursuit|in
+pursuit|neons|with
+neons|pt cruisers|conj
+pt cruisers|and|punc
+pt cruisers|xterra|conj
+hoping|vintners|subj
+hoping|change|fc
+change|vintner|subj
+taste|their|gen
+change|taste|obj
+taste|margaritas|from
+margaritas|wine|to

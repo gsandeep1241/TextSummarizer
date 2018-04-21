@@ -1,0 +1,163 @@
+revised|china|subj
+law|criminal|nn
+revised|law|obj
+law|and|punc
+law|criminal procedure law|conj
+criminal procedure law|promulgated|vrel
+promulgated|criminal procedure law|obj
+promulgated|and|punc
+promulgated|enforced|conj
+enforced|criminal procedure law|subj
+laws|new|mod
+enforced|laws|obj
+laws|lawyers 'law|such as
+lawyers 'law|and|punc
+lawyers 'law|law|conj
+law|administrative punishment|on
+administrative punishment|strengthen|rel
+strengthen|administrative punishment|subj
+guarantee|judicial|mod
+strengthen|guarantee|obj
+guarantee|for|guest
+rights|human|nn
+guarantee|rights|for
+says|period of time|during
+guarantee|says|comp1
+says|paper|subj
+cracked down on|it|subj
+offenses|serious|mod
+offenses|criminal|mod
+cracked down on|offenses|obj
+offenses|accordance|in
+accordance|law|with
+cracked down on|and|punc
+guaranteed|earnestly|mod-before
+cracked down on|guaranteed|conj
+guaranteed|it|subj
+rights|people|gen
+rights|human|nn
+guaranteed|rights|obj
+rights|and|punc
+rights|safety|conj
+safety|lives|of
+lives|and|punc
+lives|property|conj
+launched|1996|in
+security|public|nn
+security|and|punc
+departments|judicial|mod
+security|departments|conj
+launched|security|subj
+launched|law|according to
+crack down on|nationwide|mod-before
+offenses|criminal|mod
+crack down on|offenses|obj
+endangering|seriously|amod
+offenses|endangering|rel
+endangering|offense|subj
+security|public|nn
+endangering|security|obj
+endangering|homicides|such as
+homicides|robberies|conj
+robberies|rape|conj
+rape|kidnapping|conj
+kidnapping|and|punc
+kidnapping|blackmail|conj
+blackmail|and|punc
+theft|major|mod
+blackmail|theft|conj
+committed|emphasis|with
+emphasis|placed|pnmod
+placed|crimes|on
+crimes|involving|rel
+involving|crime|subj
+involving|use|obj
+use|guns|of
+connections|gangster|nn
+crimes|connections|with
+connections|and|punc
+connections|characteristics|conj
+characteristics|and|punc
+characteristics|crimes|conj
+committed|crimes|subj
+committed|rogue|by
+rogue|and|punc
+forces|vicious|mod
+forces|social|mod
+rogue|forces|conj
+says|it|subj
+show|statistics|subj
+show|that|c
+sentenced|1996|in
+courts|country|throughout
+sentenced|courts|subj
+offenders|322,382|num
+offenders|criminal|mod
+sentenced|offenders|obj
+offenders|who|whn
+endangered|seriously|amod
+endangered|offenders|subj
+security|public|nn
+endangered|security|obj
+security|committing|by
+committing|court|subj
+committing|crimes|obj
+crimes|violence|of
+violence|crimes|conj
+crimes|involving|rel
+involving|crime|subj
+involving|use|obj
+use|guns|of
+guns|and|punc
+crimes|gang-related|mod
+guns|crimes|conj
+law|amended|mod
+law|criminal|nn
+defined|further|amod
+defined|law|subj
+basic principles|three|nn
+defined|basic principles|obj
+defined|namely|mod
+conviction|and|punc
+conviction|penalty|conj
+penalty|law|according to
+law|'|punc
+law|'|punc
+law|`|punc
+law|`|punc
+law|equality|conj
+equality|everyone|of
+everyone|law|before
+law|'|punc
+law|'|punc
+law|and|punc
+law|`|punc
+law|`|punc
+law|punishment|conj
+punishment|commensurate|pnmod
+commensurate|crime|with
+be|conviction|pred
+conviction|or|punc
+conviction|penalty|conj
+is|not|neg
+defined|explicitly|amod
+defined|act|obj
+act|criminal|mod
+defined|act|as
+act|law|by
+criminal|all|mod
+offenders|criminal|mod
+are|equal|pred
+applying|laws|obj
+laws|'|punc
+laws|'|punc
+laws|and|punc
+laws|that|conj
+severity|penalty|of
+be|commensurate|pred
+crime|offender|gen
+commensurate|crime|with
+crime|and|punc
+liabilities|due|mod
+liabilities|criminal|mod
+crime|liabilities|conj

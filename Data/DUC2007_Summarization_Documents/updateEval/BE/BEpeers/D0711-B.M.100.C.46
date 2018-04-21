@@ -1,0 +1,49 @@
+are|milestones|pred
+dealings|microsoft|gen
+dealings|antitrust|mod
+milestones|dealings|in
+dealings|government|with
+staff|federal trade commission|nn
+opens|staff|subj
+probe|antitrust|mod
+opens|probe|obj
+probe|microsoft corp.|of
+decides|ftc|subj
+decides|to|guest
+decides|drops|to
+probe|its|gen
+probe|microsoft|nn
+decides|probe|obj
+abandons|month|within
+abandons|microsoft|subj
+takeover|its|gen
+takeover|proposed|mod
+abandons|takeover|obj
+case|justice department|nn
+decided|case|unlike
+matter|caldera|nn
+decided|matter|obj
+decided|by|by-subj
+decided|jury|by
+jury|chosen|vrel
+chosen|jury|obj
+back yard|caldera|gen
+chosen|back yard|from
+prospect|daunting|mod
+prospect|microsoft|for
+government|and|punc
+government|microsoft|conj
+summoned|government|obj
+summoned|chicago|to
+round|their|gen
+round|first|post
+chicago|round|for
+talks|settlement|nn
+round|talks|of
+talks|richard posner|under
+judge|federal|mod
+judge|appeals court|nn
+richard posner|judge|appo
+judge|who|whn
+selected|judge|obj
+selected|mediator|as

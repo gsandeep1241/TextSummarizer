@@ -1,0 +1,119 @@
+approved|already|amod
+approved|remicade|obj
+approved|treat|mod
+treat|remicade|subj
+disease|crohn|gen
+treat|disease|obj
+disorder|intestinal|mod
+disease|disorder|appo
+committee|fda|nn
+committee|advisory|mod
+meets|committee|subj
+meets|april 20|obj
+april 20|review|rel
+review|april 20|subj
+application|merck|gen
+review|application|obj
+application|vioxx|for
+price|wholesale|mod
+be|$1.98|pred
+$1.98|tablet|per
+is|once|guest
+is|day|pred
+millions|people|of
+depend on|millions|subj
+depend on|aspirin|obj
+aspirin|ibuprofen|conj
+ibuprofen|naproxen|conj
+naproxen|and|punc
+pills|other|mod
+naproxen|pills|conj
+pills|relieve|rel
+relieve|pill|subj
+relieve|pain|obj
+writer|contributing|mod
+is|writer|pred
+writer|new york times magazine|for
+reach|vioxx|subj
+reach|pharmacies|obj
+reach|later|mod
+reach|spring|mod
+spring|obtaining|after
+obtaining|vioxx|subj
+obtaining|approval|obj
+food|federal|mod
+approval|food|from
+food|and|punc
+administration|drug|nn
+food|administration|conj
+inhibitors|cox 2|nn
+but|seem|comp1
+control|inhibitors|subj
+much|pain|nn
+control|much|obj
+much|better|pnmod
+treatments|current|mod
+better|treatments|than
+overall|studies|appo
+studies|showed|vrel
+showed|studies|obj1
+showed|moderate|obj2
+benefits|large|mod
+moderate|benefits|to
+benefits|supplements|from
+paves|vote|subj
+paves|way|obj
+approval|full|mod
+approval|fda|nn
+way|approval|for
+paves|sometime|mod
+year|next|post
+paves|year|mod
+sales|worldwide|mod
+estimates|sales|for
+analgesics|all|pre
+sales|analgesics|of
+run|estimates|subj
+run|high|as
+high|$12|as
+research|controlled|mod
+done|research|obj
+sulfate|chondroitin|nn
+done|sulfate|on
+treatment|popular|mod
+treatment|arthritis|nn
+sulfate|treatment|appo
+effective|generally|mod
+are|effective|pred
+are|but|punc
+are|be|conj
+be|harmful|pred
+use|constant|mod
+harmful|use|with
+found|study|subj
+relief|pain|nn
+found|sustained|fc
+sustained|relief|obj
+12|at least|num-mod
+hours|12|amount-value
+sustained|hours|for
+studies|new|mod
+show|studies|subj
+show|that|c
+be|also|amod
+be|effective|pred
+forms|childhood|nn
+effective|forms|in
+forms|arthritis|of
+writes|kevin lamb|subj
+writes|dayton daily news|for
+blocks|drug|subj
+receptors|nmda|nn
+blocks|receptors|obj
+sites|nerve cell|nn
+receptors|sites|appo
+sites|that|whn
+help|sites|subj
+signals|relay|nn
+signals|pain|nn
+help|signals|obj

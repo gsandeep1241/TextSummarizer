@@ -1,0 +1,59 @@
+fed|oprah winfrey|obj
+fed|up|mod
+up|sleaze|with
+jerry springer|daytime|mod
+jerry springer|television--|nn
+rival|especially|mod
+jerry springer|rival|mod
+show--|jerry springer|gen
+sleaze|show--|on
+fed|and|punc
+fed|is|conj
+is|ready|pred
+is|bail out|mod
+bail out|oprah winfrey|subj
+bail out|of|guest
+bail out|her|of
+show|long-running|mod
+bail out|show|obj
+success|ratings|nn
+been|success|pred
+success|launching|since
+launching|winfrey|subj
+launching|"|punc
+launching|the oprah winfrey show|obj
+the oprah winfrey show|"|punc
+the oprah winfrey show|september 1986|in
+said|schultz|subj
+could|not|neg
+said|comment|fc
+comment|she|subj
+comment|statement|beyond
+statement|issued|vrel
+issued|statement|obj
+issued|monday|mod
+monday|which|whn
+said|monday|subj
+said|planned|fc
+planned|announcements|obj
+on|whether|c
+continue|winfrey|subj
+continue|show|obj
+show|end|after
+contract|her|gen
+contract|current|mod
+end|contract|of
+daytime emmys|32|num
+winning|daytime emmys|obj
+daytime emmys|and|punc
+award|lifetime|nn
+award|achievement|nn
+daytime emmys|award|conj
+after|taking|comp1
+taking|oprah winfrey|subj
+taking|herself|obj
+taking|running|out of
+host|best|mod
+host|talk show|nn
+running|host|for
+host|this|at

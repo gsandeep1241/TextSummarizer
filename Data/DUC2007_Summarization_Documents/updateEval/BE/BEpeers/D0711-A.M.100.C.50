@@ -1,0 +1,55 @@
+did|not|neg
+include|figures|subj
+include|money|obj
+money|spent|pnmod
+states|19|num
+spent|states|by
+states|suing|rel
+suing|state|subj
+suing|company|obj
+company|justice|along with
+general|attorneys|nn
+general|states|in
+denied|general|subj
+denied|requests|obj
+information|such|pre
+requests|information|for
+investigation|japanese|mod
+investigation|microsoft|of
+began|investigation|subj
+began|october 1997|in
+began|but|punc
+began|accelerated|conj
+accelerated|investigation|obj
+accelerated|sharply|mod
+sharply|morning|on
+morning|jan 13|of
+accelerated|when|wha
+officers|20|num
+officers|uniformed|mod
+officers|police|nn
+swept|officers|subj
+offices|microsoft|gen
+swept|offices|into
+district|shinjuku|nn
+offices|district|in
+district|tokyo|of
+judge|u.s.|nn
+judge|district|mod
+judge|dee benson|person
+judge|thursday|on
+postponed|judge|subj
+postponed|trial|obj
+trial|jan 17|until
+postponed|after|mod
+after|said|comp1
+said|microsoft|subj
+attorneys|its|gen
+attorneys|key|mod
+said|enmeshed|fc
+enmeshed|attorneys|obj
+action|federal|mod
+action|antitrust|mod
+enmeshed|action|in
+action|microsoft|against
+microsoft|washington|in

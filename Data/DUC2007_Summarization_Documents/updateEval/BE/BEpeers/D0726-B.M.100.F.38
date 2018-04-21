@@ -1,0 +1,65 @@
+patrick kennedy|rep.|title
+patrick kennedy|d-r.i.|appo
+president|friday|nn
+president|endorsed|mod
+president|al gore|person
+nomination|democratic|mod
+nomination|presidential|mod
+president|nomination|for
+nomination|2000|in
+president|al gore|person
+named|president|subj
+named|veteran|obj1
+campaigns|clinton-gore|nn
+campaigns|presidential|mod
+veteran|campaigns|of
+be|his|pred
+press secretary|campaign|nn
+named|press secretary|obj2
+but|said|comp1
+said|he|subj
+decided|already|amod
+decided|he|subj
+decided|was|fc
+was|time|pred
+time|leave|rel
+leave|time|subj
+warnings|gore|gen
+came|warnings|subj
+came|as|mod
+campaign|his|gen
+campaign|presidential|mod
+as|launched|comp1
+launched|campaign|subj
+launched|"|punc
+gore|ganamos|nn
+gore|con|nn
+launched|gore|obj
+gore|"|punc
+effort|nationwide|mod
+gore|effort|conj
+effort|build on|rel
+build on|effort|subj
+organizations|political|mod
+build on|organizations|obj
+600|nearly|num-mod
+elected officials|600|nn
+elected officials|hispanic|mod
+organizations|elected officials|of
+effort|and|punc
+leaders|community|mod
+effort|leaders|conj
+leaders|who|whn
+endorsed|leaders|subj
+endorsed|vice president|obj
+vice president|tuesday|person
+bradley|retired|pnmod
+retired|senate|from
+senate|1996|in
+mulled|briefly|mod-before
+mulled|bradley|subj
+mulled|independent|obj
+independent|run|vrel
+run|independent|obj
+run|president|for
+run|then|mod

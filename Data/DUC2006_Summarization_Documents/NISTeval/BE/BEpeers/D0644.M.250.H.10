@@ -1,0 +1,145 @@
+plan|clinton|gen
+plan|15-year|nn
+forecasts|plan|subj
+forecasts|surpluses|obj
+is|not|neg
+money|government|gen
+is|money|pred
+director|white house|nn
+director|budget|nn
+blueprint|director|gen
+director|clinton|person
+blueprint|budget|nn
+cut|blueprint|subj
+costs|projected|mod
+costs|debt|nn
+cut|costs|obj
+2 cents|just|pre
+costs|2 cents|to
+dollar|federal|mod
+dollar|tax|nn
+2 cents|dollar|out of
+dollar|2014|in
+goes|surplus|subj
+goes|spending|to
+cuts|tax|nn
+savings|interest|nn
+would|not|neg
+realized|savings|obj
+chaired|greenspan|subj
+force|federal|mod
+force|task|nn
+chaired|force|obj
+1980s|early|mod
+force|1980s|in
+1980s|that|whn
+recommended|1980s|subj
+recommended|series|obj
+series|changes|of
+changes|social security|to
+democrats|republicans|conj
+republicans|and|punc
+republicans|economists|conj
+agree|democrats|subj
+reducing|democrat|subj
+reducing|debt|obj
+agree|leave|fc
+leave|that|subj
+rates|interest|nn
+leave|rates|obj
+leave|lower|mod
+leave|stimulating|mod
+stimulating|democrat|subj
+economic|more|mod
+growth|economic|mod
+stimulating|growth|obj
+leave|and|punc
+leave|make|conj
+make|that|subj
+make|it|obj1
+make|easier|desc
+make|address|mod
+address|democrat|subj
+problems|long-term|mod
+address|problems|obj
+problems|solvency|like
+solvency|social security|of
+social security|easing|by
+burden|financial|mod
+easing|burden|obj
+generations|future|mod
+burden|generations|on
+proposed|also|amod
+proposed|clinton|subj
+programs|extensive|mod
+programs|new|mod
+programs|government|nn
+proposed|programs|obj
+proposed|however|mod
+proposed|including|mod
+including|clinton|subj
+including|expansion|obj
+expansion|medicare|of
+medicare|include|rel
+include|medicare|subj
+coverage|prescription drug|nn
+include|coverage|obj
+projections|budget|nn
+projections|surplus|nn
+projections|cbo|from
+cbo|and|punc
+cbo|omb|conj
+grown|projections|subj
+months|recent|mod
+grown|months|in
+grown|as|mod
+economy|u.s.|nn
+as|continues|comp1
+continues|economy|subj
+continues|outperform|mod
+outperform|economy|subj
+outperform|expectations|obj
+pay attention to|policy-makers|subj
+pay attention to|factors|obj
+are|like|pred
+are|boat|like
+turning|so|mod
+so|go|comp1
+go|we|subj
+go|slamming|mod
+slamming|we|subj
+slamming|dock|into
+go|we|subj
+go|straight|desc
+straight|dock|into
+go|and|punc
+go|find|conj
+find|we|subj
+find|out|guest
+find|that|c
+turned|we|subj
+partially|at least|mod
+turned|partially|mod
+partially|order|in
+order|come|rel
+come|order|subj
+landing|soft|mod
+come|landing|into
+site|treasury|nn
+site|http://www.ustreas.gov|nn
+site|congressional budget office|nn
+washington|http://www.cbo.gov|nn
+administration|clinton|nn
+economic policy|administration|gen
+centerpiece|economic policy|of
+been|year|mod-before
+been|demand|pred
+demand|that|c
+congress|republican-controlled|mod
+forgo|congress|subj
+cuts|tax|nn
+forgo|cuts|obj
+forgo|and|punc
+forgo|set|conj
+set|congress|obj
+set|aside|mod

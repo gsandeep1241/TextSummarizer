@@ -1,0 +1,144 @@
+falling|new orleans|in
+rate|crime|nn
+group|age|nn
+rate|group|for
+falling|rate|subj
+falling|about 5%|at
+said|he|subj
+expects|he|subj
+rates|violent|mod
+rates|crime|nn
+expects|rates|obj
+rates|level|to
+expects|off|mod
+announced|albany|in
+albany|borrowing|appo
+borrowing|crime|from
+crime|fighting|rel
+fighting|crime|subj
+fighting|tool|obj
+tool|used|vrel
+used|tool|obj
+used|new york city|in
+george pataki|gov.|title
+announced|george pataki|subj
+program|pilot|nn
+announced|program|obj
+program|designed|vrel
+designed|help|mod
+help|george pataki|subj
+data|counties|nn
+data|share|nn
+data|crime|nn
+help|data|obj
+help|map|conj
+map|george pataki|subj
+map|trends|obj
+map|and|punc
+map|nab|conj
+nab|george pataki|subj
+criminals|more|mod
+nab|criminals|obj
+texas|analysis|conj
+analysis|incarceration|of
+analysis|and|punc
+trends|crime|nn
+analysis|trends|conj
+state|lone|mod
+state|star|nn
+trends|state|in
+locking|more|mod
+reduced|up|mod-before
+reduced|really|amod
+reduced|people|subj
+reduced|crime|obj
+have|texas|subj
+rate|lowest|mod
+rate|crime|nn
+have|rate|obj
+rate|country|in
+numbers|final|mod
+have|chicago|subj
+violent|highest|mod
+rate|violent|mod
+rate|crime|nn
+have|rate|obj
+cities|eight|nn
+cities|largest|mod
+cities|u.s.|nn
+rate|cities|of
+feel|people|subj
+feel|was|fc
+was|one|pred
+one|archer|of
+goals|prime|mod
+'s|goals|pred
+'s|when|wha
+took office|he|subj
+took office|1994|in
+rate|detroit|gen
+rate|crime|nn
+gone down|rate|subj
+gone down|mirroring|mod
+mirroring|rate|subj
+trend|national|mod
+mirroring|trend|obj
+declined|los angeles|in
+crime|violent|mod
+declined|nationwide|mod-before
+declined|crime|subj
+declined|five percent|by
+months|first six|amount-value
+five percent|months|in
+months|1997|of
+declined|federal bureau of investigation|according to
+fbi|(|punc
+federal bureau of investigation|fbi|abbrev
+fbi|)|punc
+statistics|and|punc
+crimes|property|nn
+statistics|crimes|conj
+dropped|statistics|subj
+dropped|four percent|by
+survey|victimization|nn
+survey|u.s.|by
+u.s.|shows|rel
+shows|u.s.|obj1
+shows|department of justice|subj
+crime|violent|mod
+shows|crime|obj2
+shows|down|mod
+shows|nationwide|mod
+nationwide|10%|by
+10%|and|punc
+crime|property|nn
+10%|crime|conj
+shows|down|mod
+down|eight percent|by
+apart|drop|from
+crimes|property|nn
+drop|crimes|in
+crimes|violent|mod
+fell|crimes|subj
+fell|3%|by
+fell|while|mod
+divisions|valley|gen
+rest|divisions|of
+while|increased|comp1
+increased|rest|subj
+crimes|violent|mod
+rate|crimes|of
+fell|rate|subj
+fell|4%|obj
+4%|1996|from
+fell|helping|mod
+helping|rate|subj
+helping|push|mod
+push|down|guest
+rate|overall|mod
+rate|u.s.|nn
+rate|crime|nn
+push|rate|obj
+rate|3%|by
+level|its|gen
+level|lowest|mod

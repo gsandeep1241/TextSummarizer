@@ -1,0 +1,150 @@
+campaign|far-reaching|mod
+campaign|terrorist|mod
+campaign|kill|comp1
+kill|americans|obj
+kill|including|mod
+including|bombings|obj
+embassies|u.s.|nn
+bombings|embassies|of
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+bombings|twin|mod
+embassies|u.s.|nn
+bombings|embassies|at
+embassies|tanzania|in
+tanzania|and|punc
+nairobi|kenyan|mod
+nairobi|capital|mod
+tanzania|nairobi|conj
+nairobi|aug 7|on
+killed|bombings|subj
+people|257|num
+killed|people|obj
+people|11|num
+people|them|of
+people|tanzania|in
+targeted|also|mod-before
+targeted|missiles|subj
+camps|afghan-based|mod
+targeted|camps|obj
+militants|islamic|mod
+camps|militants|of
+militants|supporting|rel
+supporting|militant|subj
+laden|fugitive|mod
+laden|osama|nn
+laden|bin|nn
+laden|who|whn
+believe|laden|obj
+believe|investigators|subj
+supporting|was|fc
+was|behind|pred
+was|bombings|behind
+key|two|amount-value
+suspects|key|nn
+bombing|kenya|nn
+suspects|bombing|in
+bombing|who|whn
+linked|bombing|obj
+laden|bin|nn
+linked|laden|to
+handed over|suspects|obj
+handed over|united states|to
+united states|trial|for
+trial|murders|in
+americans|10|num
+murders|americans|of
+embassy|nairobi|nn
+americans|embassy|at
+bombing|recent|mod
+suspect|bombing|in
+embassies|u.s.|nn
+bombing|embassies|of
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+arrested|suspect|obj
+arrested|by|by-subj
+authorities|pakistani|mod
+arrested|authorities|by
+arrested|and|punc
+arrested|handed over|conj
+handed over|suspect|obj
+handed over|kenya|to
+suspects|two|nn
+suspects|involved|vrel
+involved|suspects|obj
+involved|bombing|in
+embassy|u.s.|nn
+bombing|embassy|of
+embassy|nairobi|in
+brought|suspects|obj
+brought|new york|to
+new york|trial|for
+sources|local|mod
+said|sources|subj
+said|plan|obj
+plan|bomb|comp1
+bomb|source|subj
+embassies|u.s.|nn
+bomb|embassies|obj
+embassies|kenya|in
+took|tanzania|subj
+months|three|amount-value
+took|months|obj
+bombers|destined|pnmod
+destined|kenya|for
+dispatched|bombers|obj
+dispatched|somali|through
+somali|and|punc
+somali|rwanda|conj
+expelled|tanzania|subj
+foreigners|14|num
+expelled|foreigners|obj
+foreigners|questioned|pnmod
+questioned|connection|in
+bombing|aug 7|nn
+connection|bombing|with
+bombing|u.s. embassy|of
+indictment|u.s.|nn
+indictment|federal|mod
+alleges|indictment|subj
+alleges|that|c
+followers|four|nn
+laden|islamic|mod
+laden|extremist|mod
+laden|osama|nn
+laden|bin|nn
+followers|laden|of
+plotted|followers|subj
+campaign|far-reaching|mod
+campaign|terrorist|mod
+plotted|campaign|obj
+campaign|kill|comp1
+kill|follower|subj
+kill|americans|obj
+kill|including|mod
+including|bombings|obj
+embassies|u.s.|nn
+bombings|embassies|of
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+agents|fbi|nn
+returned to|agents|subj
+house|white|mod
+house|two-story|mod
+returned to|house|obj
+development|new|mod
+house|development|in
+development|outskirts|on
+outskirts|nairobi|of
+nairobi|believed|vrel
+believed|nairobi|obj
+be|one|pred
+one|rented|vrel
+rented|one|obj
+rented|by|by-subj
+rented|suspect|by
+suspect|u.s. embassy|in

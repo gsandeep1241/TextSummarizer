@@ -1,0 +1,56 @@
+president|al gore|person
+named|president|subj
+named|veteran|obj1
+campaigns|clinton-gore|nn
+campaigns|presidential|mod
+veteran|campaigns|of
+be|his|pred
+press secretary|campaign|nn
+named|press secretary|obj2
+said|al gore|subj
+said|that|c
+chief of staff|his|gen
+chief of staff|ron klain|appo
+resigning|chief of staff|subj
+resigning|become|mod
+become|chief of staff|subj
+become|partner|obj
+office|washington|nn
+partner|office|in
+myers|o|nn
+myers|'melveny|nn
+office|myers|of
+firm|law|nn
+myers|firm|appo
+firm|based|vrel
+based|los angeles|in
+released|eve|on
+eve|his|of
+trip|59th|nn
+trip|california,al gore|to
+released|trip|subj
+released|list|obj
+endorsements|new|mod
+list|endorsements|of
+bid|his|gen
+bid|2000|num
+bid|presidential|mod
+endorsements|bid|for
+leaders|state|nn
+leaders|congressional|mod
+bid|leaders|from
+leaders|including|rel
+including|leader|subj
+including|u.s.sen.dianne feinstein|obj
+said|al gore|subj
+said|that|c
+moving|he|subj
+campaign|his|gen
+moving|campaign|obj
+campaign|state|to
+state|tennessee|of
+shows|it|subj
+shows|seen|fc
+seen|they|subj
+seen|type|obj
+type|leadership|of

@@ -1,0 +1,153 @@
+supplements|two|nn
+supplements|popular|mod
+supplements|nutritional|mod
+cure|supplements|subj
+cure|arthritis|obj
+cure|but|punc
+cure|improve|conj
+improve|supplements|subj
+symptoms|its|gen
+improve|symptoms|obj
+effects|fewer|mod
+effects|side|nn
+symptoms|effects|with
+treatments|traditional|mod
+effects|treatments|than
+concludes|analysis|subj
+studies|15|num
+analysis|studies|of
+improve|concludes|mod
+marketed|supplements|obj
+marketed|treatments|as
+treatments|osteoarthritis|for
+osteoarthritis|degenerative joint disease|appo
+degenerative joint disease|that|whn
+afflicts|degenerative joint disease|subj
+21 million|about|num-mod
+people|21 million|nn
+afflicts|people|obj
+afflicts|nationwide|mod
+involved|all|subj
+involved|patients|obj
+patients|arthritis|with
+arthritis|hip|in
+hip|or|punc
+hip|knee|conj
+treatment|best|mod
+depends on|treatment|subj
+diagnosis|specific|mod
+depends on|diagnosis|obj
+have|example|for
+example|only|pnmod
+few|past|mod
+only|few|in
+have|years|subj
+have|experts|obj
+experts|recommended|vrel
+recommended|experts|obj1
+early|very|mod
+treatment|early|mod
+treatment|aggressive|mod
+recommended|treatment|obj2
+treatment|rheumatoid arthritis|for
+drugs|disease-modifying|mod
+rheumatoid arthritis|drugs|with
+drugs|methotrexate|such as
+costs|it|subj
+about $100|others|nn
+costs|about $100|obj
+drug|one|nn
+drug|called|vrel
+called|drug|obj1
+called|gabapentin|desc
+is|already|guest
+is|on|pred
+is|market|on
+market|treatment|as
+treatment|epileptic seizures|for
+showed|results|subj
+showed|that|c
+works|drug|subj
+works|at least|mod
+at least|as|mod
+well|and|punc
+better|probably|mod
+well|better|conj
+treatments|other|mod
+better|treatments|than
+pain|neuropathic|mod
+treatments|pain|for
+for|but|punc
+for|with|conj
+fewer|far|mod
+effects|fewer|mod
+effects|side|nn
+for|effects|with
+insights|new|mod
+insights|biochemistry|into
+biochemistry|pain|of
+starting|insights|subj
+starting|pay off|mod
+pay off|insight|subj
+options|safer|mod
+safer|and|punc
+even|perhaps|mod
+safer|even|conj
+effective|more|mod
+options|effective|mod
+options|treatment|nn
+pay off|options|in
+sufferers|chronic|mod
+options|sufferers|for
+research|controlled|mod
+done|research|obj
+sulfate|chondroitin|nn
+done|sulfate|on
+treatment|popular|mod
+treatment|arthritis|nn
+sulfate|treatment|appo
+has|vioxx|subj
+has|indication|obj
+indication|treatment|for
+pain|acute|mod
+treatment|pain|of
+approved|it|obj
+approved|treatment|for
+treatment|rheumatoid arthritis|of
+rheumatoid arthritis|and|punc
+rheumatoid arthritis|osteoarthritis|conj
+tracked|patients|obj
+years|two|amount-value
+tracked|years|for
+is|them|for
+treatment|ultimate|mod
+knee|artificial|mod
+is|knee|pred
+knee|or|punc
+knee|hip|conj
+osteoarthritis|diagnosis|nn
+osteoarthritis|`|punc
+osteoarthritis|`|punc
+osteoarthritis|knee|of
+exist|'|punc
+exist|'|punc
+does|not|neg
+exist|osteoarthritis|subj
+medicine|traditional|mod
+medicine|chinese|nn
+exist|medicine|in
+treatments|ten|nn
+do|usually|mod-before
+do|treatments|subj
+do|job|obj
+effects|combined|mod
+effects|supplements|of
+help|effects|subj
+symptoms|ease|nn
+symptoms|osteoarthritis|nn
+help|symptoms|obj
+buy|supplements|obj
+supplements|stores|at
+stores|trust|rel
+trust|stores|obj
+trust|you|subj

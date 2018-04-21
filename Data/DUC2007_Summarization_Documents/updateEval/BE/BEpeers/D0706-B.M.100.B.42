@@ -1,0 +1,62 @@
+countries|other|mod
+countries|boycotting|rel
+boycotting|country|subj
+boycotting|conference|obj
+include|countries|subj
+include|france|obj
+france|denmark|conj
+denmark|netherlands|conj
+netherlands|and|punc
+netherlands|norway|conj
+fanatics|anti-business|mod
+delight in|fanatics|subj
+delight in|squawking|guest
+squawking|fanatic|subj
+squawking|about|mod
+tiffs|occasional|mod
+delight in|tiffs|obj
+tiffs|people|between
+people|burma|of
+burma|and|punc
+rulers|their|gen
+rulers|military|mod
+burma|rulers|conj
+placed|already|amod
+placed|eu|subj
+placed|sanctions|obj
+regime|myanmar|nn
+sanctions|regime|on
+grounds|humanitarian|mod
+suspended|grounds|on
+on|and|punc
+on|due to|conj
+service|tin oo|gen
+service|previous|mod
+on|service|due to
+service|army|in
+sentence|remaining|mod
+sentence|prison|nn
+suspended|sentence|obj
+welcome|contrast|in
+contrast|burma|to
+reformers|chinese|nn
+welcome|reformers|subj
+engagement|western|mod
+engagement|political|mod
+political|and|punc
+political|commercial|conj
+welcome|engagement|obj
+government|their|gen
+engagement|government|with
+government|spur|as
+spur|further|rel
+further|spur|subj
+further|openness|obj
+openness|and|punc
+openness|change|conj
+future|china|gen
+determined|future|obj
+determined|by|by-subj
+determined|chinese|by
+is|practical|pred
+aesthetic|not|mod

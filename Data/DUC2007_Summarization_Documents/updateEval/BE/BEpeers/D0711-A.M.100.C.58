@@ -1,0 +1,58 @@
+trial|justice department|gen
+trial|landmark|nn
+trial|antitrust|mod
+trial|and|punc
+legal actions|earlier|mod
+trial|legal actions|conj
+legal actions|microsoft corp.|against
+cost|trial|subj
+cost|$13.3 million|obj
+decade|past|mod
+$13.3 million|decade|over
+said|department|subj
+cost|said|mod
+cost|wednesday|mod
+accounting|its|gen
+accounting|first|post
+accounting|public|mod
+cost|accounting|in
+practices|microsoft corp.|gen
+practices|business|mod
+microsoft corp.|practices|whn
+are|challenged|pred
+challenged|by|by-subj
+challenged|government|by
+antitrust case|major|mod
+government|antitrust case|in
+suffered|microsoft corp.|subj
+setback|legal|mod
+suffered|setback|obj
+setback|front|on
+suffered|tuesday|mod
+suffered|when|wha
+judge|federal|mod
+judge|california|in
+ordered|judge|subj
+ordered|company|obj1
+company|stop|rel
+stop|company|subj
+stop|shipping|obj
+software|internet|nn
+ordered|software|obj2
+software|that|whn
+violates|software|subj
+contract|its|gen
+violates|contract|obj
+contract|rival|with
+rival|sun microsystems inc.|appo
+justice department|and|punc
+states|20|num
+justice department|states|conj
+states|suing|rel
+suing|state|subj
+suing|microsoft|obj
+microsoft|antitrust case|in
+say|justice department|subj
+say|that|c
+is|part|pred
+part|pattern|of

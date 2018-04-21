@@ -1,0 +1,147 @@
+made|province|subj
+progress|marked|mod
+made|progress|obj
+is|study|under
+study|conducted|vrel
+conducted|study|obj
+conducted|by|by-subj
+company|german shell|nn
+conducted|company|by
+is|likely|pred
+is|cover|mod
+cover|solar energy|subj
+cover|40 to 50|obj
+demand|world|nn
+demand|energy|nn
+photovoltaic|specifically|mod
+electricity|photovoltaic|mod
+power|electricity|appo
+growing|power|subj
+growing|with|guest
+sales|global|mod
+growing|sales|with
+us $1 billion|surpassing|mod
+growing|us $1 billion|obj1
+us $1 billion|and|punc
+us $1 billion|fortune|conj
+fortune|500|num
+growing|companies|obj2
+companies|pouring|rel
+pouring|company|subj
+pouring|billions|obj
+billions|research|into
+research|and|punc
+research|development|conj
+systems|large|mod
+meet|systems|subj
+use|widespread|mod
+meet|use|obj
+industry|eco-tourism|mod
+use|industry|in
+industry|power|rel
+power|industry|subj
+power|hotels|obj
+hotels|and|punc
+facilities|other|mod
+hotels|facilities|conj
+leisure|remote|mod
+facilities|leisure|in
+leisure|and|punc
+sites|archeological|mod
+leisure|sites|conj
+zimbabwe|and|punc
+zimbabwe|israel|conj
+are|likely|pred
+are|enter|mod
+enter|zimbabwe|subj
+development|joint|mod
+enter|development|into
+energy|solar|mod
+solar|and|punc
+solar|renewable|conj
+development|energy|of
+allow|power|subj
+cut|dutch|subj
+use|their|gen
+cut|use|obj
+energy|conventional|mod
+use|energy|of
+cut|and|punc
+cut|reduce|conj
+reduce|dutch|subj
+reduce|reliance|obj
+reliance|fossil fuels|on
+fossil fuels|spokesman|appo
+program|nov|gen
+program|solar|mod
+program|thermal|mod
+program|energy|nn
+spokesman|program|for
+china|north|mod
+inner mongolia autonomous region|china|gen
+schoolchildren|inner mongolia autonomous region|in
+given|schoolchildren|obj1
+lesson|practical|mod
+given|lesson|obj2
+lesson|solar energy|in
+group|first|post
+group|proposals|of
+includes|group|subj
+includes|forming|guest
+forming|group|subj
+forming|sino-israeli|obj
+includes|center|obj
+center|expand|rel
+expand|center|subj
+expand|use|obj
+use|solar energy|of
+solar energy|region|in
+heater|energy-efficient|nn
+heater|solar|mod
+heater|water|nn
+developing|heater|obj
+heater|which|whn
+suited|especially|amod
+suited|heater|obj
+china|sunny|mod
+china|north|mod
+suited|china|to
+resources|two|nn
+resources|energy|nn
+development|resources|of
+add|development|subj
+power|traditional|mod
+traditional|and|punc
+traditional|predominant|conj
+means|power|to
+add|means|fc
+means|generation|subj
+means|oil|through
+oil|and|punc
+resources|hydro|nn
+oil|resources|conj
+resources|meeting|in
+meeting|generation|subj
+need|ever-increasing|mod
+need|energy|nn
+meeting|need|obj
+need|which|whn
+growing|need|subj
+growing|12 to 14|at
+project|new|mod
+project|solar energy|nn
+project|air-conditioning|mod
+project|rushan city|in
+rushan city|east|in
+shandong province|china|gen
+east|passed|rel
+passed|east|obj1
+passed|shandong province|subj
+passed|appraisal|obj2
+appraisal|ministry of science|by
+ministry of science|and|punc
+ministry of science|technology|conj
+technology|and|punc
+institute|energy|nn
+technology|institute|conj
+institute|chinese academy of sciences|of

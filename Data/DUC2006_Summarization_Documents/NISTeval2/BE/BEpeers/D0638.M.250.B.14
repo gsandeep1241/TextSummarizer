@@ -1,0 +1,152 @@
+pictures|galileo|from
+show|pictures|subj
+show|moon|obj
+halo|glimmering|mod
+moon|halo|with
+continue|orbit|in
+orbit|jupiter|of
+jupiter|and|punc
+moons|its|gen
+jupiter|moons|conj
+moons|2|for
+continue|years|mod-before
+continue|1/2|subj
+continue|take|mod
+take|1/2|subj
+take|photos|obj
+photos|planet|of
+planet|and|punc
+satellites|its|gen
+planet|satellites|conj
+produced|electricity|obj
+produced|when|wha
+crosses|io|subj
+lines|magnetic field|nn
+crosses|lines|obj
+planet|its|gen
+planet|mother|nn
+lines|planet|of
+planet|jupiter|appo
+was|continue|pred
+continue|sending|mod
+telemetry|basic|mod
+sending|telemetry|obj
+telemetry|3 p.m.|until
+spacecraft|aging|mod
+aging|and|punc
+aging|glitch-prone|conj
+spacecraft|galileo|nn
+flew|successfully|mod-before
+flew|spacecraft|subj
+miles|380|amount-value
+flew|miles|within
+io|jupiter|gen
+io|moon|nn
+miles|io|of
+flew|overcoming|mod
+overcoming|spacecraft|subj
+doses|huge|mod
+overcoming|doses|obj
+doses|radiation|of
+radiation|and|punc
+problem|computer|nn
+radiation|problem|conj
+overcoming|just|mod
+overcoming|hours|mod
+overcoming|approach|before
+spacecraft|which|whn
+arrived|spacecraft|subj
+arrived|jupiter|at
+jupiter|1995|in
+completed|spacecraft|subj
+mission|its|gen
+mission|primary|mod
+completed|mission|obj
+mission|1997|in
+completed|and|punc
+completed|finish|conj
+finish|spacecraft|subj
+finish|$30 million|obj
+mission|two-year|mod
+mission|extended|mod
+$30 million|mission|appo
+mission|january|in
+took|galileo|subj
+took|measurements|obj
+magnetic field|europa|gen
+measurements|magnetic field|of
+miles|jan 3|nn
+miles|flyby|nn
+miles|218|amount-value
+magnetic field|miles|during
+miles|moon|above
+signature|telltale|mod
+signature|salts|of
+picked up|signature|obj
+picked up|by|by-subj
+picked up|instrument|by
+galileo|board|nn
+instrument|galileo|on
+galileo|called|vrel
+called|galileo|obj1
+called|near infrared mapping spectrometer|desc
+near infrared mapping spectrometer|which|whn
+measures|near infrared mapping spectrometer|subj
+measures|absorption|obj
+absorption|and|punc
+absorption|reflection|conj
+wavelengths|various|mod
+reflection|wavelengths|of
+wavelengths|sunlight|of
+surface|europa|gen
+sunlight|surface|by
+survived|galileo|subj
+survived|encounter|obj
+hits|some|without
+hits|radiation|subj
+hits|causing|mod
+causing|radiation|subj
+performance|erratic|mod
+causing|performance|obj
+electronics|spacecraft|nn
+performance|electronics|of
+probe|cone-shaped|mod
+probe|released|vrel
+released|probe|obj
+released|galileo|from
+galileo|july 13|on
+released|and|punc
+released|entered|conj
+entered|probe|subj
+atmosphere|jupiter|gen
+entered|atmosphere|into
+atmosphere|december 7|on
+craft|first|post
+craft|man-made|mod
+was|craft|pred
+was|ever|mod
+was|dip into|mod
+dip into|probe|subj
+dip into|atmosphere|obj
+atmosphere|planet|of
+dip into|and|punc
+dip into|sent|conj
+sent|probe|subj
+sent|back|guest
+sent|data|obj
+way|its|gen
+data|way|on
+data|demise|to
+detected|probe|subj
+strong|extremely|mod
+winds|strong|mod
+detected|winds|obj
+winds|and|punc
+intense|very|mod
+turbulence|intense|mod
+winds|turbulence|conj
+descent|its|gen
+turbulence|descent|during
+atmosphere|jupiter|gen
+atmosphere|thick|mod
+descent|atmosphere|through

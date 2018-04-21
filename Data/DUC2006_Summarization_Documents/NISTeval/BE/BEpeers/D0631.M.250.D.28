@@ -1,0 +1,138 @@
+airways concorde|british|mod
+travels|airways concorde|subj
+travels|london|from
+london|bahrain|to
+travels|while|mod
+passengers|air france|nn
+while|ride|comp1
+ride|passengers|subj
+ride|concorde|obj
+concorde|paris|from
+paris|rio de janeiro|to
+makes|air france|subj
+disclosure|similar|mod
+makes|disclosure|obj
+day|following|mod
+makes|day|mod
+makes|found|mod
+found|air france|subj
+found|cracks|obj
+cracks|four|in
+concordes|its|gen
+concordes|six|nn
+four|concordes|of
+power|doomed|mod
+power|air france concorde|nn
+lost|apparently|mod
+power|lost|mod
+power|two|in
+engines|its|gen
+engines|four|nn
+two|engines|of
+engines|it|as
+taking off|power|subj
+crew|flight|nn
+was|unable|pred
+unable|retract|fc
+retract|crew|subj
+gear|aircraft|gen
+gear|landing|nn
+retract|gear|obj
+agreed|crash|after
+agreed|air france|subj
+ground|temporarily|amod
+agreed|ground|fc
+ground|air france|subj
+concordes|its|gen
+concordes|five|nn
+concordes|remaining|mod
+ground|concordes|obj
+grounded|british airways|subj
+flights|its|gen
+flights|two|nn
+flights|remaining|mod
+grounded|flights|obj
+night|tuesday|nn
+flights|night|for
+air france|which|whn
+owned|air france|subj
+concorde|crashed|mod
+owned|concorde|obj
+concorde|chartered|pnmod
+chartered|german|by
+setting|tour|nn
+setting|group|nn
+returned|off|mod-before
+cruise|luxury|mod
+off|cruise|on
+cruise|caribbean|through
+returned|not|amod
+returned|setting|subj
+returned|jets|obj
+jets|service|to
+service|crash|since
+members|family|nn
+flown|members|obj
+flights|germany|from
+germany|air france|by
+air france|which|whn
+suspended|air france|subj
+suspended|all|obj
+flights|concorde|subj
+flights|immediately|mod
+crash|july 25|nn
+immediately|crash|after
+crash|gonesse|outside
+northeast|small town|nn
+miles|nine|amount-value
+northeast|miles|nn
+crash|northeast|appo
+northeast|paris|of
+resumed|british airways|subj
+flights|its|gen
+flights|concorde|nn
+resumed|flights|obj
+day|single|mod
+pause|day|gen
+flights|pause|after
+resumed|after|mod
+flight|air france|nn
+after|crashed|comp1
+crashed|flight|subj
+crashed|paris|outside
+paris|july 25|on
+crashed|killing|mod
+killing|flight|subj
+people|113|num
+killing|people|obj
+prowess|luxury|mod
+luxury|and|punc
+luxury|technological|conj
+emblem|prowess|of
+jet|supersonic|mod
+rich|and|punc
+rich|famous|conj
+quietly|history|into
+crash|july 25|nn
+history|crash|after
+crash|air france concorde|of
+air france concorde|paris|outside
+while|suspended|comp1
+suspended|air france|subj
+flights|its|gen
+flights|concorde|nn
+suspended|flights|obj
+crash|july 25|nn
+immediately|crash|after
+flights|ordered|rel
+ordered|flights|obj1
+ordered|british airways|subj
+ordered|only|guest
+day|one|amount-value
+suspension|day|nn
+ordered|suspension|obj2
+suspension|putting|before
+putting|british airways|subj
+concordes|its own|gen
+putting|concordes|obj
+concordes|service|into

@@ -1,0 +1,145 @@
+lucas|who|whn
+financed|lucas|subj
+movie|$115 million|nn
+financed|movie|obj
+date|may 3|nn
+date|launch|nn
+date|merchandise|for
+merchandise|hit|rel
+hit|merchandise|subj
+shelves|store|nn
+hit|shelves|obj
+model|5-by-6-foot|mod
+millennium falcon|spaceship|nn
+model|millennium falcon|of
+turrets|its|gen
+turrets|gun|nn
+swoops|pumping|mod-before
+pumping|turrets|subj
+lasers|red|mod
+pumping|lasers|obj
+swoops|model|subj
+swoops|from|guest
+swoops|his|from
+ceiling|living room|nn
+swoops|ceiling|obj
+guy|bad|nn
+darth maul|guy|appo
+fight|climactic|mod
+fight|laser|nn
+fight|sword|nn
+guy|fight|in
+suggests|darth maul|subj
+wannabe|hooded|mod
+suggests|wannabe|obj
+kiss|rock group|nn
+wannabe|kiss|from
+waiting|fans|subj
+waiting|months|for
+months|get|rel
+get|month|subj
+get|glimpse|obj
+array|vast|mod
+glimpse|array|of
+array|goods|of
+figures|action|nn
+goods|figures|from
+figures|wigs|to
+lotion|body|nn
+wigs|lotion|to
+food|snack|nn
+lotion|food|to
+food|tied|pnmod
+tied|movie|to
+booth|run|vrel
+run|booth|obj
+run|by|by-subj
+run|star wars insider|by
+magazine|official|mod
+magazine|fan|nn
+magazine|club|nn
+star wars insider|magazine|appo
+magazine|which|whn
+organized|magazine|subj
+organized|convention|obj
+figures|action|nn
+figures|guns|with
+were|no|pred
+no|longer|pnmod
+longer|sale|for
+offers|site|subj
+millions|its|gen
+offers|millions|obj
+something|web|nn
+something|visitors|nn
+millions|something|of
+information|insider|nn
+photographs|production|nn
+information|photographs|conj
+photographs|and|punc
+scoop|occasional|mod
+photographs|scoop|conj
+blockbuster|new|mod
+blockbuster|star wars|nn
+week|blockbuster|after
+blockbuster|opened|vrel
+opened|blockbuster|obj
+opened|united states|in
+copies|pirated|mod
+hit|already|amod
+hit|copies|subj
+shelves|store|nn
+hit|shelves|obj
+shelves|hong kong|in
+hong kong|and|punc
+hong kong|macau|conj
+mania|star wars|nn
+struck|mania|subj
+struck|japan|in
+japan|where|wha
+turned out|fans|subj
+turned out|droves|in
+droves|theaters|at
+saturday|country|mod
+theaters|saturday|around
+saturday|sneak preview|for
+movie|hit|nn
+sneak preview|movie|of
+market|world|gen
+market|second|post
+market|largest|mod
+market|movie|nn
+japan|market|appo
+is|home|pred
+home|legions|to
+fans|star wars|nn
+legions|fans|of
+hyped|heavily|mod
+been|hyped|pred
+hyped|media|by
+media|leading|rel
+leading|media|subj
+leading|up|mod
+showing|its|gen
+showing|first|post
+up|showing|to
+say|some|subj
+series|space|nn
+series|fantasy|nn
+say|holds|fc
+holds|series|subj
+appeal|special|mod
+holds|appeal|obj
+appeal|japanese|for
+japanese|who|whn
+see|japanese|subj
+see|it|obj
+version|updated|mod
+see|version|as
+films|classic|mod
+films|samurai|nn
+version|films|of
+-hards|who|whn
+wait|-hards|subj
+wait|see|mod
+see|movie|obj

@@ -1,0 +1,137 @@
+say|experts|subj
+cases|malaria|nn
+90 percent|cases|of
+say|are|fc
+are|in|pred
+africa|sub-saharan|nn
+are|africa|in
+prevention|and|punc
+prevention|treatment|conj
+treatment|there|since
+is|vaccine|pred
+vaccine|malaria|against
+depends on|prevention|subj
+measures|two|nn
+measures|important|mod
+depends on|measures|obj
+taking|drug|obj
+drug|combats|rel
+combats|drug|obj
+combats|that|subj
+parasite|is|rel
+is|advance|in
+infection|known|mod
+advance|infection|of
+is|and|punc
+is|avoiding|conj
+avoiding|parasite|obj
+avoiding|that|subj
+bites|parasite|subj
+mosquito|anopheles|nn
+bites|mosquito|by
+infection|parasitic|mod
+is|infection|pred
+infection|that|whn
+is|one|pred
+scourges|world|gen
+scourges|worst|nn
+one|scourges|of
+kills|malaria|subj
+3 million|up to|num-mod
+people|3 million|nn
+kills|people|obj
+kills|year|mod
+kills|and|punc
+kills|sickens|conj
+sickens|malaria|subj
+300 million|another|num-mod
+sickens|300 million|obj
+creating|vaccine|obj
+is|crucial|pred
+because|begun|comp1
+begun|parasite|subj
+begun|developing|fc
+developing|parasite|subj
+resistance|drugs|to
+used|resistance|subj
+used|treat|fc
+treat|resistance|subj
+treat|malaria|obj
+mosquitos|even|mod
+mosquitos|that|whn
+spread|mosquitos|subj
+spread|disease|obj
+withstanding|mosquitos|subj
+withstanding|pesticides|obj
+envisaged|also|amod
+envisaged|that|c
+be|year|by
+year|2030|num
+be|no longer|amod
+cause|major|mod
+be|cause|pred
+cause|deaths|of
+deaths|africa|in
+said|who|subj
+said|implemented|fc
+implemented|initiative|obj
+implemented|phases|in
+implemented|and|punc
+implemented|expected|conj
+reduce|initiative|subj
+illnesses|malaria|nn
+reduce|illnesses|obj
+illnesses|and|punc
+illnesses|deaths|conj
+deaths|region|in
+region|50 percent|by
+50 percent|year|by
+year|2010|num
+said|experts|subj
+said|encouraged|fc
+encouraged|they|obj
+encouraged|come up with|mod
+come up with|they|subj
+come up with|strategy|obj
+strategy|which|whn
+channeled|strategy|subj
+dollars|10 million|nn
+dollars|u.s.|nn
+channeled|dollars|obj
+control|malaria|nn
+dollars|control|towards
+control|africa|in
+africa|last|vrel
+last|africa|obj
+last|year|mod
+system|animals|gen
+system|immune|mod
+produced|system|subj
+produced|antibodies|obj
+antibodies|that|whn
+prevented|antibodies|subj
+parasites|malaria|nn
+prevented|parasites|obj
+parasites|invading|from
+invading|system|subj
+cells|liver|mod
+invading|cells|obj
+reported|blood|in
+reported|scientists|subj
+reported|monday|obj
+reported|proceedings|in
+proceedings|national academy of sciences|of
+developed|comparison|in
+comparison|92|num
+297|another|num-mod
+people|297|nn
+comparison|people|out of
+people|who|whn
+took|people|subj
+developed|placebo|subj
+developed|malaria|obj
+u.n. agencies|nations|nn
+u.n. agencies|three|nn
+u.n. agencies|major|mod
+u.n. agencies|and|punc
+u.n. agencies|world bank|conj

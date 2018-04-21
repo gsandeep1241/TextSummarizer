@@ -1,0 +1,53 @@
+matchup|head-to-head|mod
+george w. bush|texas|nn
+george w. bush|gov.|title
+matchup|george w. bush|with
+leader|republican|mod
+george w. bush|leader|appo
+presidential|early|mod
+polls|presidential|mod
+leader|polls|in
+trails|gore|subj
+trails|women|among
+points|10|amount-value
+52 percent|points|nn
+women|52 percent|by
+52 percent|42 percent|to
+poll|cnn/usa today/gallup|nn
+trails|poll|according to
+may|late|mod
+poll|may|in
+talked about|rally|at
+talked about|gore|subj
+pride|his|gen
+talked about|pride|obj
+pride|cosponsoring|in
+cosponsoring|gore|subj
+cosponsoring|as|guest
+cosponsoring|senator|as
+cosponsoring|bill|obj
+bill|that|whn
+was|first|pred
+first|signed|vrel
+signed|first|obj
+signed|law|into
+administration|clinton-gore|nn
+law|administration|under
+family|and|punc
+family|medical leave act|conj
+medical leave act|which|whn
+gives|medical leave act|subj
+weeks|workers|nn
+12|up to|num-mod
+weeks|12|amount-value
+gives|weeks|obj
+leave|unpaid|mod
+weeks|leave|of
+children|new|mod
+ill|seriously|mod
+member|ill|mod
+member|family|nn
+children|member|conj
+member|or|punc
+illness|personal|mod
+member|illness|conj

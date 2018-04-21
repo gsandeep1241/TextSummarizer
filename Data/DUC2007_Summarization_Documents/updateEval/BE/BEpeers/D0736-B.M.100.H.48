@@ -1,0 +1,60 @@
+venture|new|mod
+face|venture|subj
+face|competition|obj
+channel|successful|mod
+channel|lifetime|nn
+competition|channel|from
+channel|which|whn
+is|run|pred
+run|walt disney co.|by
+walt disney co.|and|punc
+walt disney co.|hearst corp.|conj
+hearst corp.|as|punc
+hearst corp.|well|punc
+hearst corp.|as|punc
+channel|new|mod
+hearst corp.|channel|conj
+channel|called|vrel
+called|channel|obj1
+called|oxygen|desc
+called|developed|mod
+developed|by|by-subj
+show|talk show|nn
+show|talk|nn
+developed|show|by
+oprah winfrey|host|nn
+show|starting|rel
+starting|oprah winfrey|subj
+spring|next|mod-before
+spring|magazine|subj
+hearst corp.|magazine publisher|nn
+spring|hearst corp.|with
+oprah winfrey|talk show|nn
+oprah winfrey|host|nn
+figure|powerful|mod
+oprah winfrey|figure|appo
+world|book|nn
+figure|world|in
+book club|oprah|gen
+world|book club|because of
+received|oprah winfrey|subj
+medal|50th|mod
+medal|anniversary|nn
+received|medal|obj
+medal|foundation|from
+host|tv|nn
+host|talk show|nn
+chosen|host|subj
+algonquin books|morgan|gen
+algonquin books|novel|nn
+novel|gap creek|title
+algonquin books|"|punc
+algonquin books|(|punc
+chosen|algonquin books|obj
+algonquin books|$22.95|appo
+$22.95|)|punc
+discussion|her|gen
+discussion|next|post
+discussion|book|nn
+discussion|club|nn
+$22.95|discussion|for

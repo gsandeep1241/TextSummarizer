@@ -1,0 +1,149 @@
+involves|as|mod-before
+involves|practice|as
+involves|neurology|subj
+involves|study|obj
+study|and|punc
+study|treatment|conj
+treatment|diseases|of
+diseases|stroke|like
+disease|alzheimer|gen
+stroke|disease|conj
+disease|and|punc
+neurological disorders|other|mod
+disease|neurological disorders|conj
+involves|while|mod
+while|looks at|comp1
+looks at|psychiatry|subj
+looks at|ailments|obj
+ailments|depression|like
+depression|schizophrenia|conj
+schizophrenia|and|punc
+mental illnesses|other|mod
+schizophrenia|mental illnesses|conj
+used|also|mod
+is|used|pred
+is|treat|mod
+treat|drug|subj
+disorder|obsessive|mod
+disorder|compulsive|mod
+treat|disorder|obj
+suffer|also|mod-before
+suffer|victims|subj
+is|expression|as
+disorder|body|nn
+disorder|dysmorphic|mod
+expression|disorder|of
+dysmorphia|muscle|nn
+disorder|obsessive-compulsive|mod
+disorder|spectrum|nn
+is|disorder|pred
+said|hollander|subj
+is|said|mod
+drug|first|post
+is|drug|pred
+drug|approved|vrel
+approved|drug|obj
+approved|by|by-subj
+approved|fda|by
+approved|specifically|mod
+specifically|treating|for
+treating|paxil|subj
+anxiety disorder|social|mod
+treating|anxiety disorder|obj
+used|commonly|mod
+is|used|pred
+is|treat|mod
+treat|luvox|subj
+disorder|obsessive-compulsive|mod
+treat|disorder|obj
+is|and|punc
+is|is|conj
+used|also|mod
+is|used|pred
+is|treat|mod
+treat|luvox|subj
+treat|depression|obj
+study|first|post
+is|study|pred
+study|examine|rel
+examine|study|subj
+role|prozac|gen
+examine|role|obj
+role|fighting|in
+disorder|panic|nn
+fighting|disorder|obj
+shows|research|subj
+shows|that|c
+therapy|cognitive-behavioral|mod
+is|equally|guest
+is|as|pred
+effective|drugs|as
+is|says|mod
+andrew rosen|dr.|title
+says|andrew rosen|subj
+psychologist|delray beach|nn
+andrew rosen|psychologist|appo
+psychologist|who|whn
+specializes|psychologist|subj
+treating|therapy|subj
+treating|anxiety disorders|obj
+approved|zoloft|obj
+approved|by|by-subj
+approved|food and drug administration|by
+food and drug administration|treatment|for
+treatment|depression|of
+disorder|panic|nn
+depression|disorder|conj
+disorder|and|punc
+disorder|obsessive|mod
+disorder|compulsive|mod
+disorder|disorder|conj
+pollack|mgh|of
+said|pollack|subj
+greater|much|mod
+danger|greater|mod
+said|is|fc
+is|not|neg
+is|that|c
+try|people|subj
+try|abuse|fc
+abuse|people|subj
+abuse|paxil|obj
+anxiety disorder|social|mod
+people|anxiety disorder|with
+will|not|neg
+seek|people|subj
+seek|help|obj
+seek|when|wha
+have|they|subj
+have|something|obj
+something|that|whn
+is|treatable|pred
+do better|they|subj
+do better|and|punc
+do better|function|conj
+function|they|subj
+function|better|mod
+better|life|in
+said|national mental health association|subj
+half|about|mod
+half|people|of
+people|who|whn
+suffer|people|subj
+disorder|panic|nn
+suffer|disorder|from
+said|develop|fc
+develop|half|subj
+develop|condition|obj
+condition|age|prior to
+age|24|num
+show|up|mod-before
+up|half|to
+half|adults|of
+disorder|obsessive-compulsive|mod
+adults|disorder|with
+signs|first|post
+show|signs|obj
+signs|it|of
+these|childhood|nn
+signs|these|in

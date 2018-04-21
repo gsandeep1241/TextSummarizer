@@ -1,0 +1,167 @@
+president|former|mod
+president|coup|nn
+president|leader|nn
+leader|hugo chavez|person
+president|elected|mod
+president|venezuela|of
+chavez|who|whn
+sworn in|chavez|obj
+sworn in|feb 2|on
+appealed|chavez|subj
+reconciliation|national|mod
+reconciliation|`|punc
+reconciliation|`|punc
+appealed|reconciliation|for
+appealed|'|punc
+appealed|'|punc
+appealed|and|punc
+appealed|sought|conj
+sought|chavez|subj
+sought|assure|fc
+assure|chavez|subj
+assure|investors|obj
+pursue|he|subj
+economic policies|prudent|mod
+pursue|economic policies|obj
+high|too|mod
+be|high|pred
+high|chavez|for
+have|chavez|subj
+have|use|fc
+use|chavez|subj
+charisma|his|gen
+charisma|famed|mod
+use|charisma|obj
+charisma|persuade|rel
+persuade|charisma|subj
+show|venezuelans|subj
+show|patience|obj
+has|anyone|subj
+has|quality|obj
+'s|hugo chavez|pred
+caldera|82|appo
+catapulted|caldera|obj
+catapulted|presidency|to
+catapulted|partly|mod
+partly|speech|because of
+speech|gave|rel
+gave|speech|obj
+gave|he|subj
+gave|immediately|mod
+coup|chavez|gen
+immediately|coup|after
+gave|asking|mod
+asking|he|subj
+asking|why|wha
+fight for|people|subj
+fight for|democracy|obj
+fight for|when|wha
+even|`|punc
+even|`|punc
+even|it|subj
+even|give|obj
+enough|eat|rel
+eat|enough|subj
+conference|his|gen
+conference|press|nn
+reiterated|chavez|subj
+plans|his|gen
+reiterated|plans|obj
+plans|root|rel
+root|plan|subj
+root|corruption|out
+root|review|conj
+review|plan|subj
+policies|country|gen
+policies|oil|nn
+review|policies|obj
+review|and|punc
+review|call|conj
+call|plan|subj
+assembly|constituent|mod
+call|assembly|obj
+assembly|rewrite|rel
+rewrite|assembly|subj
+rewrite|constitution|obj
+say|economists|subj
+say|have|fc
+have|chavez|subj
+have|difficulty|obj
+difficulty|achieving|rel
+achieving|difficulty|subj
+goals|his|gen
+goals|economic|mod
+achieving|goals|obj
+recession|severe|mod
+goals|recession|because of
+recession|caused|vrel
+caused|recession|obj
+caused|by|by-subj
+caused|slumping|by
+prices|oil|nn
+president|venezuela|gen
+president|new|mod
+foreign policy|president|of
+president|hugo chavez|person
+president|who|whn
+was|sworn|pred
+sworn|tuesday|in
+based|foreign policy|obj
+based|peace|on
+peace|integration|conj
+integration|and|punc
+integration|defense|conj
+rights|human|nn
+defense|rights|of
+said|rangel|subj
+based|said|mod
+letter|his|gen
+called|letter|in
+president|u.s.|nn
+letter|president|to
+president|bill clinton|person
+president|published|vrel
+published|president|obj
+published|by|by-subj
+published|presidency|by
+presidency|republic|of
+called|chavez|subj
+attention|clinton|gen
+called|attention|on
+attention|matter|to
+matter|considered|vrel
+considered|matter|obj
+be|"|punc
+be|of|pred
+importance|utmost|mod
+be|importance|of
+importance|"|punc
+importance|venezuela|for
+assented|venezuelans|subj
+revision|radical|mod
+assented|revision|to
+revision|institutions|of
+institutions|calls|rel
+calls|institutions|obj1
+calls|chavez|subj
+revolution|`|punc
+revolution|`|punc
+revolution|peaceful|mod
+calls|revolution|desc
+calls|'|punc
+calls|'|punc
+calls|because|mod
+because|disgusted|comp1
+disgusted|they|obj
+order|old|mod
+disgusted|order|with
+said|chavez|subj
+said|that|c
+government|his|gen
+cooperates|government|subj
+authorities|u.s.|nn
+cooperates|authorities|with
+war|their|gen
+authorities|war|in
+traffic|drug|nn
+war|traffic|against

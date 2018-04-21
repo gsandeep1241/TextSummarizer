@@ -1,0 +1,144 @@
+suspects|two|nn
+suspects|involved|vrel
+involved|suspects|obj
+involved|bombing|in
+embassy|u.s.|nn
+bombing|embassy|of
+embassy|nairobi|in
+brought|suspects|obj
+brought|new york|to
+new york|trial|for
+suspects|two|nn
+suspects|held|vrel
+held|suspects|obj
+held|connection|in
+bombing|aug 7|nn
+connection|bombing|with
+bombing|u.s. embassy|of
+u.s. embassy|tanzania|in
+charged|suspects|obj
+court|local|mod
+charged|court|in
+court|said|rel
+said|court|obj
+said|newspaper|subj
+said|red cross|subj
+said|investigating|fc
+investigating|it|subj
+investigating|complaints|obj
+complaints|harassment|of
+harassment|relatives|from
+relatives|those|of
+attacks|president|nn
+president|bill clintcondemned|person
+attacks|terrorist|mod
+attacks|bomb|nn
+embassies|u.s.|nn
+attacks|embassies|at
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+find|bombers|obj
+find|and|punc
+find|bring|conj
+bring|them|obj
+bring|justice|to
+held|ceremony|obj
+held|andrews air force base|at
+held|washington|near
+washington|where|whn
+where|10|num
+victims|12|num
+victims|american|mod
+where|victims|of
+bombing|kenya|nn
+bombing|embassy|nn
+victims|bombing|of
+brought back|where|obj
+brought back|by|by-subj
+brought back|of state|by
+of state|madeleine albright|person
+reaffirm|charges|subj
+resolve|mutual|mod
+mutual|and|punc
+mutual|unrelenting|conj
+reaffirm|resolve|obj
+resolve|tanzania|of
+tanzania|and|punc
+tanzania|kenya|conj
+kenya|and|punc
+authorities|american|mod
+kenya|authorities|conj
+authorities|find|rel
+find|authority|subj
+person|single|mod
+find|person|obj
+person|who|whn
+participated|person|subj
+bombings|murderous|mod
+bombings|terrorist|mod
+participated|bombings|in
+bombings|east africa|in
+one|men|of
+men|mustafa mahmoud said ahmed|appo
+walked|one|subj
+embassy|american|nn
+walked|embassy|into
+walked|late|mod
+walked|and|punc
+walked|warned|conj
+warned|one|subj
+warned|authorities|obj
+authorities|plot|about
+plot|blow up|rel
+blow up|plot|subj
+blow up|embassy|obj
+embassy|nairobi|in
+says|it|subj
+says|discussed|fc
+discussed|they|subj
+discussed|fatwa|obj
+fatwa|or|punc
+opinion|religious|mod
+fatwa|opinion|conj
+laden|bin|nn
+called for|laden|subj
+called for|attacks|obj
+attacks|americans|against
+expelled|tanzania|subj
+iraqis|five|nn
+expelled|iraqis|obj
+iraqis|and|punc
+iraqis|libyan|conj
+libyan|who|whn
+questioned|libyan|obj
+questioned|by|by-subj
+questioned|fbi|by
+fbi|and|punc
+fbi|police|conj
+police|connection|in
+connection|bombing|of
+embassies|two|nn
+embassies|u.s.|nn
+bombing|embassies|of
+embassies|east africa|in
+east africa|reported|rel
+reported|east africa|obj
+reported|newspaper|subj
+granted|magistrate|subj
+request|prosecution|nn
+granted|request|obj
+request|release|rel
+release|request|subj
+release|into|guest
+release|police|into
+one|custody|nn
+release|one|obj
+suspects|two|nn
+one|suspects|of
+suspects|charged|vrel
+charged|suspects|obj
+charged|assist|mod
+assist|investigation|in
+days|five|amount-value
+investigation|days|for

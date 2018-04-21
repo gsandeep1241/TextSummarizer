@@ -1,0 +1,62 @@
+barred|today|mod-before
+barred|judge|subj
+lawyers|defense|nn
+barred|lawyers|obj
+lawyers|using|from
+using|judge|subj
+defense|"|punc
+defense|gay|mod
+defense|panic|nn
+defense|"|punc
+using|defense|obj
+trial|murder|nn
+defense|trial|in
+trial|man|of
+man|accused|vrel
+accused|man|obj
+accused|beating|of
+matthew shepard|gay|mod
+matthew shepard|college student|nn
+beating|matthew shepard|obj
+expressed|mckinney|subj
+expressed|regret|obj
+role|his|gen
+regret|role|for
+role|murder|in
+murder|which|whn
+spurred|murder|subj
+rallies|nationwide|mod
+spurred|rallies|obj
+rallies|legislation|for
+crimes|hate|nn
+legislation|crimes|against
+audience|emotional|mod
+greeted|audience|subj
+premiere|world|nn
+greeted|premiere|obj
+greeted|saturday|mod
+of|"|punc
+greeted|laramie project|of
+laramie project|"|punc
+collaboration|unique|mod
+laramie project|collaboration|conj
+troupe|new york-based|mod
+troupe|theater|nn
+collaboration|troupe|between
+collaboration|and|punc
+collaboration|people|conj
+people|laramie|of
+laramie|murder|about
+murder|matthew shepard|of
+said|interview|in
+said|he|subj
+murder|shepard|nn
+said|changed|fc
+changed|murder|subj
+changed|attitudes|obj
+attitudes|laramie|in
+changed|including|mod
+including|murder|subj
+including|those|obj
+those|friends|of
+friends|his|of

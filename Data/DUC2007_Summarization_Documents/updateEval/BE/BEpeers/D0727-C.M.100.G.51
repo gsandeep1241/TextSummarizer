@@ -1,0 +1,54 @@
+attorneys|gingrich|for
+acknowledged|attorneys|subj
+acknowledged|had|fc
+had|he|subj
+had|relationship|obj
+relationship|bisek|with
+bisek|33|num
+had|while|mod
+while|married|comp1
+married|he|obj
+wife|his|gen
+wife|second|post
+married|wife|to
+wife|marianne|appo
+judge|washington|nn
+ordered|judge|subj
+ordered|bisek|obj
+bisek|answer|rel
+answer|bisek|subj
+answer|questions|obj
+questions|oath|under
+oath|marianne gingrich|for
+answer|and|punc
+answer|provide|conj
+provide|bisek|subj
+provide|documents|obj
+documents|related|vrel
+related|documents|obj
+affair|her|gen
+related|affair|to
+affair|gingrich|with
+divorce|gingriches|gen
+second|newt gingrich|gen
+be|second|pred
+second|and|punc
+second|marianne gingrich|conj
+be|first|mod
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+marianne gingrich|spent|pnmod
+spent|mediator|with
+attempt|their|gen
+attempt|first|post
+mediator|attempt|in
+attempt|resolve|rel
+resolve|attempt|subj
+divorce|their|gen
+divorce|bitter|mod
+resolve|divorce|obj
+held|meeting|obj
+held|offices|at
+attorney|marianne gingrich|gen
+offices|attorney|of
+attorney|john mayoue|appo

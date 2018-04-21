@@ -1,0 +1,136 @@
+removed|1989|in
+removed|senate|subj
+removed|walter l. nixon jr.|obj
+walter l. nixon jr.|mississippi|of
+mississippi|bench|from
+bench|lying|for
+jury|federal|mod
+jury|grand|nn
+lying|jury|before
+judge|u.s.|nn
+judge|district|mod
+judge|orinda evans|person
+sentencing|guidelines|obj
+guidelines|called|vrel
+called|guidelines|obj
+called|holland|for
+holland|receive|rel
+receive|holland|subj
+treatment|lenient|mod
+receive|treatment|obj
+receive|because|mod
+because|committed perjury|comp1
+committed perjury|he|subj
+committed perjury|civil|in
+criminal|_|punc
+criminal|proceeding|appo
+defense|clinton|gen
+defense|chief|mod
+is|quote|pred
+testimony|following|mod
+quote|testimony|obj
+testimony|lewinsky|from
+like|just|amod
+like|i|subj
+like|say|fc
+say|i|subj
+say|that|c
+asked|ever|mod-before
+asked|no one|subj
+asked|me|obj
+asked|lie|mod
+lie|no one|subj
+promised|never|amod
+promised|i|obj1
+promised|job|obj2
+silence|my|gen
+job|silence|for
+quotes|white house|subj
+quotes|line|obj
+but|neglects|comp1
+neglects|it|subj
+neglects|supply|fc
+supply|it|subj
+supply|rest|obj
+rest|testimony|of
+said|which|obj
+said|lewinsky|subj
+way|best|mod
+way|explain|rel
+explain|way|subj
+explain|feel|fc
+feel|i|subj
+feel|happened|fc
+happened|what|subj
+know|you|subj
+asked|no one|subj
+asked|or|punc
+asked|encouraged|conj
+encouraged|no one|subj
+encouraged|me|obj
+encouraged|lie|mod
+lie|no one|subj
+discouraged|no one|subj
+discouraged|me|obj
+discouraged|either|mod
+is|discrepancy|pred
+quotes|two|nn
+discrepancy|quotes|between
+quotes|lewinsky|from
+lewinsky|that|whn
+led|lewinsky|subj
+managers|house|nn
+led|managers|obj
+managers|conclude|rel
+conclude|manager|subj
+conclude|that|obj
+testimony|her|gen
+testimony|senate|before
+article|impeachment|nn
+as|puts|comp1
+puts|article|subj
+puts|it|obj
+made|clinton|subj
+made|"|punc
+testimony|prior|mod
+testimony|perjurious|mod
+perjurious|false|conj
+false|and|punc
+false|misleading|conj
+made|testimony|obj
+action|federal|mod
+action|civil rights|nn
+testimony|action|in
+action|brought|vrel
+brought|action|obj
+brought|him|against
+defense|clinton|gen
+is|according to|mod-before
+lawyers|his|gen
+is|lawyers|according to
+is|that|c
+relations|sexual|mod
+definition|relations|of
+relations|used|vrel
+used|relations|obj
+case|jones|nn
+used|case|in
+did|not|neg
+include|definition|subj
+include|oral sex|obj
+should|not|neg
+establish|senate|subj
+standard|lower|mod
+establish|standard|obj
+standard|integrity|for
+integrity|president|for
+president|standard|than
+established|already|amod
+standard|established|rel
+established|standard|obj
+established|it|subj
+judges|federal|mod
+established|judges|for
+judges|"|punc
+charles t. canady|rep.|title
+judges|charles t. canady|appo

@@ -1,0 +1,148 @@
+crash|october 1999|nn
+flight|egyptair|nn
+crash|flight|of
+flight|990|num
+evaluated|crash|obj
+defects|mechanical|mod
+evaluated|defects|for
+errors|operational|mod
+defects|errors|conj
+errors|or|punc
+sabotage|human|mod
+errors|sabotage|conj
+plummeted|plane|subj
+feet|15,000|num
+feet|8000|num
+final|its|gen
+feet|final|before
+fall to|feet|subj
+fall to|ocean|obj
+call|distress|nn
+was|call|pred
+descent|emergency|mod
+ruled out|virtually|amod
+ruled out|descent|obj
+elevators|tail|mod
+were|in|pred
+positions|uneven|mod
+were|positions|in
+were|indicating|mod
+indicating|elevator|subj
+malfunction|possible|mod
+indicating|malfunction|obj
+indicating|but|mod
+is|not|neg
+but|known|comp1
+known|it|obj
+known|if|c
+was|cause|pred
+cause|or|punc
+cause|byproduct|conj
+byproduct|crash|of
+step up|boeing|subj
+step up|inspections|obj
+systems|its|gen
+systems|elevator|nn
+inspections|systems|of
+problem|in-flight|nn
+problem|electrical|mod
+explain|problem|subj
+explain|why|wha
+stopped working|transponder|subj
+failure|computer|nn
+lead to|failure|subj
+behavior|erratic|mod
+lead to|behavior|obj
+behavior|pilots|as
+pilots|tried|vrel
+tried|pilots|obj
+tried|regain|mod
+regain|failure|subj
+regain|control|obj
+evaluation|thorough|mod
+recorder|flight|nn
+recorder|data|nn
+evaluation|recorder|of
+recorder|cockpit|nn
+recorder|voice|nn
+recorder|recorder|conj
+data|radar|nn
+recorder|data|conj
+data|and|punc
+data|wreckage|conj
+led|evaluation|subj
+led|investigators|obj
+investigators|determine|rel
+determine|investigator|subj
+determine|was|fc
+was|sign|pred
+failure|mechanical|mod
+sign|failure|of
+said|egyptair|subj
+said|was|fc
+crew|its|gen
+crew|best|mod
+was|crew|pred
+events|strange|mod
+events|operational|mod
+were|events|pred
+switched off|engines|obj
+switched off|cockpit|from
+pilots|something|nn
+pilots|experienced|mod
+switched off|autopilot|obj
+went into|plane|subj
+dive|controlled|mod
+dive|steep|mod
+went into|dive|obj
+found|investigators|subj
+found|little|obj
+activities|recent|mod
+little|activities|in
+activities|background|conj
+background|medical history|conj
+medical history|and|punc
+stability|emotional|mod
+medical history|stability|conj
+stability|crew|of
+crew|and|punc
+crew|passengers|conj
+investigation|further|mod
+showed|investigation|subj
+showed|was|fc
+was|subject|pred
+subject|investigations|of
+police|new york|nn
+police|hotel|nn
+police|security|nn
+investigations|police|by
+prayer|uttered|rel
+uttered|prayer|obj
+uttered|he|subj
+prayer|and|punc
+comments|final|mod
+prayer|comments|conj
+recorder|cockpit|nn
+recorder|voice|nn
+comments|recorder|on
+led|prayer|subj
+led|investigators|obj
+investigators|suspect|rel
+suspect|investigator|subj
+suicide|his|gen
+suspect|suicide|obj
+interferences|electromagnetic|mod
+radars|local|mod
+radars|military|mod
+interferences|radars|by
+caused|interferences|subj
+caused|shutdown|obj
+autopilot|computerized|mod
+shutdown|autopilot|of
+autopilot|elevators|conj
+elevators|and|punc
+elevators|engines|conj
+caused|but|mod
+evidence|radar|nn
+but|classified|comp1
+classified|evidence|obj

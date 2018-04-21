@@ -1,0 +1,60 @@
+day|same|post
+learned|day|on
+learned|americans|subj
+learned|last week|guest
+learned|matthew shepard|obj
+student|105-pound|nn
+student|gay|mod
+student|college|nn
+5-foot-2|student|appo
+tortured|5-foot-2|obj
+tortured|strung|conj
+strung|5-foot-2|obj
+strung|up|mod
+up|animal|like
+strung|and|punc
+strung|left|conj
+left|5-foot-2|obj
+left|die|mod
+die|5-foot-2|subj
+die|fence|on
+fence|laramie|outside
+co -|family research council|subj
+conference|press|nn
+co -|conference|obj
+conference|washington|in
+began|what|subj
+began|rally|as
+rally|fifth avenue|down
+fifth avenue|mourn|rel
+mourn|fifth avenue|subj
+mourn|and|punc
+mourn|protest|conj
+protest|fifth avenue|subj
+protest|killing|obj
+student|gay|mod
+student|college|nn
+killing|student|of
+student|wyoming|in
+wyoming|ended|vrel
+ended|wyoming|obj
+ended|chaotically|mod
+night|monday|nn
+chaotically|night|on
+on|with|conj
+100|nearly|num-mod
+arrests|100|nn
+on|arrests|with
+arrests|and|punc
+arrests|injuries|conj
+injuries|demonstrators|after
+demonstrators|faced|vrel
+faced|demonstrators|obj
+faced|off|mod
+officers|police|nn
+off|officers|against
+gear|riot|nn
+officers|gear|in
+in|and|punc
+in|on|conj
+in|horseback|on

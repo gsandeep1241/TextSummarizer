@@ -1,0 +1,55 @@
+mckinney|22|num
+charged|mckinney|obj
+kidnapping|first-degree|nn
+kidnapping|murder|nn
+charged|kidnapping|with
+kidnapping|and|punc
+robbery|aggravated|mod
+kidnapping|robbery|conj
+death|shepard|gen
+robbery|death|in
+death|last|vrel
+last|death|obj
+last|year|mod
+year|panic|rel
+panic|year|obj
+panic|gay|subj
+has|defense|subj
+basis|statutory|mod
+has|basis|obj
+invoked|it|obj
+cases|other|mod
+invoked|cases|in
+found|jury|subj
+found|mckinney|obj
+wednesday|guilty|mod
+found|wednesday|mod
+kidnapping|felony|nn
+kidnapping|murder|nn
+found|kidnapping|of
+kidnapping|and|punc
+robbery|aggravated|mod
+kidnapping|robbery|conj
+states|eight|nn
+have|states|subj
+laws|hate|nn
+laws|crimes|nn
+have|laws|obj
+think|i|subj
+think|that|c
+matthew shepard|same|post
+matthew shepard|way|nn
+beating|matthew shepard|gen
+did|beating|in
+victimization|cruel|mod
+victimization|and|punc
+victimization|murder|conj
+did|victimization|subj
+thing|similar|mod
+did|thing|obj
+said|hatch|subj
+measure|kennedy|nn
+said|was|fc
+broad|overly|mod
+was|broad|pred
+justice|department/fbi hate crime report|person

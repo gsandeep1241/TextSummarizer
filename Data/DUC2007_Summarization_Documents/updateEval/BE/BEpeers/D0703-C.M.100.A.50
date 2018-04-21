@@ -1,0 +1,54 @@
+expect|government|subj
+be|in|pred
+be|position|in
+position|begin|rel
+begin|position|subj
+negotiations|membership|nn
+begin|negotiations|obj
+negotiations|european union|with
+european union|2001|until
+members|european union|gen
+members|15|num
+eleven|members|of
+soldered|eleven|subj
+moneys|their|gen
+soldered|moneys|obj
+currency|single|mod
+moneys|currency|into
+soldered|thursday|mod
+union|monetary|mod
+act|union|of
+had|also|mod-before
+had|act|subj
+had|consequences|obj
+places|such|pre
+places|diverse|mod
+consequences|places|for
+places|monaco|as
+monaco|vatican|conj
+vatican|and|punc
+vatican|islands|conj
+islands|st. pierre and miquelon|of
+st. pierre and miquelon|coast|off
+coast|canada|of
+system|romanian|mod
+system|banking|nn
+is|ready|pred
+is|perform|mod
+perform|system|subj
+perform|services|obj
+currency|european|mod
+currency|single|mod
+services|currency|in
+currency|euro|appo
+agency|rompres|nn
+agency|news|nn
+euro|agency|appo
+agency|reported on|vrel
+reported on|tuesday|mod
+tuesday|citing|rel
+citing|tuesday|subj
+citing|sources|obj
+bank|romania|gen
+bank|central|nn
+sources|bank|from

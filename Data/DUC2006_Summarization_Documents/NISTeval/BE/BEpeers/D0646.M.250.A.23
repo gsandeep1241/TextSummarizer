@@ -1,0 +1,152 @@
+technical|highly|mod
+crime|technical|mod
+is|crime|pred
+crime|that|whn
+requires|crime|subj
+case|such|pre
+case|airtight|mod
+requires|case|obj
+pursue|rarely|mod-before
+pursue|prosecutors|subj
+pursue|it|obj
+law|federal|mod
+is|law|under
+person|who|whn
+makes|person|subj
+statement|inaccurate|mod
+makes|statement|obj
+statement|oath|under
+is|not|neg
+guilty|necessarily|mod
+is|guilty|pred
+guilty|perjury|of
+addition|perjury|to
+law|federal|mod
+making|false statements|obj
+forms|federal|mod
+false statements|forms|on
+on|or|punc
+on|to|conj
+officers|federal|mod
+on|officers|to
+agents|fbi|nn
+officers|agents|such as
+relevance|their|gen
+relevance|historical|mod
+citing|relevance|obj
+relevance|and|punc
+relevance|public|conj
+public|right|pnmod
+right|know|fc
+ordered|judge|subj
+ordered|release|obj1
+release|thousands|of
+thousands|secret|of
+papers|grand jury|nn
+ordered|papers|obj2
+case|cold war-era|mod
+case|perjury|nn
+papers|case|in
+case|alger hiss|against
+commissioner|former|mod
+commissioner|state|nn
+commissioner|parole|nn
+sentenced|commissioner|obj
+years|two|amount-value
+sentenced|years|to
+years|prison|in
+sentenced|tuesday|mod
+sentenced|lying|for
+jury|federal|mod
+jury|grand|nn
+lying|jury|to
+jury|investigating|rel
+investigating|jury|subj
+investigating|allegations|obj
+allegations|that|c
+george pataki|new york|nn
+george pataki|gov.|title
+aides|george pataki|gen
+aides|campaign|nn
+promised|aides|subj
+paroles|early|mod
+promised|paroles|obj
+paroles|exchange|in
+exchange|contributions|for
+judge|texas|nn
+convicted|judge|obj
+convicted|perjury|of
+perjury|declaring|for
+declaring|judge|subj
+declaring|that|c
+used|he|subj
+contributions|political|mod
+used|contributions|obj
+contributions|buy|rel
+buy|contribution|subj
+buy|flowers|obj
+staff|his|gen
+flowers|staff|for
+went|fact|in
+went|flowers|subj
+wife|his|gen
+went|wife|to
+deliberated|jury|subj
+days|two|amount-value
+deliberated|days|obj
+federal court|brooklyn|nn
+days|federal court|in
+federal court|delivering|before
+delivering|jury|subj
+verdict|split|nn
+delivering|verdict|obj
+delivering|finding|mod
+finding|jury|subj
+finding|francisco rosario|obj
+francisco rosario|guilty|pnmod
+counts|two|nn
+guilty|counts|of
+counts|conspiring|of
+conspiring|with|guest
+partner|his|gen
+conspiring|partner|with
+conspiring|make|fc
+make|false statements|obj
+weeks|fbi|nn
+weeks|six|amount-value
+false statements|weeks|to
+assault|1997|num
+weeks|assault|after
+assault|abner louima|of
+while|rejected|comp1
+rejected|house|subj
+article|impeachment|nn
+rejected|article|obj
+article|that|whn
+said|article|subj
+said|lied|fc
+lied|clinton|subj
+case|paula jones|nn
+case|sexual harassment|nn
+lied|case|in
+approved|it|subj
+approved|article|obj
+article|that|whn
+said|article|subj
+said|lied|fc
+lied|clinton|subj
+lied|many|about
+facts|same|post
+many|facts|of
+jury|federal|mod
+jury|grand|nn
+facts|jury|before
+defenders|president|of
+president|clinton|person
+argued|defenders|subj
+argued|that|c
+accusers|his|gen
+are|overzealous|pred
+overzealous|saying|in
+saying|accuser|subj
+saying|he|obj

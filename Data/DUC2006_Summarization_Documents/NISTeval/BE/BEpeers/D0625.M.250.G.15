@@ -1,0 +1,127 @@
+case|first|post
+case|aids|of
+since|discovered|comp1
+discovered|case|obj
+discovered|kenya|in
+kenya|1984|in
+30 million|over|num-mod
+kenyans|30 million|nn
+1.9 million|kenyans|of
+affected|1.9 million|obj
+affected|by|by-subj
+affected|virus|by
+kenya|southwestern|mod
+nyanza province|kenya|in
+35 percent|adults|of
+have|35 percent|subj
+virus|hiv|nn
+have|virus|obj
+virus|that|whn
+cause|virus|subj
+cause|aids|obj
+reduce|kenyans|subj
+reduce|sexually transmitted diseases|obj
+reduced|aids|obj
+reduced|by|by-subj
+40|at least|num-mod
+reduced|40|by
+country|eastern|mod
+country|african|nn
+are|statistics|according to
+statistics|ministry of health|from
+kenyans|1.5 million|nn
+are|hiv-positive|pred
+xinhua|november 9|nn
+xinhua|(|punc
+nairobi|xinhua|appo
+-president|kenyan|mod
+-president|george saitoti|person
+said|-president|subj
+said|that|c
+kenyans|100|num
+14|kenyans|out of
+infected|14|obj
+infected|by|by-subj
+infected|hiv|by
+hiv|virus|appo
+virus|which|whn
+causes|virus|subj
+causes|aids|obj
+xinhua|november 11|nn
+xinhua|(|punc
+nairobi|xinhua|appo
+beds|hospital|nn
+80 percent|beds|of
+hospitals|kenya|gen
+hospitals|government|nn
+beds|hospitals|in
+occupied|80 percent|obj
+occupied|by|by-subj
+patients|aids|nn
+occupied|patients|by
+official|senior|mod
+official|health|nn
+said|official|subj
+xinhua|june 9|nn
+xinhua|(|punc
+nairobi|xinhua|appo
+ailments|heart|nn
+increased|ailments|subj
+increased|sharply|mod
+sharply|kenya|in
+kenya|where|whn
+people|where|obj
+people|1.2 million|subj
+population|kenya|nn
+five percent|population|of
+are|at|pred
+are|risk|at
+xinhua|october 23|nn
+xinhua|(|punc
+nairobi|xinhua|appo
+children|10|num
+one|children|out of
+children|kenya|in
+dies|one|subj
+diseases|preventable|mod
+dies|diseases|of
+diseases|age|before
+age|five|of
+newspaper|east african standard|nn
+reported|newspaper|subj
+reported|today|obj
+visiting|who|whn
+said|official|subj
+said|that|c
+about 70 percent|people|of
+people|africa|in
+afflicted|visiting|subj
+afflicted|by|guest
+afflicted|four|by
+afflicted|diseases|obj
+kenya times|local|mod
+kenya times|"|punc
+diseases|kenya times|appo
+kenya times|"|punc
+kenya times|reported|vrel
+reported|kenya times|obj
+reported|today|mod
+xinhua|april 26|nn
+xinhua|(|punc
+nairobi|xinhua|appo
+director|world health organization|nn
+who|(|punc
+world health organization|who|abbrev
+who|)|punc
+director|regional|mod
+ibrahim samba|africa|nn
+ibrahim samba|dr|title
+director|ibrahim samba|for
+said|director|subj
+said|that|c
+malaria|diarrhea|conj
+diarrhea|respiratory diseases|conj
+respiratory diseases|and|punc
+respiratory diseases|malnutrition|conj
+killers|major|mod
+are|killers|pred

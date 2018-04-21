@@ -1,0 +1,69 @@
+gingrich|filed|vrel
+filed|gingrich|obj
+filed|divorce|for
+years|18|amount-value
+divorce|years|after
+years|marriage|of
+gingrich|allegations|amid
+allegations|having|comp1
+having|he|subj
+having|affair|obj
+callista bisek|33-year-old|nn
+callista bisek|congressional|mod
+callista bisek|aide|nn
+affair|callista bisek|with
+asks|also|mod-before
+asks|she|subj
+asks|that|c
+ordered|newt gingrich|obj
+ordered|stop|mod
+stop|newt gingrich|subj
+transfers|`|punc
+transfers|`|punc
+transfers|further|mod
+stop|transfers|obj
+transfers|or|punc
+transfers|concealment|conj
+concealment|'|punc
+concealment|'|punc
+concealment|assets|of
+stop|and|punc
+stop|replace|conj
+replace|newt gingrich|subj
+replace|assets|obj
+transferred|already|amod
+assets|transferred|rel
+transferred|assets|obj
+transferred|he|subj
+asked|newt gingrich|subj
+asked|judge|obj
+judge|settle|rel
+settle|judge|subj
+divorce|his|gen
+settle|divorce|obj
+divorce|relying on|by
+agreement|financial|mod
+relying on|agreement|obj
+he|and|punc
+wife|his|gen
+he|wife|conj
+agreement|worked out|rel
+worked out|agreement|obj
+worked out|he|subj
+separation|six-year|nn
+worked out|separation|during
+separation|that|whn
+began|separation|subj
+began|when|wha
+speaker|former|mod
+speaker|house|nn
+came back to|speaker|subj
+home|empty|mod
+came back to|home|obj
+speaker|former|mod
+speaker|house|nn
+speaker|newt gingrich|person
+reached|speaker|subj
+reached|agreement|obj
+wife|his|gen
+agreement|wife|with

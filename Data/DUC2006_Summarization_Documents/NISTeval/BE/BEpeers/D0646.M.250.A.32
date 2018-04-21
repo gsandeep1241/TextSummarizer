@@ -1,0 +1,140 @@
+try|republicans|subj
+try|show|fc
+show|republican|subj
+show|is|fc
+is|double standard|pred
+is|while|mod
+while|say|comp1
+say|democrats|subj
+say|is|fc
+is|not|neg
+offense|impeachable|mod
+is|offense|pred
+700|about|num-mod
+people|700|nn
+convicted|people|obj
+convicted|federal court|in
+crimes|perjury-related|mod
+federal court|crimes|for
+convicted|since|mod
+since|became|comp1
+became|clinton|subj
+became|president|obj
+law|federal|mod
+are|law|under
+perjury|and|punc
+perjury|false statements|conj
+are|punishable|pred
+fine|undetermined|mod
+punishable|fine|by
+five|up to|num-mod
+years|five|amount-value
+years|prison|in
+committed|he|subj
+committed|crimes|obj
+crimes|perjury|of
+perjury|and|punc
+perjury|obstruction|conj
+clear|very|mod
+is|clear|pred
+offenses|impeachable|mod
+are|offenses|pred
+laws|federal|mod
+laws|perjury|nn
+require|laws|subj
+require|prosecutors|obj
+prosecutors|prove|rel
+prove|prosecutor|subj
+lied|'|punc
+prove|lied|fc
+lied|offenders|subj
+convicted|holland|obj
+convicted|perjury|of
+republicans|who|whn
+believe|republicans|subj
+believe|committed perjury|fc
+committed perjury|clinton|subj
+noted|republicans|subj
+noted|engage in|fc
+engage in|clinton|subj
+engage in|sexual activities|obj
+sexual activities|lewinsky|with
+lewinsky|that|whn
+included|lewinsky|obj
+included|definition|in
+case|demonstrated|vrel
+demonstrated|case|obj1
+demonstrated|'|punc
+demonstrated|'we|obj2
+will|not|neg
+allow|case|subj
+allow|perjury|obj
+perjury|or|punc
+perjury|obstruction|conj
+obstruction|stand|rel
+stand|obstruction|subj
+said|democrats|subj
+said|even if|mod
+even if|is|comp1
+is|true|pred
+committed perjury|clinton|subj
+is|not|neg
+is|necessarily|guest
+offense|impeachable|mod
+is|offense|pred
+technical|highly|mod
+crime|technical|mod
+is|crime|pred
+prosecutors|other|mod
+cases|other|mod
+cases|high-profile|mod
+prosecutors|cases|in
+pushed for|sometimes|amod
+pushed for|prosecutors|subj
+charges|perjury|nn
+pushed for|charges|obj
+send|signal|obj
+punished|public|to
+signal|punished|comp1
+punished|lying|obj
+james e. rogan|rep.|title
+james e. rogan|r-pasadena|conj
+statistics|used|mod
+r-pasadena|statistics|conj
+statistics|weapon|as
+weapon|president|against
+president|clinton|person
+president|calling|conj
+experience|his|gen
+calling|experience|on
+experience|prosecutor|as
+prosecutor|and|punc
+prosecutor|judge|conj
+judge|show|rel
+show|judge|subj
+punishment|perjury|for
+show|is|fc
+is|not|neg
+is|nearly|guest
+is|rarity|pred
+lawyer|president|gen
+lawyer|david kendall|appo
+said|lawyer|subj
+said|`|punc
+said|`|punc
+prosecutor|united states|in
+said|bring|fc
+bring|prosecutor|subj
+prosecution|perjury|nn
+bring|prosecution|obj
+prosecution|basis|on
+basis|kinds|of
+is|house|pred
+vote|members|subj
+vote|even if|mod
+even if|think|comp1
+think|they|subj
+think|committed perjury|fc
+committed perjury|clinton|subj
+occurred|not|amod
+occurred|perjury|subj

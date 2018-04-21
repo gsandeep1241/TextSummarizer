@@ -1,0 +1,51 @@
+earthquakes|fatal|mod
+are|common|pred
+common|turkey|in
+are|occurring|mod
+occurring|earthquake|subj
+occurring|about|mod
+occurring|once|mod
+occurring|every two years|mod
+been|august 21|mod-before
+august 21|(|punc
+blaze|)|punc
+august 21|blaze|rel
+blaze|august 21|obj
+blaze|xinhua|subj
+blaze|refinery|in
+turkey|western|mod
+refinery|turkey|in
+been|under|pred
+been|control|under
+been|after|mod
+efforts|strong|mod
+after|made|comp1
+made|efforts|subj
+experts|foreign|mod
+experts|rescue|nn
+made|experts|by
+official|turkish|nn
+said|official|subj
+said|saturday|on
+crowded|heavily|mod
+istanbul|crowded|mod
+city|largest|mod
+istanbul|city|appo
+city|turkey|in
+one|hardest|mod
+one|hit|nn
+is|one|pred
+one|jolt|in
+jolt|and|punc
+jolt|107|conj
+recovered|bodies|obj
+recovered|debris|in
+toll|injury|nn
+put|toll|obj
+adapazari|onking|mod
+put|adapazari|at
+center|izmit|of
+destroyed|center|obj
+area|istanbul ataturk airport|near
+was|seriously|guest
+was|hit|pred

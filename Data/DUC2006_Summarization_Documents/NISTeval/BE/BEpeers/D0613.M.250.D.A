@@ -1,0 +1,151 @@
+was|1990 's|in
+x|gen|nn
+synonym|fashionable|mod
+was|synonym|pred
+synonym|twentysomethings|for
+post|baby-boomers|obj
+baby-boomers|born|vrel
+born|baby-boomers|obj
+born|from 1965-1979|mod
+set|entire|mod
+complete|set|with
+set|stereotypes|of
+gen xers|many|nn
+reason|only|mod
+reason|are|comp1
+are|in|pred
+are|world|in
+know|is|fc
+is|that|c
+parents|their|gen
+parents|yuppy|nn
+had|parents|subj
+had|money|obj
+are|just|guest
+are|possession|pred
+deserted|they|obj
+deserted|by|by-subj
+divorcing|they|subj
+divorcing|parents|obj
+divorcing|and|punc
+divorcing|discredited|conj
+discredited|they|subj
+institutions|social|mod
+discredited|institutions|obj
+have|rules|with
+rules|left|vrel
+left|rules|obj
+left|break|mod
+rules|and|punc
+rules|everything|conj
+everything|grabs|for
+have|they|subj
+sense|clear|mod
+have|sense|obj
+sense|identity|of
+alienated|and|punc
+alienated|isolated|conj
+become|they|subj
+become|cynical|desc
+linger|they|subj
+linger|school|in
+linger|put off|conj
+put off|they|subj
+put off|marriage|obj
+put off|and|punc
+put off|flit|conj
+flit|they|subj
+flit|job|from
+job|job|to
+want|they|subj
+adolescence|eternal|mod
+want|adolescence|obj
+worry about|they|subj
+worry about|commitment--|obj
+worry about|but|punc
+even|long|mod-before
+babies|nurture--|mod
+long|babies|to
+babies|pets|appo
+worry about|even|conj
+even|they|subj
+pets|robotic|mod
+even|pets|obj
+shun|they|subj
+shun|churches|obj
+churches|but|punc
+spirituality|love|nn
+churches|spirituality|conj
+indifferent|politics|to
+vote|rarely|amod
+vote|they|subj
+vote|but|punc
+vote|are|conj
+are|big|pred
+big|volunteering|on
+volunteering|they|subj
+intimidated|authority|by
+are|quick|pred
+quick|question|rel
+question|quick|subj
+question|policies|obj
+policies|and|punc
+policies|practices|conj
+are|uncomfortable|pred
+have|they|subj
+have|regard|obj
+regard|experience|for
+one|working|mod
+'s|way|pred
+'s|up|mod
+are|creative|pred
+creative|and|punc
+creative|comfortable|conj
+comfortable|technology|with
+are|grown|mod
+grown|they|subj
+grown|up|guest
+linked|intimately|mod
+grown|linked|desc
+internet|media|nn
+internet|culture--|mod
+linked|internet|to
+internet|tv|appo
+tv|film|appo
+film|music|appo
+are|capable|pred
+capable|handling|of
+handling|they|subj
+handling|change|obj
+handling|and|punc
+handling|find|conj
+find|they|subj
+find|it|obj1
+find|easy|desc
+find|transfer|mod
+transfer|loyalty|obj
+working on|job/project|obj
+working on|they|subj
+working on|moment|at
+attitudes|their|gen
+attitudes|independent|mod
+attitudes|can-do|mod
+be|attitudes|with
+attitudes|and|punc
+attitudes|creativity|conj
+be|ones|pred
+ones|get|rel
+get|ones|subj
+done|things|obj
+are|not|neg
+are|just|guest
+slackers|latte-scarfing|mod
+are|slackers|pred
+perceived|often|amod
+slackers|perceived|rel
+perceived|they|obj
+pinning|labels|obj
+labels|groups|on
+is|convenient|pred
+convenient|but|punc
+convenient|dangerous|conj

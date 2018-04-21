@@ -1,0 +1,57 @@
+co-star|his|gen
+co-star|hank azaria|conj
+won|also|mod-before
+hank azaria|won|vrel
+won|hank azaria|obj1
+won|emmy|obj2
+hank azaria|and|punc
+hank azaria|show|conj
+honored|co-star|obj
+movie|best|mod
+movie|tv|nn
+honored|movie|as
+voters|george w. bush|nn
+voters|courts|nn
+voters|women|nn
+voters|appearing|by
+appearing|oprah winfrey|on
+show|voters|subj
+show|al gore|as
+actor|veteran|mod
+actor|jack lemmon|person
+favorite|hollywood|nn
+actor|favorite|appo
+drew|actor|subj
+drew|standing ovation|obj
+drew|when|wha
+won|he|subj
+actor|best|mod
+won|actor|obj
+actor|miniseries|in
+miniseries|or|punc
+miniseries|movie|conj
+movie|oprah winfrey presents|for
+s|morrie|with
+is|me|for
+show|oprah|nn
+is|still|guest
+lode|mother|nn
+is|lode|pred
+lode|"|punc
+lode|said|rel
+said|lode|obj
+said|winfrey|subj
+politician|first|post
+is|politician|pred
+politician|invited|vrel
+invited|politician|obj
+stage|television|nn
+invited|stage|to
+stage|oprah winfrey|of
+oprah winfrey|chicago|in
+series|hbo|gen
+neighborhood|baltimore|nn
+neighborhood|inner-city|nn
+series|neighborhood|about
+neighborhood|corner|appo
+corner|won three|appo

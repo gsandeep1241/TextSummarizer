@@ -1,0 +1,51 @@
+epicenter|aftershock|of
+130|about|num-mod
+kilometers|130|amount-value
+was|kilometers|pred
+kilometers|east|about
+east|istanbul|of
+city|largest|mod
+istanbul|city|appo
+city|turkey|of
+60|over|num-mod
+aftershocks|60|nn
+aftershocks|measuring|rel
+measuring|aftershock|subj
+4.0|at least|num-mod
+measuring|4.0|obj
+4.0|richter scale|on
+occurred|aftershocks|subj
+occurred|quake|since
+quake|hit|vrel
+hit|quake|obj1
+turkey|western|mod
+hit|turkey|obj2
+hours|early|mod
+quake|hours|in
+hours|august 17|of
+toll|death|nn
+earthquake|monster|nn
+toll|earthquake|in
+turkey|western|mod
+earthquake|turkey|in
+turkey|august 17|on
+reached|toll|subj
+reached|17,997|obj
+17,997|tuesday|on
+reached|as|mod
+suffering|survivors|of
+as|mounting|comp1
+mounting|suffering|subj
+more|week|than
+earthquake|august 17|nn
+earthquake|killer|nn
+week|earthquake|after
+turkey|northwestern|mod
+earthquake|turkey|in
+injuries|quake-related|mod
+people|injuries|with
+flooding|still|mod
+flooding|hospitals|to
+fire|strong|mod
+ismail alakoc|fire|appo
+fire|izmit refinery|of

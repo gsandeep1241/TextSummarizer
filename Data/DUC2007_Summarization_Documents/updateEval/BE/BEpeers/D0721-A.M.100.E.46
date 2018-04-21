@@ -1,0 +1,57 @@
+cured|now|guest
+cured|matthew shepard|obj
+murder|matthew shepard|of
+brought|murder|subj
+brought|picture|obj
+picture|relief|into
+said|new york times|subj
+said|editorial|in
+said|for|mod
+decision|russell henderson|gen
+decision|plead|rel
+plead|decision|subj
+plead|guilty|desc
+guilty|kidnapping|to
+kidnapping|and|punc
+kidnapping|murder|conj
+murder|matthew shepard|of
+for|is|comp1
+is|consolation|pred
+family|shepard|nn
+consolation|family|to
+provides|it|subj
+severe|appropriately|mod
+sentence|severe|mod
+provides|sentence|obj
+sentence|one|for
+hatred|one|gen
+hatred|apparent|mod
+hatred|anti-gay|mod
+one|hatred|whn
+led|hatred|subj
+led|him|obj
+led|destroy|mod
+destroy|it|subj
+life|young|mod
+destroy|life|obj
+is|just|guest
+statistic|one|nn
+grim|more|mod
+statistic|grim|mod
+is|statistic|pred
+issued|judge|subj
+order|gag|nn
+issued|order|obj
+order|lawyers|for
+lawyers|involved|vrel
+involved|lawyers|obj
+trial|matthew shepard|nn
+trial|murder|nn
+involved|trial|in
+involved|saying|mod
+saying|judge|subj
+injured|gravely|mod-before
+saying|injured|fc
+injured|they|subj
+right|defendant|gen
+injured|right|obj

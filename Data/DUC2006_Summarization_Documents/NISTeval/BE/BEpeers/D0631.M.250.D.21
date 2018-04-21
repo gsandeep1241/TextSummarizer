@@ -1,0 +1,140 @@
+passengers|concorde|nn
+arrive|passengers|subj
+whisked|hour|mod-before
+hour|departs|rel
+departs|hour|obj
+departs|flight|subj
+departs|and|punc
+departs|are|conj
+whisked|half|subj
+whisked|through|mod
+discloses|british airways|subj
+discloses|that|c
+found|cracks|obj
+found|wings|in
+seven|all|pre
+wings|seven|of
+jets|its|gen
+jets|concorde|nn
+seven|jets|of
+says|air france|subj
+passengers|its|gen
+passengers|concorde|nn
+two-thirds|passengers|of
+says|traveling|fc
+traveling|two-thirds|subj
+traveling|business|on
+traveling|while|mod
+while|are|comp1
+are|celebrities|pred
+celebrities|superrich|conj
+superrich|or|punc
+superrich|vacationers|conj
+vacationers|members|like
+group|german|mod
+group|tour|nn
+members|group|of
+group|who|whn
+died|group|subj
+crash|tuesday|gen
+died|crash|in
+trip|his|gen
+delayed|trip|obj
+delayed|after|mod
+after|suspended|comp1
+suspended|air france|subj
+suspended|all|guest
+flights|its|gen
+flights|concorde|nn
+suspended|flights|obj
+suspended|until|mod
+until|convinced|comp1
+convinced|airline|obj
+convinced|are|fc
+are|safe|pred
+route|air france concorde|nn
+route|en|nn
+route|new york|to
+crashes|route|subj
+crashes|paris|outside
+crashes|shortly|mod
+shortly|takeoff|after
+crashes|killing|mod
+killing|route|subj
+killing|all|guest
+people|109|num
+killing|people|obj
+people|board|on
+board|and|punc
+people|four|nn
+board|people|conj
+people|ground|on
+trailed|long|guest
+trailed|concorde|obj
+trailed|by|by-subj
+trailed|whiff|by
+whiff|morbidity|of
+british airways|and|punc
+british airways|air france|conj
+staffed|usually|mod-before
+staffed|british airways|subj
+staffed|each|guest
+concorde|100-seat|mod
+staffed|concorde|obj
+crew members--|nine|nn
+concorde|crew members--|with
+twice|almost|mod
+staffed|twice|mod
+twice|many|as
+many|passenger|per
+members|19|num
+members|crew|nn
+passenger|members|as
+747|400-seat|mod
+members|747|on
+authorities|british|mod
+authorities|aviation|nn
+authorities|wednesday|on
+ruled|formally|mod-before
+ruled|authorities|subj
+airliner|concorde|nn
+airliner|supersonic|mod
+ruled|airliner|obj
+airliner|unfit|pnmod
+unfit|fly|to
+ruled|unless|mod
+manufacturers|its|gen
+unless|took|comp1
+took|manufacturers|subj
+took|steps|obj
+steps|prevent|rel
+prevent|step|subj
+prevent|problems|obj
+problems|that|whn
+led to|problems|subj
+month|last|post
+crash|month|gen
+crash|fatal|mod
+crash|air france concorde|nn
+led to|crash|obj
+crash|paris|near
+while|suspended|comp1
+suspended|air france|subj
+flights|its|gen
+flights|concorde|nn
+suspended|flights|obj
+suspended|immediately|mod
+crash|july 25|nn
+immediately|crash|after
+but|ordered|comp1
+ordered|british airways|subj
+ordered|only|guest
+ordered|one|obj
+concordes|its own|gen
+putting|concordes|obj
+concordes|service|into
+strip|metal|subj
+concorde|damaged|mod
+strip|concorde|obj
+concorde|likely|pnmod
+likely|continental|from

@@ -1,0 +1,141 @@
+president|former|mod
+president|u.s.|nn
+president|jimmy carter|person
+be|in|pred
+be|mexico|in
+mexico|july 2|on
+july 2|observe|rel
+observe|july 2|subj
+election|country|gen
+competitive|highly|mod
+election|competitive|mod
+election|presidential|mod
+observe|election|obj
+elections|monitoring|rel
+monitoring|election|subj
+monitoring|groups|obj
+said|elections|subj
+said|tuesday|mod
+invitation|carter|to
+came|invitation|subj
+visit|exploratory|mod
+came|visit|during
+came|last week|mod
+came|representatives|by
+representatives|carter center|of
+group|atlanta-based|nn
+group|non-profit|mod
+group|concerned|pnmod
+concerned|democracy|with
+democracy|and|punc
+democracy|that|conj
+observed|group|subj
+observed|elections|obj
+elections|more|in
+more|dozen|than
+countries|hemisphere|in
+are|watershed|pred
+said|mexico|for
+said|carter|subj
+said|statement|in
+professor|emory university|nn
+professor|robert pastor|person
+advisor|principle|nn
+professor|advisor|appo
+advisor|delegation|to
+said|professor|subj
+visit|center|gen
+visit|exploratory|mod
+said|visit|during
+allegations|mexico|nn
+visit|allegations|in
+allegations|vote-buying|of
+coercion|and|punc
+irregularities|other|mod
+irregularities|pre-election|mod
+coercion|irregularities|conj
+raised|coercion|obj
+raised|by|by-subj
+raised|parties|by
+parties|trying|rel
+trying|party|subj
+trying|unseat|fc
+party|mexico|gen
+party|ruling|mod
+unseat|party|obj
+gone through|mexico|subj
+reforms|sweeping|mod
+reforms|electoral|mod
+gone through|reforms|obj
+election|its|gen
+election|last|post
+election|presidential|mod
+reforms|election|since
+election|1994|in
+caracas|(|punc
+caracas|ap|appo
+events|that|whn
+allowed|events|subj
+plotter|former|mod
+plotter|coup|nn
+become|plotter|subj
+become|front-runner|obj
+vote|sunday|gen
+vote|presidential|mod
+front-runner|vote|in
+indicate|events|subj
+fed|venezuelans|obj
+said|up|mod-before
+up|status quo|with
+indicate|said|fc
+said|fin|subj
+president|former|mod
+president|u.s.|nn
+said|president|obj
+president|jimmy carter|person
+heading|he|subj
+team|40-person|mod
+heading|team|obj
+monitors|international|mod
+monitors|election|nn
+team|monitors|of
+monitors|that|whn
+includes|monitors|subj
+presidents|former|mod
+includes|presidents|obj
+presidents|patricio aylwin|person
+presidents|chile|of
+chile|and|punc
+chile|gonzalo sanchez de lozada|conj
+gonzalo sanchez de lozada|bolivia|of
+bolivia|and|punc
+bolivia|nicholas brady|conj
+bolivia|ex-u.s.|appo
+expected|also|mod
+delegation|separate|mod
+delegation|observer|nn
+is|delegation|pred
+delegation|headed|pnmod
+president|former|mod
+president|colombian|mod
+headed|president|by
+president|cesar gaviria|person
+president|now|appo-mod
+general|secretary|nn
+president|general|appo
+general|organization of american states|of
+correctly|or|punc
+correctly|incorrectly|conj
+people|venezuela|of
+have|people|subj
+confidence|lost|mod
+have|confidence|obj
+confidence|domination|in
+political parties|two|nn
+political parties|major|mod
+domination|political parties|of
+said|country|in
+said|carter|subj
+explaining|carter|subj
+rise|meteoric|mod
+explaining|rise|obj

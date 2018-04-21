@@ -1,0 +1,154 @@
+agreed|crash|after
+agreed|air france|subj
+ground|temporarily|amod
+agreed|ground|fc
+ground|air france|subj
+concordes|its|gen
+concordes|five|nn
+concordes|remaining|mod
+ground|concordes|obj
+grounded|british airways|subj
+flights|its|gen
+flights|two|nn
+flights|remaining|mod
+grounded|flights|obj
+flights|night|for
+because|makes|comp1
+makes|concorde|subj
+fewer|far|mod
+flights|fewer|mod
+makes|flights|obj
+flights|aircraft|than
+crash|one|nn
+gave|crash|subj
+gave|it|obj1
+gave|one|obj2
+records|worst|nn
+records|safety|nn
+one|records|of
+aircraft|passenger|nn
+records|aircraft|for
+grounded|air france|subj
+grounded|its|obj
+grounded|remaining|mod
+remaining|air france|subj
+concordes|five|nn
+remaining|concordes|obj
+remaining|immediately|mod
+immediately|crash|after
+concordes|world|gen
+seven|other|num-mod
+concordes|seven|nn
+concordes|owned|vrel
+owned|concordes|obj
+owned|by|by-subj
+owned|british airways|by
+resumed|concordes|subj
+resumed|most|guest
+resumed|flights|obj
+pause|day|gen
+flights|pause|after
+resumed|british airways|subj
+flights|its|gen
+flights|concorde|nn
+resumed|flights|obj
+resumed|day|mod
+day|crash|after
+continued|british airways|subj
+continued|fly|mod
+fly|british airways|subj
+fleet|its|gen
+fly|fleet|obj
+fleet|concordes|of
+grounded|also|mod-before
+grounded|british airways|subj
+concordes|its|gen
+grounded|concordes|obj
+britain|and|punc
+britain|france|conj
+built|britain|subj
+planes|16|num
+built|planes|obj
+planes|and|punc
+planes|british airways|conj
+took|air france|subj
+planes|unsold|mod
+took|planes|obj
+planes|1979|in
+british airways|and|punc
+british airways|air france|conj
+insist|both|punc
+insist|british airways|subj
+insist|was|fc
+was|profitable|pred
+insist|but|punc
+insist|refused|conj
+refused|british airways|subj
+refused|give|fc
+give|british airways|subj
+give|details|obj
+other|only|mod
+airliner|other|mod
+british airways|airliner|appo
+airliner|operate|rel
+operate|airliner|subj
+operate|concorde|obj
+suspended|british airways|subj
+flights|its|gen
+suspended|flights|obj
+flights|15|on
+tried|aircraft|subj
+tried|gain|fc
+gain|aircraft|subj
+gain|speed|obj
+landing|emergency|nn
+speed|landing|for
+bombed|sixtythe nazis|subj
+bombed|paris|obj
+paris|and|punc
+france|occupied|mod
+paris|france|conj
+daytime|only|mod
+flight|daytime|mod
+is|flight|pred
+flight|that|whn
+arrives|flight|subj
+arrives|continent|on
+continent|afternoon|in
+other|only|mod
+airline|other|mod
+british airways|airline|appo
+airline|fly|rel
+fly|airline|subj
+planes|high-speed|mod
+planes|transport|nn
+fly|planes|obj
+resumed|british airways|subj
+flights|its|gen
+flights|concorde|nn
+resumed|flights|obj
+flights|new york|between
+new york|and|punc
+new york|london|conj
+including|perhaps|guest
+including|progress|obj
+progress|safety|in
+while|suspended|comp1
+suspended|air france|subj
+flights|its|gen
+flights|concorde|nn
+suspended|flights|obj
+crash|25|num
+immediately|crash|after
+flights|ordered|rel
+ordered|flights|obj1
+ordered|british airways|subj
+ordered|only|guest
+ordered|one|obj2
+concordes|its own|gen
+putting|concordes|obj
+concordes|service|into
+reacted|pilot|subj
+speed|plane|nn
+speed|lost|mod
+reacted|speed|but

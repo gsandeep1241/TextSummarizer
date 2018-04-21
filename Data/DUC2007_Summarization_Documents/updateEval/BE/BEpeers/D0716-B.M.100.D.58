@@ -1,0 +1,66 @@
+team|eight-member|mod
+world heritage bureau|u.n.|gen
+team|world heritage bureau|from
+visit|team|subj
+sites|environmental|mod
+environmental|and|punc
+environmental|aboriginal|conj
+sites|cultural|mod
+visit|sites|obj
+visit|and|punc
+visit|speak|conj
+speak|team|subj
+groups|interest|nn
+speak|groups|to
+groups|including|rel
+including|group|subj
+including|company|obj
+company|building|rel
+building|company|subj
+resources|mine|mod
+resources|energy|nn
+building|resources|obj
+resources|australia ltd.|of
+sites|archaeological|mod
+sites|that|whn
+show|sites|subj
+show|humans|obj
+humans|lived|vrel
+lived|humans|obj
+lived|australia|in
+lived|up|mod
+up|60,000|to
+damaged|years ago|mod-before
+damaged|sites|obj
+damaged|by|by-subj
+mine|uranium|nn
+damaged|mine|by
+mine|built|rel
+built|kakadu national park|within
+committee|high-level|mod
+committee|u.n.|nn
+told|committee|obj
+told|wednesday|mod
+attack|firebomb|nn
+caused|attack|subj
+caused|more|guest
+more|100,000|than
+u.s.|australian dollars|nn
+u.s.|(|punc
+caused|u.s.|obj
+dlrs|60,000|num
+damage|)|punc
+damage|dlrs|subj
+damage|monday|obj
+office|darwin|nn
+damage|office|to
+office|company|of
+company|building|rel
+building|company|subj
+mine|controversial|mod
+mine|jabiluka|nn
+mine|uranium|nn
+building|mine|obj
+government|australian|mod
+mounted|government|subj
+mounted|systematic|obj

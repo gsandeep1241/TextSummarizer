@@ -1,0 +1,159 @@
+debuts|movie|nn
+huh|uh|nn
+blockbuster|new|mod
+blockbuster|star wars|nn
+week|blockbuster|after
+blockbuster|opened|vrel
+opened|blockbuster|obj
+opened|united states|in
+copies|pirated|mod
+hit|already|amod
+hit|copies|subj
+shelves|store|nn
+hit|shelves|obj
+shelves|hong kong|in
+hong kong|and|punc
+hong kong|macau|conj
+star wars|`|punc
+star wars|`|punc
+prequel|star wars|gen
+prequel|'|punc
+setting|prequel|subj
+records|box-office|nn
+setting|records|obj
+is|not|neg
+is|alone|pred
+was|'|punc
+was|'|punc
+film|north america|gen
+film|top|mod
+was|film|pred
+memorial day|four-day|nn
+film|memorial day|over
+was|weekend|mod
+was|bringing in|mod
+bringing in|phantom menace|subj
+bringing in|$64.8 million|obj
+gross|total|mod
+$64.8 million|gross|for
+gross|$205 million|of
+days|record|mod
+days|13|amount-value
+$205 million|days|in
+starting|april 30|mod
+host|denver|subj
+star wars celebration|lucasfilm ltd.-sanctioned|nn
+star wars celebration|`|punc
+star wars celebration|`|punc
+host|star wars celebration|obj
+star wars celebration|'|punc
+star wars celebration|'|punc
+festival|three-day|nn
+festival|fan|nn
+star wars celebration|festival|appo
+festival|wings|at
+with|`|punc
+with|`|punc
+rockies museum|phantom menace|with
+sneak|'|punc
+sneak|'|punc
+wings|sneak|rel
+sneak|wings|obj
+sneak|rockies museum|subj
+peeks|appearances|appo
+appearances|many|by
+stars|film|gen
+many|stars|of
+sneak|including|mod
+including|peeks|subj
+jake lloyd|young|mod
+including|jake lloyd|obj
+jake lloyd|who|whn
+plays|jake lloyd|subj
+plays|anakin skywalker|obj
+plays|(|punc
+plays|a.k.a.|mod
+darth vader|)|punc
+darth vader|and|punc
+hawking|marketplace|nn
+darth vader|hawking|conj
+merchandise|darth vader|subj
+merchandise|from|guest
+merchandise|all|from
+star wars|`|punc
+star wars|`|punc
+films|star wars|gen
+films|'|punc
+merchandise|films|obj
+student|18-year-old|mod
+student|german|mod
+student|college|nn
+student|karlsruhe|in
+posted|south|mod-before
+south|heidelberg|of
+posted|student|subj
+message|internet|nn
+posted|message|obj
+message|begging|rel
+begging|message|subj
+star wars|fellow|mod
+star wars|foreign|mod
+star wars|`|punc
+star wars|`|punc
+fans|star wars|gen
+fans|'|punc
+begging|fans|obj
+fans|join|rel
+join|fan|subj
+join|him|obj
+traveling to|united states|obj
+united states|see|rel
+see|united states|subj
+see|`|punc
+see|`|punc
+see|phantom menace|obj
+phantom menace|'|punc
+phantom menace|'|punc
+dates|may|nn
+dates|(|punc
+dates|opening|mod
+phantom menace|dates|in
+start|north america|nn
+dates|start|outside
+start|june|in
+looks like|is|fc
+is|with|pred
+is|fans|with
+executive vice president|united artists theaters|nn
+executive vice president|mike pade|person
+believes|executive vice president|subj
+believes|is|fc
+is|`|punc
+is|`|punc
+is|99.9 percent|pred
+99.9 percent|done|vrel
+done|99.9 percent|obj
+done|'|punc
+done|'|punc
+twentieth century fox|film|nn
+twentieth century fox|distributor|nn
+done|twentieth century fox|with
+twentieth century fox|book|rel
+book|twentieth century fox|subj
+book|`|punc
+book|`|punc
+book|episode|obj1
+book|i|obj2
+book|'|punc
+book|'|punc
+book|coronet|at
+success|its|gen
+of|`|punc
+of|`|punc
+kind|certain|mod
+finished off|kind|obj
+forever|movie|nn
+kind|forever|of
+critic|film|nn
+is|critic|pred
+critic|fort worth star-telegram|for

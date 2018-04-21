@@ -1,0 +1,49 @@
+government|australian|mod
+year|next|post
+year|try|rel
+try|year|subj
+try|stop|fc
+stop|united nations|obj
+united nations|declaring|from
+declaring|kakadu national park|obj
+kakadu national park|endangered|vrel
+endangered|kakadu national park|obj
+mine|jabiluka|nn
+mine|uranium|nn
+endangered|mine|because of
+government|australia|gen
+government|conservative|mod
+defied|government|subj
+declaration|u.n.body|gen
+defied|declaration|obj
+declaration|that|c
+area|world heritage|nn
+is|area|pred
+area|declaring|by
+declaring|government|subj
+declaring|allow|fc
+allow|it|subj
+allow|uranium|obj1
+allow|mining|obj2
+mining|jabiluka|at
+jabiluka|park|within
+report|mission|nn
+findings|report|of
+were|inconsistent|pred
+inconsistent|fact|with
+mine|ranger|nn
+mine|uranium|nn
+20|less than|num-mod
+km|20|amount-value
+km|jabiluka|from
+operated|km|subj
+years|20|amount-value
+operated|years|for
+impact|adverse|mod
+years|impact|with
+impact|kakadu|on
+rejects|australia|subj
+report|unesco|mod
+rejects|report|obj
+national park|kakadu|nn
+report|national park|on

@@ -1,0 +1,145 @@
+teachers|nation|gen
+teachers|largest|mod
+union|teachers|gen
+national education association|union|appo
+believe|national education association|subj
+believe|provide|fc
+provide|home-schooling|subj
+provide|students|obj
+education|comprehensive|mod
+students|education|with
+sites|home-schooling|mod
+sites|web|on
+range|sites|subj
+academies|online|mod
+range|academies|from
+groups|support|nn
+academies|groups|to
+parents|home-schooling|mod
+groups|parents|for
+spokeswoman|nea|nn
+spokeswoman|kathleen lyons|person
+but|admits|comp1
+admits|spokeswoman|subj
+admits|are|fc
+advantages|obvious|mod
+are|advantages|pred
+advantages|home-schooling|to
+shootings|week|gen
+shootings|littleton|at
+littleton|ccolo|appo
+school|high|nn
+school|that|c
+15|left|mod
+people|15|subj
+people|dead|mod
+reminded|school|subj
+reminded|more|obj
+families|700,000|num
+families|u.s.|nn
+more|families|than
+families|that|whn
+teach|families|subj
+children|their|gen
+teach|children|obj
+children|home|at
+teach|why|wha
+chose|they|subj
+chose|take|fc
+take|they|subj
+children|their|gen
+take|children|obj
+children|school|out of
+parents|home-schooling|mod
+are|`|punc
+are|`|punc
+are|on|pred
+lines|front|nn
+are|lines|on
+lines|cutting edge|appo
+debate|education|nn
+cutting edge|debate|of
+are|'|punc
+are|'|punc
+said|bauer|subj
+are|said|mod
+lives|adult|mod
+kind|lives|of
+children|home-schooled|mod
+school|home|nn
+take|school|subj
+take|years|mod
+take|and|punc
+take|based|conj
+based|school|obj
+factors|numerous|mod
+based|factors|on
+based|including|mod
+including|school|subj
+including|quality|obj
+education|public school|nn
+quality|education|of
+needs|specific|mod
+education|needs|appo
+needs|child|of
+wish|emphasize|rel
+emphasize|wish|subj
+emphasize|moral|obj
+moral|or|punc
+guidelines|religious|mod
+moral|guidelines|conj
+guidelines|or|punc
+guidelines|distance|conj
+school|nearest|mod
+distance|school|from
+emphasize|particularly|mod
+particularly|rural areas|in
+trend|fastest-growing|mod
+'s|trend|pred
+trend|country|in
+schooling|home|nn
+prevent|schooling|subj
+prevent|tragedy|obj
+prevent|or|punc
+prevent|keep|conj
+keep|schooling|subj
+keep|kids|obj
+kids|growing up|from
+growing up|schooling|subj
+growing up|said|mod
+said|ruth blount|subj
+ruth blount|who|whn
+schools|ruth blount|subj
+children|her|gen
+children|six|nn
+children|nantucket|in
+cites|farris|subj
+cites|study|obj
+study|that|whn
+found|study|subj
+students|home-schooled|mod
+found|scored|fc
+scored|students|subj
+scored|higher|mod
+higher|public|than
+public|and|punc
+students|private school|nn
+public|students|conj
+tests|two|nn
+used|widely|mod
+tests|used|mod
+tests|standardized|mod
+students|tests|on
+came|proposal|subj
+came|bauer|as
+bauer|met|vrel
+met|bauer|obj
+met|group|with
+group|parents|of
+children|their|gen
+movement|muslim|nn
+movement|home-schooling|mod
+piggybacks|some|in
+piggybacks|ways|subj
+home-schooling|wider|mod
+movement|home-schooling|mod

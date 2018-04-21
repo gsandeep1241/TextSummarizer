@@ -1,0 +1,150 @@
+said|speech|in
+speech|kicking|rel
+kicking|speech|subj
+kicking|off|guest
+convention|union|gen
+convention|triennial|mod
+convention|bargaining|nn
+kicking|convention|obj
+said|yokich|subj
+security|job|nn
+be|again|amod
+said|be|fc
+priority|uaw|gen
+be|priority|pred
+be|when|wha
+begins|it|subj
+talks|contract|nn
+begins|talks|obj
+talks|june|in
+talks|gm|with
+gm|ford motor co|conj
+ford motor co|and|punc
+unit|chrysler|nn
+ford motor co|unit|conj
+unit|daimlerchrysler ag|of
+strategy|expected|pnmod
+expected|gm|by
+but|is|comp1
+is|in|pred
+is|line|in
+resolution|collective bargaining|nn
+line|resolution|with
+resolution|approved|rel
+approved|resolution|obj
+approved|union|subj
+may|last|post
+approved|may|mod
+approved|arguing|mod
+arguing|union|subj
+arguing|that|c
+members|its|gen
+deserve|members|subj
+share|larger|mod
+deserve|share|obj
+share|profits|of
+profits|that|c
+gm|ford motor co|conj
+ford motor co|and|punc
+unit|chrysler|nn
+ford motor co|unit|conj
+unit|daimlerchrysler ag|of
+making|profits|obj
+making|gm|subj
+sales|us|nn
+making|sales|on
+labor|detroit|nn
+labor|(|punc
+labor|ap|nn
+labor|)|punc
+labor|national|mod
+talks|labor|subj
+automakers|detroit|gen
+talks|automakers|between
+begin|united auto workers|subj
+begin|week|obj
+week|midst|in
+sales|record-breaking|mod
+midst|sales|of
+sales|that|whn
+have left|sales|subj
+have left|general motors corp|obj
+flush|ford motor co and daimlerchrysler ag|nn
+general motors corp|flush|appo
+flush|cash|with
+parade|labor day|nn
+carried|parade|during
+parade|detroit|in
+workers|uaw|nn
+carried|workers|subj
+carried|signs|obj
+signs|depicting|rel
+depicting|sign|subj
+depicting|visteon|obj
+as|`|punc
+as|`|punc
+visteon|alien|as
+within|'|punc
+within|'|punc
+monster|orange|mod
+alien|monster|within
+logo|ford|nn
+parade|labor day|nn
+carried|parade|during
+parade|detroit|in
+workers|uaw|nn
+carried|workers|subj
+carried|signs|obj
+signs|depicting|rel
+depicting|sign|subj
+depicting|visteon|obj
+as|`|punc
+as|`|punc
+visteon|alien|as
+within|'|punc
+within|'|punc
+monster|orange|mod
+alien|monster|within
+logo|ford|nn
+make|that|subj
+contract|next|post
+expire|contract|subj
+expire|2003|in
+expire|year|mod
+expire|after|mod
+leadership|union|gen
+after|scheduled|comp1
+scheduled|leadership|obj
+scheduled|change|mod
+change|leadership|subj
+used|general motors corp|subj
+used|strike|obj
+strike|occasion|as
+occasion|warn|rel
+warn|occasion|subj
+close|it|subj
+factories|car|nn
+close|factories|obj
+close|and|punc
+close|eliminate|conj
+eliminate|it|subj
+while|car|nn
+while|models|nn
+eliminate|while|obj
+focusing|fin|subj
+focusing|more|mod
+vehicles|high-profit|mod
+vehicles|sport|mod
+vehicles|utility|mod
+more|vehicles|on
+vehicles|and|punc
+trucks|pickup|nn
+vehicles|trucks|conj
+vehicles|_|punc
+vehicles|shift|appo
+shift|direction|in
+direction|that|c
+ford motor co|and|punc
+ford motor co|chrysler corp|conj
+have|direction|obj
+have|ford motor co|subj

@@ -1,0 +1,62 @@
+magazine|which|whn
+is|partnership|pred
+partnership|hearst corp.|with
+goes|magazine|subj
+goes|sale|on
+goes|wednesday|mod
+'s|'|punc
+'s|'oprah|pred
+'oprah|go|to
+go|'|punc
+go|'|punc
+cards|cutout|nn
+go|cards|appo
+cards|inspiring|with
+inspiring|quotations|obj
+quotations|chosen|vrel
+chosen|quotations|obj
+chosen|by|by-subj
+host|talk show|nn
+chosen|host|by
+may|not|neg
+oprah|all|pre
+be|oprah|pred
+be|all the time|mod
+magazine|oprah winfrey|gen
+magazine|new|mod
+magazine|o|appo
+comes|magazine|subj
+close|pretty|mod
+comes|close|desc
+claims|winfrey|subj
+claims|paid|fc
+paid|she|subj
+paid|photographers|obj
+photographers|more|pnmod
+more|$250,000|than
+$250,000|license|for
+license|use|rel
+use|license|subj
+use|pictures|obj
+only|not|mod
+pictures|only|pnmod
+only|book|in
+use|anywhere|but
+anywhere|wants|rel
+wants|anywhere|obj
+wants|she|subj
+judge|ruben castillo|person
+issued|week|mod-before
+issued|judge|subj
+issued|opinion|obj
+opinion|saying|rel
+saying|opinion|subj
+paul natkin|photographers|nn
+paul natkin|and|punc
+paul natkin|stephen green|conj
+saying|own|fc
+own|paul natkin|subj
+own|copyright|obj
+pictures|11|num
+copyright|pictures|on
+pictures|book|in

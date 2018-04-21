@@ -1,0 +1,57 @@
+asked|prosecutor|subj
+jurors|71|num
+jurors|prospective|mod
+asked|jurors|obj
+jurors|set aside|rel
+set aside|today|subj
+set aside|emotions|obj
+emotions|pity|of
+pity|and|punc
+pity|rage|conj
+chosen|trial|for
+trial|death|in
+matthew shepard|gay|mod
+matthew shepard|college student|nn
+death|matthew shepard|of
+issued|judge|subj
+order|gag|nn
+issued|order|obj
+order|lawyers|for
+lawyers|involved|vrel
+involved|lawyers|obj
+trial|matthew shepard|nn
+trial|murder|nn
+involved|trial|in
+involved|saying|mod
+saying|judge|subj
+injured|"|punc
+injured|gravely|mod-before
+saying|injured|fc
+injured|they|subj
+injured|"|punc
+injured|defendant|obj
+defendant|right|pnmod
+trial|fair|mod
+right|trial|to
+sentence|possible|mod
+sentence|death|nn
+escaping|sentence|obj
+sentenced|russell henderson|obj
+sentenced|by|by-subj
+judge|district|mod
+sentenced|judge|by
+judge|jeffrey donnell|person
+part|his|gen
+judge|part|for
+part|beating|in
+beating|and|punc
+beating|murder|conj
+murder|student|of
+student|matthew shepard|appo
+matthew shepard|here|appo-mod
+matthew shepard|six months ago|appo
+is|just|guest
+statistic|one|nn
+grim|more|mod
+statistic|grim|mod
+is|statistic|pred

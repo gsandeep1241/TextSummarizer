@@ -1,0 +1,66 @@
+teams|four|nn
+teams|other|mod
+are|including|mod-before
+including|team|subj
+including|combination|obj
+richard branson|virgin|mod
+richard branson|boss|mod
+combination|richard branson|of
+richard branson|and|punc
+steve fossett|chicago|nn
+steve fossett|millionaire|nn
+richard branson|steve fossett|conj
+are|also|guest
+bids|planning|nn
+are|bids|pred
+bids|record|for
+route|balloon|gen
+take|route|subj
+take|it|obj
+take|mediterranean sea|across
+mediterranean sea|iran|appo
+iran|afghanistan|appo
+afghanistan|china|appo
+china|and|punc
+china|japan|conj
+japan|crossing|before
+crossing|route|subj
+crossing|pacific|obj
+pacific|and|punc
+pacific|north america|conj
+crossing|and|punc
+crossing|returning to|conj
+returning to|route|subj
+returning to|europe|obj
+journey|three-week|nn
+china|journey|appo
+kilometers|26,700|num
+journey|kilometers|of
+kilometers|(|punc
+miles|16,600|num
+kilometers|miles|appo
+broke|february|in
+february|pilot|rel
+pilot|february|obj
+pilot|swiss|subj
+andy elson|british|mod
+andy elson|flight engineer|nn
+pilot|andy elson|along with
+andy elson|and|punc
+pilot|belgian|mod
+andy elson|pilot|conj
+broke|wim verstraeten|subj
+broke|record|obj
+time|longest|mod
+record|time|for
+time|spent|pnmod
+spent|air|in
+air|balloon|by
+balloon|landing|rel
+landing|balloon|subj
+landing|myanmar|in
+landing|also|mod
+burma|flight|after
+flight|lasting|rel
+lasting|flight|subj
+lasting|9|obj

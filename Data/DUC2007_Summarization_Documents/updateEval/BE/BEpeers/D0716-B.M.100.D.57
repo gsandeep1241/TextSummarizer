@@ -1,0 +1,65 @@
+leader|federal|mod
+leader|opposition|nn
+leader|kim beazley|person
+confirmed|leader|subj
+confirmed|thursday|guest
+confirmed|that|c
+stop|labor party|subj
+stop|jabiluka|obj
+jabiluka|built|rel
+built|if|c
+won|it|subj
+won|government|obj
+election|oct 3|nn
+election|national|mod
+government|election|at
+pjs|ended|rel
+ended|pjs|obj
+ended|siege|subj
+ended|safely|mod
+four|more than|num-mod
+hours|four|amount-value
+later|hours|amount-value
+when|later|mod
+ended|when|wha
+overpowered|police|subj
+man|50-year-old|mod
+overpowered|man|obj
+repeatedly|also|mod
+asked|repeatedly|mod-before
+asked|protesters|subj
+questions|board|nn
+asked|questions|obj
+risks|environmental|mod
+questions|risks|about
+mine|proposed|mod
+risks|mine|of
+meet|it|subj
+meet|with|guest
+company|mining|nn
+meet|company|with
+meet|energy resources|obj
+energy resources|australia ltd.|of
+australia ltd.|and|punc
+representatives|government|nn
+australia ltd.|representatives|conj
+meet|later|mod
+meet|week|mod
+visit|200,000|about
+visit|tourists|subj
+visit|park|obj
+visit|year|mod
+groups|environmental|mod
+groups|and|punc
+aborigines|local|mod
+groups|aborigines|conj
+oppose|groups|subj
+oppose|mine|obj
+era|and|punc
+government|australia|gen
+era|government|conj
+claim|era|subj
+will|not|neg
+claim|hurt|fc
+hurt|jabiluka|subj
+hurt|park|obj

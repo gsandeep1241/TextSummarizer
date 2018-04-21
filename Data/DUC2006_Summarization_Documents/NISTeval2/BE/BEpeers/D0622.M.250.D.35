@@ -1,0 +1,103 @@
+'s|quite|guest
+testing|scientific|mod
+testing|expedition--|mod
+'s|testing|pred
+up|and|punc
+up|down|conj
+east coast|track|rel
+track|east coast|subj
+virus|encephalitis|nn
+track|virus|obj
+virus|that|whn
+killed|virus|subj
+killed|five|obj
+birds|people|rel
+people|birds|obj
+people|east coast|subj
+people|and|punc
+people|infected|conj
+infected|birds|obj
+infected|east coast|subj
+others|38|num
+area|new york city|nn
+others|area|in
+officials|state|nn
+officials|health|nn
+officials|friday|person
+said|officials|subj
+crow|dead|mod
+said|found|fc
+found|crow|subj
+tested|river edge|in
+found|tested|fc
+tested|bergen county|subj
+tested|positive|obj
+virus|west nile|nn
+positive|virus|for
+()|confirming|after
+virus|west nile|nn
+confirming|virus|obj
+virus|birds|in
+birds|five|from
+confirming|upstate|mod
+officials|state|nn
+officials|health|nn
+said|officials|subj
+said|is|fc
+present|likely|mod
+is|present|pred
+crow|dead|mod
+found|crow|subj
+neighborhood|downtown|mod
+tested|neighborhood|in
+found|tested|fc
+tested|week|subj
+tested|positive|obj
+virus|west nile|nn
+positive|virus|for
+tested|making|mod
+making|week|subj
+making|it|obj1
+bird|third|post
+making|bird|desc
+bird|found|vrel
+found|bird|obj
+found|two weeks|in
+two weeks|maryland|in
+virus|mosquito-borne|mod
+maryland|virus|with
+man|82-year-old|mod
+man|new jersey|nn
+become|man|subj
+become|first person|obj
+first person|united states|in
+united states|die|rel
+die|year|subj
+virus|west nile|nn
+die|virus|of
+christie whitman|gov.|title
+said|christie whitman|subj
+die|said|mod
+die|wednesday|mod
+outbreak|encephalitis|nn
+is|outbreak|pred
+outbreak|that|whn
+blamed|outbreak|obj
+three|at least|num-mod
+deaths|three|nn
+blamed|deaths|for
+deaths|new york city|in
+knows|one|subj
+knows|carry|fc
+carry|birds|subj
+carry|virus|obj
+virus|which|whn
+is|similar|pred
+virus|west nile|nn
+similar|virus|to
+virus|africa|of
+been|not|amod
+been|human|pred
+cases|west nile|of
+west nile|reported|pnmod
+reported|state|in

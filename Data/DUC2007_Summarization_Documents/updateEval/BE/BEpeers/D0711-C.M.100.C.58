@@ -1,0 +1,65 @@
+judge|federal|mod
+judge|trying|rel
+trying|judge|subj
+antitrust case|microsoft|nn
+trying|antitrust case|obj
+agreed|judge|subj
+morning|thursday|nn
+agreed|delay|fc
+delay|morning|subj
+ruling|his|gen
+ruling|final|mod
+delay|ruling|obj
+delay|for|mod
+filed|giving|mod-before
+giving|judge|subj
+giving|justice department|obj
+justice department|reply|rel
+reply|time|subj
+proposal|microsoft|gen
+reply|proposal|to
+for|filed|comp1
+filed|week|subj
+filed|wednesday|obj
+filed|revise|mod
+revise|week|subj
+break|government|gen
+revise|break|obj
+break|plan|up
+lawyers|antitrust|mod
+justice department|u.s.|nn
+lawyers|justice department|from
+summoned|lawyers|obj
+summoned|white house|to
+white house|brief|rel
+brief|tuesday|subj
+advisers|president|gen
+president|bill clinton|person
+advisers|legal|mod
+legal|and|punc
+legal|economic|conj
+brief|advisers|obj
+advisers|range|about
+range|options|of
+options|dealing with|for
+dealing with|tuesday|subj
+dealing with|microsoft corp.|obj
+gave|experts|subj
+gave|judge|obj
+marks|microsoft|nn
+marks|case|nn
+marks|high|mod
+judge|marks|in
+gave|thursday|guest
+handling|his|gen
+gave|handling|for
+handling|case|of
+case|saying|appo
+saying|took|rel
+took|he|subj
+took|risks|obj
+took|but|punc
+took|grounded|conj
+grounded|he|subj
+ruling|his|gen
+grounded|ruling|obj

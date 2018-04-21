@@ -1,0 +1,161 @@
+bombings|twin|mod
+embassies|u.s.|nn
+bombings|embassies|at
+embassies|tanzania|in
+tanzania|and|punc
+capital|kenyan|mod
+tanzania|capital|conj
+killed|bombings|subj
+people|257|num
+killed|people|obj
+bombing|recent|mod
+suspect|bombing|in
+embassies|u.s.|nn
+bombing|embassies|of
+embassies|kenya|in
+kenya|and|punc
+kenya|tanzania|conj
+arrested|suspect|obj
+arrested|by|by-subj
+authorities|pakistani|mod
+arrested|authorities|by
+arrested|and|punc
+arrested|handed over|conj
+handed over|suspect|obj
+handed over|kenya|to
+authorities|american|mod
+allege|authorities|subj
+allege|plotted|fc
+plotted|attacks|obj
+plotted|by|by-subj
+terrorist|saudi|mod
+plotted|terrorist|by
+mahmoud|suspects|nn
+mahmoud|charged|mod
+mahmoud|egyptian mustafa|nn
+one|mahmoud|of
+said|one|subj
+said|ahmed|obj
+said|owned|conj
+owned|one|subj
+company|import-export|mod
+owned|company|obj
+company|nairobi|in
+owned|and|punc
+owned|reported|conj
+reported|one|obj
+reported|aug 18|mod
+reported|by|by-subj
+newspaper|independent|mod
+newspaper|kenyan|mod
+reported|newspaper|by
+newspaper|informed|rel
+informed|newspaper|subj
+informed|u.s.|obj
+u.s.|and|punc
+embassies|israeli|nn
+u.s.|embassies|conj
+embassies|nairobi|in
+last|late|mod-before
+nairobi|last|vrel
+last|nairobi|obj
+last|year|mod
+attacks|planned|mod
+attacks|terrorist|mod
+last|attacks|of
+attacks|them|against
+matter|takes|comp1
+takes|what|obj
+takes|it|subj
+find|we|subj
+find|those|obj
+those|responsible|pnmod
+acts|evil|mod
+responsible|acts|for
+find|and|punc
+find|see|conj
+see|we|subj
+see|that|c
+done|justice|obj
+said|clinton|subj
+said|ceremony|at
+ceremony|marking|rel
+marking|ceremony|subj
+marking|return|obj
+return|remains|of
+remains|americans|of
+americans|who|whn
+killed|americans|obj
+bombing|kenya|nn
+bombing|embassy|nn
+killed|bombing|in
+simultaneous|almost|mod
+blast|simultaneous|mod
+killed|bomb|subj
+people|11|num
+killed|people|obj
+africans|all|pre
+people|africans|appo
+killed|u.s. embassy|at
+tanzania|neighboring|mod
+u.s. embassy|tanzania|in
+expelled|tanzania|subj
+iraqis|five|nn
+expelled|iraqis|obj
+iraqis|and|punc
+iraqis|libyan|conj
+libyan|who|whn
+questioned|libyan|obj
+questioned|by|by-subj
+questioned|fbi|by
+fbi|and|punc
+fbi|police|conj
+police|connection|in
+connection|bombing|of
+embassies|two|nn
+embassies|u.s.|nn
+bombing|embassies|of
+embassies|east africa|in
+east africa|last|vrel
+last|east africa|obj
+last|month|mod
+east africa|newspaper|appo
+newspaper|reported|vrel
+reported|newspaper|obj
+reported|friday|mod
+renewed|he|subj
+renewed|his|obj
+vow|to|guest
+vow|wage|to
+war|holy|mod
+war|united states|against
+united states|and|punc
+officials|senior|mod
+united states|officials|conj
+vow|said|fc
+said|war|subj
+said|has|fc
+has|he|subj
+has|network|obj
+network|africa|in
+finding|u.s.|nn
+finding|intelligence|nn
+has|finding|with
+evidence|that|c
+has|he|subj
+has|operatives|obj
+operatives|kenya|in
+believe|investigators|subj
+believe|linked|fc
+linked|ahmed|obj
+linked|bombings|to
+more|5,400|than
+injured|people|obj
+injured|kenya|in
+kenya|and|punc
+70|more than|num-mod
+kenya|70|conj
+dar|tanzanian|mod
+dar|commercial|mod
+dar|capital|mod
+70|dar|in

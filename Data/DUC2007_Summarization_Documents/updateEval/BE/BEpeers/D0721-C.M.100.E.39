@@ -1,0 +1,55 @@
+received|henderson|subj
+sentences|two|nn
+sentences|life|nn
+received|sentences|obj
+sentences|pleading|after
+pleading|henderson|subj
+pleading|guilty|desc
+murder|felony|nn
+murder|and|punc
+murder|kidnapping|conj
+young men|two|nn
+young men|aaron mckinney|conj
+aaron mckinney|and|punc
+aaron mckinney|russell henderson|conj
+sentences|life|nn
+sentences|murder|for
+had|state|subj
+statute|hate-crimes|nn
+had|statute|obj
+laramie|or|punc
+laramie|nation|conj
+changed|result|as
+expressed|mckinney|subj
+expressed|regret|obj
+role|his|gen
+regret|role|for
+role|murder|in
+murder|which|whn
+spurred|murder|subj
+rallies|nationwide|mod
+spurred|rallies|obj
+rallies|legislation|for
+crimes|hate|nn
+legislation|crimes|against
+found|jury|subj
+found|mckinney|obj
+mckinney|guilty|pnmod
+murder|felony|nn
+guilty|murder|of
+murder|kidnapping|conj
+kidnapping|and|punc
+robbery|aggravated|mod
+kidnapping|robbery|conj
+serve|agreement|according to
+serve|mckinney|subj
+sentences|two|nn
+sentences|consecutive|mod
+sentences|life|nn
+serve|sentences|obj
+sentences|one|conj
+murder|felony|nn
+one|murder|for
+murder|and|punc
+murder|one|conj
+one|kidnapping|for

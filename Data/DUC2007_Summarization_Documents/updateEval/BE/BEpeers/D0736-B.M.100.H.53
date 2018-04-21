@@ -1,0 +1,62 @@
+teaming|turner broadcasting system|subj
+teaming|up|mod
+publishers|two|nn
+publishers|major|mod
+publishers|magazine|nn
+up|publishers|with
+publishers|launch|rel
+launch|publisher|subj
+channel|cable television|nn
+launch|channel|obj
+channel|aimed|vrel
+aimed|channel|obj
+aimed|women|at
+aimed|going up|mod
+successful|already|mod
+channel|successful|mod
+channel|lifetime|nn
+going up|channel|against
+daytime emmys|major|mod
+nominees|daytime emmys|for
+series|drama|nn
+children|all|pre
+children|my|gen
+children|"|punc
+children|abc|appo
+lives|our|gen
+lives|"|punc
+lives|nbc|appo
+general hospital|"|punc
+general hospital|abc|appo
+young|and|punc
+young|restless|conj
+young|"|punc
+young|cbs|appo
+host|show|nn
+leeza gibbons|"|punc
+leeza gibbons|leeza|appo
+regis philbin|and|punc
+regis philbin|kathie lee gifford|conj
+syndicated|"|punc
+syndicated|live|mod-before
+live|regis|with
+regis|and|punc
+regis|kathie lee|conj
+syndicated|"|punc
+syndicated|regis philbin|subj
+donnell|rosie o|nn
+donnell|'|punc
+donnell|"|punc
+donnell show|the rosie o|nn
+donnell show|'|punc
+donnell|donnell show|appo
+syndicated|"|punc
+syndicated|donnell|subj
+barbara walters|star jones|appo
+meredith viera|joy behar|appo
+debbie matenopoulos|"|punc
+debbie matenopoulos|view|appo
+roseanne|"|punc
+roseanne|roseanne show|appo
+syndicated|"|punc
+syndicated|roseanne|subj

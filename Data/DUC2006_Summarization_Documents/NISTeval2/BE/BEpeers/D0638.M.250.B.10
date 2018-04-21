@@ -1,0 +1,148 @@
+spacecraft|nasa|gen
+spacecraft|aging|mod
+spacecraft|galileo|nn
+flew|spacecraft|subj
+miles|380|amount-value
+flew|miles|within
+miles|jupiter|of
+io|moon|nn
+miles|feared|rel
+feared|io|subj
+might|not|neg
+feared|survive|fc
+survive|miles|obj
+survive|probe|subj
+moons|jupiter|gen
+moons|other|mod
+moons|major|nn
+are|ganymede|pred
+ganymede|europa|conj
+europa|and|punc
+europa|callisto|conj
+moons|its|gen
+has|moons|like
+jupiter|_|punc
+planet|biggest|mod
+jupiter|planet|appo
+planet|solar system|in
+has|_|punc
+has|jupiter|subj
+aspects|earthlike|mod
+has|aspects|obj
+extension|current|mod
+extension|two-year|mod
+extension|mission|nn
+focusing on|extension|subj
+focusing on|moon|obj
+mission|such|pre
+launched|ever|mod-before
+launched|mission|obj
+care|that|c
+brought back|care|obj
+brought back|stuff|subj
+brought back|earth|to
+does|not|neg
+contaminate|care|subj
+contaminate|planet|obj
+life|extraterrestrial|mod
+planet|life|with
+story|endit|nn
+filed|story|subj
+filed|by|guest
+filed|cox|by
+filed|newspapers|obj
+newspapers|use|for
+use|clients|by
+service|new york times|nn
+service|news|nn
+clients|service|of
+two|about|num-mod
+years|two|amount-value
+service|years|for
+probe|space|nn
+years|gathering|rel
+gathering|years|obj1
+gathering|probe|subj
+more|ever|mod
+evidence|more|mod
+gathering|evidence|obj2
+evidence|that|c
+ocean|large|mod
+lies|ocean|subj
+lies|hidden|desc
+surface|frozen|mod
+surface|fractured|mod
+hidden|surface|beneath
+moon|jupiter|gen
+surface|moon|of
+probe|made|vrel
+made|probe|obj1
+flyby|closest-ever|mod
+made|flyby|desc
+flyby|10:06 p.m. pdt|at
+said|sunday|mod-before
+said|probe|subj
+manager|project|nn
+said|manager|obj
+manager|jim erickson|person
+jet propulsion laboratory|nasa|gen
+manager|jet propulsion laboratory|of
+jet propulsion laboratory|pasadena|in
+photos|new|mod
+satellite|galileo|nn
+photos|satellite|from
+show|photos|subj
+show|lava|obj
+funding|and|punc
+details|other|mod
+funding|details|conj
+yet|not|mod
+worked out|yet|guest
+worked out|funding|obj
+said|he|subj
+worked out|said|mod
+interest|increasing|mod
+making|interest|because of
+past|europa|gen
+past|watery|mod
+interest|past|in
+past|or|punc
+past|present|conj
+making|nasa|subj
+making|plans|obj
+plans|spacecraft|for
+spacecraft|launched|rel
+launched|2003|in
+launched|and|punc
+launched|go into|conj
+go into|spacecraft|subj
+go into|orbit|obj
+moon|jovian|nn
+orbit|moon|of
+moon|2008|in
+confirmation|oceans|of
+moons|such|pre
+moons|jovian|nn
+oceans|moons|on
+await|confirmation|subj
+await|visits|obj
+probes|robotic|mod
+probes|space|nn
+visits|probes|by
+said|scientists|subj
+seminar|all-day|mod
+said|seminar|at
+information|latest|mod
+seminar|information|on
+information|galileo|from
+galileo|which|whn
+is|now|pred
+jupiter|planet|nn
+hotter|much|mod
+is|hotter|pred
+hotter|and|punc
+hotter|windier|conj
+information|latest|mod
+probe|space|nn
+information|probe|from
+shown|information|subj

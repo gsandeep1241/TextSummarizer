@@ -1,0 +1,146 @@
+smokers|320 million|nn
+is|smokers|with
+thing|closest|mod
+is|thing|pred
+thing|has|rel
+has|thing|obj
+has|china|subj
+pastime|national|mod
+has|pastime|to
+cities|big|mod
+took|beijing|such as
+beijing|shanghai|conj
+shanghai|tianjin|conj
+tianjin|and|punc
+municipalities|chongqing|nn
+tianjin|municipalities|conj
+municipalities|and|punc
+municipalities|guangzhou|conj
+guangzhou|wuhan|conj
+wuhan|and|punc
+wuhan|xi|conj
+'an|and|punc
+cities|other|mod
+'an|cities|conj
+took|'an|subj
+measures|similar|mod
+took|measures|obj
+took|after|mod
+china|north|mod
+shanxi province|china|gen
+changzhi|shanxi province|of
+after|initiated|comp1
+initiated|changzhi|subj
+law|no-smoking|mod
+initiated|law|obj
+law|november , 1989|in
+bans|smoking|mod
+bans|places|of
+cover|mainly|mod-before
+cover|bans|subj
+facilities|public|mod
+facilities|transportation|nn
+cover|facilities|obj
+facilities|schools|conj
+schools|cinemas|conj
+cinemas|theaters|conj
+halls|meeting|nn
+theaters|halls|conj
+halls|hospitals|conj
+stores|department|nn
+hospitals|stores|conj
+stores|museums|conj
+museums|stadiums|conj
+stadiums|and so on|conj
+lighting up|forbidden city|in
+train|subway|nn
+lighting up|train|on
+train|or|punc
+places|other|mod
+public|very|mod
+places|public|mod
+train|places|conj
+fine|small|mod
+risk|fine|obj
+risk|perhaps|mod
+60 cents|dlrs|to
+5 to 10|1.20|num
+5 to 10|(|punc
+ban|1996|num
+ban|smoking|on
+places|public|mod
+smoking|places|in
+but|ignored|comp1
+ignored|ban|obj
+although|banned|comp1
+banned|smoking|obj
+banned|hospitals|in
+transportation|public|mod
+hospitals|transportation|conj
+transportation|and|punc
+transportation|shops|conj
+have|still|amod
+have|danes|subj
+have|puff|obj
+cafes|copenhagen|nn
+puff|cafes|in
+cafes|and|punc
+cafes|restaurants|conj
+have|so long as|mod
+so long as|bother|comp1
+bother|they|subj
+bother|others|obj
+have|offices|subj
+room|smoking|nn
+have|room|obj
+light up|smokers|subj
+desks|their|gen
+light up|desks|at
+montreal|smoker-friendly|mod
+outlaw|montreal|in
+legislation|provincial|mod
+legislation|works|in
+outlaw|legislation|subj
+outlaw|smoking|obj
+public|most|mod
+places|public|mod
+smoking|places|in
+outlaw|and|punc
+outlaw|require|conj
+require|legislation|subj
+require|restaurants|obj
+restaurants|allocate|rel
+allocate|restaurant|subj
+60|at least|num-mod
+allocate|60|obj
+seats|their|gen
+seats|nonsmokers|to
+30|more than|num-mod
+signs|no-smoking|nn
+signs|"|punc
+placed|signs|obj
+placed|buildings|inside
+congress|municipal people|gen
+buildings|congress|of
+body|local|mod
+body|legislative|mod
+congress|body|appo
+placed|since|mod
+since|passed|comp1
+passed|it|subj
+passed|ban|obj
+ban|last|vrel
+last|ban|obj
+last|december|mod
+banned|cigarettes|obj
+offices|all|pre
+banned|offices|from
+offices|and|punc
+rooms|meeting|nn
+offices|rooms|conj
+rooms|mpc|of
+banned|as soon as|mod
+as soon as|published|comp1
+published|it|subj
+published|news|obj
+news|regulation|of

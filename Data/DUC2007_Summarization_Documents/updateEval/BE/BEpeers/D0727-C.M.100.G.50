@@ -1,0 +1,65 @@
+mediator|court-appointed|mod
+hours|spent|mod
+hours|12|amount-value
+hours|negotiating|rel
+negotiating|hours|subj
+agreement|settlement|nn
+negotiating|agreement|obj
+agreement|gingriches|between
+filed|hours|subj
+report|her|gen
+filed|report|obj
+filed|friday|mod
+filed|saying|mod
+saying|hours|subj
+saying|came to|fc
+came to|couple|subj
+settlement|"|punc
+settlement|full|mod
+came to|settlement|obj
+came to|"|punc
+came to|early|mod
+came to|morning|mod
+marry|gingrich|subj
+marry|callista bisek|obj
+callista bisek|aug 18|on
+callista bisek|alexandria|in
+marry|said|mod
+said|randy evans|subj
+speaker|former|mod
+speaker|house|nn
+lawyer|speaker|gen
+lawyer|personal|mod
+randy evans|lawyer|appo
+filed|gingrich|subj
+filed|for|guest
+filed|divorce|for
+filed|july 19 , 1999 ,|obj
+months|six|amount-value
+july 19 , 1999 ,|months|appo
+months|resigning|after
+resigning|gingrich|subj
+seat|6th|mod
+seat|district|mod
+resigning|seat|obj
+seat|held|rel
+held|seat|obj
+held|he|subj
+held|congress|in
+years|20|amount-value
+congress|years|for
+for|and|punc
+for|from|conj
+for|speakership|from
+speakership|won|rel
+won|speakership|obj
+won|he|subj
+won|1994|in
+leading|he|subj
+republicans|house|nn
+leading|republicans|obj
+majority|their|gen
+majority|first|post
+republicans|majority|to
+years|40|amount-value
+majority|years|in

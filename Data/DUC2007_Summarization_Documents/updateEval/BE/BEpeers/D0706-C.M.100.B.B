@@ -1,0 +1,69 @@
+exchanged|1999|in
+groups|17|num
+groups|armed|mod
+exchanged|"|punc
+exchanged|groups|subj
+exchanged|arms|obj
+arms|peace|for
+peace|"|punc
+government|myanmar|gen
+government|millitary|mod
+peace|government|with
+demanded|myanmar|subj
+demanded|control|fc
+control|thailand|subj
+camps|24|num
+camps|refugee|nn
+control|camps|obj
+border|myanmar|nn
+camps|border|along
+border|where|wha
+groups|anti-government|mod
+conduct|groups|subj
+military|foreign-sponsored|mod
+conduct|military|obj
+military|and|punc
+military|"|punc
+training|terrorist|mod
+training|"|punc
+military|training|conj
+embassy|myanmar|nn
+embassy|bangkok|in
+seized|embassy|obj
+seized|by|by-subj
+rebels|myanmar|nn
+seized|rebels|by
+agreed|2000|in
+agreed|us|subj
+agreed|resettle|fc
+resettle|us|subj
+600|1,500|of
+1,500|applying|rel
+applying|1,500|subj
+refugees|burmese|mod
+applying|refugees|obj
+refugees|thailand|out of
+denied|us|subj
+certification|anti-drug|mod
+denied|certification|obj
+certification|burma|to
+labor department|us|nn
+reported|labor department|subj
+reported|that|c
+labor|forced|mod
+is|including|mod-before
+including|labor|subj
+labor|child|nn
+including|labor|obj
+is|widespread|pred
+widespread|myanmar|in
+received|suu kyi|subj
+award|dublin|gen
+award|"|punc
+award|freedom of the city|nn
+award|"|punc
+received|award|obj
+award|absentia|in
+received|members|along with
+u2|band|nn
+members|u2|of

@@ -1,0 +1,114 @@
+be|3 p.m|guest
+performance|symphony hall|nn
+performance|matinee|nn
+be|performance|pred
+be|sunday|mod
+manager|heyner|gen
+manager|former|mod
+could|not|neg
+reached|manager|obj
+reached|by|by-subj
+reached|telephone|by
+telephone|comment|rel
+comment|telephone|subj
+churches|and|punc
+churches|congregations|conj
+have|including|mod-before
+including|church|subj
+including|hammerman|obj
+have|churches|subj
+sites|web|nn
+have|sites|obj
+book|hammerman|gen
+explores|book|subj
+explores|reasons|obj
+reasons|that|c
+using|people|subj
+using|internet|obj
+internet|find|rel
+find|internet|subj
+find|faith|obj
+speaks|goodwillers|like
+speaks|mccabe|subj
+speaks|lovingly|mod
+lovingly|favorite|of
+being|second|pred
+second|market|rel
+market|second|subj
+proposition|losing|mod
+is|proposition|pred
+'religion|word|nn
+means|'|punc
+means|in|mod-before
+means|latin|in
+means|actually|amod
+means|'religion|subj
+means|'reconnect|obj
+believe|generation xers|subj
+believe|is|fc
+part|central|mod
+is|part|pred
+part|faith|of
+'s|so|guest
+'s|free-form|pred
+stultifying|it|subj
+stultifying|"|punc
+backdrops|perceptions|nn
+backdrops|paint|nn
+backdrops|different|mod
+stultifying|backdrops|obj
+change|workplace|nn
+link|name|subj
+link|images|obj
+x|generation|nn
+images|x|of
+x|and|punc
+terrain|rugged|mod
+x|terrain|conj
+'re|not|neg
+think|typically|mod-before
+think|people|subj
+store|thrift|nn
+think|is|fc
+is|"|punc
+is|others|for
+leaders|national|nn
+provided|leaders|subj
+provided|inspiration|obj
+inspiration|enter|rel
+enter|inspiration|subj
+enter|politics|obj
+hammerman|43|appo
+led|hammerman|subj
+led|temple beth el|obj
+years|13|amount-value
+temple beth el|years|for
+married|even|amod
+married|hammerman|subj
+married|couple|obj
+couple|who|whn
+met|couple|subj
+met|internet|on
+making|we|subj
+push|big|mod
+making|push|obj
+push|get up|rel
+get up|push|subj
+volunteers|10,000|num
+get up|volunteers|to
+goes|xterra|subj
+goes|sale|on
+june|early|mod
+sale|june|in
+june|priced|pnmod
+$25,000|$17,500--|mod
+priced|$25,000|between
+goes|loyalty|subj
+working on|personally|amod
+working on|project|obj
+working on|they|subj
+working on|moment|at
+debbie herd|manager|appo
+relations|college|nn
+manager|relations|of
+relations|j.c. penney|for

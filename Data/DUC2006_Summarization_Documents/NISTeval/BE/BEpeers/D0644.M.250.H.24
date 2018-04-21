@@ -1,0 +1,129 @@
+projected|office of management and budget|subj
+deficit|$121 billion|nn
+projected|deficit|obj
+budget|1998|num
+deficit|budget|in
+budget|which|whn
+turned out|budget|subj
+be|"|punc
+error|$191 billion|nn
+be|error|pred
+administration|clinton|nn
+economic policy|administration|gen
+centerpiece|economic policy|of
+been|demand|pred
+demand|that|c
+congress|republican-controlled|mod
+forgo|congress|subj
+cuts|tax|nn
+forgo|cuts|obj
+forgo|and|punc
+forgo|set aside|conj
+set aside|congress|subj
+surplus|projected|mod
+surplus|federal|mod
+surplus|budget|nn
+set aside|surplus|obj
+set aside|until|mod
+until|shores up|comp1
+shores up|nation|subj
+system|social security|nn
+shores up|system|obj
+devote $2.7 trillion|or|punc
+devote $2.7 trillion|62 percent|conj
+surplus|projected|mod
+surplus|$4.4 trillion|nn
+surplus|federal|mod
+surplus|budget|nn
+62 percent|surplus|of
+15|next|num-mod
+years|15|amount-value
+surplus|years|over
+()|rescuing|to
+ailing|financially|mod
+system|ailing|mod
+system|social security|nn
+rescuing|system|obj
+seeks|clinton|subj
+seeks|set aside|mod
+set aside|clinton|subj
+set aside|15 percent|obj
+surplus|federal|mod
+surplus|budget|nn
+15 percent|surplus|of
+15|next|num-mod
+years|15|amount-value
+surplus|years|over
+years|or|punc
+years|about $660 billion|conj
+prolong|solvency|obj
+solvency|program|of
+proposed|president|subj
+proposed|using|fc
+using|president|subj
+using|62 percent|obj
+surplus|overall|mod
+surplus|budget|nn
+62 percent|surplus|of
+15|next|num-mod
+years|15|amount-value
+surplus|years|over
+using|approximately|mod
+portion|surplus|of
+surplus|attributable|pnmod
+attributable|excess|to
+taxes|payroll|nn
+excess|taxes|in
+benefits|retirement|nn
+taxes|benefits|over
+benefits|shore up|rel
+shore up|benefit|subj
+shore up|social security|obj
+part|reason|of
+reason|for|guest
+budget|anticipated|mod
+budget|huge|mod
+reason|budget|for
+$5.9 trillion|surpluses|nn
+15|next|num-mod
+years|15|amount-value
+$5.9 trillion|years|over
+measure|one|nn
+measure|administration|nn
+years|measure|by
+reason|is|comp1
+is|failure|pred
+analysts|white house|nn
+analysts|predict|rel
+predict|analyst|subj
+growth|feverish|mod
+predict|growth|obj
+growth|economy|of
+economy|compiling|rel
+compiling|economy|subj
+budgets|federal|mod
+compiling|budgets|obj
+years|last|post
+years|six|amount-value
+budgets|years|over
+projects|congressional budget office|subj
+projects|that|c
+surplus|total|mod
+surplus|federal|mod
+surplus|budget|nn
+10|next|num-mod
+years|10|amount-value
+surplus|years|over
+be|$2.9 trillion|pred
+surplus|federal|mod
+surplus|budget|nn
+used|surplus|obj
+used|reduce|mod
+reduce|surplus|subj
+debt|national|mod
+reduce|debt|obj
+reduce|rather|mod
+cuts|tax|nn
+cuts|or|punc
+spending|new|mod
+cuts|spending|conj

@@ -1,0 +1,137 @@
+grounded|air france|subj
+grounded|its|obj
+grounded|remaining|mod
+remaining|air france|subj
+concordes|five|nn
+remaining|concordes|obj
+remaining|immediately|mod
+immediately|crash|after
+grounded|already|amod
+grounded|air france concordes|obj
+officials|french|nn
+officials|aviation|nn
+suspended|officials|subj
+certification|their|gen
+certification|flight|nn
+suspended|certification|obj
+suspended|wednesday|mod
+smashed|air france flight 4590|subj
+smashed|shortly|mod
+shortly|takeoff|after
+takeoff|hotel|into
+hotel|town|in
+north|gonesse|nn
+town|north|of
+north|paris|of
+crash|tuesday|gen
+feel|crash|until
+crash|air france concorde|of
+air france concorde|paris|outside
+feel|passengers|subj
+feel|paying|fc
+paying|they|subj
+paying|peace of mind|for
+near|aftermath|in
+aftermath|tuesday|of
+crash|air france concorde|of
+near|crash|subj
+near|paris|obj
+some|pilots|of
+pilots|who|whn
+flown|pilots|subj
+flown|them|obj
+pondered|some|subj
+pondered|paradox|obj
+pondered|wednesday|mod
+removed|investigators|subj
+engines|two|nn
+removed|engines|obj
+site|concorde|nn
+site|crash|nn
+engines|site|from
+removed|wednesday|guest
+removed|hopes|in
+jet|air france|nn
+jet|supersonic|mod
+wreckage|jet|of
+hopes|help|rel
+help|wreckage|subj
+determine|hopes|subj
+determine|cause|obj
+cause|disaster|of
+disaster|that|whn
+killed|disaster|subj
+people|113|num
+killed|people|obj
+investigators|french|nn
+said|investigators|subj
+said|believe|fc
+believe|they|subj
+believe|that|c
+strip|thin|mod
+strip|metal|of
+fell|strip|subj
+fell|off|guest
+plane|continental|mod
+fell|plane|obj
+plane|which|whn
+taken off|plane|subj
+runway|same|post
+taken off|runway|on
+runway|concorde|as
+taken off|and|punc
+taken off|set off|conj
+set off|plane|subj
+set off|events|obj
+events|that|whn
+caused|events|subj
+jet|air france|nn
+caused|jet|obj
+jet|burst|rel
+burst|jet|subj
+burst|flames|into
+flames|and|punc
+flames|crash|conj
+crash|minutes|within
+takeoff|its|gen
+crash|takeoff|after
+operated|concorde|subj
+flies|air france|nn
+operated|flies|by
+flies|world|around
+time|record|mod
+world|time|in
+hours|32|amount-value
+time|hours|of
+hours|and|punc
+minutes|49|amount-value
+hours|minutes|conj
+british airways|and|punc
+british airways|air france|conj
+launch|british airways|subj
+service|concorde|nn
+launch|service|obj
+service|washington|to
+washington|london|from
+london|and|punc
+london|paris|conj
+resumed|british airways|subj
+flights|its|gen
+flights|concorde|nn
+resumed|flights|obj
+day|single|mod
+pause|day|gen
+flights|pause|after
+resumed|after|mod
+flight|air france|nn
+after|crashed|comp1
+crashed|flight|subj
+crashed|paris|outside
+paris|july 25|on
+british airways|and|punc
+british airways|air france|conj
+staffed|usually|mod-before
+staffed|british airways|subj
+staffed|each|guest
+concorde|100-seat|mod
+staffed|concorde|obj

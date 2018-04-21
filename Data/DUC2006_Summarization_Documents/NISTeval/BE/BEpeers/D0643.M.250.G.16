@@ -1,0 +1,140 @@
+mike edwards|spokesman|appo
+spokesman|bureau|for
+said|mike edwards|subj
+patterns|disturbed|mod
+patterns|weather|mod
+said|were|fc
+were|proof|pred
+proof|that|c
+having|el nino|subj
+having|effect|obj
+weather|south african|nn
+effect|weather|on
+forecasts|earlier|mod
+conditions|dry|mod
+forecasts|conditions|for
+were|from november to march|mod-before
+were|correct|pred
+was|indication|pred
+indication|that|c
+patterns|global|mod
+patterns|weather|mod
+were|disturbed|pred
+event|el niono|nn
+said|event|by
+disturbed|said|fc
+said|bureau|subj
+xinhua|may 18|nn
+xinhua|(|punc
+beijing|xinhua|appo
+oceanographers|chinese|nn
+expect|today|mod-before
+expect|oceanographers|subj
+repercussions|climatic|mod
+expect|repercussions|obj
+weather|global|mod
+repercussions|weather|on
+expect|as|mod
+as|expected|comp1
+come|el nino|subj
+come|sometime|mod
+come|year|mod
+xinhua|july 6|nn
+xinhua|(|punc
+dhaka|xinhua|appo
+studying|bangladesh|subj
+studying|effects|obj
+effects|el nino|of
+el nino|order|in
+order|develop|rel
+develop|order|subj
+develop|model|obj
+model|help|rel
+help|model|subj
+understand|farmers|subj
+pattern|global|mod
+pattern|weather|mod
+understand|pattern|obj
+understand|when|wha
+coast|pacific|nn
+ocean current|coast|in
+coast|peru|off
+warms up|ocean current|subj
+warms up|or|punc
+warms up|cools|conj
+cools|ocean current|subj
+cools|down|mod
+report|press|nn
+said|report|subj
+said|monday|mod
+becomes|either|without
+becomes|weather|subj
+becomes|typical|desc
+meaning|largely|mod
+say|meteorologists|subj
+said|he|subj
+said|that|c
+moisture|soil|nn
+moisture|and|punc
+cover|snow|nn
+moisture|cover|conj
+appear|moisture|subj
+appear|perceptibly|mod
+appear|influence|mod
+influence|moisture|subj
+patterns|seasonal|mod
+patterns|weather|mod
+influence|patterns|obj
+influence|adding|mod
+adding|he|subj
+adding|that|c
+models|computer|nn
+models|scripps|at
+beginning|models|subj
+beginning|incorporate|mod
+incorporate|model|subj
+incorporate|some|obj
+some|variables|of
+variables|success|with
+provides|la nina|subj
+link|physical|mod
+provides|link|obj
+link|many|between
+patterns|unusual|mod
+patterns|weather|mod
+many|patterns|of
+patterns|seen|vrel
+seen|patterns|obj
+parts|far-flung|mod
+seen|parts|in
+parts|globe|of
+seen|'|punc
+seen|'|punc
+seen|said|mod
+said|john janowiak|subj
+john janowiak|scientist|appo
+scientist|national oceanic and atmospheric administration|for
+el nino|which|whn
+involves|el nino|subj
+waters|equatorial|mod
+involves|waters|obj
+waters|pacific|in
+pacific|warming up|rel
+warming up|pacific|subj
+warming up|creating|mod
+patterns|unusual|mod
+patterns|weather|mod
+creating|patterns|obj
+patterns|world|around
+temperatures|increased|mod
+temperatures|winter|nn
+temperatures|lima|in
+4|about|num-mod
+degrees|4|amount-value
+lima|degrees|by
+fahrenheit|centigrade|mod
+fahrenheit|(|punc
+7|about|num-mod
+degrees|7|amount-value
+fahrenheit|degrees|nn
+spur|el nino|obj

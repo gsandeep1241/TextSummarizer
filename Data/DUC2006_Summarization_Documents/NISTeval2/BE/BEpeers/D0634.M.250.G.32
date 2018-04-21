@@ -1,0 +1,136 @@
+said|new york times|subj
+said|editorial|in
+decision|federal government|gen
+decision|order|rel
+order|decision|subj
+protections|new|mod
+order|protections|obj1
+salmon|nine|nn
+salmon|threatened|mod
+protections|salmon|for
+order|populations|obj2
+northwest|pacific|nn
+populations|northwest|in
+is|just|guest
+is|beginning|pred
+effort|biggest|mod
+biggest|and|punc
+expensive|most|mod
+biggest|expensive|conj
+effort|rescue|nn
+be|effort|pred
+history|26-year|nn
+effort|history|in
+history|endangered species act|of
+efforts|conservation|nn
+focused|efforts|subj
+focused|not|mod
+much|so|mod
+focused|much|mod
+species|entire|mod
+much|species|on
+salmon|pacific|nn
+species|salmon|of
+like|on|mod-before
+stocks|specific|mod
+like|stocks|on
+stocks|group|appo
+group|fish|of
+fish|that|whn
+spawn|fish|subj
+locality|same|post
+spawn|locality|in
+creek|specific|mod
+like|creek|obj
+interception|intensive alaskan|nn
+fish|canadian-bound|mod
+interception|fish|of
+violated|summer|mod-before
+violated|interception|subj
+violated|basic principles|obj
+basic principles|conservation|of
+conservation|and|punc
+conservation|share|conj
+share|pacific salmon treaty|in
+state|and|punc
+governments|local|nn
+state|governments|conj
+hope|state|subj
+hope|retain|fc
+retain|state|subj
+degree|large|mod
+retain|degree|obj
+degree|control|of
+measures|salmon|nn
+measures|conservation|nn
+control|measures|over
+retain|but|mod
+federal government|and|punc
+federal government|activist|conj
+but|ask|comp1
+ask|federal government|subj
+ask|courts|obj
+courts|force|rel
+force|court|subj
+force|end|obj
+end|behavior|to
+behavior|that|whn
+harms|behavior|subj
+species|threatened|mod
+harms|species|obj
+acting|endangered species act|under
+set|federal government|subj
+set|in|guest
+set|motion|in
+plan|regional|mod
+set|plan|obj
+plan|restore|rel
+restore|plan|subj
+runs|salmon|nn
+restore|runs|obj
+northwest|pacific|nn
+runs|northwest|throughout
+treaty|pacific salmon|nn
+negotiated|first|amod
+negotiated|treaty|obj
+negotiated|divide|mod
+divide|treaty|subj
+catch|salmon|nn
+divide|catch|obj
+catch|u.s.|between
+u.s.|and|punc
+fishermen|canadian|mod
+u.s.|fishermen|conj
+fishermen|based|vrel
+based|fishermen|obj
+spawned|fish|obj
+does|not|neg
+extend|esa|subj
+extend|penalties|obj
+species|263|num
+species|threatened|mod
+penalties|species|to
+species|including|rel
+including|specie|subj
+including|many|obj
+stocks|listed|mod
+stocks|salmon|nn
+many|stocks|of
+northwest|pacific|nn
+stocks|northwest|in
+is|most|pred
+most|dramatic|pnmod
+dramatic|chinook|among
+chinook|and|punc
+chinook|coho salmon|conj
+northwest|pacific|nn
+northwest|pacific|nn
+considered|northwest|in
+species|16|num
+species|salmon|nn
+considered|species|obj
+threatened|or|punc
+threatened|endangered|conj
+authorized|congress|subj
+authorized|more|obj
+more|$100|than

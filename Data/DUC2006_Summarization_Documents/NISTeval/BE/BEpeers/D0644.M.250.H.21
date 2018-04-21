@@ -1,0 +1,134 @@
+'re|for|pred
+agenda|reform|nn
+'re|agenda|for
+going|you|subj
+going|support|fc
+support|you|subj
+support|budget|obj
+support|"|punc
+support|said|mod
+chairman|house budget committee|nn
+said|chairman|subj
+chairman|john kasich|person
+chairman|r-ohio|appo
+support|echoing|mod
+theme|campaign|nn
+echoing|theme|obj
+george w. bush|apparent|mod
+george w. bush|gop|nn
+george w. bush|presidential|mod
+george w. bush|nominee|nn
+theme|george w. bush|of
+looking|ahead|mod
+decade|one|amount-value
+decade|congressional budget office|appo
+congressional budget office|that|whn
+foresaw|congressional budget office|subj
+deficit|federal|mod
+deficit|budget|nn
+foresaw|deficit|obj
+deficit|year|for
+year|2005|num
+year|over $400 billion|of
+drum|republican|mod
+drum|beat|vrel
+beat|drum|obj
+cuts|tax|nn
+beat|cuts|for
+picked up|drum|subj
+picked up|tempo|obj
+picked up|as|mod
+as|projected|comp1
+projected|congressional budget office|subj
+surplus|federal|mod
+surplus|budget|nn
+projected|total|fc
+total|surplus|subj
+total|$1.9 trillion|obj
+10|next|num-mod
+years|10|amount-value
+$1.9 trillion|years|over
+director|white house|nn
+director|budget|nn
+director|jack lew|person
+said|director|subj
+blueprint|clinton|gen
+blueprint|budget|nn
+said|cut|fc
+cut|blueprint|subj
+costs|projected|mod
+costs|debt|nn
+cut|costs|obj
+2 cents|just|pre
+costs|2 cents|to
+dollar|federal|mod
+dollar|tax|nn
+2 cents|dollar|out of
+dollar|2014|in
+projects|congressional budget office|subj
+projects|that|c
+surplus|total|mod
+surplus|federal|mod
+surplus|budget|nn
+10|next|num-mod
+years|10|amount-value
+surplus|years|over
+be|$2.9 trillion|pred
+office of management and budget|white house|gen
+forecast|office of management and budget|subj
+surpluses|similar|mod
+surpluses|budget|nn
+forecast|surpluses|obj
+surpluses|future|mod
+surpluses|budget|nn
+are|"|punc
+are|with|pred
+are|budget|with
+'s|hard|pred
+'s|predict|mod
+predict|it|subj
+happen|what|subj
+three|more than|num-mod
+three|or|punc
+years|four|amount-value
+three|years|conj
+years|said|rel
+said|years|obj
+said|latta|subj
+balanced|budget|obj
+democrats|and|punc
+democrats|republicans|conj
+would like|democrats|subj
+see|democrat|subj
+see|some|obj
+spending|federal|mod
+would like|increased|fc
+increased|spending|subj
+president|clinton|person
+forecasting|president|subj
+forecasting|decades|obj
+surpluses|federal|mod
+surpluses|budget|nn
+forecasting|surpluses|of
+worth|$4.854 trillion|nn
+surpluses|worth|appo
+predictions|2014--|nn
+predictions|precise|mod
+worth|predictions|by
+predictions|that|whn
+come|predictions|subj
+certainty|only|mod
+certainty|one|nn
+come|certainty|with
+divided|it|subj
+divided|democrats|obj
+democrats|and|punc
+democrats|republicans|conj
+issues|such|pre
+issues|basic|mod
+republicans|issues|over
+as|whether|c
+is|really|mod-before
+surplus|federal|mod
+surplus|budget|nn
+is|surplus|pred

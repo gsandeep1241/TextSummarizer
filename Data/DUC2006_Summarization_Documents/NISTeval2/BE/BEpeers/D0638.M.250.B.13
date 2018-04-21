@@ -1,0 +1,146 @@
+spacecraft|nasa|gen
+spacecraft|aging|mod
+spacecraft|galileo|nn
+swooped|spacecraft|subj
+swooped|but|punc
+experience|apparently|mod-before
+did|not|neg
+swooped|experience|conj
+experience|spacecraft|subj
+problems|computer|nn
+experience|problems|obj
+radiation|planet|gen
+radiation|intense|mod
+problems|radiation|from
+probe|which|whn
+been|in|pred
+been|orbit|in
+orbit|jupiter|around
+jupiter|december 1995|since
+flew|probe|subj
+miles|220|amount-value
+flew|miles|within
+surface|moon|gen
+miles|surface|of
+spacecraft|galileo|nn
+spacecraft|which|whn
+orbiting|spacecraft|subj
+jupiter|and|punc
+satellites|its|gen
+satellites|four|nn
+satellites|largest|mod
+jupiter|satellites|conj
+produced|jupiter|subj
+produced|pictures|obj
+range|closer|mod
+pictures|range|at
+range|that|whn
+strengthened|range|subj
+hypothesis|global-ocean|mod
+strengthened|hypothesis|obj
+hopes|national aeronautics and space administration|subj
+hopes|launch|fc
+launch|national aeronautics and space administration|subj
+launch|spacecraft|obj
+spacecraft|orbit|rel
+orbit|spacecraft|subj
+spacecraft|moon|rel
+moon|spacecraft|obj
+moon|jovian|subj
+moon|chiefly|mod
+moon|find|mod
+find|jovian|subj
+find|out|guest
+find|if|c
+ocean|huge|mod
+part|ocean|of
+ocean|that|whn
+surrounds|ocean|subj
+surrounds|it|obj
+is|liquid|pred
+hunk|just|pre
+hunk|rock|of
+rock|and|punc
+rock|metal|conj
+metal|covered|vrel
+covered|metal|obj
+covered|by|by-subj
+shell|thick|mod
+covered|shell|by
+shell|ice|of
+studies|gravitational|mod
+measured|studies|to
+measured|galileo|subj
+measured|magnetic fields|obj
+magnetic fields|surrounding|rel
+surrounding|magnetic field|subj
+surrounding|jupiter|obj
+jupiter|and|punc
+moons|its|gen
+jupiter|moons|conj
+analysis|initial|mod
+data|early|mod
+analysis|data|of
+probe|galileo|nn
+data|probe|from
+encouraged|analysis|subj
+encouraged|scientists|obj
+scientists|review|rel
+review|scientist|subj
+theories|their|gen
+review|theories|obj
+evolution|planetary|mod
+theories|evolution|of
+review|scientists|according to
+conference|nasa press|nn
+scientists|conference|at
+scientific instruments|10|num
+equipped|scientific instruments|with
+scientific instruments|galileo|appo
+probe|2.5-ton|nn
+probe|unmanned|mod
+launched|probe|subj
+ganymede|only|mod
+kilometers|840|amount-value
+ganymede|kilometers|nn
+ganymede|above|mod
+surface|ganymede|gen
+surface|2:29 a.m.|at
+time|eastern|nn
+time|or|punc
+gmt|0629|num
+time|gmt|conj
+probe|that|whn
+plummeted|probe|subj
+sampling|jupiter|gen
+sampling|atmosphere|nn
+plummeted|sampling|into
+composition|its|gen
+sampling|found|rel
+found|sampling|obj
+found|composition|subj
+found|more|mod
+found|than|mod
+elements|volatile|mod
+concentration|elements|of
+than|like|comp1
+like|concentration|subj
+like|argon|obj
+argon|and|punc
+argon|nitrogen|conj
+questions|expected|mod
+questions|raising|mod
+nitrogen|questions|than
+theories|standard|mod
+questions|theories|about
+formed|planets|subj
+pioneer 10|plucky|mod
+was|pioneer 10|pred
+pioneer 10|first|conj
+first|reach|rel
+reach|first|subj
+reach|jupiter|obj
+jupiter|and|punc
+saturn|then|mod
+jupiter|saturn|conj
+produced|electricity|obj

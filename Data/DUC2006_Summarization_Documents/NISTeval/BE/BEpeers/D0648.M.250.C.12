@@ -1,0 +1,160 @@
+approved|zoloft|obj
+approved|by|by-subj
+approved|food and drug administration|by
+food and drug administration|treatment|for
+disorder|depression|nn
+disorder|panic|nn
+treatment|disorder|of
+disorder|and|punc
+disorder|obsessive|mod
+disorder|compulsive|mod
+disorder|disorder|conj
+drugs|common|mod
+drugs|anti-depressant|mod
+drugs|prozac|like
+used|also|mod-before
+prozac|used|vrel
+used|prozac|obj
+used|treat|mod
+treat|humans|obj
+humans|obsessive compulsive disorder|with
+ocd|(|punc
+obsessive compulsive disorder|ocd|abbrev
+ocd|)|punc
+given|sometimes|amod
+given|drugs|obj
+given|bored|fc
+bored|drug|subj
+bored|animals|obj
+animals|that|whn
+have|animals|subj
+behavior|ocd-like|mod
+have|behavior|obj
+disorder|panic|nn
+is|one|pred
+one|anxiety disorders|of
+anxiety disorders|which|whn
+include|anxiety disorders|subj
+disorder|post-traumatic|mod
+disorder|stress|nn
+include|disorder|obj
+disorder|and|punc
+disorder|obsessive-compulsive|mod
+disorder|disorder|conj
+cited|coyle|subj
+study|one|nn
+study|recent|mod
+cited|study|obj
+study|done|vrel
+done|study|obj
+done|university of california|at
+los angeles|that|whn
+found|los angeles|subj
+people|group|among
+group|20|of
+found|people|fc
+people|los angeles|subj
+people|with|guest
+disorder|obsessive-compulsive|mod
+people|disorder|with
+people|those|obj
+those|treated|vrel
+treated|those|obj
+therapy|cognitive|mod
+treated|therapy|with
+therapy|showed|vrel
+showed|therapy|obj
+showed|just|guest
+did|much|as
+function|brain|nn
+change|function|in
+showed|did|fc
+did|change|subj
+did|those|obj
+those|who|whn
+treated|those|obj
+therapy|drug|nn
+treated|therapy|with
+published|newly|mod
+research|published|mod
+confirms|research|subj
+confirms|that|c
+are|effective|pred
+effective|treating|in
+treating|drug|subj
+treating|children|obj
+disorder|obsessive-compulsive|mod
+children|disorder|with
+illness|that|whn
+afflicts|illness|subj
+afflicts|hundreds|obj
+hundreds|thousands|of
+thousands|youngsters|of
+youngsters|america|across
+evidence|cited|vrel
+cited|evidence|obj
+cited|article|in
+article|making|for
+making|case|obj
+biology|brain|of
+brain|and|punc
+brain|psychiatry|conj
+psychiatry|mind|of
+scans|inseparable|mod
+scans|brain|nn
+scans|imaging|nn
+are|scans|pred
+scans|that|whn
+allow|scans|subj
+see|researchers|subj
+see|differences|obj
+differences|people|in
+like|mental illness|without
+plasticity|amazing|mod
+studies|plasticity|of
+plasticity|brain|of
+brain|neurons|with
+neurons|growing|pnmod
+growing|response|in
+stimuli|environmental|mod
+response|stimuli|to
+like|studies|subj
+like|learning|obj
+learning|and|punc
+research|brain|nn
+research|imaging|nn
+learning|research|conj
+research|showing|rel
+showing|research|subj
+showing|that|c
+disorder|obsessive-compulsive|mod
+people|disorder|with
+disorder|who|whn
+respond|disorder|subj
+to|either|punc
+therapy|behavioral|mod
+respond|therapy|to
+therapy|or|punc
+both|medication|nn
+therapy|both|conj
+show|people|subj
+changes|same|post
+changes|biologic|mod
+show|changes|obj
+is|doubt|pred
+comes to|it|subj
+mental illness|managed|vrel
+managed|mental illness|obj1
+managed|care|obj2
+interferes|mental illness|subj
+interferes|diagnosis|with
+doubt|says|comp1
+says|fin|subj
+alan wachtel|dr|title
+says|alan wachtel|obj
+professor|clinical|mod
+professor|associate|nn
+professor|new york university medical center|at
+new york university medical center|new york city|in
+new york city|and|punc
+new york city|author|conj

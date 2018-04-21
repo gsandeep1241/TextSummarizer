@@ -1,0 +1,67 @@
+president|al gore|person
+named|president|subj
+named|veteran|obj1
+campaigns|clinton-gore|nn
+campaigns|presidential|mod
+veteran|campaigns|of
+be|his|pred
+press secretary|campaign|nn
+named|press secretary|obj2
+warnings|gore|gen
+came|warnings|subj
+came|as|mod
+campaign|his|gen
+campaign|presidential|mod
+as|launched|comp1
+launched|campaign|subj
+launched|"|punc
+gore|ganamos|nn
+gore|con|nn
+launched|gore|obj
+gore|"|punc
+gore|"|punc
+gore|win|rel
+win|gore|obj
+win|we|subj
+win|gore|with
+gore|"|punc
+effort|nationwide|mod
+gore|effort|conj
+effort|build on|rel
+build on|effort|subj
+organizations|political|mod
+build on|organizations|obj
+600|nearly|num-mod
+elected officials|600|nn
+elected officials|hispanic|mod
+organizations|elected officials|of
+effort|and|punc
+leaders|community|mod
+effort|leaders|conj
+leaders|who|whn
+endorsed|leaders|subj
+endorsed|vice president|obj
+vice president|tuesday|person
+released|eve|on
+trip|his|gen
+trip|59th|nn
+eve|trip|of
+trip|california|to
+president|al gore|person
+released|president|subj
+released|list|obj
+endorsements|new|mod
+list|endorsements|of
+bid|his|gen
+bid|2000|num
+bid|presidential|mod
+endorsements|bid|for
+leaders|state|nn
+leaders|congressional|mod
+bid|leaders|from
+dianne feinstein|u.s.|nn
+dianne feinstein|sen.|title
+including|dianne feinstein|obj
+announcement|gore|gen
+came with|announcement|subj
+came with|growing|obj

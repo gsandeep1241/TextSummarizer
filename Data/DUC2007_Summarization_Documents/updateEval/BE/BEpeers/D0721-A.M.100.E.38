@@ -1,0 +1,59 @@
+asked|prosecutor|subj
+jurors|71|num
+jurors|prospective|mod
+asked|jurors|obj
+jurors|set aside|rel
+set aside|today|subj
+set aside|emotions|obj
+emotions|pity|of
+pity|and|punc
+pity|rage|conj
+chosen|trial|for
+trial|death|in
+matthew shepard|gay|mod
+matthew shepard|college student|nn
+death|matthew shepard|of
+issued|judge|subj
+order|gag|nn
+issued|order|obj
+order|lawyers|for
+lawyers|involved|vrel
+involved|lawyers|obj
+trial|matthew shepard|nn
+trial|murder|nn
+involved|trial|in
+involved|saying|mod
+saying|judge|subj
+injured|"|punc
+injured|gravely|mod-before
+saying|injured|fc
+injured|they|subj
+injured|"|punc
+injured|defendant|obj
+defendant|right|pnmod
+trial|fair|mod
+right|trial|to
+died|matthew shepard|subj
+died|early|mod
+died|monday|mod
+being|in|pred
+being|coma|in
+not|later|mod
+even|not|mod
+murder|laramie|in
+months|moved|rel
+moved|murder|subj
+apologize|months|obj
+apologize|lott|subj
+words|his|gen
+apologize|words|for
+leader|major|mod
+leader|gop|nn
+dares|leader|subj
+take|months|subj
+take|on|guest
+take|its|on
+take|"|punc
+wing|religious|mod
+wing|"|punc
+take|wing|obj

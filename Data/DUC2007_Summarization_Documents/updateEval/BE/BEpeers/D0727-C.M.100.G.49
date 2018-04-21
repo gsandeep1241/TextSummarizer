@@ -1,0 +1,70 @@
+won|newt gingrich|subj
+won|permission|obj
+permission|depose|rel
+depose|permission|subj
+sister|marianne gingrich|gen
+depose|sister|obj
+sister|and|punc
+sister|friend|conj
+depose|both|mod
+both|ohio|in
+avoid|agreement|with
+agreement|newt|conj
+newt|and|punc
+newt|marianne gingrich end|conj
+standoff|tense|mod
+standoff|legal|mod
+embarrassing|potentially|mod
+trial|embarrassing|mod
+trial|public|mod
+trial|divorce|nn
+avoid|trial|obj
+refuses|still|amod
+refuses|bisek|subj
+refuses|answer|fc
+answer|bisek|subj
+questions|marianne gingrich|gen
+answer|questions|obj
+questions|oath|under
+answer|or|punc
+answer|respond|conj
+respond|bisek|subj
+requests|certain|mod
+requests|document|nn
+respond|requests|to
+atlanta newt gingrich|and|punc
+atlanta newt gingrich|marianne gingrich|conj
+try|atlanta newt gingrich|subj
+try|reach|fc
+reach|atlanta newt gingrich|subj
+settlement|divorce|nn
+reach|settlement|obj
+reach|today|mod
+meeting|their|gen
+meeting|first|post
+meeting|face-to-face|mod
+reach|meeting|in
+meeting|theirsplit|since
+'s|much|pred
+bisek|more|mod
+refuses|still|amod
+much|refuses|rel
+refuses|bisek|subj
+refuses|turn over|fc
+turn over|much|obj
+turn over|bisek|subj
+turn over|including|mod
+records|phone|nn
+including|records|obj
+five|past|num-mod
+years|five|amount-value
+records|years|for
+years|correspondence|conj
+correspondence|her|between
+her|and|punc
+her|gingrich|conj
+gingrich|as|punc
+gingrich|well|punc
+gingrich|as|punc
+gingrich|photos|conj
+years|videotapes|appo

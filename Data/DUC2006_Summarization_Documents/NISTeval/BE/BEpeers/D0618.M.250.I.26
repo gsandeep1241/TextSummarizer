@@ -1,0 +1,113 @@
+treatment|prompt|mod
+cause|treatment|without
+failure|kidney|nn
+failure|and|punc
+problems|other|mod
+failure|problems|conj
+cause|failure|subj
+cause|death|obj
+made|sikosana|subj
+made|statements|obj
+statements|meeting|at
+made|which|at
+prevention|1996/97|nn
+prevention|malaria|nn
+prevention|and|punc
+campaign|control|nn
+prevention|campaign|conj
+launched|prevention|obj
+have|secretariat|subj
+have|degree|obj
+independence|operational|mod
+degree|independence|of
+cases|198|num
+reported|cases|obj
+reported|year|in
+cases|660|num
+year|cases|against
+cases|1995|in
+consequences|economic|mod
+diseases|malaria-related|mod
+consequences|diseases|of
+are|enormous|pred
+is|one|pred
+problems|leading|mod
+problems|health|nn
+one|problems|of
+problems|africa|in
+is|especially|mod
+region|sub-sahara|nn
+especially|region|in
+550 million|about|num-mod
+people|550 million|nn
+region|african|mod
+people|region|in
+risk|people|subj
+risk|disease|obj
+sickens|it|subj
+300 million|at least|num-mod
+people|300 million|nn
+sickens|people|obj
+sickens|year|mod
+sickens|and|punc
+sickens|kills|conj
+kills|it|subj
+2.7 million|up to|num-mod
+kills|2.7 million|obj
+include|symptoms|subj
+include|fever|obj
+fever|chills|conj
+chills|headache|conj
+ache|muscle|nn
+headache|ache|conj
+ache|and|punc
+ache|malaise|conj
+provinces|14|num
+seven|provinces|of
+provinces|region|in
+saw|seven|subj
+increases|rapid|mod
+saw|increases|obj
+increases|number|in
+patients|malaria|nn
+number|patients|of
+deaths|54|num
+reported|deaths|obj
+book|guinness|nn
+book|records|of
+be|present|pred
+present|record|rel
+record|present|subj
+record|event|obj
+attacks|disease|subj
+people|270 and 480 million|nn
+attacks|people|between
+people|and|punc
+people|kills|conj
+kills|1.5 and 2.7 million each year|between
+epidemic|worsening|mod
+attributed|epidemic|obj
+attributed|neglect|mod
+neglect|epidemic|subj
+neglect|of|guest
+neglect|prevention|of
+neglect|measures|obj
+disease|deadly|mod
+measures|disease|against
+hosts|sub-saharan africa|subj
+90|more than|num-mod
+hosts|90|obj
+victims|malaria|nn
+suggested|also|mod-before
+suggested|meeting|subj
+suggested|that|c
+secretariat|competent|mod
+secretariat|interim|mod
+recruited|urgently|amod
+recruited|secretariat|obj
+president|nigerian|mod
+president|olusegun obasanjo|person
+chair|president|subj
+chair|summit|obj
+summit|which|whn
+being|co-organized|pred

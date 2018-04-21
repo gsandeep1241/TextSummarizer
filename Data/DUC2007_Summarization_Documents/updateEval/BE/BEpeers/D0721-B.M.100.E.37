@@ -1,0 +1,76 @@
+pleaded|henderson|subj
+pleaded|guilty|desc
+pleaded|murder|mod
+murder|henderson|subj
+murder|spring|obj
+spring|avoid|rel
+avoid|spring|subj
+penalty|death|nn
+avoid|penalty|obj
+mother|shepard|gen
+mother|judy|appo
+sat|mother|subj
+sat|with|guest
+sat|friends|with
+several|opposite|mod
+sat|several|obj
+relatives|mckinney|gen
+several|relatives|of
+sat|including|mod
+including|mother|subj
+father|his|gen
+including|father|obj
+father|bill mckinney|appo
+presented|rerucha|subj
+presented|chronology|obj
+chronology|night|for
+chronology|oct 6 , 1998 ,|of
+chronology|fireside lounge|from
+fireside lounge|where|wha
+mckinney|and|punc
+mckinney|henderson|conj
+encountered|mckinney|subj
+encountered|shepard|obj
+encountered|beatings|to
+beatings|which|whn
+began|beatings|subj
+shepard|two|nn
+shepard|drove|nn
+began|shepard|as
+shepard|town|around
+began|and|punc
+began|continued|conj
+continued|beatings|obj
+continued|fence|at
+becomes|result|as
+result|tangeman|appo
+tangeman|told|vrel
+told|tangeman|obj1
+told|jury|obj2
+becomes|`|punc
+becomes|`|punc
+becomes|mckinney|subj
+becomes|very|mod
+upset|very|amod
+becomes|upset|conj
+upset|mckinney|obj
+upset|and|punc
+upset|beats|conj
+beats|mckinney|subj
+beats|matthew shepard|obj
+matthew shepard|'|punc
+matthew shepard|'|punc
+matthew shepard|prompted|vrel
+prompted|matthew shepard|obj
+prompted|by|by-subj
+prompted|memories|by
+encounter|sexual|mod
+memories|encounter|of
+encounter|forced|vrel
+forced|encounter|obj
+forced|him|upon
+forced|by|by-subj
+boy|older|mod
+forced|boy|by
+forced|when|wha
+was|7.|pred

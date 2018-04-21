@@ -1,0 +1,59 @@
+magnitude|7.4|num
+south|quake|nn
+south|struck|mod
+miles|a few|amount-value
+south|miles|nn
+south|izmit|of
+more|100,000|than
+homes|and|punc
+buildings|other|mod
+homes|buildings|conj
+destroyed|homes|subj
+destroyed|across|guest
+stretch|400-mile|nn
+destroyed|stretch|obj
+northwestern|far|mod
+turkey|northwestern|mod
+stretch|turkey|from
+turkey|areas|to
+areas|ankara|near
+more|16,000|than
+listed|people|obj
+listed|as|mod
+injured|seriously|mod-before
+forecast|also|mod-before
+forecast|they|subj
+probability|15 percent|nn
+forecast|probability|obj
+probability|quake|of
+quake|measuring|rel
+measuring|quake|subj
+6.7|at least|num-mod
+east|6.7|nn
+east|magnitude|nn
+measuring|east|obj
+center|eastern|mod
+east|center|of
+center|ercinzan|of
+damaged|quake|subj
+damaged|bridges|obj
+bridges|highways|appo
+highways|power stations|appo
+lines|telephone|nn
+power stations|lines|appo
+damaged|and|punc
+damaged|triggered|conj
+triggered|quake|subj
+triggered|fire|obj
+refinery|turkey|gen
+refinery|largest|mod
+refinery|oil|nn
+damaged|refinery|at
+soldiers|50,000|num
+soldiers|turkish|nn
+soldiers|and|punc
+soldiers|more|conj
+workers|2,000|num
+workers|foreign|mod
+workers|rescue|nn
+more|workers|than

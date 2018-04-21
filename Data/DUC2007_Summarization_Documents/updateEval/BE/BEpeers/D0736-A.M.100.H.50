@@ -1,0 +1,57 @@
+success|ratings|nn
+been|success|pred
+success|launching|since
+launching|winfrey|subj
+launching|"|punc
+launching|the oprah winfrey show|obj
+the oprah winfrey show|"|punc
+the oprah winfrey show|september 1986|in
+reveled in|winfrey|subj
+role|her|gen
+role|first|post
+reveled in|role|obj
+movie|1989|num
+movie|television|nn
+role|movie|since
+movie|"|punc
+movie|the women of brewster place|appo
+2|telephone|by
+adults|1,189|num
+telephone|adults|of
+adults|found|vrel
+found|adults|obj1
+found|49 percent|obj2
+were|aware|pred
+retraction|cnn|gen
+aware|retraction|of
+story|its|gen
+story|"|punc
+story|newsstand|nn
+story|"|punc
+retraction|story|of
+story|which|whn
+gas|alleged|mod
+gas|nerve|nn
+use|story|obj
+use|gas|subj
+military|u.s.|nn
+use|military|by
+read|i|subj
+pages|last|post
+pages|150|num
+read|pages|obj
+sitting|one|nn
+pages|sitting|in
+read|and|punc
+read|rewarded|conj
+rewarded|i|obj
+ending|satisfying|mod
+rewarded|ending|with
+households|roughly 145,000|nn
+households|area|nn
+tuned in|households|subj
+tuned in|to|guest
+tuned in|both|to
+tuned in|shows|obj
+shows|average|on
+average|july|during

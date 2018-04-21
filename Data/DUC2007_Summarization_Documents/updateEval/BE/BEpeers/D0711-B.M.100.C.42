@@ -1,0 +1,56 @@
+are|milestones|pred
+may 30--|microsoft|gen
+may 30--|antitrust|mod
+milestones|may 30--|in
+staff|federal trade commission|nn
+may 30--|opens|rel
+opens|may 30--|obj1
+opens|staff|subj
+probe|antitrust|mod
+opens|probe|obj2
+probe|microsoft corp.|of
+judge|u.s.|nn
+judge|district|mod
+judge|stanley sporkin|person
+rejects|judge|subj
+settlement|proposed|mod
+rejects|settlement|obj
+statements|tuesday|gen
+statements|courtroom|nn
+seemed|only|mod-before
+underline|statements|subj
+underline|gap|obj
+gap|government|between
+government|and|punc
+government|microsoft|conj
+doctrine|antitrust|mod
+observed|he|subj
+encourages|observed|mod-before
+encourages|doctrine|subj
+encourages|competition|obj
+when|even|mod
+encourages|when|wha
+competition|rough-and-tumble|mod
+hurts|competition|subj
+rivals|company|gen
+hurts|rivals|obj
+'s|comments|pred
+'s|notwithstanding|mod
+lawyer|justice department|gen
+lawyer|lead|nn
+case|microsoft|nn
+lawyer|case|in
+is|one|pred
+highly|most|mod
+regarded|highly|mod
+litigators|regarded|mod
+one|litigators|of
+litigators|country|in
+rejection|sweeping|mod
+view|microsoft|gen
+rejection|view|of
+view|case|of
+bear|rejection|subj
+bear|weight|obj
+court|appeals|nn
+weight|court|with

@@ -1,0 +1,52 @@
+balloon|geneva|nn
+balloon|(|punc
+balloon|ap|nn
+balloon|)|punc
+balloon|swiss|mod
+pilot|balloon|subj
+pilot|bertrand piccard|obj
+teammate|his|gen
+teammate|new|mod
+tony brown|british|mod
+tony brown|flight engineer|nn
+teammate|tony brown|appo
+said|teammate|subj
+said|be|fc
+be|ready|pred
+be|later|mod
+be|month|mod
+attempt|new|mod
+month|attempt|for
+attempt|fly|rel
+fly|attempt|subj
+fly|nonstop|desc
+nonstop|world|round
+balloon|their|gen
+balloon|new|mod
+balloon|breitling orbiter 3|nn
+take off|balloon|subj
+take off|chateaud 'oex|from
+take off|swiss alps|in
+are|soon|mod-before
+soon|nov 25|after
+conditions|weather|mod
+are|favorable|pred
+said|they|subj
+pilots bertrand piccard|switzerland|from
+switzerland|and|punc
+switzerland|wim verstraeten|conj
+wim verstraeten|belgium|from
+departed|plus|mod-before
+andy elson|flight engineer|nn
+departed|andy elson|plus
+andy elson|britain|from
+departed|pilots bertrand piccard|subj
+departed|chateaud 'oex|from
+switzerland|western|mod
+departed|switzerland|in
+departed|breitling orbiter ii|aboard
+bid|piccard|gen
+bid|last|post
+bid|round-the-world|mod
+abandoned|bid|obj
+abandoned|china|after

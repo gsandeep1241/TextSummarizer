@@ -1,0 +1,151 @@
+quebec|and|punc
+quebec|canada|conj
+face|quebec|subj
+test|crucial|mod
+face|test|obj
+test|november 30th , 1998|on
+face|as|mod
+as|go|comp1
+go|quebecers|subj
+go|polls|to
+elections|first|post
+elections|provincewide|mod
+polls|elections|in
+go|since|mod
+lost|narrowly|mod-before
+since|lost|comp1
+lost|separatists|subj
+lost|referendum|obj
+referendum|independence|on
+independence|1995|in
+movement|modern|mod
+movement|separatist|mod
+began|movement|subj
+began|about 30 years ago|mod
+began|and|punc
+began|based|conj
+based|movement|obj
+rooted|deeply|mod
+feelings|rooted|mod
+based|feelings|on
+feelings|that|c
+treated|not|guest
+treated|quebec|obj
+treated|fairly|mod
+fairly|english|by
+english|speaking|rel
+speaking|english|subj
+speaking|canada|obj
+become|lucien bouchard|subj
+leader|parti quebecois|nn
+become|leader|obj
+leader|and|punc
+premier|quebec|nn
+leader|premier|conj
+premier|end|at
+end|january 1996|of
+become|reviving|mod
+reviving|lucien bouchard|subj
+reviving|crusade|obj
+independence|quebec|nn
+crusade|independence|for
+independence|canada|from
+decided|bouchard|subj
+decided|take over|fc
+take over|bouchard|subj
+take over|job|obj
+job|parti quebecois|from
+parti quebecois|and|punc
+premier|quebec|nn
+parti quebecois|premier|conj
+premier|jacquese parizeau|person
+take over|after|mod
+referendum|october 30|nn
+independence|quebec|nn
+referendum|independence|on
+after|defeated|comp1
+defeated|referendum|obj
+movement|separatist|mod
+since|began|comp1
+began|movement|subj
+began|quebec|in
+quebec|1960s|in
+sentiment|breaking up|for
+breaking up|canada|obj
+appeared|sentiment|subj
+appeared|gain|mod
+gain|sentiment|subj
+gain|momentum|obj
+inuit|and|punc
+natives|cree|nn
+inuit|natives|conj
+quebec|northern|mod
+natives|quebec|of
+quebec|and|punc
+residents|english-speaking|mod
+quebec|residents|conj
+residents|western|in
+quebec|and|punc
+quebec|montreal|conj
+western|said|rel
+said|quebec|subj
+said|want|fc
+want|they|subj
+want|remain|fc
+remain|western|obj
+remain|they|subj
+remain|canada|in
+remain|if|c
+votes|quebec|subj
+votes|break|mod
+break|quebec|subj
+break|away|mod
+away|country|from
+think|they|subj
+accord|calgary|nn
+think|make|fc
+make|accord|subj
+make|much|guest
+make|difference|obj
+difference|terms|in
+terms|keeping|of
+keeping|accord|subj
+province|french-speaking|mod
+keeping|province|obj
+province|quebec|of
+quebec|canada|in
+began|supreme court of canada|subj
+hearing|landmark|nn
+began|hearing|obj
+on|whether|c
+province|french-speaking|mod
+province|quebec|of
+has|province|subj
+has|right|obj
+right|secede|comp1
+secede|province|subj
+secede|unilaterally|mod
+secede|and|punc
+secede|ruled|conj
+ruled|province|subj
+ruled|that|c
+separate|quebec|subj
+separate|country|from
+separate|unilaterally|mod
+campaign|charest|gen
+campaign|federalist|nn
+undercut|campaign|obj
+undercut|start|from
+start|comments|by
+jean chretien|canadian|mod
+jean chretien|prime minister|title
+comments|jean chretien|from
+bill clinton|and|punc
+bill clinton|jacques chirac|conj
+came to|quebec|obj
+came to|and|punc
+praised|pointedly|mod-before
+came to|praised|conj
+system|canada|gen
+system|federal|mod
+praised|system|obj

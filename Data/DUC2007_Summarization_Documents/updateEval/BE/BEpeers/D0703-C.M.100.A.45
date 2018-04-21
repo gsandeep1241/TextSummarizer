@@ -1,0 +1,65 @@
+permitted|circular|in
+circular|issued|vrel
+issued|circular|obj
+issued|banks|to
+banks|friday|on
+permitted|rbi|subj
+permitted|banks|obj
+banks|trade|rel
+trade|bank|subj
+invoice|euro|in
+convert|freely|mod-before
+convert|invoice|subj
+currencies|legacy|nn
+currencies|emu|nn
+convert|currencies|obj
+currencies|euro|into
+convert|and|punc
+convert|accept|conj
+accept|invoice|subj
+deposits|euro-denominated|mod
+deposits|bank|nn
+accept|deposits|obj
+deposits|and|punc
+deposits|remittances|conj
+bnr|and|punc
+commercial banks|romanian|mod
+bnr|commercial banks|conj
+commercial banks|that|c
+want|perform|rel
+perform|want|subj
+services|euro|nn
+perform|services|obj
+have|commercial banks|obj
+have|want|subj
+have|open accounts|to
+open accounts|euro|in
+euro|january 4 , 1999 ,|by
+january 4 , 1999 ,|first|appo
+first|scheduled|vrel
+scheduled|first|obj
+scheduled|day|mod
+use|euro|nn
+scheduled|use|of
+scheduled|and|punc
+scheduled|inform|conj
+inform|first|subj
+partners|their|gen
+partners|foreign|mod
+inform|partners|obj
+backed|launch|with
+launch|euro|of
+euro|new year 's day|on
+backed|formally|guest
+backed|lev|obj
+backed|by|by-subj
+backed|euros|by
+have|vatican city|subj
+have|right|obj
+right|continue|comp1
+continue|vatican city|subj
+continue|issuing|mod
+coins|collector|nn
+issuing|coins|obj
+coins|and|punc
+coins|republic|conj

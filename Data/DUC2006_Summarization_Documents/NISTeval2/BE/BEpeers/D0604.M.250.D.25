@@ -1,0 +1,169 @@
+-hards|who|whn
+wait|-hards|subj
+wait|see|mod
+see|movie|obj
+went|-hards|subj
+went|all the way|mod
+all the way|united states|to
+united states|where|wha
+opened|it|subj
+opened|may 19|mod
+some|costume|in
+costume|and|punc
+costume|others|conj
+others|toting|rel
+toting|others|subj
+sabers|light|mod
+toting|sabers|obj
+began|movie-goers|subj
+began|lining up|fc
+lining up|moviegoer|subj
+lining up|as|mod
+early|thursday|as
+thursday|see|rel
+see|thursday|subj
+see|`|punc
+see|`|punc
+see|star wars|obj
+phantom menace|'|punc
+phantom menace|'|punc
+phantom menace|which|whn
+opens|phantom menace|subj
+opens|july 10|on
+five|more than|num-mod
+weeks|five|amount-value
+us|its|gen
+weeks|us|after
+debut|weeks|subj
+forgotten|everyone|subj
+joy|having|of
+having|everyone|subj
+having|hit|obj
+forgotten|sneak up|fc
+sneak up|joy|subj
+sneak up|you|on
+seeing|everyone|subj
+studio|movie|nn
+seeing|studio|obj
+studio|wanted|vrel
+wanted|studio|obj
+wanted|make|mod
+make|blast|obj
+way|its|gen
+make|way|mod
+make|top|to
+figures|toy|nn
+figures|action|nn
+battalion|figures|of
+figures|and|punc
+crafts|space|nn
+figures|crafts|conj
+crafts|related|vrel
+related|crafts|obj
+related|movie|to
+go|battalion|subj
+weeks|sale|nn
+weeks|three|amount-value
+go|weeks|on
+go|before|mod
+before|`|punc
+before|`|punc
+opens|'|punc
+opens|'|punc
+before|opens|comp1
+opens|phantom|subj
+opens|nationwide|mod
+said|he|subj
+reaction|gimmick|to
+said|made|fc
+made|reaction|subj
+made|it|obj1
+made|inevitable|desc
+inevitable|that|c
+star wars|new|mod
+star wars|`|punc
+star wars|`|punc
+have|'|punc
+have|'|punc
+have|star wars|subj
+appeal|powerful|mod
+appeal|audience|nn
+have|appeal|obj
+was|dream|pred
+come|true|desc
+true|first|at
+come|but|punc
+turned into|quickly|amod
+come|turned into|conj
+turned into|nightmare|obj
+turned into|'|punc
+turned into|'|punc
+said|job21|subj
+turned into|said|mod
+of|`|punc
+of|`|punc
+celebration|star wars|of
+i|_|punc
+anniversary|phantom menace|gen
+anniversary|'|punc
+anniversary|'|punc
+anniversary|one-month|nn
+i|anniversary|appo
+want|they|subj
+devotees|gather|rel
+gather|devotee|subj
+friends|their|gen
+gather|friends|obj
+gather|dress|conj
+dress|devotee|subj
+characters|their|gen
+characters|favorite|mod
+dress|characters|as
+dress|and|punc
+dress|go|conj
+go|devotee|subj
+see|devotees|subj
+see|movie|obj
+see|over|mod
+over|and|punc
+over|over|conj
+see|again|mod
+see|just|mod
+day|opening|mod
+prequel|much-anticipated|mod
+but|`|punc
+but|`|punc
+hit|'|punc
+hit|'|punc
+but|hit|comp1
+hit|jaws|subj
+hit|because|mod
+because|crossed|comp1
+crossed|it|subj
+crossed|over|mod
+audience|young|mod
+over|audience|to
+audience|that|whn
+avoiding|audience|subj
+avoiding|julie andrews|obj
+julie andrews|singing|rel
+singing|julie andrews|subj
+singing|to|guest
+singing|rock hudson|to
+singing|(|punc
+singing|'|punc
+singing|'|punc
+singing|darling lili|obj
+darling lili|'|punc
+darling lili|'|punc
+darling lili|)|punc
+darling lili|or|punc
+darling lili|clint eastwood|conj
+clint eastwood|singing|rel
+singing|clint eastwood|subj
+singing|to|guest
+singing|anybody|to
+singing|(|punc
+singing|'|punc
+singing|'|punc
+singing|paint your wagon|obj

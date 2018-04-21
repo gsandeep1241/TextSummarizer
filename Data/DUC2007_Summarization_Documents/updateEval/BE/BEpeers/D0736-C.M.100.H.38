@@ -1,0 +1,57 @@
+may|not|neg
+oprah|all|pre
+be|oprah|pred
+be|all the time|mod
+magazine|oprah winfrey|gen
+magazine|new|mod
+magazine|o|appo
+comes|magazine|subj
+close|pretty|mod
+comes|close|desc
+lawsuit|accusing|rel
+accusing|lawsuit|subj
+accusing|oprah winfrey|obj
+pictures|her|in
+go|book|subj
+go|trial|to
+month|next|post
+go|month|mod
+show|oprah|under
+tipper|influence|nn
+show|tipper|subj
+show|touch|obj
+soulfulness|girlish|mod
+touch|soulfulness|of
+show|while|mod
+while|add|comp1
+add|oprah|subj
+gentility|chipper|mod
+add|gentility|obj
+repertory|her|gen
+gentility|repertory|to
+-roundup|_|punc
+voters|george w. bush|nn
+voters|courts|nn
+voters|women|nn
+-roundup|voters|appo
+voters|appearing|by
+show|oprah winfrey|nn
+appearing|show|on
+appearing|as|mod
+as|did|comp1
+did|al gore|subj
+did|last week|obj
+candidate|u.s. democratic|nn
+candidate|presidential|mod
+candidate|al gore|person
+appeared|candidate|subj
+show|tv|nn
+show|talk|nn
+appeared|show|on
+appeared|monday|mod
+appeared|bid|in
+bid|attract|comp1
+attract|candidate|subj
+women|more|mod
+votes|women|gen
+attract|votes|obj

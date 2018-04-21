@@ -1,0 +1,58 @@
+wife|estranged|mod
+speaker|former|mod
+speaker|u.s. house|nn
+wife|speaker|of
+speaker|newt gingrich|person
+wants|wife|subj
+judge|cobb county|subj
+judge|freeze|mod
+freeze|cobb county|subj
+assets|couple|gen
+freeze|assets|obj
+freeze|until|mod
+divorce|their|gen
+until|is|comp1
+is|final|pred
+back|mid-1980s|in
+before|well|mod
+speaker|house|nn
+was|speaker|pred
+speaker|newt gingrich|appo
+newt gingrich|used|vrel
+used|newt gingrich|obj
+used|take|mod
+take|he|subj
+walks|long|mod
+take|walks|obj
+walks|national mall|around
+public square|great|mod
+public square|that|whn
+ties|public square|subj
+all|together|mod
+ties|all|obj
+monuments|washington|gen
+monuments|grand|mod
+all|monuments|of
+arrived|time|by
+arrived|gingrich|subj
+arrived|capitol hill|on
+capitol hill|last|vrel
+last|monday|mod
+party|bittersweet|mod
+party|welcome|mod
+last|party|to
+party|organized|vrel
+organized|party|obj
+organized|by|by-subj
+organized|staff|by
+republicans|house|nn
+shifted|already|mod-before
+shifted|republicans|subj
+allegiance|their|gen
+shifted|allegiance|obj
+bob livingston|rep.|title
+allegiance|bob livingston|to
+bob livingston|(|punc
+bob livingston|r-la.|appo
+chairman|lanky|mod
+chairman|house appropriations committee|of

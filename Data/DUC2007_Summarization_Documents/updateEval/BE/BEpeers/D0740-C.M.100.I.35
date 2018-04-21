@@ -1,0 +1,45 @@
+man|arizona|nn
+man|trying|rel
+trying|man|subj
+trying|become|fc
+balloonist|first|post
+balloonist|solo|nn
+become|balloonist|obj
+balloonist|complete|rel
+complete|balloonist|subj
+trip|nonstop|mod
+complete|trip|obj
+trip|world|around
+was|speeding|pred
+speeding|india|over
+was|thursday|mod
+was|hoping|mod
+hoping|man|subj
+hoping|steer|to
+steer|clear|pnmod
+clear|himalayas|of
+pilot|kevin uliassi|appo
+halfway|nearly|mod
+was|halfway|pred
+journey|his|gen
+halfway|journey|through
+journey|which|whn
+began|journey|subj
+began|rockford|in
+rockford|feb 22|on
+after|slow|comp1
+slow|some|subj
+slow|going|mod
+going|some|subj
+going|early days|in
+early days|flight|of
+balloon|uliassi|gen
+balloon|j. renee|appo
+found|balloon|subj
+winds|better|mod
+found|winds|obj
+100|about|num-mod
+miles|100|amount-value
+traveling|miles|at
+said|scott lorenz|subj
+scott lorenz|spokesman|appo

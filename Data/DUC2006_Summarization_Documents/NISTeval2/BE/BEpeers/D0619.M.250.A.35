@@ -1,0 +1,88 @@
+give|cash|subj
+chance|kehoe-the|mod
+chance|democratic|mod
+chance|nominee-a|nn
+chance|strong|mod
+give|chance|obj1
+chance|become|rel
+become|chance|subj
+become|first|obj
+become|openly|mod
+woman|gay|nn
+give|woman|obj2
+woman|elected|vrel
+office|national|mod
+elected|office|to
+ebner|and|punc
+ebner|log cabin republicans|conj
+say|ebner|subj
+say|appears|fc
+appears|leaflet|subj
+appears|sent|mod
+sent|only|mod
+only|people|to
+people|who|whn
+voted in|people|subj
+primary|republican|mod
+voted in|primary|obj
+voted in|and|punc
+voted in|intended|conj
+dampen|people|subj
+turnout|gop|nn
+dampen|turnout|obj
+turnout|highlighting|by
+orientation|ebner|gen
+orientation|sexual|mod
+highlighting|orientation|obj
+orientation|and|punc
+orientation|some|conj
+stands|his|gen
+moderate|socially|mod
+stands|moderate|mod
+some|stands|of
+was|not|neg
+included|phoenix|obj
+included|because|mod
+contributed to|there|mod-before
+contributed to|already|amod
+because|contributed to|comp1
+contributed to|members|subj
+contributed to|mccain|obj
+debate|recent|mod
+said|debate|during
+said|bush|subj
+said|appoint|fc
+appoint|he|subj
+appoint|people|obj1
+people|based|vrel
+based|people|obj
+qualifications|their|gen
+based|qualifications|on
+based|not|mod
+orientation|their|gen
+orientation|sexual|mod
+appoint|orientation|obj2
+mindy tucker|spokeswoman|appo
+campaign|bush|nn
+spokeswoman|campaign|for
+said|mindy tucker|subj
+said|monday|guest
+governor|two-term|mod
+said|looks|fc
+looks|governor|subj
+looks|forward|desc
+meeting|his|gen
+meeting|invitation-only|mod
+forward|meeting|to
+republicans|13|num
+republicans|gay|mod
+meeting|republicans|with
+looks|including|mod
+including|governor|subj
+members|rank-and-file|mod
+including|members|obj
+members|log cabin republicans|of
+organization|national|mod
+log cabin republicans|organization|appo
+republicans|gay|mod
+organization|republicans|of

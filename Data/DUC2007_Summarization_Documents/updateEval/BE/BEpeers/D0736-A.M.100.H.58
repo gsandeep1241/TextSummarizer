@@ -1,0 +1,64 @@
+'s|violence|pred
+on|`|punc
+on|`|punc
+violence|oprah winfrey show|on
+knows|jerry springer|subj
+makes|it|subj
+makes|sense|obj
+sense|that|c
+film|latest|mod
+oprah winfrey presents|her|gen
+oprah winfrey presents|`|punc
+oprah winfrey presents|`|punc
+series|oprah winfrey presents|gen
+series|'|punc
+film|series|in
+is|`|punc
+is|`|punc
+is|david|pred
+david|and|punc
+david|lisa|conj
+two|1962|num
+two|film|nn
+two|about|num-mod
+remake|two|of
+disturbed|emotionally|mod-before
+disturbed|remake|subj
+disturbed|teen-agers|obj
+teen-agers|who|whn
+meet|teen-agers|subj
+meet|institution|at
+meet|and|punc
+meet|form|conj
+form|teen-agers|subj
+friendship|tentative|mod
+friendship|healing|nn
+form|friendship|obj
+gennifer flowers|former bill clinton|nn
+gennifer flowers|mistress|nn
+was|guest|pred
+installment|incredible|mod
+installment|`|punc
+installment|`|punc
+installment|roseanne show|nn
+installment|'|punc
+installment|'|punc
+jon stewart|-show|nn
+jon stewart|host|nn
+came|jon stewart|subj
+came|along|mod
+publicists|roseanne|gen
+said|publicists|subj
+said|`|punc
+said|`|punc
+said|live out|mod
+live out|publicist|subj
+live out|his|obj
+jacket|smoking|nn
+wearing|jacket|obj
+wearing|drinking|mod
+drinking|martinis|obj
+glass|crystal|nn
+martinis|glass|from
+course|bunnies|appo
+bunnies|bunnies|appo

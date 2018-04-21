@@ -1,0 +1,60 @@
+villarreal|graduate|conj
+graduate|purdue university|of
+graduate|and|punc
+school of law|indiana university|nn
+graduate|school of law|conj
+school of law|served|vrel
+served|school of law|obj1
+served|as|guest
+campaign|deputy|nn
+served|campaign|as
+served|manager|obj2
+campaign|1988|num
+campaign|democratic|mod
+campaign|presidential|mod
+manager|campaign|for
+michael dukakis|former|mod
+michael dukakis|massachusetts|nn
+michael dukakis|gov.|title
+campaign|michael dukakis|of
+of|and|punc
+of|as|conj
+manger|deputy|nn
+manger|campaign|nn
+of|manger|as
+campaign|1992|num
+campaign|democratic|mod
+campaign|presidential|mod
+manger|campaign|for
+bill clinton|then-arkansas|nn
+bill clinton|gov.|title
+campaign|bill clinton|of
+president|al gore|person
+take|president|subj
+step|his|gen
+step|first|post
+step|formal|mod
+take|step|obj
+step|running|toward
+running|vice president|subj
+running|president|for
+president|2000|in
+president|notifying|by
+notifying|federal election commission|obj
+notifying|that|c
+formed|he|subj
+organization|campaign|nn
+formed|organization|obj
+said|aides|subj
+aides|vice president|to
+formed|said|mod
+formed|thursday|mod
+president|al gore|person
+emerges|president|subj
+emerges|president|from
+president|clinton|person
+struggle|impeachment|nn
+campaign|his own|gen
+campaign|presidential|mod
+struggle|campaign|with
+strengthened|struggle|subj

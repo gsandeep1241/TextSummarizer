@@ -1,0 +1,172 @@
+factory|wuhan|gen
+factory|light|mod
+factory|auto|nn
+factory|works|nn
+factory|general|mod
+protesters|factory|from
+blocked|protesters|subj
+blocked|streets|obj
+1/2|2|num
+streets|1/2|for
+blocked|hours|mod
+blocked|before|mod
+officials|city|nn
+before|agreed|comp1
+agreed|officials|subj
+agreed|give|fc
+give|official|subj
+give|them|obj1
+months|three|amount-value
+give|months|obj2
+payments|overdue|mod
+payments|pension|nn
+months|payments|of
+demanded|workers|subj
+pay|back|nn
+demanded|pay|obj
+demanded|and|punc
+demanded|shouted|conj
+shouted|workers|subj
+slogans|decrying|rel
+decrying|slogan|subj
+decrying|waste|obj
+waste|and|punc
+waste|corruption|conj
+managers|state|nn
+managers|factory|nn
+corruption|managers|by
+decrying|as|mod
+as|marched|comp1
+marched|they|subj
+marched|dujiangyan|through
+province|sichuan|nn
+dujiangyan|province|in
+threats|officials|by
+officials|and|punc
+officials|show|conj
+show|force|of
+force|police|by
+forced|threats|subj
+forced|farmers|obj
+provincial capital|south|mod
+provincial capital|china|nn
+farmers|provincial capital|outside
+provincial capital|abandon|rel
+abandon|provincial capital|subj
+protest|planned|mod
+abandon|protest|obj
+been|hit|pred
+hit|hundreds|by
+small-scale|mostly|mod
+protests|small-scale|mod
+hundreds|protests|of
+two|past|num-mod
+years|two|amount-value
+protests|years|over
+years|farmers|by
+farmers|and|punc
+farmers|workers|conj
+workers|upset|vrel
+upset|workers|obj
+upset|layoffs|over
+policies|government|nn
+layoffs|policies|conj
+policies|and|punc
+indifference|perceived|mod
+indifference|official|mod
+policies|indifference|conj
+indifference|or|punc
+indifference|corruption|conj
+workers|all|pre
+workers|600|num
+workers|luoyang cement products factory|at
+fear|workers|subj
+sale|cheap|mod
+fear|sale|obj
+of|both|punc
+assets|state|nn
+sale|assets|of
+assets|and|punc
+future|their|gen
+assets|future|conj
+workers|seven million|nn
+workers|chinese|nn
+lose|workers|subj
+jobs|their|gen
+lose|jobs|obj
+factories|state|nn
+jobs|factories|in
+lose|as|mod
+as|pushes|comp1
+pushes|china|subj
+pushes|ahead|mod
+ahead|reforms|with
+sector|debt-ridden|mod
+sector|government-run|nn
+sector|industrial|mod
+reforms|sector|of
+shortage|tear gas|of
+tear gas|and|punc
+bullets|rubber|mod
+tear gas|bullets|conj
+china|forced|mod
+military|china|gen
+bullets|open fire|rel
+open fire|military|subj
+open fire|demonstrators|on
+demonstrators|tiananmen square|in
+region|far|mod
+region|west|nn
+region|chinese|nn
+police|region|in
+region|rocked|vrel
+rocked|region|obj
+rocked|by|by-subj
+rocked|series|by
+attacks|terrorist|mod
+series|attacks|of
+arrested|police|subj
+arrested|group|obj
+group|suspects|of
+arrested|and|punc
+arrested|seized|conj
+seized|police|subj
+seized|firearms|obj
+raise|china|subj
+raise|stipends|obj
+workers|unemployed|mod
+stipends|workers|to
+workers|30 percent|by
+30 percent|part|as
+part|series|of
+series|measures|of
+measures|intended|vrel
+arrest|measures|subj
+slide|economic|mod
+arrest|slide|obj
+arrest|and|punc
+arrest|brighten|conj
+brighten|measures|subj
+sentiment|public|mod
+brighten|sentiment|obj
+sentiment|ahead|pnmod
+anniversary|country|gen
+anniversary|50th|mod
+ahead|anniversary|of
+rule|communist|mod
+anniversary|rule|of
+villages|china|gen
+run|villages|obj
+run|more|mod
+run|openly|mod
+government|top|mod
+government|and|punc
+leaders|communist party|nn
+government|leaders|conj
+say|government|subj
+order|new|mod
+say|order|in
+order|sent|vrel
+sent|order|obj
+communities|rural|mod
+sent|communities|to

@@ -1,0 +1,62 @@
+lawyer|newt gingrich|for
+says|lawyer|subj
+speaker|former|mod
+speaker|u.s. house|nn
+speaker|and|punc
+wife|his|gen
+speaker|wife|conj
+says|signed|fc
+signed|speaker|subj
+settlement|final|mod
+settlement|divorce|nn
+signed|settlement|obj
+signed|and|punc
+signed|are|conj
+are|ready|pred
+are|take|mod
+take|speaker|subj
+take|agreement|obj
+courtroom|cobb county|nn
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+try|newt gingrich|subj
+try|reach|fc
+reach|newt gingrich|subj
+settlement|divorce|nn
+reach|settlement|obj
+meeting|their|gen
+meeting|first|post
+meeting|face-to-face|mod
+settlement|meeting|in
+meeting|theirsplit|since
+speaker|former|mod
+speaker|u.s.|nn
+speaker|house|nn
+attorneys|speaker|for
+speaker|newt gingrich|person
+speaker|and|punc
+ex-wife|his|gen
+ex-wife|soon-to-be|mod
+speaker|ex-wife|conj
+expect|attorneys|subj
+approve|judge|subj
+divorce|couple|gen
+approve|divorce|obj
+newt gingrich|and|punc
+newt gingrich|marianne gingrich|conj
+marianne gingrich|spent|pnmod
+spent|mediator|with
+attempt|their|gen
+attempt|first|post
+mediator|attempt|in
+attempt|resolve|rel
+resolve|attempt|subj
+divorce|their|gen
+divorce|bitter|mod
+resolve|divorce|obj
+hopes|newt gingrich|gen
+hopes|estranged|mod
+hopes|wife|nn
+resolve|hopes|subj
+resolve|answers|for
+answers|her|from

@@ -1,0 +1,147 @@
+i--|episode|nn
+screened|'|punc
+screened|'|punc
+screened|phantom menace|obj
+cities|eight|nn
+cities|north american|nn
+screened|cities|in
+executives|movie theater|nn
+cities|executives|for
+and--|their|gen
+and--|families|nn
+of|`|punc
+of|`|punc
+bundle|star wars|of
+fans|'|punc
+apparently--|fans|rel
+fans|apparently--|obj
+fans|bundle|subj
+i--|episode|nn
+screened|'|punc
+screened|'|punc
+screened|phantom menace|obj
+cities|eight|nn
+cities|north american|nn
+screened|cities|in
+executives|movie theater|nn
+cities|executives|for
+families|their|gen
+executives|families|appo
+apparently--|and--|nn
+of|`|punc
+of|`|punc
+bundle|star wars|of
+fans|'|punc
+apparently--|fans|rel
+fans|apparently--|obj
+fans|bundle|subj
+of|`|punc
+of|`|punc
+celebration|star wars|of
+i|_|punc
+anniversary|phantom menace|gen
+anniversary|'|punc
+anniversary|'|punc
+anniversary|one-month|nn
+i|anniversary|appo
+want|they|subj
+devotees|gather|rel
+gather|devotee|subj
+friends|their|gen
+gather|friends|obj
+gather|dress|conj
+dress|devotee|subj
+characters|their|gen
+characters|favorite|mod
+dress|characters|as
+dress|and|punc
+dress|go|conj
+go|devotee|subj
+see|devotees|subj
+see|movie|obj
+see|over|mod
+over|and|punc
+over|over|conj
+see|again|mod
+see|just|mod
+day|opening|mod
+prequel|much-anticipated|mod
+be|here|pred
+be|month|mod
+said|crowder|subj
+crowder|who|whn
+works|crowder|subj
+works|san francisco|for
+station|radio|nn
+station|name|under
+was|among|pred
+was|handful|among
+handful|fans|of
+fans|who|whn
+began|fans|subj
+began|lining up|mod
+lining up|station|subj
+house|movie|nn
+lining up|house|at
+lining up|hoping|mod
+hoping|snag|fc
+snag|tickets|obj
+star wars|long-awaited|nn
+star wars|`|punc
+star wars|`|punc
+tickets|star wars|to
+line|most-hyped|mod
+merchandise|movie-themed|mod
+line|merchandise|of
+merchandise|history--|in
+unreleased|still|mod
+star wars|unreleased|mod
+star wars|`|punc
+star wars|`|punc
+history--|star wars|for
+i--|episode|nn
+aren|sale|on
+schedule|studio-imposed|mod
+sale|schedule|on
+schedule|and|punc
+schedule|fans|conj
+fans|and|punc
+fans|retailers|conj
+aren|wasting|pred
+aren|minute|mod
+i--|episode|nn
+opened|'|punc
+opened|'|punc
+i--|opened|rel
+opened|i--|obj
+opened|phantom menace|subj
+opened|united states|in
+united states|and|punc
+united states|canada|conj
+released|it|obj
+released|asian|in
+asian|and|punc
+nations|european|nn
+asian|nations|conj
+nations|mid-.|until
+student|18-year-old|mod
+student|german|mod
+student|college|nn
+moritz minzlaff|student|appo
+student|karlsruhe|in
+karlsruhe|south|pnmod
+south|heidelberg|of
+posted|moritz minzlaff|subj
+message|internet|nn
+posted|message|obj
+message|begging|rel
+begging|message|subj
+star wars|fellow|mod
+star wars|foreign|mod
+star wars|`|punc
+star wars|`|punc
+fans|star wars|gen
+fans|'|punc
+begging|fans|obj
+fans|join|rel
+join|fan|subj

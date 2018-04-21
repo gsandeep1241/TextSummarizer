@@ -1,0 +1,124 @@
+people|four|nn
+people|more|mod
+killed|people|obj
+killed|since|mod
+killed|then|mod
+victims|latest|mod
+trend|disturbing|mod
+victims|trend|in
+murders|110|num
+been|murders|pred
+murders|new orleans|in
+compared|year|mod-before
+new orleans|compared|vrel
+compared|new orleans|obj
+compared|80|with
+time|same|post
+80|time|by
+compared|year ago|mod
+wcbs-tv|channel 2|appo
+channel 2|new york city|in
+chose|wcbs-tv|subj
+story|different|mod
+chose|story|obj
+story|lead|rel
+lead|story|subj
+newscast|its|gen
+newscast|6 p.m.|nn
+lead|newscast|obj
+newscast|july 30|on
+women|seven|nn
+harassed|women|obj
+two|previous|num-mod
+months|two|amount-value
+harassed|months|over
+path|jogging|nn
+months|path|on
+path|westchester county|in
+reflects|selection|subj
+reflects|some|obj
+changes|significant|mod
+some|changes|of
+broadcasts|new york|gen
+broadcasts|television news|nn
+changes|broadcasts|on
+on|and|punc
+on|in|conj
+newspapers|its|gen
+on|newspapers|in
+reflects|as|mod
+rate|city|gen
+rate|crime|nn
+as|dropped|comp1
+dropped|rate|subj
+years|last half-dozen|mod
+dropped|years|for
+selling|city|in
+selling|they|subj
+selling|promise|obj
+promise|that|c
+caught|you|obj
+caught|carrying|mod
+carrying|you|subj
+carrying|weapon|obj
+weapon|commission|in
+commission|crime|of
+authorities|local|mod
+turn|authorities|subj
+turn|you|obj
+turn|over|mod
+over|feds|to
+feds|who|whn
+use|feds|subj
+law|existing|mod
+use|law|obj
+law|seek out|rel
+seek out|law|subj
+sentence|longest|mod
+seek out|sentence|obj
+sentence|applicable|pnmod
+offense|your|gen
+applicable|offense|for
+officials|say|rel
+say|official|subj
+say|that|c
+is|time|pred
+is|california|for
+halt|temporarily|amod
+california|halt|rel
+halt|california|subj
+buildup|prison|nn
+halt|buildup|obj
+buildup|that|whn
+inspired|buildup|subj
+inspired|spending|obj
+states|other|mod
+spending|states|in
+states|country|across
+inspired|and|punc
+inspired|had|conj
+had|buildup|subj
+effect|big|mod
+had|effect|obj
+budget|state|nn
+effect|budget|on
+has|1980|since
+has|california|subj
+$5.6 billion|spent|mod
+has|$5.6 billion|obj
+construction|prison|nn
+$5.6 billion|construction|on
+has|and|punc
+had|with|mod-before
+tough|increasingly|mod
+laws|tough|mod
+had|laws|with
+offenders|repeat|nn
+laws|offenders|for
+has|had|conj
+had|california|subj
+had|trouble|obj
+trouble|filling|rel
+filling|trouble|subj
+cells|new|mod
+filling|cells|obj

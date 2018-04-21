@@ -1,0 +1,122 @@
+phenomenon|national|mod
+is|phenomenon|pred
+sides|two|nn
+are|sides|pred
+sides|pulling|rel
+pulling|side|subj
+pulling|harder|mod
+describes|also|amod
+describes|it|subj
+describes|creation|obj
+being|result|pred
+of|`|punc
+of|`|punc
+design|intelligent|mod
+result|design|of
+linda holloway|conservative|appo
+conservative|shawnee|from
+is|chairwoman|pred
+harold roth|moderate|appo
+moderate|haven|from
+chairman|2000|in
+abrams|veterinarian|appo
+veterinarian|arkansas city|from
+said|abrams|subj
+said|is|fc
+is|something|pred
+something|that|whn
+is|`|punc
+is|`|punc
+is|observable|pred
+observable|measurable|conj
+measurable|repeatable|conj
+repeatable|and|punc
+repeatable|falsifiable|conj
+is|him|to
+is|none|pred
+none|things|of
+belief|mandate|nn
+said|scharmann|subj
+does|not|neg
+prohibit|it|subj
+prohibit|teaching|obj
+teaching|evolution|of
+rubrics|their|gen
+theory|intelligent-design|mod
+are|theory|pred
+theory|abrupt-appearance|mod
+theory|theory|conj
+theory|and|punc
+theory|irreducible|mod
+theory|complexity|nn
+theory|theory|conj
+view|creationist|nn
+advocates|view|of
+say|advocates|subj
+theories|their|gen
+alarm|theories|over
+say|is|fc
+is|overblown|pred
+success|all|pre
+success|its|gen
+is|success|for
+success|accounting for|in
+accounting for|observations|obj
+is|indeed|guest
+theory|just|pre
+is|theory|pred
+is|although|mod
+although|is|comp1
+is|one|pred
+dissenters|scientific|mod
+one|dissenters|with
+argue|creationists|subj
+argue|that|c
+is|only|guest
+is|a few|pred
+made|argument|subj
+teaching|argument|subj
+teaching|evolution|obj
+teaching|kansas|in
+made|and|punc
+is|elsewhere|mod-before
+made|is|conj
+is|that|c
+was|there|pred
+there|see|rel
+see|there|subj
+see|began|fc
+began|life|subj
+evidence|given|mod
+firsthand|only|mod
+evidence|firsthand|mod
+be|evidence|pred
+evolution|course|nn
+is|theory|pred
+say|creationists|subj
+say|that|c
+be|observable|pred
+is|michael polanyi center|pred
+much|concern|of
+while|is|comp1
+is|over|pred
+is|process|over
+is|science|such as
+perceived|faculty|obj
+issue|overriding|mod
+is|substance|pred
+is|about|mod
+theory of evolution|term|nn
+theory of evolution|`|punc
+theory of evolution|`|punc
+suggests|'|punc
+suggests|'|punc
+insist|suggests|fc
+suggests|theory of evolution|subj
+suggests|are|fc
+are|uncertain|pred
+uncertain|facts|of
+want|creationists|subj
+want|halt|fc
+halt|creationists|subj
+halt|revolution|obj

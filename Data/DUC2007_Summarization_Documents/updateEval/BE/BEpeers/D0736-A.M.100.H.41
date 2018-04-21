@@ -1,0 +1,35 @@
+daytime emmys|32|num
+winning|daytime emmys|obj
+daytime emmys|and|punc
+award|lifetime|nn
+award|achievement|nn
+daytime emmys|award|conj
+after|taking|comp1
+taking|oprah winfrey|subj
+taking|herself|obj
+taking|running|out of
+host|best|mod
+host|talk show|nn
+running|host|for
+ceremony|year|gen
+host|ceremony|at
+year|last|post
+given|i|obj1
+award|lifetime|nn
+award|achievement|nn
+given|award|obj2
+said|she|subj
+said|interview|in
+interview|scheduled|vrel
+scheduled|interview|obj
+scheduled|air|mod
+air|she|subj
+air|tuesday|mod
+on|`|punc
+on|`|punc
+air|roseanne show|on
+after|achieved|comp1
+achieved|you|subj
+achieved|it|obj
+achieved|lifetime|for
+is|there|pred

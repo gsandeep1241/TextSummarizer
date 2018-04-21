@@ -1,0 +1,52 @@
+justice department|and|punc
+states|19|num
+justice department|states|conj
+assert|justice department|subj
+assert|microsoft|obj
+()|bundling|by
+browser|its|gen
+browser|internet explorer|nn
+bundling|browser|obj
+operating system|its|gen
+operating system|windows|nn
+browser|operating system|with
+faxed|result|as
+faxed|microsoft|subj
+offer|several-page|mod
+offer|settlement|nn
+faxed|offer|obj1
+offer|justice department|to
+justice department|and|punc
+attorneys|19|num
+attorneys|state|nn
+justice department|attorneys|conj
+faxed|general|obj2
+general|who|whn
+suing|general|subj
+suing|microsoft|obj
+of appeals|circuit|nn
+of appeals|chicago|in
+include|meeting|subj
+include|lawyers|obj
+lawyers|representing|rel
+representing|lawyer|subj
+representing|microsoft|obj
+microsoft|and|punc
+microsoft|justice department|conj
+justice department|and|punc
+states|19|num
+justice department|states|conj
+states|suing|rel
+suing|state|subj
+suing|company|obj
+talks|settlement|subj
+judge|chief|mod
+richard posner|judge|appo
+court|federal|mod
+court|appeals|nn
+judge|court|of
+court|chicago|in
+continuing|richard posner|subj
+sides|two|nn
+remain|sides|subj
+remain|divided|desc

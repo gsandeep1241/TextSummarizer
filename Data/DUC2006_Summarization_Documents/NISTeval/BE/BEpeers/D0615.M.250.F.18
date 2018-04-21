@@ -1,0 +1,143 @@
+budget|`|punc
+budget|`|punc
+budget|frayed|mod
+budget|shoestring|nn
+operating|budget|on
+help|center|subj
+mount|counterattack|obj
+counterattack|creationism|on
+schools|public|nn
+creationism|schools|in
+articles|center|nn
+articles|supplies|nn
+articles|concise|mod
+articles|and|punc
+articles|pamphlets|conj
+pamphlets|refuting|rel
+refuting|pamphlet|subj
+refuting|claims|obj
+science|creation|nn
+claims|science|of
+advice|legal|mod
+pamphlets|advice|conj
+advice|and|punc
+advice|summaries|conj
+cases|court|nn
+summaries|cases|of
+cases|involving|rel
+involving|case|subj
+involving|creationism|obj
+creationism|tips|appo
+tips|writing|on
+writing|letters|obj1
+letters|editors|to
+newspapers|local|mod
+editors|newspapers|of
+newspapers|advice|appo
+on|explain|pcomp-c
+explain|issues|obj
+issues|reporters|to
+numbers|phone|nn
+writing|numbers|obj2
+experts|national|mod
+numbers|experts|of
+experts|evolution|on
+evolution|links|conj
+links|dozens|to
+dozens|organizations|of
+organizations|that|whn
+offer|organizations|subj
+offer|help|obj
+help|and|punc
+numbers|phone|nn
+help|numbers|conj
+people|other|mod
+evolution|people|of
+state|their|gen
+people|state|in
+state|who|whn
+are|willing|pred
+are|get|mod
+get|involved|desc
+'s|denial|pred
+have|understanding|obj
+have|we|subj
+have|origin|of
+origin|universe|of
+universe|terms|in
+science|modern|mod
+terms|science|of
+have|'|punc
+have|'|punc
+have|said|mod
+said|jerome friedman|subj
+jerome friedman|physicist|appo
+physicist|massachusetts institute of technology|at
+massachusetts institute of technology|who|whn
+awarded|massachusetts institute of technology|obj1
+awarded|nobel prize|obj2
+nobel prize|1990|in
+nobel prize|collaborating|for
+collaborating|we|subj
+collaborating|discovery|in
+discovery|subatomic particles|of
+subatomic particles|called|vrel
+called|subatomic particles|obj1
+called|quarks|desc
+called|and|punc
+called|is|conj
+is|president|pred
+president|american physical society|of
+adoption|standards|of
+standards|science|in
+science|or|punc
+subject|other|mod
+science|subject|conj
+can|not|neg
+because|dictated|comp1
+dictated|adoption|obj
+law|state|nn
+dictated|law|under
+be|up|guest
+be|to|pred
+be|district|to
+district|decide|rel
+decide|district|subj
+decide|whether|c
+follow|lead|obj
+lead|state|of
+board|which|whn
+issues|board|subj
+issues|guidelines|obj
+guidelines|suggesting|rel
+suggesting|guideline|subj
+suggesting|what|obj
+taught|board|obj
+classrooms|state|gen
+taught|classrooms|in
+banning|outright|guest
+banning|teaching|obj
+teaching|evolution|of
+evolution|and|punc
+evolution|anything|conj
+anything|related|vrel
+related|anything|obj
+related|it|to
+related|origin|such as
+origin|universe|of
+opted|in|mod-before
+described|what|obj
+described|compromise|as
+opted|board|subj
+opted|leave|fc
+leave|board|subj
+leave|it|obj
+districts|local|mod
+districts|school|nn
+up|districts|to
+districts|decide|rel
+decide|district|subj
+decide|if|c
+included|subjects|obj
+curricula|their|gen
+included|curricula|in

@@ -1,0 +1,60 @@
+two|only|mod
+are|two|pred
+ranger|era|gen
+two|ranger|conj
+ranger|and|punc
+corp.|western|mod
+corp.|mining|nn
+ranger|corp.|conj
+dam|ltd.|gen
+dam|olympic|mod
+thousands|tourists|of
+visit|thousands|subj
+visit|park|obj
+visit|year|mod
+chairman|world heritage|nn
+chairman|committee|nn
+delegation|which|whn
+report|delegation|subj
+report|to|guest
+report|committee|to
+report|meeting|obj
+meeting|kyoto|in
+kyoto|december|in
+listing|such|pre
+is|not|neg
+is|binding|pred
+government|australian|mod
+binding|government|on
+is|and|punc
+would|not|neg
+prevent|necessarily|amod
+is|prevent|conj
+prevent|listing|subj
+prevent|mine|obj
+mine|going ahead|from
+going ahead|listing|subj
+leases|mining|nn
+are|within|pred
+boundaries|kakadu|gen
+are|boundaries|within
+are|but|punc
+are|are|conj
+not|technically|mod
+are|not|guest
+are|part|pred
+part|park|of
+howard|australian|mod
+howard|prime minister|title
+defended|today|mod-before
+defended|howard|subj
+decision|government|gen
+defended|decision|obj
+decision|go ahead|rel
+go ahead|decision|subj
+mining|uranium|nn
+go ahead|mining|with
+mining|development|on
+development|and|punc
+grounds|environmental|mod
+development|grounds|conj

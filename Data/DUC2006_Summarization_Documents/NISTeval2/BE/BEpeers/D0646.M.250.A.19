@@ -1,0 +1,134 @@
+laws|federal|mod
+laws|perjury|nn
+require|laws|subj
+require|prosecutors|obj
+prosecutors|prove|rel
+prove|prosecutor|subj
+prove|that|c
+lied|knowingly|mod-before
+lied|offenders|subj
+lied|oath|under
+were|material|pred
+material|cases|to
+require|which|in
+testimony|false|mod
+given|testimony|obj
+said|democrats|subj
+said|that|c
+even if|is|comp1
+is|true|pred
+committed perjury|clinton|subj
+jury|grand|nn
+committed perjury|jury|before
+jury|that|whn
+is|not|neg
+is|necessarily|guest
+offense|impeachable|mod
+is|offense|pred
+said|meehan|subj
+did|not|neg
+because|believe|comp1
+believe|clinton|subj
+believe|he|obj
+said|was|fc
+was|lying|pred
+because|were|comp1
+were|immaterial|pred
+case|jones|nn
+immaterial|case|to
+standard|legal|mod
+standard|perjury|of
+was|not|neg
+met|standard|obj
+is|according to|mod-before
+report|starr|nn
+is|report|according to
+report|and|punc
+report|house judiciary committee|conj
+is|that|c
+denied|repeatedly|mod-before
+denied|clinton|subj
+denied|having|fc
+having|clinton|subj
+relationship|sexual|mod
+having|relationship|obj
+relationship|lewinsky|with
+case|civil|mod
+lewinsky|case|in
+testimony|his|gen
+testimony|grand jury|nn
+took|testimony|in
+took|clinton|subj
+took|view|obj
+view|that|c
+statement|his|gen
+statement|deposition|in
+been|accurate|pred
+been|because|mod
+relations|sexual|mod
+because|occurred|comp1
+occurred|relations|subj
+occurred|only|mod
+only|sexual intercourse|with
+say|republicans|subj
+say|is|fc
+is|obvious|pred
+obvious|that|c
+committed perjury|clinton|subj
+committed perjury|noting|mod
+noting|clinton|subj
+noting|that|c
+denied|flatly|mod-before
+denied|he|subj
+relationship|sexual|mod
+denied|relationship|obj
+relationship|lewinsky|with
+lawyers|president|gen
+but|respond|comp1
+respond|lawyers|subj
+statement|clinton|gen
+statement|sworn|mod
+respond|statement|obj
+statement|paula jones|in
+suit|sexual harassment|nn
+short|far|mod
+was|short|pred
+short|perjury|of
+said|gibbons|subj
+most|them|of
+said|are|fc
+are|perjury|pred
+cases|document|nn
+perjury|cases|of
+papers|someone|nn
+papers|signs|nn
+papers|penalty|under
+penalty|perjury|of
+prosecutions|49,655|num
+were|prosecutions|out of
+prosecutions|federal courts|in
+federal courts|1997|in
+were|for|pred
+were|perjury|for
+charges|perjury|nn
+brought|charges|obj
+cases|civil|mod
+brought|cases|in
+less|far|mod
+frequently|less|mod
+brought|frequently|mod
+cases|criminal|mod
+knowledge|my|gen
+is|knowledge|to
+nobody|prosecuted|vrel
+prosecuted|nobody|obj
+prosecuted|office|in
+is|in|pred
+is|custody|in
+charges|perjury|nn
+custody|charges|for
+said|mrozek|subj
+is|said|mod
+reject|categorically|mod-before
+reject|we|subj
+reject|suggestion|obj

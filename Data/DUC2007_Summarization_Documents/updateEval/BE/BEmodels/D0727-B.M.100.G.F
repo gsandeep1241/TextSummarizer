@@ -1,0 +1,61 @@
+told|may 1999|in
+told|newt|subj
+marianne|his|gen
+marianne|wife|nn
+told|marianne|obj
+told|seeing|fc
+seeing|he|subj
+callista bizet|woman|nn
+callista bizet|(|punc
+seeing|callista bizet|obj
+seeing|)|punc
+seeing|and|punc
+seeing|wanted|conj
+wanted|he|subj
+wanted|divorce|obj
+blamed|newt|subj
+blamed|marianne|obj
+collapse|marriage|nn
+marianne|collapse|for
+blamed|and|punc
+blamed|wanted|conj
+wanted|newt|subj
+wanted|her|obj1
+wanted|deposed|desc
+deposed|withholding|about
+withholding|newt|subj
+withholding|money|obj
+continued|marianne|subj
+continued|press|to
+press|have|rel
+have|press|subj
+have|bizet|obj
+bizet|deposed|vrel
+deposed|bizet|obj
+newt|money|nn
+deposed|newt|about
+newt|spent|pnmod
+spent|her|on
+accountant|couple|gen
+stated|accountant|subj
+stated|that|c
+newt|and|punc
+newt|marianne|conj
+acted|newt|subj
+faith|good|mod
+acted|faith|in
+announced|newt|subj
+announced|question|fc
+question|he|subj
+question|bizet|obj
+himself|and|punc
+records|secure|mod
+records|relevant|mod
+himself|records|conj
+occurred|this|subj
+occurred|before|guest
+occurred|couple|before
+appearance|first|post
+appearance|divorce court|nn
+occurred|appearance|obj
+appearance|november|in

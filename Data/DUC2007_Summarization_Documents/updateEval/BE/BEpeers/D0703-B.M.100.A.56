@@ -1,0 +1,57 @@
+bank|euro|subj
+bank|notes|obj
+become|coins|subj
+become|legal tender|obj
+legal tender|january 1|on
+january 1|2002|num
+become|while|mod
+currencies|national|mod
+countries|euro|nn
+countries|founder|nn
+currencies|countries|of
+while|stop|comp1
+stop|currencies|subj
+stop|circulating|mod
+circulating|currency|subj
+circulating|completely|mod
+completely|july 1|by
+july 1|2002|num
+said|also|mod-before
+said|report|subj
+said|expects|fc
+expects|duisenberg|subj
+relationship|future|mod
+expects|relationship|obj
+relationship|dollar|between
+dollar|and|punc
+dollar|euro|conj
+euro|which|whn
+goes into|euro|subj
+goes into|effect|obj
+effect|jan 12|on
+gb|stable|mod
+gb|(|punc
+be|gb|pred
+started|already|mod-before
+started|germany|subj
+started|mint|mod
+mint|germany|subj
+coins|euro|nn
+mint|coins|obj
+august|early|mod
+mint|august|mod
+weakening|dollar|subj
+currencies|european|mod
+weakening|currencies|against
+months|recent|mod
+currencies|months|in
+arrival|euro|of
+is|likely|pred
+is|reduce|mod
+reduce|arrival|subj
+volume|thailand|gen
+volume|trading|nn
+reduce|volume|obj
+countries|other|mod
+volume|countries|with
+reduce|significantly|mod

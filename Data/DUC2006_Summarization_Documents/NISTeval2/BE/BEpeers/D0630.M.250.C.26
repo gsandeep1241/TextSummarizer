@@ -1,0 +1,122 @@
+editor|book|nn
+is|editor|pred
+is|for|mod
+consumers|austin american-statesman today|nn
+for|aren|comp1
+aren|willing|pred
+aren|wait|mod
+wait|consumer|subj
+wait|two|obj
+two|or|punc
+weeks|three|amount-value
+two|weeks|conj
+projects|report|subj
+modest|only|mod
+increases|modest|mod
+projects|increases|obj
+five|next|num-mod
+years|five|amount-value
+increases|years|for
+business|big|mod
+as|gets|comp1
+gets|business|subj
+gets|bigger|desc
+business|smaller|mod
+disappears|simply|mod-before
+meanwhile|disappears|comp1
+disappears|business|subj
+do|not|neg
+include|numbers|subj
+figures|sales|mod
+include|figures|obj
+publishers|thriving|mod
+publishers|fundamentalist|mod
+publishers|christian|nn
+figures|publishers|from
+wynne|ms|title
+passed|wynne|subj
+passed|word|obj
+started|calls|subj
+started|coming in|fc
+coming in|call|subj
+people|large internet|nn
+people|commerce|nn
+are|given|guest
+ride|free|mod
+are|ride|pred
+deal|ingram|nn
+galvanized|deal|subj
+opposition|strong|mod
+galvanized|opposition|obj
+opposition|booksellers|from
+booksellers|california|in
+group|one|nn
+likened|group|subj
+likened|it|obj
+likened|marriage|to
+marriage|godzilla|of
+godzilla|and|punc
+godzilla|king kong|conj
+company|only|mod
+isn|company|pred
+company|looking|rel
+looking|company|subj
+looking|expand|mod
+network|its|gen
+network|distribution|nn
+expand|network|obj
+case|legal|mod
+been|hardly|amod
+but|been|comp1
+been|open--|pred
+shut|and--|subj
+declined|agency|subj
+declined|comment on|fc
+comment on|agency|subj
+comment on|status|obj
+review|its|gen
+status|review|of
+will|not|neg
+share|murray|subj
+share|dais|obj
+dais|wiesel|with
+wiesel|or|punc
+winners|pulitzer|nn
+wiesel|winners|conj
+banding together|and|punc
+banding together|forming|conj
+way|only|mod
+is|way|pred
+culprit|apparent|mod
+one|odd|mod
+was|one|pred
+economy|good|mod
+talked|also|mod-before
+talked|industry|subj
+talked|books|obj
+kind|paper|nn
+books|kind|appo
+received|1991|in
+received|independents|subj
+received|32.5 percent|obj
+32.5 percent|sales|of
+sales|and|punc
+22 percent|chains|nn
+sales|22 percent|conj
+earmarked|association|subj
+earmarked|more|obj
+more|$2 million|than
+$2 million|promotion|for
+book|and|punc
+groups|distribution|nn
+book|groups|conj
+are|both|pred
+both|owned|vrel
+owned|both|obj
+owned|by|by-subj
+owned|ingram industries|by
+has|barnes noble|subj
+has|about 14 percent|obj
+market|retail|nn
+market|book|nn
+about 14 percent|market|of

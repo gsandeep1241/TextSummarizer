@@ -1,0 +1,67 @@
+voyage|20-day|nn
+voyage|swiss bertrand piccard|conj
+swiss bertrand piccard|and|punc
+swiss bertrand piccard|british brian jones|conj
+after|completed|comp1
+completed|voyage|subj
+circumnavigation|their|gen
+circumnavigation|nonstop|mod
+completed|circumnavigation|obj
+circumnavigation|hot-air balloon|on
+completed|and|punc
+completed|landed|conj
+landed|voyage|obj
+egypt|southern|mod
+landed|egypt|in
+landed|smoothly|mod
+morning|sunday|nn
+landed|morning|mod
+balloonists bertrand piccard|and|punc
+balloonists bertrand piccard|brian jones|conj
+brian jones|who|whn
+made|brian jones|subj
+days|their|gen
+days|journey|nn
+19|over|num-mod
+days|19|amount-value
+made|days|obj
+days|march|in
+beamed|balloonists bertrand piccard|subj
+officials|museum|nn
+beamed|officials|as
+officials|showed|vrel
+showed|officials|obj1
+showed|off|guest
+orange|neon|nn
+showed|orange|off
+compartment|passenger|nn
+showed|compartment|obj2
+balloon|their|gen
+balloon|breitling orbiter 3|nn
+compartment|balloon|of
+first two|bertrand piccard|appo
+bertrand piccard|switzerland|of
+switzerland|and|punc
+switzerland|brian jones|conj
+brian jones|britain|of
+completed|first two|subj
+trip|20-day|nn
+completed|trip|obj
+last|together|mod-before
+trip|last|vrel
+last|trip|obj
+last|march|mod
+last|ending|mod
+ending|first two|subj
+desert|egyptian|mod
+ending|desert|in
+near|exhaustion|obj
+day|20th|mod
+exhaustion|day|on
+hanging|their|gen
+hanging|shiny|mod
+hanging|red|mod
+hanging|capsule|nn
+day|hanging|in
+silver|massive|mod
+hanging|silver|from

@@ -1,0 +1,56 @@
+twist|latest|mod
+fight|gingriches|gen
+fight|bitter|mod
+fight|divorce|nn
+twist|fight|in
+fight|lawyers|appo
+lawyers|marianne gingrich|for
+marianne gingrich|charged|vrel
+charged|marianne gingrich|obj
+papers|court|nn
+charged|papers|in
+charged|monday|mod
+monday|that|c
+failed|"|punc
+failed|willfully|mod-before
+failed|monday|obj
+failed|gingrich|subj
+answer|gingrich|subj
+answer|virtually|guest
+answer|each|obj
+each|and|punc
+each|interrogatory|conj
+failed|concerning|mod
+relationships|his|gen
+relationships|personal|mod
+personal|and|punc
+personal|professional|conj
+concerning|relationships|obj
+relationships|as|punc
+relationships|well|punc
+relationships|as|punc
+relationships|finances|conj
+marriage|his|gen
+finances|marriage|of
+concerning|"|punc
+type|question|of
+concerning|is|fc
+is|not|neg
+is|uncommon|pred
+cases|hard-fought|mod
+cases|divorce|nn
+uncommon|cases|in
+cases|where|wha
+hire|often|mod-before
+hire|spouses|subj
+hire|detectives|obj
+detectives|sniff out|rel
+sniff out|detective|subj
+sniff out|everything|obj
+everything|finances|from
+finances|affairs|to
+sniff out|said|mod
+lawyer|washington|nn
+lawyer|divorce|nn
+said|lawyer|subj
+lawyer|sanford ain|person

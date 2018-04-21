@@ -1,0 +1,55 @@
+senator|greens|nn
+senator|bob brown|person
+said|senator|subj
+said|sunday|mod
+heritage bureau|world|nn
+night|saturday|nn
+kyoto|granted|vrel
+granted|kyoto|obj1
+government|australian|mod
+granted|government|obj2
+government|april 15|until
+april 15|produce|rel
+produce|april 15|subj
+produce|evidence|obj
+produce|why|wha
+should|not|neg
+declare|united nations|subj
+declare|kakadu national park|obj
+kakadu national park|which|whn
+surrounds|kakadu national park|subj
+mine|jabiluka|nn
+mine|uranium|nn
+surrounds|mine|obj
+said|brown|subj
+said|see|fc
+see|delay|subj
+reputation|australia|gen
+see|reputation|obj
+reputation|"|punc
+reputation|dragged|vrel
+dragged|reputation|obj
+fires|environmental|mod
+environmental|and|punc
+environmental|cultural|conj
+dragged|fires|through
+fires|experts|from
+experts|right|pnmod
+right|globe|around
+recommended|panel|subj
+recommended|that|c
+activities|mining|nn
+cease|activities|subj
+cease|meantime|in
+rejected|francioni|subj
+claim|hill|gen
+rejected|claim|obj
+claim|that|c
+report|mission|gen
+was|full|pred
+full|contradictions|of
+group|drafting|nn
+majority|group|of
+reflected|majority|subj
+reflected|views|obj
+views|report|of

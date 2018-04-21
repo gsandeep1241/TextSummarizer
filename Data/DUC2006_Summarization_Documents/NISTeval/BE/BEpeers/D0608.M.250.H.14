@@ -1,0 +1,152 @@
+president|jac nasser|person
+announced|president|subj
+announced|system|obj
+announced|monday|mod
+preview|north american international auto show|gen
+preview|media|nn
+announced|preview|at
+designed|cars|obj
+safety|child|nn
+designed|safety|with
+designed|first|mod
+first|mind|in
+designed|especially|mod
+seat|back|nn
+especially|seat|in
+seat|where|whn
+ride|where|obj
+ride|children|subj
+says|head|subj
+agency|federal|mod
+agency|safety|nn
+head|agency|of
+ride|says|mod
+recommended|hall|subj
+recommended|fitting|obj1
+recommended|stations|obj2
+envisioned|he|subj
+envisioned|them|obj
+envisioned|united states|across
+sites|vehicle|nn
+sites|inspection|nn
+united states|sites|at
+offices|motor vehicle|nn
+offices|administration|nn
+sites|offices|conj
+stations|fire|nn
+offices|stations|conj
+stations|and|punc
+dealerships|automobile|nn
+stations|dealerships|conj
+launched|national highway traffic safety administration|subj
+look|its|gen
+launched|look|obj
+look|ways|at
+ways|improve|rel
+improve|way|subj
+safety|child|nn
+safety|seat|nn
+improve|safety|obj
+improve|including|mod
+system|possible|mod
+system|rating|nn
+including|system|obj
+hearing|public|mod
+including|hearing|with
+hearing|wednesday|on
+administrator|nhtsa|nn
+administrator|associate|nn
+kratzke|administrator|appo
+performance|safety|nn
+administrator|performance|for
+economy|epa|nn
+economy|fuel|nn
+safety|true|mod
+safety|however|appo-mod
+safety|use|appo
+belts|seat|nn
+use|belts|of
+belts|hold|rel
+hold|belt|subj
+driver|and|punc
+driver|passengers|conj
+passengers|place|in
+hold|is|fc
+element|key|mod
+is|element|pred
+view|researchers|subj
+box|black|nn
+view|box|obj
+box|way|as
+way|improve|rel
+improve|way|subj
+safety|automobile|nn
+improve|safety|obj
+manufacturers|auto|nn
+reacted|manufacturers|subj
+reacted|coolly|mod
+coolly|advisory|to
+advisory|national highway traffic safety administration|from
+reacted|saying|mod
+saying|manufacturer|subj
+bags|side|nn
+bags|air|nn
+bags|used|vrel
+used|conjunction|in
+restraints|age-appropriate|mod
+conjunction|restraints|with
+enhance|significantly|amod
+saying|enhance|fc
+enhance|bags|subj
+enhance|safety|obj
+was|difficult|pred
+was|extract|mod
+extract|it|subj
+extract|information|obj
+module|car|gen
+module|air bag|nn
+module|control|nn
+information|module|from
+government|canadian|mod
+told|government|subj
+told|automakers|obj
+automakers|improve|rel
+improve|automakers|subj
+safety|airbag|nn
+improve|safety|obj
+improve|or|punc
+improve|face|conj
+face|automakers|subj
+regulations|new|mod
+face|regulations|obj
+regulations|as|mod
+fall|next|post
+early|fall|as
+plans|ford motor company|subj
+plans|add|fc
+add|ford motor company|subj
+calls|what|obj1
+calls|it|subj
+system|rollover|nn
+system|protection|nn
+calls|system|desc
+system|fall|in
+fall|2001|of
+sport utility vehicles|its|gen
+fall|sport utility vehicles|to
+suvs|(|punc
+sport utility vehicles|suvs|abbrev
+suvs|)|punc
+sport utility vehicles|and|punc
+trucks|light|mod
+sport utility vehicles|trucks|conj
+trucks|effort|in
+effort|reduce|comp1
+reduce|it|subj
+reduce|fatalities|obj
+reduce|reports|according to
+maker|world|gen
+maker|second|post
+maker|biggest|mod
+maker|auto|nn
+reports|maker|from

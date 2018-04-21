@@ -1,0 +1,94 @@
+records|fingerprint|nn
+used|records|obj
+used|determine|mod
+determine|record|subj
+determine|identities|obj
+all|14|num
+all|victims|nn
+identities|all|of
+paving|u.s.|nn
+paving|residents--|mod
+way|families|for
+paving|bury|rel
+bury|way|subj
+relatives|their|gen
+bury|relatives|obj
+flight|egyptair|nn
+crashed|flight|subj
+crashed|oct 31|mod
+island|massachusetts|nn
+crashed|island|off
+island|nantucket|of
+crashed|killing|mod
+killing|flight|subj
+people|217|num
+killing|people|obj
+people|board|on
+medical examiner|rhode island|nn
+office|medical examiner|gen
+overseeing|office|subj
+process|identification|nn
+overseeing|process|obj
+release|public|mod
+release|reports|of
+reports|compiling|rel
+compiling|report|subj
+compiling|facts|obj
+crash|egyptair flight 990|nn
+facts|crash|in
+step|routine|mod
+is|step|pred
+step|but|punc
+step|one|conj
+one|likely|pnmod
+likely|fan|to
+dispute|international|mod
+caused|what|subj
+last|tragedy|nn
+caused|last|obj
+fan|fall|rel
+fall|fan|obj
+fall|dispute|subj
+coast|new england|nn
+fall|coast|off
+said|experts|subj
+many|details|of
+details|released|vrel
+released|details|obj
+released|friday|mod
+said|reflect|fc
+reflect|many|subj
+reflect|airplane|obj
+airplane|that|whn
+was|in|pred
+was|emergency|in
+still|control|under
+investigators|united states|from
+united states|and|punc
+united states|egypt|conj
+review|investigators|subj
+review|part|obj
+system|flight|nn
+system|control|nn
+part|system|of
+system|tail|in
+airplane|boeing|gen
+airplane|767|num
+tail|airplane|of
+airplane|part|as
+part|investigation|of
+investigation|crash|into
+crash|egyptair flight 990|of
+chairman|national transportation safety board|of
+said|chairman|subj
+said|friday|mod
+been|reports|pred
+reports|problems|of
+system|767|nn
+system|elevator|nn
+problems|system|with
+system|or|punc
+pylons|engine|nn
+system|pylons|conj
+said|dern|subj
+been|said|mod

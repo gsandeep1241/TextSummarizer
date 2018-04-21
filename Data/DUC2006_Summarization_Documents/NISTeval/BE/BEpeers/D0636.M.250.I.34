@@ -1,0 +1,158 @@
+ap|detroit|nn
+ap|(|punc
+general motors corp.|and|punc
+general motors corp.|united auto workers|conj
+appear|general motors corp.|subj
+appear|patched|mod
+patched|general motors corp.|subj
+patched|up|guest
+relationship|their|gen
+patched|relationship|obj
+contract--|lucrative|mod
+contract--|four-year|nn
+relationship|contract--|with
+patched|but|mod
+price|steep|mod
+said|price|at
+price|gm|for
+experts|industry|nn
+but|said|comp1
+said|experts|subj
+puts|deal|subj
+more|even|mod
+pressure|more|mod
+puts|pressure|obj
+pressure|ford motor co.|on
+automakers|major|mod
+last|automakers|of
+agreements|tentative|mod
+agreements|reached|vrel
+reached|agreements|obj
+reached|tuesday|mod
+reached|uaw|between
+uaw|gm|conj
+gm|and|punc
+delphi automotive systems|its|gen
+delphi automotive systems|former|mod
+delphi automotive systems|parts|nn
+delphi automotive systems|division|nn
+gm|delphi automotive systems|conj
+provide|agreements|subj
+workers|185,000|num
+provide|workers|obj
+pay raises|3 percent|nn
+workers|pay raises|with
+years|four|amount-value
+each year|years|for
+years|and|punc
+bonus|signing|nn
+years|bonus|conj
+bonus|$1,350|of
+source|close|pnmod
+close|talks|to
+pay raises|said|rel
+said|pay raises|obj
+said|source|subj
+had|daimlerchrysler ag|subj
+contract|similar|mod
+had|contract|obj
+contract|approved|vrel
+approved|contract|obj
+workers|75,000|num
+approved|workers|for
+workers|last|vrel
+last|workers|obj
+last|weekend|mod
+talks|lower-level|mod
+talks|ford|with
+gone on|talks|subj
+gone on|while|mod
+while|worked on|comp1
+worked on|uaw|subj
+worked on|contracts|obj
+contracts|gm|with
+gm|and|punc
+gm|daimlerchrysler|conj
+ap|detroit|nn
+ap|(|punc
+peace|labor|nn
+summer|last|post
+strikes|summer|gen
+strikes|devastating|mod
+peace|strikes|since
+president|united auto workers|nn
+president|stephen yokich|person
+said|president|subj
+said|sunday|guest
+said|that|c
+have|still|mod-before
+have|we|subj
+problems|our|gen
+have|problems|obj
+problems|'|punc
+problems|general motors corp.|with
+have|and|punc
+have|hinted at|conj
+hinted at|we|subj
+hinted at|showdown|obj
+hinted at|when|wha
+talks|national|mod
+talks|contract|nn
+begin|talks|subj
+begin|later|mod
+begin|year|mod
+said|speech|in
+speech|kicking|rel
+kicking|speech|subj
+kicking|off|guest
+convention|union|gen
+convention|triennial|mod
+convention|bargaining|nn
+kicking|convention|obj
+said|yokich|subj
+security|job|nn
+be|again|amod
+said|be|fc
+priority|uaw|gen
+be|priority|pred
+be|when|wha
+begins|it|subj
+talks|contract|nn
+begins|talks|obj
+talks|june|in
+talks|gm|with
+gm|ford motor co.|conj
+ford motor co.|and|punc
+unit|chrysler|nn
+ford motor co.|unit|conj
+unit|daimlerchrysler ag|of
+contracts|national|mod
+cover|contracts|subj
+workers|396,000|num
+workers|u.s.|nn
+cover|workers|about
+reserved|yokich|subj
+reserved|his|obj1
+criticism|toughest|mod
+reserved|criticism|obj2
+criticism|gm|for
+reserved|suggesting|mod
+suggesting|yokich|subj
+2,000|about|mod
+delegates|2,000|to
+suggesting|delegates|fc
+delegates|union|subj
+delegates|little|obj
+delegates|if|c
+improved|anything|subj
+relations|uaw-gm|nn
+improved|relations|in
+year|last|post
+battle|year|gen
+battle|costly|mod
+relations|battle|since
+lasted|they|subj
+lasted|weeks|mod
+lasted|and|punc
+lasted|cost|conj
+cost|they|obj

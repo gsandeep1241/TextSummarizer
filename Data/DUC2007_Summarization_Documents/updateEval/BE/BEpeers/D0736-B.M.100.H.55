@@ -1,0 +1,53 @@
+oprah winfrey|show|nn
+oprah winfrey|host|nn
+starting|oprah winfrey|subj
+spring|next|mod-before
+spring|magazine|subj
+hearst corp.|magazine publisher|nn
+spring|hearst corp.|with
+winfrey|talk show|nn
+winfrey|host|nn
+figure|powerful|mod
+winfrey|figure|appo
+world|book|nn
+figure|world|in
+book club|oprah|gen
+world|book club|because of
+received|winfrey|subj
+medal|50th|mod
+medal|anniversary|nn
+received|medal|obj
+medal|foundation|from
+sherry lansing|chairwoman|appo
+group|paramount|gen
+group|motion picture|nn
+chairwoman|group|of
+group|1992|since
+replaced|sherry lansing|subj
+replaced|winfrey|obj
+powerful|most|mod
+woman|powerful|mod
+winfrey|woman|as
+business|entertainment|nn
+woman|business|in
+named|reporter|subj
+named|universal pictures chairwoman stacey snider|obj
+universal pictures chairwoman stacey snider|no.2|as
+list|its|gen
+no.2|list|on
+named|noting|mod
+noting|reporter|subj
+noting|that|c
+lansing|and|punc
+lansing|snider|conj
+women|only|mod
+women|two|nn
+are|women|pred
+running|single-handedly|amod
+women|running|rel
+running|woman|subj
+studios|motion picture|nn
+running|studios|obj
+venture|new|mod
+face|venture|subj
+face|competition|obj

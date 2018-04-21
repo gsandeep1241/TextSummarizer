@@ -1,0 +1,139 @@
+simultaneous|nearly|mod
+bombing|simultaneous|mod
+bombing|car|nn
+embassy|u.s.|nn
+bombing|embassy|outside
+embassy|tanzania|in
+killed|bombing|subj
+people|10|num
+killed|people|obj
+killed|and|punc
+killed|wounded|conj
+wounded|bombing|subj
+70|about|num-mod
+others|70|nn
+wounded|others|obj
+president|u.s.|nn
+president|bill clinton thursday|person
+ordered|president|subj
+raids|air|nn
+ordered|raids|obj1
+raids|terror|on
+ordered|facilities|obj2
+used|allegedly|mod-before
+facilities|used|vrel
+used|facilities|obj
+used|by|by-subj
+used|laden|by
+laden|afghanistan|in
+afghanistan|and|punc
+afghanistan|sudan|conj
+attack|clear|mod
+attack|revenge|nn
+sudan|attack|in
+attack|bombings|for
+official|senior|mod
+official|government|nn
+official|who|whn
+saw|official|subj
+saw|confessions|obj
+confessions|suspects|of
+quoted|official|obj
+quoted|by|by-subj
+media|local|mod
+quoted|media|by
+quoted|friday|mod
+saying|official|subj
+saying|that|obj
+group|egyptian islamic jihad|nn
+group|linked|vrel
+linked|group|obj
+osama bin laden|saudi|mod
+osama bin laden|millionaire|nn
+linked|osama bin laden|with
+osama bin laden|who|whn
+lives|osama bin laden|subj
+lives|afghanistan|in
+planned|group|subj
+planned|attacks|obj
+attack|car bomb|nn
+embassy|u.s.|nn
+attack|embassy|at
+embassy|nairobi|in
+killed|reportedly|mod-before
+killed|attack|subj
+people|253|num
+killed|people|obj
+killed|and|punc
+killed|injured|conj
+injured|attack|subj
+injured|5,000|obj
+injured|more|mod
+simultaneous|nearly|mod
+bombing|simultaneous|mod
+bombing|car|nn
+embassy|u.s.|nn
+bombing|embassy|outside
+embassy|tanzania|in
+killed|bombing|subj
+people|10|num
+killed|people|obj
+killed|and|punc
+killed|wounded|conj
+wounded|bombing|subj
+70|about|num-mod
+others|70|nn
+wounded|others|obj
+ap|nairobi|nn
+ap|(|punc
+citizen|yemeni|mod
+citizen|who|whn
+is|suspect|pred
+suspect|bombing|in
+bombing|u.s. embassy|of
+u.s. embassy|nairobi|in
+flown|citizen|obj
+flown|united states|to
+reported|newspaper|subj
+reported|thursday|obj
+east african standard|owned|vrel
+owned|east african standard|obj
+owned|by|by-subj
+owned|group|by
+group|businessmen|of
+close|east african standard|subj
+close|to|guest
+close|president|to
+president|daniel|person
+moi|arap|nn
+party|moi|gen
+party|kenyan african national union|nn
+close|party|obj
+reported|that|subj
+sources|unidentified|mod
+said|sources|subj
+said|flew|fc
+flew|fbi|subj
+flew|khalid salim|obj
+khalid salim|united states|to
+night|wednesday|nn
+united states|night|on
+ap|nairobi|nn
+ap|(|punc
+citizen|yemeni|mod
+citizen|who|whn
+is|suspect|pred
+suspect|bombing|in
+bombing|u.s. embassy|of
+u.s. embassy|nairobi|in
+flown|citizen|obj
+flown|united states|to
+reported|newspaper|subj
+reported|thursday|obj
+four|those|of
+are|in|pred
+are|custody|in
+custody|new york|in
+others|two|nn
+awaiting|others|subj
+awaiting|extradition|obj

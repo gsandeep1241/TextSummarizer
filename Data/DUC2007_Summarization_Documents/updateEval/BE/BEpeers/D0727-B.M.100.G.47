@@ -1,0 +1,65 @@
+move|surprise|nn
+initiated|move|in
+initiated|newt gingrich|subj
+deposition|his own|gen
+initiated|deposition|obj
+aide|washington|nn
+aide|congressional|mod
+deposition|aide|of
+aide|named|vrel
+named|aide|obj
+divorce|his|gen
+named|divorce|in
+says|gingrich|subj
+says|earned|fc
+earned|he|obj
+earned|more|mod
+more|$5,000|than
+wife|his|gen
+$5,000|deposited|rel
+deposited|$5,000|obj
+deposited|wife|subj
+account|joint|mod
+deposited|account|in
+far|so|mod
+deposited|far|mod
+told|newt gingrich|subj
+wife|his|gen
+told|wife|obj
+told|seeing|fc
+seeing|he|subj
+seeing|woman|obj
+seeing|and|punc
+seeing|wanted|conj
+wanted|he|subj
+wanted|divorce|obj
+asked|motion|in
+motion|filed|vrel
+filed|motion|obj
+filed|cobb county superior court|in
+asked|gingrich|subj
+asked|judge|obj
+judge|give|rel
+give|judge|subj
+days|his|gen
+days|wife|nn
+days|marianne|nn
+days|14|amount-value
+give|days|obj
+days|transfer|rel
+transfer|days|subj
+transfer|money|obj
+account|joint|mod
+money|account|to
+account|agreed|rel
+agreed|couple|subj
+agreed|set up|fc
+set up|account|obj
+set up|couple|subj
+set up|until|mod
+divorce|their|gen
+until|is|comp1
+is|final|pred
+accusing|gingrich|subj
+wife|his|gen
+accusing|wife|obj

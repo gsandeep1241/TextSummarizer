@@ -1,0 +1,58 @@
+divorce|newt gingrich|gen
+moves|divorce|subj
+moves|courtroom|to
+time|first|post
+courtroom|time|for
+moves|as|mod
+as|argue|comp1
+argue|lawyers|subj
+questions|32|num
+is|really|guest
+questions|just|pre
+questions|32|num
+is|questions|pred
+move|surprise|nn
+initiated|move|in
+initiated|newt gingrich|subj
+deposition|his own|gen
+initiated|deposition|obj
+aide|washington|nn
+aide|congressional|mod
+deposition|aide|of
+aide|named|vrel
+named|aide|obj
+divorce|his|gen
+named|divorce|in
+divorce|gingrich|nn
+takes|divorce|subj
+turn|nasty|mod
+takes|turn|obj
+turn|duane d. stanford atlanta|by
+is|to|pred
+is|bomb-throwing|to
+is|again|mod
+ruled|judge|subj
+ruled|that|c
+aide|congressional|mod
+aide|linked|vrel
+linked|aide|obj
+linked|romantically|mod
+speaker|former|mod
+speaker|house|nn
+romantically|speaker|with
+speaker|newt gingrich|person
+testify|aide|subj
+case|his|gen
+case|divorce|nn
+testify|case|in
+told|newt gingrich|subj
+wife|his|gen
+told|wife|obj
+told|seeing|fc
+seeing|he|subj
+seeing|woman|obj
+seeing|and|punc
+seeing|wanted|conj
+wanted|he|subj
+wanted|divorce|obj
+kept|newt gingrich|subj

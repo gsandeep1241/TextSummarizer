@@ -1,0 +1,68 @@
+defeat|microsoft corp.|gen
+defeat|massive|mod
+suit|its|gen
+suit|federal|mod
+suit|antitrust|mod
+defeat|suit|in
+leaves|defeat|subj
+leaves|company|obj
+company|facing|rel
+facing|company|subj
+facing|perhaps|guest
+severe|most|mod
+crisis|severe|mod
+facing|crisis|obj
+history|its|gen
+history|25-year|nn
+crisis|history|in
+scholar|harvard|nn
+scholar|legal|mod
+told|scholar|subj
+told|judge|obj
+antitrust case|microsoft|nn
+judge|antitrust case|in
+told|tuesday|guest
+told|that|c
+'s|decision|pred
+bundle|company|subj
+browser|its|gen
+browser|web|nn
+bundle|browser|obj
+browser|windows|into
+decision|had|comp1
+had|operating system|subj
+had|"|punc
+benefits|obvious|mod
+had|benefits|obj
+benefits|"|punc
+programmers|computer|nn
+benefits|programmers|to
+programmers|and|punc
+programmers|consumers|conj
+quit|microsoft corp.|subj
+association|nation|gen
+association|oldest|mod
+oldest|and|punc
+oldest|largest|conj
+association|software|nn
+association|industry|nn
+association|trade|nn
+quit|association|obj
+quit|tuesday|mod
+dispute|long-running|mod
+quit|dispute|after
+support|group|gen
+dispute|support|over
+support|government|for
+antitrust case|microsoft|nn
+government|antitrust case|in
+settlement|last-ditch|mod
+reviewing|settlement|obj
+after|offered|comp1
+offered|proposal|subj
+offered|by|guest
+offered|microsoft|by
+night|friday|nn
+offered|night|obj
+night|lawyers|appo
+lawyers|government|for

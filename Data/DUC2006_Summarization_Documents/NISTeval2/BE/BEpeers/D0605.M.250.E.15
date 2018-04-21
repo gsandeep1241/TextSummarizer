@@ -1,0 +1,152 @@
+are|treatment|in
+disorders|rheumatic|mod
+treatment|disorders|of
+drugs|mainstay|nn
+are|initially|guest
+are|for|pred
+relief|pain|nn
+are|relief|for
+resulted|that|subj
+drugs|various|mod
+resulted|drugs|in
+used|normally|mod-before
+drugs|used|vrel
+used|drugs|obj
+treatment|transplant|nn
+used|treatment|in
+treatment|applied|rel
+cyclosporin|rheumatic|mod
+cyclosporin|disorders|nn
+applied|cyclosporin|in
+prescribed|drugs|besides
+drugs|relieve|rel
+relieve|drug|subj
+relieve|pain|obj
+medication|stop|rel
+stop|medication|subj
+process|underlying|mod
+process|disease|nn
+stop|process|obj
+stop|and|punc
+stop|reduce|conj
+reduce|medication|subj
+reduce|inflammation|obj
+prescribed|medication|obj
+patients|rheumatic|mod
+prescribed|patients|for
+once|approves|comp1
+approves|fda|subj
+approves|drug|obj
+disease|one|nn
+drug|disease|for
+prescribe|doctors|subj
+prescribe|it|obj
+ailments|other|mod
+prescribe|ailments|for
+said|food and drug administration|subj
+said|approved|fc
+approved|it|subj
+tablets|meloxicam|nn
+approved|tablets|obj
+tablets|treatment|for
+treatment|osteoarthritis|of
+has|vioxx|subj
+has|indication|obj
+indication|treatment|for
+pain|acute|mod
+treatment|pain|of
+approved|it|obj
+approved|treatment|for
+treatment|rheumatoid arthritis|of
+rheumatoid arthritis|and|punc
+rheumatoid arthritis|osteoarthritis|conj
+celebrex|approved|vrel
+approved|celebrex|obj
+approved|osteoarthritis|for
+osteoarthritis|and|punc
+osteoarthritis|rheumatoid arthritis|conj
+sold|already|amod
+sold|celebrex|subj
+1.1 million|more than|num-mod
+prescriptions|1.1 million|nn
+sold|prescriptions|obj
+effects|celebra|gen
+tested|effects|obj
+effects|rheumatoid arthritis|on
+rheumatoid arthritis|osteoarthritis|conj
+osteoarthritis|and|punc
+pain|dental|mod
+osteoarthritis|pain|conj
+are|now|pred
+eased|e|subj
+pain|arthritis|nn
+eased|pain|obj
+pain|better|pnmod
+better|placebo|than
+placebo|or|punc
+placebo|nonsteroidal anti-inflammatory drugs|conj
+nsaids|(|punc
+nonsteroidal anti-inflammatory drugs|nsaids|abbrev
+nsaids|)|punc
+treat|drugs|subj
+treat|pain|obj
+associated with|inflammation|subj
+associated with|arthritis|obj
+problems|stomach|nn
+arthritis|problems|without
+problems|associated|pnmod
+over-the-counter|today|gen
+associated|over-the-counter|with
+over-the-counter|and|punc
+drugs|prescription|nn
+over-the-counter|drugs|conj
+drugs|called|vrel
+called|drugs|obj1
+inhibitors|cox-2|nn
+called|inhibitors|desc
+are|likely|pred
+are|marketed|mod
+marketed|people|to
+people|rheumatoid arthritis|with
+rheumatoid arthritis|and|punc
+rheumatoid arthritis|osteoarthritis|conj
+40 million|nearly|num-mod
+americans|40 million|nn
+marketed|supplements|obj
+marketed|treatments|as
+treatments|osteoarthritis|for
+osteoarthritis|degenerative joint disease|appo
+degenerative joint disease|that|whn
+afflicts|degenerative joint disease|subj
+21 million|about|num-mod
+people|21 million|nn
+afflicts|people|obj
+afflicts|nationwide|mod
+studies|analyzed|rel
+analyzed|studies|obj
+analyzed|he|subj
+compared|studies|subj
+compared|supplements|obj
+effects|placebo|gen
+supplements|effects|with
+effects|pain|on
+pain|and|punc
+pain|mobility|conj
+on|rather|punc
+on|than|conj
+on|measuring|than
+measuring|study|subj
+measuring|changes|obj
+changes|joints|in
+arthritis|term|nn
+arthritis|`|punc
+arthritis|`|punc
+includes|'|punc
+includes|'|punc
+includes|arthritis|subj
+100|more than|num-mod
+disorders|100|nn
+includes|disorders|obj
+disorders|that|whn
+attack|disorders|subj
+attack|cartilage|obj

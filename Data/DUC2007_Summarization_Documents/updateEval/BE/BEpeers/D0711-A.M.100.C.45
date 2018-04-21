@@ -1,0 +1,64 @@
+renewed|justice department|subj
+scrutiny|its|gen
+renewed|scrutiny|obj
+violations|alleged|mod
+violations|antitrust|mod
+scrutiny|violations|of
+microsoft corp.|software|nn
+microsoft corp.|giant|nn
+violations|microsoft corp.|by
+newspapers|u.s.|nn
+microsoft corp.|newspapers|appo
+newspapers|reported|vrel
+reported|newspapers|obj
+reported|today|mod
+microsoft|ibm|nn
+microsoft|selected|mod
+ever|microsoft|since
+microsoft|supply|rel
+supply|microsoft|subj
+supply|operating system|obj
+ibm pc|first|post
+operating system|ibm pc|for
+ibm pc|1981|in
+been|out-hustled|pred
+been|and|punc
+been|outsmarted|conj
+outsmarted|ibm|obj
+outsmarted|by|by-subj
+outsmarted|microsoft|by
+business|pc|nn
+microsoft|business|in
+business|_|punc
+business|not|appo-mod
+business|sort|appo
+sort|behavior|of
+antitrust laws|nation|gen
+behavior|meant|rel
+prohibit|behavior|obj
+prohibit|antitrust laws|subj
+acquired|caldera|subj
+acquired|dr-dos|obj
+dr-dos|1996|in
+acquired|right|along with
+right|sue|comp1
+sue|caldera|subj
+sue|over|guest
+sue|microsoft|over
+efforts|alleged|mod
+sue|efforts|obj
+efforts|quash|rel
+quash|effort|subj
+quash|it|obj
+filings|new microsoft|nn
+allege|filings|subj
+memos|internal|mod
+allege|show|fc
+show|memos|subj
+developers|dr-dos|gen
+show|knew|fc
+knew|developers|subj
+knew|had|fc
+had|they|subj
+product|flawed|mod
+had|product|obj

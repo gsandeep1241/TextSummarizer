@@ -1,0 +1,163 @@
+starting|april 30|mod
+host|denver|subj
+star wars celebration|lucasfilm ltd.-sanctioned|nn
+star wars celebration|`|punc
+star wars celebration|`|punc
+host|star wars celebration|obj
+star wars celebration|'|punc
+star wars celebration|'|punc
+festival|three-day|nn
+festival|fan|nn
+star wars celebration|festival|appo
+festival|wings|at
+wings|rockies museum|over
+with|`|punc
+with|`|punc
+peeks|phantom menace|nn
+peeks|'|punc
+peeks|'|punc
+peeks|sneak|mod
+rockies museum|peeks|with
+peeks|appearances|appo
+appearances|many|by
+stars|film|gen
+many|stars|of
+jake lloyd|young|mod
+including|jake lloyd|obj
+jake lloyd|who|whn
+plays|jake lloyd|subj
+plays|anakin skywalker|obj
+plays|(|punc
+plays|a.k.a.|mod
+darth vader|)|punc
+darth vader|and|punc
+hawking|marketplace|nn
+darth vader|hawking|conj
+merchandise|darth vader|subj
+merchandise|from|guest
+merchandise|all|from
+star wars|`|punc
+star wars|`|punc
+films|star wars|gen
+films|'|punc
+merchandise|films|obj
+fans|-hard|mod
+fans|who|whn
+turned out|fans|subj
+convention|star wars|nn
+turned out|convention|for
+convention|denver|in
+denver|friday|on
+got|fans|subj
+got|sneak-peek|obj
+sneak-peek|some|at
+some|merchandise|of
+figures|eight|nn
+figures|basic|mod
+figures|action|nn
+were|figures|pred
+figures|which|whn
+inches|3|num
+inches|3/4|nn
+are|inches|pred
+obi-wan kenobi|jedi|nn
+obi-wan kenobi|knight|nn
+including|obi-wan kenobi|obj
+man|young|nn
+obi-wan kenobi|man|as
+anakin skywalker|father|conj
+father|luke skywalker|of
+luke skywalker|and|punc
+luke skywalker|man|conj
+man|who|whn
+became|man|subj
+became|darth vader|obj
+creature|new|mod
+creature|space|nn
+jar jar binks|creature|appo
+queen amidala|leader|appo
+side|`|punc
+side|`|punc
+side|good|mod
+side|'|punc
+side|'|punc
+leader|side|of
+attend|addition|in
+addition|treated|rel
+scenes|never-before-screened|mod
+treated|scenes|to
+guarded|closely|mod
+film|guarded|mod
+scenes|film|from
+members|audience|nn
+attend|members|subj
+sessions|question-and-answer|mod
+attend|sessions|obj
+sessions|many|with
+many|who|whn
+worked on|many|subj
+worked on|film|obj
+worked on|including|mod
+including|member|subj
+including|jake lloyd|obj
+jake lloyd|(|punc
+jake lloyd|who|whn
+plays|jake lloyd|subj
+plays|anakin skywalker|obj1
+father|luke|gen
+anakin skywalker|father|conj
+father|and|punc
+father|future|conj
+ray park|darth vader|nn
+ray park|)|punc
+plays|ray park|obj2
+ray park|(|punc
+darth maul|villain|nn
+ray park|darth maul|appo
+rick mccallum|(|punc
+anthony daniels|movie|gen
+anthony daniels|producer|nn
+anthony daniels|)|punc
+rick mccallum|anthony daniels|appo
+anthony daniels|(|punc
+anthony daniels|voice|appo
+voice|c-3p0|of
+c-3p0|)|punc
+c-3p0|and|punc
+anakin|pernilla|nn
+anakin|august|nn
+anakin|(|punc
+mother|anakin|gen
+c-3p0|mother|conj
+'s|short|in
+'s|lot|pred
+lot|that|whn
+'s|eye-filling|pred
+in|`|punc
+in|`|punc
+eye-filling|phantom menace|in
+'s|'|punc
+'s|'|punc
+'s|but|mod
+much|that|whn
+'s|brain-filling|pred
+brain-filling|and|punc
+brain-filling|nobody|conj
+but|going|comp1
+going|much|subj
+going|think|fc
+think|much|subj
+think|it|of
+food|soul|nn
+think|food|as
+point|its|gen
+point|high|mod
+isn|even|guest
+isn|space|pred
+one|land|nn
+one|battles|nn
+come to|one|subj
+come to|expect|obj
+of|`|punc
+of|`|punc
+expect|star wars|of

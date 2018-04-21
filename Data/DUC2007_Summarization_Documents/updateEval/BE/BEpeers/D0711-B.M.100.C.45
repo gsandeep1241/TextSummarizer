@@ -1,0 +1,61 @@
+asks|justice department|subj
+asks|jackson|obj
+jackson|hold|rel
+hold|jackson|subj
+hold|microsoft|obj
+microsoft|contempt|in
+hold|alleging|mod
+alleging|that|c
+changes|proposed|mod
+fail to meet|changes|subj
+fail to meet|terms|obj
+injunction|jackson|gen
+injunction|preliminary|mod
+terms|injunction|of
+experts|antitrust|mod
+say|experts|subj
+say|used|fc
+used|of fact|obj
+used|by|by-subj
+used|dozens|by
+competitors|microsoft|gen
+dozens|competitors|of
+competitors|basis|as
+actions|their own|gen
+actions|private|mod
+actions|antitrust|mod
+basis|actions|of
+actions|company|against
+competition|fierce|mod
+thing|one|nn
+is|thing|pred
+says|government|subj
+record|voluminous|mod
+record|including|rel
+including|record|subj
+including|volumes|obj
+volumes|e-mail|of
+documents|internal|mod
+documents|microsoft|nn
+e-mail|documents|conj
+documents|and|punc
+testimony|witness|nn
+documents|testimony|conj
+show|record|subj
+show|microsoft|obj
+monopolist|arm-twisting|mod
+been|monopolist|pred
+behavior|monopolist|gen
+behavior|corporate|mod
+monopolist|behavior|whn
+stifled|behavior|subj
+stifled|competition|obj
+stifled|and|punc
+stifled|harmed|conj
+harmed|behavior|subj
+harmed|consumers|obj
+staff|federal trade commission|nn
+opens|staff|subj
+probe|antitrust|mod
+opens|probe|obj
+probe|microsoft|of

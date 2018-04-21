@@ -1,0 +1,139 @@
+divides|deal|subj
+divides|up|guest
+divides|salmon|obj
+countries|two|nn
+fishermen|countries|gen
+salmon|fishermen|among
+fishermen|only|pnmod
+only|ensuring|after
+ensuring|deal|subj
+ensuring|that|c
+remain|enough|subj
+remain|reproduce|mod
+reproduce|enough|subj
+runs|healthy|mod
+healthy|and|punc
+healthy|growing|conj
+reproduce|runs|obj
+reproduce|especially|mod
+chinook|wild|mod
+especially|chinook|of
+chinook|sockeye|conj
+sockeye|and|punc
+sockeye|coho salmon|conj
+been|part|pred
+equation|pacific|nn
+equation|salmon|nn
+part|equation|of
+equation|1872|since
+been|when|wha
+built|u.s. fish commission|subj
+built|first one|obj
+first one|mccloud river|on
+mccloud river|northern california|in
+policy|no-net-loss|nn
+applies|policy|subj
+applies|spring|mod
+spring|policy|subj
+spring|summer|mod
+spring|and|punc
+spring|fall|conj
+fall|policy|subj
+fall|chinook|obj
+chinook|sockeye salmon|conj
+sockeye salmon|steelhead|conj
+steelhead|and|punc
+steelhead|coho salmon|conj
+fall|if|c
+re|successfully|mod-before
+re|tribes|subj
+re|this|obj
+said|bill dobbins|subj
+bill dobbins|manager|appo
+manager|douglas county pud|of
+coho salmon|snake|gen
+declared|already|guest
+declared|coho salmon|obj
+species|other|mod
+species|salmon|of
+salmon|and|punc
+salmon|steelhead|conj
+steelhead|snake river|in
+is|now|pred
+now|listed|pnmod
+listed|endangered species act|under
+effort|scientists|gen
+effort|called|vrel
+called|effort|obj1
+called|program for analysis and testing of hypotheses|desc
+path|(|punc
+program for analysis and testing of hypotheses|path|abbrev
+path|)|punc
+analyzed|effort|subj
+analyzed|options|obj
+options|improving|for
+improving|effort|subj
+improving|salmon|obj
+salmon|and|punc
+survival|steelhead|nn
+salmon|survival|conj
+snake river|lower|mod
+survival|snake river|in
+agreed|washington|subj
+june|last|post
+agreed|june|guest
+agreed|restrict|fc
+restrict|washington|subj
+catch|recreational|mod
+restrict|catch|obj
+catch|coho salmon|of
+bound|thompson river|for
+thompson river|british columbia|in
+bound|and|punc
+bound|later|conj
+later|hold|to
+hold|start|off
+start|fishing|of
+fishing|sockeye salmon|for
+sockeye salmon|bound|pnmod
+bound|stuart river|for
+governs|plan|subj
+species|all|pre
+governs|species|obj
+species|salmon|of
+salmon|and|punc
+salmon|steelhead|conj
+healthy|relatively|mod
+runs|healthy|mod
+runs|sockeye salmon|nn
+governs|runs|from
+runs|lake osoyoos|of
+lake osoyoos|and|punc
+lake osoyoos|lake wenatchee|conj
+chinook salmon|endangered|mod
+chinook salmon|spring|nn
+lake wenatchee|chinook salmon|to
+threatened|washington|in
+washington|oregon|conj
+oregon|idaho|conj
+idaho|and|punc
+idaho|california|conj
+california|20|num
+california|26|of
+populations|salmon|nn
+populations|listed|pnmod
+listed|esa|under
+threatened|populations|obj
+managing|pacific management council|subj
+managing|harvest|obj
+harvest|fish|of
+match|better|amod
+fish|match|rel
+match|fish|subj
+match|escapement|obj
+escapement|sources|from
+sources|alaska|in
+alaska|british columbia|conj
+british columbia|washington|conj
+washington|and|punc
+washington|oregon|conj

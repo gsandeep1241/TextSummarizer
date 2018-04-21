@@ -1,0 +1,162 @@
+treats|already|mod-before
+treats|zoloft|subj
+treats|depression|obj
+disorder|obsessive-compulsive|mod
+depression|disorder|conj
+disorder|and|punc
+disorder|panic|nn
+disorder|disorder|conj
+used|also|mod
+is|used|pred
+is|treat|mod
+treat|drug|subj
+disorder|obsessive|mod
+disorder|compulsive|mod
+treat|disorder|obj
+suffer|also|mod-before
+suffer|victims|subj
+used|commonly|mod
+is|used|pred
+is|treat|mod
+treat|luvox|subj
+disorder|obsessive-compulsive|mod
+treat|disorder|obj
+is|and|punc
+is|is|conj
+used|also|mod
+is|used|pred
+is|treat|mod
+treat|luvox|subj
+treat|depression|obj
+prescribed|increasingly|amod
+prescribed|they|obj
+decade|last|post
+prescribed|decade|over
+decade|pediatricians|by
+pediatricians|treating|for
+treating|they|subj
+treating|depression|obj
+disorder|obsessive|mod
+disorder|compulsive|mod
+depression|disorder|conj
+disorder|and|punc
+disorder|anxiety|conj
+anxiety|children|in
+taking|deangelo|subj
+prozac|treat|rel
+treat|prozac|subj
+disorder|obsessive-compulsive|mod
+treat|disorder|obj
+disorder|which|whn
+evaluation|psychiatric|mod
+suggested|disorder|obj
+suggested|evaluation|subj
+caused|prozac|obj
+caused|by|by-subj
+caused|lyme disease|by
+approved|zoloft|obj
+approved|by|by-subj
+approved|food and drug administration|by
+food and drug administration|treatment|for
+treatment|depression|of
+disorder|panic|nn
+depression|disorder|conj
+disorder|and|punc
+disorder|obsessive|mod
+disorder|compulsive|mod
+disorder|disorder|conj
+has|prozac|subj
+approval|u.s.|nn
+approval|food and drug administration|nn
+has|approval|obj
+approval|depression|for
+disorder|obsessive|mod
+disorder|compulsive|mod
+depression|disorder|conj
+disorder|and|punc
+nervosa|bulimia|nn
+disorder|nervosa|conj
+drug|first|post
+is|drug|pred
+drug|approved|vrel
+approved|drug|obj
+approved|by|by-subj
+approved|fda|by
+approved|specifically|mod
+specifically|treating|for
+treating|paxil|subj
+anxiety disorder|social|mod
+treating|anxiety disorder|obj
+involves|as|mod-before
+involves|practice|as
+involves|neurology|subj
+involves|study|obj
+study|and|punc
+study|treatment|conj
+treatment|diseases|of
+diseases|stroke|like
+disease|alzheimer|gen
+stroke|disease|conj
+disease|and|punc
+neurological disorders|other|mod
+disease|neurological disorders|conj
+involves|while|mod
+while|looks at|comp1
+looks at|psychiatry|subj
+looks at|ailments|obj
+ailments|depression|like
+depression|schizophrenia|conj
+schizophrenia|and|punc
+mental illnesses|other|mod
+schizophrenia|mental illnesses|conj
+drugs|common|mod
+drugs|anti-depressant|mod
+drugs|prozac|like
+used|also|amod
+prozac|used|vrel
+used|prozac|obj
+used|treat|mod
+treat|humans|obj
+humans|obsessive compulsive disorder|with
+ocd|(|punc
+obsessive compulsive disorder|ocd|abbrev
+ocd|)|punc
+given|sometimes|amod
+given|drugs|obj
+given|bored|mod
+bored|drug|subj
+bored|animals|obj
+animals|that|whn
+have|animals|subj
+behavior|ocd-like|mod
+have|behavior|obj
+illnesses|real|mod
+are|illnesses|pred
+illnesses|that|whn
+deserve|illnesses|subj
+level|same|post
+deserve|level|obj
+level|understanding|of
+understanding|and|punc
+understanding|treatment|conj
+treatment|diabetes|as
+diabetes|arthritis|conj
+arthritis|or|punc
+disease|heart|nn
+arthritis|disease|conj
+effective|most|mod
+treatment|effective|mod
+patients|parkinson 's|nn
+treatment|patients|for
+patients|who|whn
+do|not|neg
+respond|patients|subj
+therapy|drug|nn
+respond|therapy|to
+putting|electrodes|obj
+putting|directly|mod
+directly|thalamus|into
+ages|14 and 24|of
+hospitalized|lauren slater|obj
+times|five|amount-value
+times|depression|for

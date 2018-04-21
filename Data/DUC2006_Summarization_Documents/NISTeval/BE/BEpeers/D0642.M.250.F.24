@@ -1,0 +1,145 @@
+exporter|number one|nn
+is|exporter|pred
+exporter|oil|of
+oil|united states|to
+hugo chavez|who|whn
+staged|hugo chavez|subj
+attempt|bloody|mod
+attempt|coup|nn
+staged|attempt|obj
+staged|six years ago|mod
+president|elected|mod
+blow|stunning|mod
+establishment|political|mod
+political|and|punc
+political|economic|conj
+blow|establishment|to
+establishment|that|whn
+ruled|establishment|subj
+years|40|amount-value
+ruled|years|for
+government|president|of
+president|hugo chavez|person
+president|who|whn
+campaigned for|president|subj
+campaigned for|office|obj
+office|deriding|rel
+deriding|office|subj
+called|what|obj1
+called|he|subj
+capitalism|savage|mod
+called|capitalism|desc
+capitalism|and|punc
+policies|neoliberal|mod
+policies|free-market|mod
+capitalism|policies|conj
+capitalism|plans|appo
+plans|privatize|rel
+privatize|plan|subj
+utilities|three|nn
+utilities|electric|mod
+privatize|utilities|obj
+utilities|year end|by
+replaced|he|obj
+replaced|by|by-subj
+vice president hector ciavaldini|company|nn
+replaced|vice president hector ciavaldini|by
+ally|close|mod
+vice president hector ciavaldini|ally|appo
+president|venezuelan|mod
+ally|president|of
+president|hugo chavez|person
+victory|his|gen
+victory|landslide|nn
+sunday|securing|rel
+securing|sunday|subj
+place|his|gen
+securing|place|obj
+president|next|post
+place|president|as
+president|venezuela|of
+smooth over|hugo chavez frias|subj
+smooth over|tracks|obj
+attempt|his|gen
+attempt|first|post
+tracks|attempt|of
+attempt|storm|rel
+storm|attempt|subj
+palace|presidential|mod
+storm|palace|obj
+storm|here|mod
+storm|1992|in
+storm|in case|mod
+revolutionaries|other|mod
+in case|got|comp1
+got|revolutionaries|subj
+idea|same|post
+got|idea|obj
+hours|his|gen
+hours|first|amount-value
+sent|hours|in
+hours|office|in
+president|hugo chavez frias|person
+sent|president|subj
+sent|tremors|obj
+establishment|political|mod
+tremors|establishment|through
+establishment|moving|by
+moving|president|subj
+moving|rewrite|mod
+rewrite|constitution|obj
+constitution|process|in
+process|that|whn
+likely|highly|mod
+is|likely|pred
+is|replace|mod
+elected|newly|mod
+congress|elected|mod
+replace|congress|obj
+congress|one|with
+one|that|whn
+has|one|subj
+has|more|obj
+allies|his|gen
+more|allies|of
+constitution|their|gen
+constitution|new|mod
+voted for|constitution|with
+voted for|venezuelans|subj
+voted for|possibility|obj
+dictatorship|elected|mod
+possibility|dictatorship|of
+constitutional assembly|venezuela|gen
+elections|constitutional assembly|of
+ended|elections|subj
+ended|sunday|mod
+supporters|president|gen
+president|hugo chavez|person
+ended|supporters|with
+supporters|winning|rel
+winning|supporter|subj
+winning|123|obj
+seats|131|num
+123|seats|out of
+president|venezuelan|mod
+president|hugo chavez|person
+president|who|whn
+resigned|symbolically|mod-before
+resigned|president|subj
+resigned|last week|mod
+sworn in|president|obj
+sworn in|president|as
+president|national constitutional assembly|before
+nca|(|punc
+national constitutional assembly|nca|abbrev
+nca|)|punc
+chavez|elected|vrel
+elected|chavez|obj
+elections|december|nn
+elections|presidential|mod
+elected|elections|in
+testified|chavez|subj
+testified|president|as
+time|first|post
+president|time|for
+time|february|on

@@ -1,0 +1,142 @@
+government|new|mod
+expected|also|amod
+include|government|subj
+fsb group|"|punc
+include|fsb group|obj
+fsb group|"|punc
+fsb group|officials|appo
+service|internal|mod
+service|security|nn
+officials|service|from
+service|which|whn
+headed|once|mod-before
+headed|service|obj
+headed|putin|subj
+is|one|pred
+one|heirs|of
+heirs|soviet kgb|to
+promised|he|subj
+promised|release|fc
+release|he|subj
+release|program|obj
+program|election|before
+made|putin|subj
+made|remarks|obj
+remarks|open letter|in
+open letter|voters|to
+program|his|gen
+voters|program|about
+election|upcoming|mod
+election|presidential|mod
+program|election|for
+putin|who|whn
+was|born|pred
+born|october 7 , 1952|on
+was|leningrad|in
+was|(|punc
+was|now|mod
+election|march 26|nn
+election|presidential|mod
+elected|election|in
+election|vote|with
+vote|about 53 percent|of
+chief|communist party|nn
+chief|gennady zyuganov|person
+became|chief|subj
+candidate|first|post
+became|candidate|obj
+candidate|approved|vrel
+approved|candidate|obj
+election|russia|gen
+election|march 26|nn
+election|presidential|mod
+approved|election|for
+approved|though|mod
+though|show|comp1
+show|polls|subj
+show|him|obj
+far|still|mod
+show|far|mod
+president|acting|mod
+far|president|behind
+president|vladimir putin|person
+spending|candidate|for
+candidate|who|whn
+insists|candidate|subj
+insists|'s|fc
+busy|too|mod
+'s|busy|pred
+being|president|pred
+president|campaign|rel
+campaign|president|subj
+spending|vladimir putin|subj
+spending|lot|obj
+lot|time|of
+lot|road|on
+spending|running|mod
+running|vladimir putin|subj
+running|one|obj
+russians|slickest|mod
+russians|election|nn
+russians|campaigns|nn
+one|russians|of
+resigned|new year 's eve|on
+president|russian|mod
+president|boris yeltsin|person
+resigned|abruptly|mod-before
+resigned|president|subj
+resigned|leaving|mod
+leaving|president|subj
+vladimir putin|prime minister|title
+leaving|vladimir putin|obj
+president|country|gen
+president|acting|mod
+vladimir putin|president|as
+named|96 percent|with
+96 percent|vote|of
+vote|counted|vrel
+counted|vote|obj
+officials|russian|mod
+officials|election|nn
+named|officials|subj
+named|putin|obj1
+putin|47|appo
+named|winner|obj2
+election|only|pre
+election|second|post
+election|democratic|mod
+election|presidential|mod
+winner|election|of
+history|russia|gen
+election|history|in
+history|53 percent|with
+president|russian|mod
+announcement|president|gen
+president|boris yeltsin|person
+announcement|resign|rel
+resign|friday|subj
+announcement|and|punc
+announcement|name|conj
+president|acting|mod
+name|president|as
+surprised|announcement|subj
+surprised|nation|obj
+say|many|subj
+say|further|fc
+further|move|subj
+putin|boost|nn
+chance|putin|gen
+further|chance|obj
+chance|winning|of
+winning|move|subj
+race|presidential|mod
+winning|race|obj
+central election commission|russia|gen
+cec|(|punc
+central election commission|cec|abbrev
+cec|)|punc
+announced|officially|mod-before
+announced|central election commission|subj
+announced|wednesday|guest
+announced|that|c
+elected|vladimir putin|obj

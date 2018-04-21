@@ -1,0 +1,54 @@
+lawsuit|caldera inc.|gen
+lawsuit|antitrust|mod
+trial|lawsuit|of
+lawsuit|microsoft corp.|against
+postponed|trial|obj
+postponed|june|from
+january|next|post
+postponed|january|until
+trial|justice department|gen
+trial|landmark|nn
+trial|antitrust|mod
+trial|and|punc
+legal actions|earlier|mod
+trial|legal actions|conj
+legal actions|microsoft corp.|against
+cost|trial|subj
+cost|$13.3 million|obj
+decade|past|mod
+$13.3 million|decade|over
+investigation|yearlong|mod
+investigation|antitrust|mod
+told|investigation|after
+fair trade commission|japan|gen
+told|fair trade commission|subj
+told|microsoft corp.|obj
+told|friday|mod
+friday|change|rel
+change|friday|subj
+change|permanently|guest
+change|one|obj
+practices|its|gen
+practices|marketing|nn
+one|practices|of
+change|and|punc
+warned|pointedly|amod
+change|warned|conj
+warned|friday|subj
+warned|company|obj
+company|watch|rel
+watch|company|subj
+step|its|gen
+watch|step|obj
+market|internet|nn
+market|browser|nn
+step|market|in
+renewed|justice department|subj
+scrutiny|its|gen
+renewed|scrutiny|obj
+violations|alleged|mod
+violations|antitrust|mod
+scrutiny|violations|of
+microsoft corp|software|nn
+microsoft corp|giant|nn
+violations|microsoft corp|by

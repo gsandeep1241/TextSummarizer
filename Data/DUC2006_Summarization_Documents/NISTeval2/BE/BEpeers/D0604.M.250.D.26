@@ -1,0 +1,121 @@
+'s|fun|pred
+'s|enjoyable|pred
+'s|escapism|pred
+companies|toy|nn
+interested|companies|obj
+supplying|company|subj
+lightsabers|free|mod
+supplying|lightsabers|obj
+lightsabers|fans|to
+fans|line|in
+screens|view|nn
+are|somewhat|guest
+are|like|pred
+screens|computer|nn
+are|screens|like
+screens|linked|vrel
+linked|webcams|to
+going|i|subj
+going|have|fc
+have|i|subj
+have|see|fc
+see|i|subj
+see|it|obj
+10|about|num-mod
+10|or|punc
+times|15|amount-value
+10|times|conj
+times|take|rel
+take|times|subj
+take|it|obj
+take|all|mod
+looked|discreetly|mod-before
+looked|ushers|subj
+way|other|mod
+looked|way|mod
+looked|as|mod
+as|was|comp1
+was|trailed|pred
+wore|some|subj
+wore|costumes|obj
+costumes|darth vader|of
+darth vader|yoda|conj
+yoda|and|punc
+characters|other|mod
+characters|"|punc
+characters|star wars|nn
+characters|"|punc
+yoda|characters|conj
+got|marketplace|subj
+got|support|fc
+support|marketplace|subj
+one|more than|num-mod
+movie|one|nn
+movie|"|punc
+movie|and|punc
+movie|crowd|conj
+support|broke out|fc
+broke out|movie|subj
+broke out|cheer|into
+broke out|when|wha
+began|finally|mod-before
+began|film|subj
+moret|cnn|gen
+justified|moret|to
+pretty|all|mod
+much|pretty|mod
+justified|much|amod
+justified|it|obj
+film|actual|mod
+is|due|pred
+due|theaters|in
+theaters|may 21 , 1999|on
+going|film|subj
+going|play|to
+play|big|pnmod
+weeks|first two|amount-value
+big|weeks|in
+weeks|question|without
+wasn|going by|mod-before
+going by|writer|subj
+going by|job21|obj
+but|wasn|comp1
+wasn|as|pred
+theater|miyukiza|nn
+packed|theater|at
+theater|tokyo|in
+tokyo|more|pnmod
+more|1,000|than
+packed|people|subj
+showings|three|nn
+packed|showings|obj
+knows|one|subj
+knows|if|c
+overshadow|hype|subj
+overshadow|"|punc
+overshadow|the phantom menace|obj
+perhaps|well|mod
+wrote|everyone|for
+wrote|epstein|subj
+wars|'star|nn
+seeing|wars|obj
+thing|important|mod
+is|thing|pred
+do|"|punc
+do|cast|obj
+includes|inf|subj
+includes|liam neesom|obj
+liam neesom|natalie portman|conj
+natalie portman|and|punc
+natalie portman|samuel l. jackson|conj
+includes|others|among
+officials|nihon gekijo|nn
+said|officials|subj
+sales|advance|nn
+sales|ticket|nn
+surpassed|already|amod
+said|surpassed|fc
+surpassed|sales|subj
+records|previous|mod
+surpassed|records|obj
+records|theater|for

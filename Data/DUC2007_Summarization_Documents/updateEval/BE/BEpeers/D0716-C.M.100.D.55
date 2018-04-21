@@ -1,0 +1,53 @@
+report|world heritage committee|nn
+found|report|subj
+mine|jabiluka|nn
+mine|uranium|nn
+found|threatened|fc
+threatened|mine|subj
+area|surrounding|mod
+area|kakadu world heritage|nn
+threatened|area|obj
+threatened|and|punc
+threatened|raised|conj
+raised|mine|subj
+raised|prospect|obj
+prospect|kakadu|of
+kakadu|placed|rel
+list|committee|gen
+list|endangered|mod
+placed|list|on
+federal government|australian|mod
+rejected|thursday|mod-before
+rejected|federal government|subj
+report|unesco|nn
+rejected|report|obj
+report|which|whn
+called for|report|subj
+called for|kakadu national park|obj
+australia|northwest|mod
+kakadu national park|australia|in
+australia|placed|rel
+list|endangered|mod
+placed|list|on
+list|threat|because of
+threat|posed|vrel
+posed|threat|obj
+posed|by|by-subj
+mine|jabiluka|nn
+mine|uranium|nn
+posed|mine|by
+government|australian|mod
+report|government|gen
+report|environmental|mod
+mine|jabiluka|nn
+mine|uranium|nn
+report|mine|on
+mine|(|punc
+mine|located|vrel
+located|mine|obj
+located|kakadu natural park|in
+located|)|punc
+located|released|mod
+released|thursday|mod
+was|in|pred
+was|danger|in

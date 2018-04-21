@@ -1,0 +1,53 @@
+group|rowdy|mod
+group|protesters|of
+ejected|group|obj
+miner|uranium|nn
+general|miner|gen
+general|annual|mod
+ejected|general|from
+car|old|mod
+car|dressed up|vrel
+dressed up|car|obj
+dressed up|look|mod
+lizard|frill-necked|mod
+look|lizard|like
+blocked|car|subj
+blocked|entrance|obj
+site|jabiluka|nn
+site|uranium|nn
+site|mine|nn
+entrance|site|to
+site|borders|inside
+borders|kakadu national park|of
+branch|australian|mod
+branch|international council on monuments|of
+international council on monuments|and|punc
+international council on monuments|sites|conj
+said|branch|subj
+said|impact|obj
+era|and|punc
+claim|australia|gen
+claim|government|nn
+era|claim|conj
+will|not|neg
+hurt|era|subj
+hurt|park|obj
+join|danger|in
+as|join|comp1
+join|kakadu|subj
+join|the likes|obj
+city|old|mod
+the likes|city|of
+temples|jerusalem|gen
+temples|angkor|nn
+city|temples|of
+temples|and|punc
+cities|war-torn|mod
+temples|cities|conj
+cities|dubrovnik|of
+dubrovnik|croatia|in
+croatia|and|punc
+croatia|timbuktu|conj
+state|african|mod
+timbuktu|state|in
+state|mali|of

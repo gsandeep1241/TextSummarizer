@@ -1,0 +1,157 @@
+resumed|british airways|subj
+flights|its|gen
+flights|concorde|nn
+resumed|flights|obj
+resumed|day|mod
+day|crash|after
+grounded|air france|subj
+grounded|its|obj
+grounded|remaining|mod
+remaining|air france|subj
+concordes|five|nn
+remaining|concordes|obj
+remaining|immediately|mod
+immediately|crash|after
+lifted off|plane|subj
+fuel|jet|mod
+malfunctioned|fuel|as
+fuel|ignited|vrel
+ignited|fuel|obj
+engines|left-side|mod
+malfunctioned|engines|subj
+grounded|already|amod
+grounded|air france concordes|obj
+officials|french|nn
+officials|aviation|nn
+suspended|also|mod-before
+suspended|officials|subj
+certification|their|gen
+certification|flight|nn
+suspended|certification|obj
+suspended|wednesday|mod
+investigators|french|nn
+investigators|looking|rel
+looking|investigator|subj
+looking|crash|into
+crash|last|vrel
+last|crash|obj
+last|month|mod
+last|air france concorde|of
+said|investigators|subj
+said|was|fc
+was|probable|pred
+probable|that|c
+piece|16-inch|nn
+piece|metal|of
+metal|found|vrel
+found|metal|obj
+found|runway|on
+caused|piece|subj
+caused|tire|obj
+tire|blow out|rel
+blow out|tire|subj
+blow out|sending|mod
+sending|debris|obj
+debris|tire|from
+tanks|fuel|nn
+tire|tanks|through
+sending|and|punc
+sending|triggering|conj
+triggering|fire|obj
+fire|that|whn
+brought|fire|subj
+brought|down|guest
+brought|plane|obj
+crash|july 25|nn
+crash|first|appo
+years|concorde|gen
+years|24|amount-value
+first|years|in
+service|commercial|mod
+years|service|of
+killed|crash|subj
+killed|all|guest
+people|109|num
+killed|people|obj
+german|mainly|mod
+tourists|german|mod
+tourists|and|punc
+tourists|four|conj
+four|ground|on
+jet|supersonic|mod
+jet|and|punc
+jet|zeppelin|conj
+jet|lewis|appo
+lewis|pointed|vrel
+pointed|lewis|obj
+pointed|out|mod
+were|symbols|pred
+pride|national|mod
+symbols|pride|of
+authorities|british|mod
+authorities|aviation|nn
+authorities|wednesday|on
+ruled|formally|mod-before
+ruled|authorities|subj
+airliner|concorde|nn
+airliner|supersonic|mod
+ruled|airliner|obj
+airliner|unfit|pnmod
+unfit|fly|to
+ruled|unless|mod
+manufacturers|its|gen
+unless|took|comp1
+took|manufacturers|subj
+took|steps|obj
+steps|prevent|rel
+prevent|step|subj
+prevent|problems|obj
+problems|that|whn
+led to|problems|subj
+month|last|post
+crash|month|gen
+crash|fatal|mod
+crash|air france concorde|nn
+led to|crash|obj
+crash|paris|near
+aircraft|sleek|mod
+aircraft|needle-nosed|mod
+cross|aircraft|subj
+cross|atlantic|obj
+atlantic|altitude|at
+feet|60,000|num
+altitude|feet|of
+of|and|punc
+of|at|conj
+mph|1,350|num
+of|mph|at
+cross|completing|mod
+completing|aircraft|subj
+completing|trip|obj
+trip|london|from
+london|new york|to
+half|less than four hours--|mod
+new york|half|in
+half|time|guest
+jets|regular|mod
+half|jets|of
+haunted|question|subj
+haunted|relatives|obj
+relatives|those|of
+those|who|whn
+died|those|subj
+jet|supersonic|mod
+died|jet|since
+jet|crashed|vrel
+crashed|jet|obj
+crashed|shortly|mod
+crashed|after|mod
+takeoff|paris|outside
+after|last|comp1
+last|takeoff|subj
+last|month|mod
+newspaper|le figaro|nn
+newspaper|wednesday|on
+quoted|newspaper|subj
+quoted|gayssot|obj
+gayssot|transport|appo

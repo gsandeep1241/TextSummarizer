@@ -1,0 +1,139 @@
+president|even|mod
+president|clinton|person
+concedes|president|subj
+concedes|that|c
+did|not|neg
+tell|he|subj
+tell|truth|obj
+relationship|his|gen
+truth|relationship|about
+relationship|monica lewinsky|with
+commit perjury|he|subj
+commit perjury|definition|under
+definition|law|of
+compelling|most|mod
+is|compelling|pred
+is|'|punc
+is|'|punc
+is|said|mod
+charles canady|rep.|title
+said|charles canady|subj
+charles canady|r-fla.|appo
+member|house judiciary committee|of
+say|democrats|subj
+say|that|c
+even if|lie|comp1
+lie|president|subj
+lie|oath|under
+relationship|sexual|mod
+oath|relationship|about
+grounds|insufficient|mod
+is|grounds|pred
+grounds|impeachment|for
+said|also|mod-before
+but|said|comp1
+said|president|subj
+answers|his|gen
+said|answers|obj
+answers|deposition|in
+case|paula jones|nn
+deposition|case|in
+case|last|vrel
+last|case|obj
+last|january|mod
+denied|he|subj
+denied|having|fc
+having|he|subj
+relations|sexual|mod
+having|relations|obj
+lewinsky|ms.|title
+relations|lewinsky|with
+were|`|punc
+were|`|punc
+accurate|legally|mod
+were|accurate|pred
+republicans|potential|mod
+republicans|swing-vote|mod
+say|republicans|subj
+president|clinton|person
+admit|president|subj
+admit|he|obj
+say|committed perjury|fc
+committed perjury|that|subj
+committed perjury|when|wha
+said|he|subj
+said|had|fc
+had|he|subj
+relationship|sexual|mod
+had|relationship|obj
+relationship|monica s. lewinsky|with
+vote|they|subj
+vote|impeachment|against
+makes|clinton|subj
+statement|such|pre
+makes|statement|obj
+other|then|mod
+republicans|other|mod
+rationale|impeachment|for
+impeachment|and|punc
+impeachment|prosecutor|conj
+as|use|comp1
+use|rationale|subj
+use|it|obj
+use|indict|mod
+indict|rationale|subj
+indict|clinton|obj
+indict|after|mod
+after|leaves office|comp1
+leaves office|he|subj
+all|this|of
+raises|all|subj
+key|two|amount-value
+questions|key|nn
+raises|questions|obj
+commit perjury|clinton|subj
+determine|well|amod
+determine|answers|subj
+fate|president|gen
+determine|fate|obj
+said|ruff|subj
+said|that|c
+while|walked|comp1
+walked|clinton|subj
+walked|`|punc
+walked|`|punc
+walked|up|mod
+up|line|to
+line|'|punc
+line|'|punc
+line|lying|of
+being|truthful|pred
+truthful|`|punc
+truthful|`|punc
+mind|his|gen
+truthful|mind|in
+mind|'|punc
+mind|'|punc
+mind|and|punc
+mind|`|punc
+mind|`|punc
+mind|that|conj
+heart and soul|perjury|of
+convinced|kenneth starr|subj
+convinced|most|obj
+most|america|of
+convinced|that|c
+president|clinton|person
+lied|president|subj
+lied|oath|under
+have|he|subj
+time|difficult|mod
+have|time|obj
+time|proving|rel
+proving|time|subj
+proving|in|guest
+proving|court|in
+court|law|of
+proving|that|c
+is|guilty|pred
+guilty|perjury|of

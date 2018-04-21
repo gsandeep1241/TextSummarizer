@@ -1,0 +1,157 @@
+police|israeli|mod
+removed|police|subj
+settlers|jewish|mod
+removed|settlers|obj
+israel|denied|vrel
+denied|israel|obj1
+denied|it|obj2
+expanding|israel|subj
+expanding|settlements|obj
+charge|palestinians|subj
+expansion|settlements|of
+is|attempt|pred
+attempt|pre - empt|comp1
+pre - empt|expansion|subj
+pre - empt|talks|obj
+settlement|final|mod
+settlement|peace|nn
+talks|settlement|on
+consider|i|subj
+activities|settlement|nn
+consider|activities|obj
+activities|west bank|in
+government|israeli|mod
+remains|government|subj
+remains|committed|desc
+process|peace|nn
+committed|process|in
+process|palestinians|with
+palestinians|and|punc
+palestinians|respects|conj
+treaty|peace|nn
+respects|signed|rel
+signed|respects|obj
+signed|treaty|subj
+signed|jordan|with
+nachman|opponent|appo
+accords|israeli-palestinian|nn
+accords|autonomy|nn
+opponent|accords|of
+said|nachman|subj
+said|ceremony|obj
+ceremony|declaring|of
+declaring|nachman|subj
+declaring|ariel|obj
+ariel|sends|rel
+sends|ariel|obj1
+sends|city|subj
+sends|message|obj2
+message|that|c
+strengthen|israel|subj
+presence|its|gen
+strengthen|presence|obj
+presence|west bank|in
+while|taking place|comp1
+taking place|construction|subj
+boundaries|municipal|mod
+taking place|boundaries|within
+boundaries|alei zahav|of
+taking place|fact|in
+community|new|mod
+community|separate|mod
+fact|was|comp1
+was|built|pred
+officials|u.n.|nn
+officials|and|punc
+officials|delegates|conj
+countries|member|nn
+delegates|countries|from
+started|also|mod-before
+started|officials|subj
+started|preparations|obj
+preparations|meeting|for
+meeting|geneva|in
+month|next|post
+started|month|mod
+month|that|whn
+start|month|subj
+start|process|obj
+process|dealing with|for
+dealing with|official|subj
+settlements|jewish|mod
+dealing with|settlements|obj
+settlements|international laws|under
+community|international|mod
+surprised|community|obj
+work at|israel|over
+surprised|work at|fc
+work at|construction|subj
+work at|abu ghneim mountain|obj
+abu ghneim mountain|and|punc
+settlements|ras|nn
+settlements|al-amoud|nn
+abu ghneim mountain|settlements|conj
+settlements|and|punc
+settlements|expansion|conj
+settlement|maali adumim|nn
+expansion|settlement|of
+said|al-masri|subj
+learning|that|c
+issued|learning|obj
+issued|israeli housing and construction ministry|subj
+after|tenders|comp1
+tenders|learning|subj
+building|learning|subj
+houses|2,600|num
+houses|new|mod
+building|houses|obj
+settlers|jewish|mod
+group|west bank|nn
+group|settlements|nn
+settlers|group|in
+building|said|mod
+said|settlers|subj
+said|cause|fc
+cause|action|subj
+trouble|more|mod
+cause|trouble|obj
+talks|israeli-palestinian|nn
+talks|final-status|nn
+trouble|talks|for
+tenders|new|mod
+number|tenders|of
+tenders|issued|vrel
+issued|tenders|obj
+issued|by|by-subj
+issued|ministry|by
+exceeds|number|subj
+number|total|mod
+exceeds|number|obj
+number|issued|vrel
+issued|number|obj
+years|three|amount-value
+tenure|years|nn
+tenure|'|punc
+issued|tenure|in
+government|previous|mod
+tenure|government|of
+government|led|vrel
+led|government|obj
+led|by|by-subj
+led|benjamin netanyahu|by
+added|satement|subj
+authorities|israeli|mod
+issued|authorities|subj
+issued|tenders|obj1
+tenders|building|for
+building|authority|subj
+units|3,000|num
+units|housing|nn
+building|units|obj1
+last|early|mod-before
+units|last|vrel
+last|units|obj
+last|july|mod
+building|report|obj2
+u.n.|said.|nn
+issued|u.n.|obj2

@@ -1,0 +1,49 @@
+ap|london|nn
+ap|(|punc
+balloonists|british|mod
+pair|balloonists|of
+balloonists|trying|rel
+trying|balloonist|subj
+trying|circumnavigate|fc
+circumnavigate|earth|obj
+had|pair|subj
+visit|surprise|nn
+had|visit|obj
+had|friday|mod
+had|when|wha
+crossed|they|subj
+crossed|path|obj
+path|boeing|of
+boeing|747|num
+andy elson|and|punc
+andy elson|colin prescot|conj
+flying|andy elson|subj
+feet|25,000|num
+flying|feet|obj
+feet|south china sea|over
+south china sea|friday|on
+flying|when|wha
+airliner|passing|mod
+captain|airliner|of
+radioed|captain|subj
+radioed|request|obj1
+request|approach|rel
+approach|request|subj
+radioed|balloon|obj2
+spokesmen|team|gen
+spokesmen|london|nn
+said|spokesmen|subj
+agreed|balloonists|subj
+looked|they|subj
+observation dome|their|gen
+looked|observation dome|out
+saw|they|subj
+saw|hundreds|obj
+hundreds|passengers|of
+passengers|peering|rel
+peering|passenger|subj
+peering|windows|out of
+peering|and|punc
+peering|snapping|conj
+snapping|passenger|subj
+snapping|pictures|obj

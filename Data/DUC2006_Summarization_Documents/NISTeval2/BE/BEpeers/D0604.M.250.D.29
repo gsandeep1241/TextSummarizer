@@ -1,0 +1,141 @@
+inevitably|perhaps|mod
+drawn|inevitably|amod
+george lucas|drawn|vrel
+drawn|george lucas|obj
+star wars|`|punc
+star wars|`|punc
+gravitational field|star wars|gen
+gravitational field|'|punc
+drawn|gravitational field|into
+talked|george lucas|subj
+talked|lot|obj
+razzle-dazzle|technological|mod
+lot|razzle-dazzle|about
+being|not|amod
+being|nearly|guest
+being|as|pred
+important|characters|as
+characters|and|punc
+characters|story|conj
+precisely|more|mod
+trailer|2-minute|nn
+trailer|10-second|nn
+for|`|punc
+for|`|punc
+trailer|star wars|for
+i|_|punc
+i|phantom menace|appo
+star wars|first|post
+star wars|`|punc
+star wars|`|punc
+film|release|since
+of|`|punc
+of|`|punc
+release|return|of
+return|jedi|of
+film|'|punc
+film|'|punc
+film|15 years ago|mod
+waiting|fans|subj
+waiting|s|for
+s|get|rel
+get|s|subj
+get|glimpse|obj
+array|vast|mod
+glimpse|array|of
+array|goods--|of
+figures|action|nn
+goods--|figures|from
+figures|wigs|to
+lotion|body|nn
+wigs|lotion|to
+lotion|snack food--|to
+snack food--|tied|pnmod
+tied|movie|to
+movie|which|whn
+opens|movie|subj
+opens|may 19|mod
+titled|what|obj
+believe|what|obj
+believe|i|subj
+be|first|pred
+review|fin|subj
+review|anywhere|obj
+wrote on|internet|on
+wrote on|ronald epstein|subj
+site|his|gen
+site|home theater forum web|nn
+wrote on|site|obj
+while|was|comp1
+was|impressed|pred
+may|not|neg
+satisfy|movie|subj
+star wars|hard-core|nn
+star wars|`|punc
+star wars|`|punc
+fans|star wars|gen
+fans|'|punc
+satisfy|fans|obj
+looks|it|subj
+like|`|punc
+looks|star wars|like
+smells|it|subj
+like|`|punc
+smells|star wars|like
+feels like|it|subj
+feels like|`|punc
+feels like|star wars|obj
+trilogy|new|mod
+needs|trilogy|subj
+rascal|lovable|mod
+needs|rascal|obj
+rascal|han solo|like
+han solo|and|punc
+princess|bitchy|mod
+princess|bossy|mod
+han solo|princess|conj
+princess|leia|like
+leia|_|punc
+leia|somebody|appo
+somebody|set off|rel
+set off|somebody|subj
+set off|sparks|obj
+was|toys r us|at
+oklahoma city|southeast|mod
+toys r us|oklahoma city|in
+contest|costume|nn
+was|contest|pred
+set up|tent|subj
+watch|they|subj
+star wars|first|post
+star wars|`|punc
+star wars|`|punc
+movies|star wars|gen
+movies|'|punc
+set up|movies|obj
+film|$115 million|nn
+prequel|`|punc
+prequel|`|punc
+is|prequel|pred
+prequel|'|punc
+prequel|'|punc
+prequel|set|vrel
+set|prequel|obj1
+30|about|num-mod
+years|30|amount-value
+set|years|obj2
+star wars|first|post
+star wars|`|punc
+star wars|`|punc
+film|star wars|gen
+film|'|punc
+years|film|before
+was|hard|pred
+was|tell|mod
+tell|it|subj
+star wars|`|punc
+star wars|`|punc
+fan|star wars|gen
+fan|'|punc
+was|fan|pred
+was|both|pred

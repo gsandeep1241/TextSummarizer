@@ -1,0 +1,40 @@
+country|democratic|mod
+is|country|pred
+government|military|mod
+government|burma|in
+killed|government|subj
+killed|people|obj
+people|1988|in
+ap|yangon|nn
+ap|(|punc
+government|myanmar|gen
+government|military|mod
+while|continued|comp1
+continued|government|subj
+arrests|its|gen
+continued|arrests|obj
+activists|country|gen
+activists|democracy|nn
+arrests|activists|of
+general|top|mod
+accused|general|subj
+winner|nobel|nn
+winner|peace|nn
+winner|prize|nn
+accused|winner|obj
+working|terrorists|with
+newspapers|state-run|mod
+reported|newspapers|subj
+reported|thursday|obj
+wa national organization|palaung state liberation front|conj
+palaung state liberation front|and|punc
+palaung state liberation front|lahu democratic front|conj
+said|wa national organization|subj
+said|were|fc
+act|insulting|mod
+were|act|pred
+arrogance|shameless|mod
+arrogance|barbaric|mod
+act|arrogance|of
+arrogance|people|against
+people|burma|of

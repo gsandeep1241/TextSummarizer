@@ -1,0 +1,146 @@
+market|caracas|nn
+market|stock|nn
+skyrocketed|market|subj
+skyrocketed|morning|mod
+skyrocketed|indicating|mod
+indicating|market|subj
+indicating|that|c
+comments|president-elect|gen
+president-elect|hugo chavez|person
+comments|conciliatory|mod
+eased|comments|subj
+fears|investor|nn
+eased|fears|obj
+fears|that|c
+roll|fears|obj1
+roll|he|subj
+roll|back|guest
+economic policies|free|mod
+economic policies|market|nn
+roll|economic policies|obj2
+government|president|of
+president|hugo chavez|person
+president|who|whn
+campaigned for|president|subj
+campaigned for|office|obj
+office|deriding|rel
+deriding|office|subj
+called|what|obj1
+called|he|subj
+capitalism|savage|mod
+called|capitalism|desc
+capitalism|and|punc
+policies|neoliberal|mod
+policies|free-market|mod
+capitalism|policies|conj
+capitalism|plans|appo
+plans|privatize|rel
+privatize|plan|subj
+utilities|three|nn
+utilities|electric|mod
+privatize|utilities|obj
+utilities|year end|by
+reason|good|mod
+was|reason|pred
+reason|chavez|for
+chavez|celebrate|rel
+celebrate|chavez|subj
+revolt|doomed|mod
+celebrate|revolt|obj
+minister|planning|nn
+minister|teodoro petkoff|person
+founder|mas|nn
+minister|founder|appo
+criticized|minister|subj
+criticized|chavez|obj
+criticized|and|punc
+criticized|said|conj
+said|minister|subj
+policies|his|gen
+policies|populist|nn
+said|push|fc
+push|policies|subj
+push|venezuela|obj
+venezuela|`|punc
+venezuela|`|punc
+venezuela|past|into
+country|their|gen
+wealth|country|gen
+wealth|oil|nn
+living|wealth|despite
+four-fifths|venezuelans|of
+living|four-fifths|subj
+living|poverty|in
+venezuela|impoverished|mod
+rebuild|venezuela|obj
+venezuela|series|through
+reforms|political|mod
+political|and|punc
+political|social|conj
+series|reforms|of
+determined|campaigned|fc
+campaigned|chavez|subj
+campaigned|hard|mod
+hard|constitutional assembly|for
+power|broader|mod
+constitutional assembly|power|with
+announcement|government|gen
+announcement|first|post
+announcement|formal|mod
+were|announcement|pred
+announcement|sale|concerning
+assets|state|nn
+sale|assets|of
+rest|latin america|of
+moving|rest|subj
+moving|largely|mod
+largely|streamlining|toward
+streamlining|rest|subj
+streamlining|role|obj
+role|government|of
+government|and|punc
+government|selling|conj
+assets|state|nn
+selling|assets|off
+speaks|chavez|subj
+subordinating|chavez|subj
+company|state|nn
+company|oil|nn
+subordinating|company|obj
+venezuela|petroleos|nn
+venezuela|de|nn
+priorities|domestic|mod
+$9 billion|earmarked|vrel
+earmarked|$9 billion|obj
+earmarked|operations|for
+operations|and|punc
+operations|investment|conj
+company|oil|nn
+investment|company|by
+should|not|neg
+go|$9 billion|subj
+go|shore up|fc
+shore up|$9 billion|subj
+schools|decaying|mod
+shore up|schools|obj
+schools|and|punc
+schools|hospitals|conj
+shore up|instead|mod
+said|she|subj
+said|was|fc
+was|possible|pred
+was|approach|mod
+approach|it|subj
+approach|investors|obj
+investors|deal|with
+deal|allowing|rel
+allowing|deal|subj
+swap|venezuela|subj
+debt|current|mod
+swap|debt|obj
+bonds|new|mod
+debt|bonds|for
+was|orderly|pred
+was|high|pred
+high|venezuela|for
+venezuela|65 percent|at

@@ -1,0 +1,60 @@
+giants|lending|nn
+giants|britain|in
+put|giants|subj
+plans|detailed|mod
+put|plans|obj
+plans|place|in
+life|financial|mod
+place|life|for
+life|country|in
+country|1999|after
+put|when|wha
+believe|they|subj
+currencies|european|mod
+believe|join|fc
+join|currencies|subj
+currency|single|mod
+join|currency|in
+currency|euro|appo
+join|uk|with
+uk|forced|vrel
+accompany|uk|subj
+accompany|them|obj
+accompany|years|within
+survey|carried out|vrel
+carried out|survey|obj
+carried out|by|by-subj
+group|pro-european|nn
+group|pressure|nn
+carried out|group|by
+group|named|vrel
+movement|european|nn
+named|movement|obj2
+revealed|survey|subj
+majority|those|of
+polled|majority|subj
+revealed|agree|fc
+agree|fin|subj
+currency|single|mod
+successful|broadly|mod
+be|successful|pred
+be|but|mod
+none|them|of
+but|expects|comp1
+expects|none|subj
+join|britain|subj
+join|european monetary union|obj
+emu|(|punc
+european monetary union|emu|abbrev
+emu|)|punc
+wave|first|post
+european monetary union|wave|in
+newspaper|local|mod
+quoted|april 22|mod-before
+april 22|1997|num
+quoted|also|amod
+quoted|newspaper|subj
+economist|senior|mod
+quoted|economist|obj
+jacob|bank|nn
+economist|jacob|with

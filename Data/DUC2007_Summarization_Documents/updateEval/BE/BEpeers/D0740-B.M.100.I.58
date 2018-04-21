@@ -1,0 +1,70 @@
+team|swiss-english|nn
+team|balloon|nn
+300|about|num-mod
+miles|300|amount-value
+was|miles|pred
+miles|jamaica|from
+night|late|mod
+night|wednesday|nn
+was|night|mod
+was|and|punc
+was|hoped|conj
+hoped|team|subj
+hoped|catch|fc
+catch|team|subj
+stream|next|post
+stream|jet|nn
+catch|stream|obj
+caribbean|eastern|mod
+stream|caribbean|over
+swiss|and|punc
+balloonists|british|mod
+swiss|balloonists|conj
+balloonists|aiming|rel
+aiming|balloonist|subj
+be|first|pred
+first|circle|rel
+circle|first|subj
+circle|world|obj
+floated|nonstop|mod-before
+floated|swiss|subj
+floated|pacific ocean|over
+floated|thursday|mod
+making|swiss|subj
+making|it|obj
+making|china|across
+goes|all|subj
+bertrand piccard|planned|mod
+bertrand piccard|swiss|mod
+bertrand piccard|psychiatrist|nn
+goes|bertrand piccard|as
+bertrand piccard|and|punc
+bertrand piccard|british|conj
+brian jones|adventurer|nn
+conquer|brian jones|subj
+conquer|one|obj
+challenges|last|post
+challenges|great|mod
+one|challenges|of
+challenges|aviation|in
+aviation|saturday|on
+crossing--|quick|mod
+crossing--|atlantic|nn
+prospects|crossing--|for
+hopes|team|subj
+hopes|make|fc
+make|team|subj
+make|it|obj
+make|across|mod
+make|and|punc
+make|complete|conj
+complete|team|subj
+odyssey|round-the-world|mod
+complete|odyssey|obj
+odyssey|saturday|by
+odyssey|or|punc
+sunday--|early|mod
+odyssey|sunday--|conj
+sunday--|picked|vrel
+picked|sunday--|obj
+picked|up|mod

@@ -1,0 +1,55 @@
+sites|archaeological|mod
+sites|that|whn
+show|sites|subj
+show|humans|obj
+humans|lived|vrel
+lived|humans|obj
+lived|australia|in
+lived|up|mod
+up|60,000|to
+damaged|years ago|mod-before
+damaged|sites|obj
+damaged|by|by-subj
+mine|uranium|nn
+damaged|mine|by
+mine|built|rel
+built|kakadu national park|within
+committee|high-level|mod
+committee|u.n.|nn
+told|committee|obj
+told|wednesday|mod
+faces|australia|subj
+embarrassment|international|mod
+faces|embarrassment|obj
+mine|jabiluka|nn
+mine|uranium|nn
+embarrassment|mine|over
+committee|u.n.|nn
+faces|committee|with
+wednesday|demanding|rel
+demanding|wednesday|subj
+demanding|scrapped|fc
+scrapped|mine|obj
+committee|prevent|rel
+prevent|wednesday|subj
+prevent|it|obj
+prevent|endangering|mod
+endangering|wednesday|subj
+area|surrounding|mod
+area|kakadu world heritage|nn
+endangering|area|obj
+car|old|mod
+car|dressed up|vrel
+dressed up|car|obj
+dressed up|look|mod
+lizard|frill-necked|mod
+look|lizard|like
+blocked|car|subj
+blocked|entrance|obj
+site|jabiluka|nn
+site|uranium|nn
+site|mine|nn
+entrance|site|to
+site|borders|inside
+borders|kakadu national park|of
+kakadu national park|friday|on

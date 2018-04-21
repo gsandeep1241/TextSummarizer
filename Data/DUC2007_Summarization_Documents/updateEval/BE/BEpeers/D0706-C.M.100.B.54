@@ -1,0 +1,56 @@
+was|under|pred
+arrest|house|nn
+was|arrest|under
+years|six|amount-value
+arrest|years|for
+years|released|before
+released|1995|in
+won|suu kyi|subj
+won|nobel peace prize|obj
+nobel peace prize|1991|in
+struggle|her|gen
+struggle|peaceful|mod
+nobel peace prize|struggle|for
+struggle|democracy|for
+regime|military|mod
+democracy|regime|against
+regime|myanmar|in
+pressure|they|subj
+junta|burma|gen
+junta|military|mod
+pressure|junta|obj
+junta|enter|rel
+enter|junta|subj
+dialogue|political|mod
+enter|dialogue|obj
+nationalities|suu kyi|gen
+nationalities|ethnic|mod
+dialogue|nationalities|with
+nationalities|and|punc
+nationalities|national league for democracy|conj
+nationalities|party|appo
+party|elected|vrel
+elected|party|obj
+elected|overwhelmingly|mod
+overwhelmingly|1990|in
+elected|but|punc
+denied|immediately|amod
+elected|denied|conj
+denied|party|subj
+right|its|gen
+denied|right|obj
+right|govern|rel
+govern|right|subj
+govern|military|by
+up|now|to
+now|17|num
+groups|anti-government|mod
+groups|ethnic|mod
+groups|armed|mod
+groups|as|punc
+groups|well|punc
+groups|as|punc
+groups|mta|conj
+made|groups|subj
+made|peace|obj
+peace|government|with

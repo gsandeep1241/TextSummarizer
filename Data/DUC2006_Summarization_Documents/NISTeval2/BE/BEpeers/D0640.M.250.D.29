@@ -1,0 +1,128 @@
+turned down|russia|subj
+proposal|french|nn
+turned down|proposal|obj
+proposal|help|rel
+help|proposal|subj
+evacuate|it|subj
+evacuate|crew|obj
+kursk|sunken|nn
+kursk|submarine|mod
+kursk|"|punc
+crew|kursk|of
+kursk|"|punc
+kursk|barents sea|in
+barents sea|agence france-presse|appo
+agence france-presse|quoted|vrel
+quoted|agence france-presse|obj1
+officials|french|nn
+officials|navy|nn
+quoted|officials|obj2
+officials|saying|as
+officials|russian|mod
+maintain|officials|subj
+maintain|that|c
+collided|kursk|subj
+object|large|mod
+collided|object|with
+submarine|foreign|mod
+object|submarine|such as
+such as|or|punc
+such as|with|conj
+mine|world war ii|nn
+such as|mine|with
+collided|but|mod
+considered|also|amod
+but|considered|comp1
+considered|they|subj
+considered|possibility|obj
+possibility|that|c
+torpedo|submarine|inside
+misfired|torpedo|subj
+explanation|one|nn
+presumes|explanation|subj
+presumes|that|c
+hit|submarine|subj
+mine|world war ii|nn
+hit|mine|obj
+is|that|c
+collided|kursk|subj
+collided|submarine|with
+is|that|c
+took place|explosion|subj
+compartment|submarine|gen
+compartment|torpedo|nn
+took place|compartment|inside
+russian|and|punc
+officials|nato|nn
+russian|officials|conj
+held|russian|subj
+meeting|four-hour|nn
+held|meeting|obj
+headquarters|nato|nn
+meeting|headquarters|at
+headquarters|brussels|in
+brussels|discuss|rel
+discuss|brussels|subj
+kind|assistance|of
+alliance|western|mod
+offer|alliance|subj
+offer|help|fc
+help|alliance|subj
+save|kind|subj
+crew|118|num
+save|crew|obj
+submarine|nuclear|mod
+crew|submarine|of
+submarine|trapped|pnmod
+trapped|bed|on
+bed|barents sea|of
+attempts|docking|nn
+continue|attempts|subj
+continue|arrival|until
+rescuers|foreign|mod
+arrival|rescuers|of
+rescuers|expected|vrel
+expected|rescuers|obj
+expected|evening|mod
+ships|two|nn
+ships|norwegian|mod
+heading|ships|subj
+heading|for|guest
+area|disaster|nn
+heading|area|for
+heading|one|obj
+rescue|british lr5|nn
+rescue|submarine|mod
+one|craft|rel
+craft|one|obj
+craft|rescue|subj
+one|and|punc
+one|other|conj
+deep-sea divers|norwegian|mod
+group|deep-sea divers|of
+remains|what|subj
+hope|our|gen
+hope|which|whn
+leaves|hope|subj
+leaves|us|obj
+chances|fewer|mod
+fewer|and|punc
+fewer|fewer|conj
+chances|said|rel
+said|chances|obj
+said|he|subj
+says|government|subj
+explosion|huge|mod
+says|shattered|fc
+shattered|explosion|subj
+shattered|kursk|obj
+triggered|what|subj
+triggered|it|obj
+brought up|time|but
+time|time|after
+officials|russian|mod
+brought up|officials|subj
+brought up|idea|obj
+idea|collision|of
+sub|western|mod
+collision|sub|with

@@ -1,0 +1,140 @@
+be|simple|pred
+simple|warming|rel
+warming|simple|subj
+warming|earth|of
+intergovernmental panel|u.n.-sponsored|mod
+1995|intergovernmental panel|appo
+change|climate|nn
+intergovernmental panel|change|on
+balance|evidence|of
+change|suggests|rel
+suggests|balance|subj
+human|discernible|mod
+suggests|influence|fc
+influence|intergovernmental panel|obj
+influence|human|subj
+climate|global|mod
+influence|climate|on
+quick|too|mod
+are|quick|pred
+are|use|mod
+use|environmentalist|subj
+theories|unproven|mod
+use|theories|obj
+theories|and|punc
+theories|circumstantial evidence|conj
+circumstantial evidence|bolster|rel
+bolster|circumstantial evidence|subj
+bolster|claims|obj
+claims|damage|of
+warning|global|mod
+damage|warning|from
+too|however|mod
+effects|other|mod
+effects|complex|mod
+influence|effects|subj
+spin|earth|gen
+influence|spin|obj
+influence|movement|such as
+rock|molten|mod
+movement|rock|of
+surface|its|gen
+rock|surface|beneath
+'s|national research council|with
+'s|conclusion|pred
+arguments|key|mod
+one|arguments|of
+arguments|contrarians|of
+evaporated|one|subj
+evaporated|'|punc
+evaporated|'|punc
+evaporated|said|mod
+michael oppenheimer|dr.|title
+said|michael oppenheimer|subj
+scientist|atmospheric|mod
+michael oppenheimer|scientist|appo
+scientist|environmental defense|with
+environmental defense|formerly|appo-mod
+environmental defense|environmental defense fund|appo
+said|they|subj
+said|that|c
+caused|changes|obj
+caused|by|by-subj
+increase|temperature|nn
+caused|increase|by
+increase|which|whn
+is|one|pred
+one|effects|of
+frank maisano|spokesman|appo
+spokesman|alliance|for
+alliance|businesses|of
+businesses|called|vrel
+called|businesses|obj1
+called|global climate coalition|desc
+said|frank maisano|subj
+said|are|fc
+quick|too|mod
+are|quick|pred
+are|use|mod
+use|environmentalist|subj
+theories|unproven|mod
+use|theories|obj
+theories|and|punc
+theories|circumstantial evidence|conj
+circumstantial evidence|bolster|rel
+bolster|circumstantial evidence|subj
+bolster|claims|obj
+claims|damage|of
+warning|global|mod
+damage|warning|from
+views|one|gen
+one|views|whn
+evolved|views|subj
+is|wallace|pred
+is|but|punc
+open|fairly|amod
+is|open|conj
+open|one|subj
+open|arguments|to
+arguments|sides|on
+sides|debate|of
+did|not|neg
+do|scientists|subj
+research|new|mod
+do|research|obj
+do|but|punc
+do|pulled|conj
+pulled|scientists|subj
+pulled|together|guest
+pulled|variety|obj
+studies|academic|mod
+variety|studies|of
+studies|conducted|vrel
+conducted|studies|obj
+years|recent|mod
+conducted|years|in
+conducted|effort|in
+effort|show|comp1
+show|scientist|subj
+picture|broad|mod
+show|picture|obj
+picture|effects|of
+said|that|after
+said|he|subj
+is|impossible|pred
+is|predict|mod
+predict|it|subj
+predict|shape|obj
+system|world|gen
+system|energy|nn
+shape|system|of
+emissions|greenhouse|nn
+emissions|gas|nn
+frank maisano|spokesman|appo
+spokesman|alliance|for
+alliance|businesses|of
+businesses|called|vrel
+called|businesses|obj1
+called|global climate coalition|desc
+said|frank maisano|subj
+said|environmentalists|obj

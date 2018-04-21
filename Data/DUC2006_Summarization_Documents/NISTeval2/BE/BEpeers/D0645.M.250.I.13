@@ -1,0 +1,143 @@
+allow|vouchers|subj
+families|low-income|mod
+families|find|rel
+find|family|subj
+housing|their own|gen
+find|housing|obj
+find|and|punc
+find|use|conj
+use|family|subj
+subsidies|government|nn
+use|subsidies|obj
+subsidies|help|rel
+help|subsidy|subj
+pay|families|subj
+pay|costs|obj
+program|only|mod
+program|housing|nn
+is|program|about
+program|that|whn
+win|program|subj
+money|new|mod
+money|congress|from
+is|development|pred
+development|prisons|of
+is|noting|mod
+noting|money|subj
+noting|that|c
+approved|not|amod
+approved|congress|subj
+vouchers|new|mod
+vouchers|housing|nn
+vouchers|assistance|nn
+approved|vouchers|obj
+families|low-income|mod
+vouchers|families|for
+families|1995|since
+approved|when|wha
+took control|republican party|subj
+took control|congress|of
+took control|and|punc
+took control|cut|conj
+cut|republican party|subj
+vouchers|additional|mod
+vouchers|housing|nn
+vouchers|assistance|nn
+cut|vouchers|obj
+budget|federal|mod
+vouchers|budget|from
+because|stopped|comp1
+stopped|federal government|subj
+housing|funding|nn
+housing|new|mod
+housing|affordable|mod
+stopped|housing|obj
+agencies|local|mod
+finding|agencies|subj
+ways|other|mod
+finding|ways|obj
+ways|meet|rel
+meet|way|subj
+needs|their|gen
+meet|needs|obj
+buys|housing authority|subj
+buys|third|obj
+third|units|of
+units|15 percent|in
+15 percent|rent|rel
+rent|15 percent|subj
+housing|subsidized|mod
+rent|housing|as
+says|hud|subj
+should|not|neg
+says|spend|fc
+spend|people|subj
+30|more than|num-mod
+spend|30|obj
+gross income|their|gen
+gross income|housing|on
+part|major|mod
+part|problem|of
+is|that|c
+increases|wage|nn
+failed|increases|subj
+failed|keep up with|fc
+keep up with|increase|subj
+increases|steep|mod
+keep up with|increases|obj
+increases|apartment|in
+apartment|and|punc
+rates|home|nn
+rates|rental|mod
+apartment|rates|conj
+rates|massachusetts|in
+bill|public|mod
+bill|housing|nn
+pressed|bill|obj
+pressed|mainly|mod
+republicans|congressional|mod
+mainly|republicans|by
+republicans|opposition|over
+opposition|democrats|of
+democrats|and|punc
+secretary|housing and urban development|nn
+democrats|secretary|conj
+secretary|andrew cuomo|person
+secretary|who|whn
+said|secretary|subj
+said|that|c
+bill|republican|mod
+leave|bill|subj
+people|poor|mod
+leave|people|obj
+people|housing|without
+is|also|guest
+is|on|pred
+is|verge|on
+verge|winning|of
+winning|cuomo|subj
+winning|enactment|obj
+measures|two|nn
+measures|other|mod
+measures|housing|nn
+enactment|measures|of
+measures|that|whn
+are|likely|pred
+are|make|mod
+make|it|obj1
+make|easier|desc
+democrats|congressional|mod
+easier|democrats|for
+democrats|and|punc
+administration|clinton|nn
+democrats|administration|conj
+administration|accept|rel
+accept|administration|subj
+bill|public|mod
+bill|housing|nn
+accept|bill|obj
+3 million|nearly|num-mod
+households|3 million|nn
+receive|households|subj
+vouchers|housing|nn
+receive|vouchers|obj

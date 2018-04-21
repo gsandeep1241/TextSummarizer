@@ -1,0 +1,58 @@
+aung san suu kyi|nobel|nn
+aung san suu kyi|laureate|mod
+offered|aung san suu kyi|subj
+offered|thursday|guest
+thursday|end|rel
+end|thursday|subj
+road|her|gen
+end|road|obj
+standoff|side|nn
+offered|standoff|obj
+government|military|mod
+standoff|government|with
+offered|if|c
+agrees|government|subj
+agrees|release|fc
+release|government|subj
+members|jailed|mod
+release|members|obj
+political party|her|gen
+members|political party|of
+ruled|military|subj
+ruled|myanmar|obj
+myanmar|also known as|appo-mod
+myanmar|burma|appo
+burma|since|appo-mod
+burma|1962|appo
+dissidents|myanmar|from
+urged|dissidents|subj
+chuan leekpai|thai|mod
+chuan leekpai|prime minister|title
+urged|chuan leekpai|obj
+chuan leekpai|friday|on
+friday|reschedule|rel
+reschedule|friday|subj
+reschedule|trip|obj
+trip|myanmar|to
+general|his|gen
+general|top|mod
+myanmar|general|by
+reschedule|because|mod
+because|coincide|comp1
+coincide|it|subj
+coincide|anniversary|with
+government|military|mod
+takeover|government|gen
+anniversary|takeover|of
+slorc|which|whn
+took over|slorc|subj
+took over|burma|obj
+burma|1988|in
+took over|and|punc
+took over|changed|conj
+changed|slorc|subj
+name|its|gen
+changed|name|obj
+name|myanmar|to
+threat|primary|mod
+suu kyi|threat|as

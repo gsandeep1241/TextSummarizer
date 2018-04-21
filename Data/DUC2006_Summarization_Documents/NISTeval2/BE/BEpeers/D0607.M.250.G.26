@@ -1,0 +1,127 @@
+as far as|was|comp1
+was|concerned|pred
+situation|employment|nn
+situation|china|in
+faces|situation|subj
+faces|both|punc
+faces|challenges|obj
+challenges|and|punc
+challenges|opportunities|conj
+administration|clinton|nn
+is|unlikely|pred
+is|go along|mod
+go along|administration|subj
+go along|suggestion|with
+post|village|subj
+post|report|obj
+affairs|village|nn
+report|affairs|about
+post|at least|mod
+months|three|amount-value
+chen|turn|in
+urged|chen|subj
+use|china|subj
+methods|peaceful|mod
+use|methods|obj
+methods|improve|rel
+improve|method|subj
+improve|ties|obj
+had|china|subj
+law|national|mod
+had|law|obj
+law|establishing|rel
+establishing|law|subj
+establishing|elections|obj
+level|village|nn
+elections|level|at
+level|1987|since
+people|10 million|nn
+people|more|mod
+are|people|pred
+people|seeking|rel
+seeking|people|subj
+seeking|jobs|obj
+people|towns|in
+towns|and|punc
+towns|cities|conj
+growth|slowed|mod
+growth|and|punc
+unemployment|rising|mod
+growth|unemployment|conj
+years|last|post
+years|two|amount-value
+unemployment|years|in
+contributed to|growth|subj
+unrest|social|mod
+contributed to|unrest|obj
+farmers|and|punc
+farmers|workers|conj
+treated|once|amod
+treated|farmers|obj
+classes|protected|mod
+classes|revolutionary|mod
+treated|classes|as
+party|ruling|mod
+party|communist|mod
+classes|party|by
+demonstrations|peaceful|mod
+groups|two|nn
+demonstrations|groups|by
+grievances|different|mod
+groups|grievances|with
+grievances|government|against
+began|demonstrations|subj
+morning|tuesday|nn
+began|morning|mod
+anniversary|50th|mod
+is|time|pred
+is|when|wha
+all|china|of
+celebrating|all|subj
+leaders|government|nn
+restricted|layoffs|obj
+restricted|prevent|mod
+prevent|layoff|subj
+prevent|unrest|obj
+thought|people|nn
+thought|that|c
+cult|falun gong|nn
+had|cult|subj
+organizations|and|punc
+organizations|political programs|conj
+political programs|"|punc
+political programs|acknowledged|rel
+acknowledged|wang|subj
+acknowledged|that|c
+factories|troubled|mod
+some|factories|of
+failing|political programs|obj
+failing|some|subj
+pay|thought|obj1
+pay|organizations|subj
+pay|pensions|obj2
+drivers|thousand|nn
+drivers|taxi|nn
+angered|drivers|subj
+fees|new|mod
+fees|government|nn
+angered|fees|by
+fees|protested|vrel
+protested|fees|obj
+offices|city|nn
+protested|offices|outside
+protested|paralyzing|mod
+paralyzing|driver|subj
+paralyzing|part|obj
+provincial capital|chinese|nn
+part|provincial capital|of
+days|three|amount-value
+provincial capital|days|for
+paralyzing|last week|mod
+department|bengbu|gen
+department|police|nn
+spokesman|department|for
+refused|spokesman|subj
+refused|comment on|fc
+comment on|spokesman|subj
+comment on|demonstration|obj

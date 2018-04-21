@@ -1,0 +1,51 @@
+system|new|mod
+is|system|under
+is|equivalent|pred
+lev|1,000|num
+lev|bulgarian|mod
+equivalent|lev|to
+printing|mass|nn
+printing|banknotes|of
+currency|single|mod
+currency|european|mod
+banknotes|currency|of
+currency|euro|appo
+started|printing|obj
+started|beginning|at
+beginning|1999|of
+1999|european central bank|appo
+ecb|(|punc
+european central bank|ecb|abbrev
+ecb|)|punc
+european central bank|announced|vrel
+announced|european central bank|obj
+announced|frankfurt|in
+announced|friday|mod
+trading|europe|in
+currency|new|mod
+currency|single|mod
+begin|currency|subj
+begin|monday|on
+bank|united states|nn
+begin|bank|as
+one|dutch|nn
+offered|one|subj
+offered|quote|mod
+quote|one|subj
+quote|prices|obj
+prices|euro|in
+said|also|mod-before
+said|report|subj
+said|expects|fc
+expects|duisenberg|subj
+relationship|future|mod
+expects|relationship|obj
+relationship|dollar|between
+dollar|and|punc
+dollar|euro|conj
+euro|which|whn
+goes into|officially|amod
+goes into|euro|subj
+goes into|effect|obj
+effect|jan 12|on
+be|stable|pred

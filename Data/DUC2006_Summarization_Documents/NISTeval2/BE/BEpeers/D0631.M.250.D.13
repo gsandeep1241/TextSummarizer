@@ -1,0 +1,146 @@
+investigators|french|nn
+investigators|looking|rel
+looking|investigator|subj
+looking|crash|into
+crash|air france concorde|of
+said|investigators|subj
+said|was|fc
+was|probable|pred
+probable|that|c
+piece|16-inch|nn
+piece|metal|of
+metal|found|vrel
+found|metal|obj
+found|runway|on
+caused|piece|subj
+caused|tire|obj
+tire|blow out|rel
+blow out|tire|subj
+blow out|sending|mod
+sending|debris|obj
+debris|tire|from
+tanks|fuel|nn
+tire|tanks|through
+sending|and|punc
+sending|triggering|conj
+triggering|fire|obj
+fire|that|whn
+brought|fire|subj
+brought|down|guest
+brought|plane|obj
+time|first|post
+was|time|pred
+time|offered|comp1
+offered|investigators|subj
+explanation|probable|mod
+offered|explanation|obj
+caught|jet|subj
+caught|fire|obj
+fire|takeoff|on
+caught|and|punc
+caught|crashed|conj
+crashed|jet|subj
+north|hotel|nn
+crashed|north|into
+north|paris|of
+paris|killing|rel
+killing|paris|subj
+people|113|num
+killing|people|obj
+20|only|mod
+20|planes|of
+built|20|obj
+13|those|of
+were|still|guest
+were|in|pred
+were|service|in
+service|seven|conj
+seven|british air|with
+british air|and|punc
+british air|six|conj
+six|air france|with
+air france|which|whn
+grounded|air france|subj
+planes|its|gen
+grounded|planes|obj
+grounded|immediately|mod
+immediately|accident|after
+removed|investigators|subj
+engines|two|nn
+removed|engines|obj
+site|concorde|nn
+site|crash|nn
+engines|site|from
+site|hopes|in
+jet|air france|nn
+jet|supersonic|mod
+wreckage|jet|of
+hopes|help|rel
+help|wreckage|subj
+determine|hopes|subj
+determine|cause|obj
+cause|disaster|of
+disaster|that|whn
+killed|disaster|subj
+people|113|num
+killed|people|obj
+investigators|french|nn
+believe|investigators|subj
+believe|shredded|fc
+shredded|strip|subj
+shredded|one|obj
+tires|concorde|gen
+one|tires|of
+shredded|sending|mod
+sending|strip|subj
+chunks|huge|mod
+sending|chunks|obj
+chunks|rubber|of
+tanks|jet|gen
+tanks|fuel|nn
+rubber|tanks|through
+experts|forensic|mod
+finished|experts|subj
+finished|identifying|mod
+identifying|expert|subj
+identifying|remains|obj
+victims|all|pre
+victims|113|num
+remains|victims|of
+crash|concorde|nn
+victims|crash|of
+investigation|technical|mod
+investigation|crash|into
+going|investigation|subj
+going|quickly|mod
+aide|top|mod
+gilles ricono|aide|appo
+gayssot|transportation|nn
+gayssot|minister jean-claude|nn
+aide|gayssot|to
+countries|only|mod
+fleets--|supersonic|mod
+countries|fleets--|with
+withdrew|countries|subj
+certification|concorde|gen
+certification|airworthiness|nn
+withdrew|certification|obj
+withdrew|while|mod
+while|proceeds|comp1
+proceeds|investigation|subj
+agency|french|nn
+described|agency|subj
+described|piece|obj
+piece|metal|of
+metal|that|whn
+triggered|metal|subj
+triggered|crash|obj
+crash|that|whn
+killed|crash|subj
+people|113|num
+killed|people|obj
+people|part|as
+part|hood|of
+thrusters|plane|gen
+thrusters|reverse|mod
+hood|thrusters|on

@@ -1,0 +1,185 @@
+states|20|num
+have|states|subj
+have|laws|obj
+laws|requiring|rel
+requiring|law|subj
+plans|school|nn
+plans|safety|nn
+requiring|plans|obj
+broadened|mississippi|subj
+law|its|gen
+law|death penalty|nn
+broadened|law|obj
+law|include|rel
+include|law|subj
+include|killings|obj
+campuses|school|nn
+killings|campuses|on
+gun free schools act|federal|mod
+requires|gun free schools act|subj
+enact|states|subj
+laws|school|nn
+laws|safety|nn
+enact|laws|obj
+laws|receive|rel
+receive|law|subj
+aid|federal|mod
+receive|aid|obj
+measures|safety|nn
+measures|adopted|vrel
+adopted|by|by-subj
+districts|school|nn
+adopted|districts|by
+include|measures|subj
+uniforms|school|nn
+include|uniforms|obj
+uniforms|or|punc
+codes|dress|mod
+uniforms|codes|conj
+badges|student|nn
+badges|identification|nn
+codes|badges|conj
+badges|and|punc
+bags|transparent|mod
+bags|book|nn
+badges|bags|conj
+measures|physical|mod
+measures|building|nn
+measures|security|nn
+removing|lockers|obj
+guards|on-campus|nn
+guards|armed|mod
+lockers|guards|conj
+detectors|metal|mod
+guards|detectors|conj
+dogs|gun-and bomb-sniffing|mod
+detectors|dogs|conj
+dogs|and|punc
+surveillance|video|nn
+dogs|surveillance|conj
+keep|schools|subj
+keep|all|obj
+all|but|punc
+doors|main|mod
+all|doors|conj
+doors|locked|vrel
+locked|doors|obj
+require|passes|fc
+passes|visitor|subj
+installed|some|subj
+alarms|panic|nn
+installed|alarms|obj
+do|they|subj
+drills|lockdown|nn
+do|drills|obj
+drills|and|punc
+drills|teachers|conj
+receive|staff|subj
+training|security|nn
+receive|training|obj
+threats|all|pre
+taken|threats|obj
+taken|seriously|mod
+taken|and|punc
+resulted|often|amod
+taken|resulted|conj
+resulted|threats|subj
+resulted|schools|in
+schools|closed|rel
+maintain|districts|in
+train|police|nn
+train|swat|nn
+train|teams|nn
+train|schools|at
+schools|hours|after
+schools|and|punc
+staff|security|nn
+schools|staff|conj
+staff|and|punc
+police|local|mod
+staff|police|conj
+maintain|train|subj
+maintain|blueprints|obj
+schools|local|mod
+systems|school|nn
+requiring|systems|subj
+reporting|accurate|mod
+accurate|and|punc
+accurate|timely|conj
+requiring|reporting|obj
+requiring|and|punc
+requiring|tracking|conj
+tracking|systems|subj
+tracking|threats|of
+threats|and|punc
+threats|incidents|conj
+problems|potential|mod
+identify|problems|obj
+problems|and|punc
+offenders|repeat|nn
+problems|offenders|conj
+measures|other|mod
+measures|preventative|mod
+include|measures|subj
+programs|anti-bullying|mod
+include|programs|obj
+programs|mentor|nn
+programs|programs|conj
+psychologists|increased|mod
+psychologists|school|nn
+programs|psychologists|conj
+psychologists|and|punc
+psychologists|counselors|conj
+include|identifying|mod
+identifying|measure|subj
+identifying|and|punc
+identifying|treating|conj
+treating|measure|subj
+students|troubled|mod
+treating|students|obj
+treating|before|mod
+before|become|comp1
+become|they|subj
+become|dangerous|desc
+hot lines|and|punc
+lines|tip|nn
+hot lines|lines|conj
+lines|reporting|for
+lines|disturbing|rel
+disturbing|line|subj
+behavior|student|nn
+disturbing|behavior|obj
+are|taught|pred
+deal with|better|amod
+taught|deal with|mod
+deal with|problems|obj
+deal with|before|mod
+before|grow into|comp1
+grow into|they|subj
+grow into|rage|obj
+district|one|nn
+district|kentucky|nn
+district|school|nn
+posted|district|subj
+posted|ten commandments|obj
+ten commandments|classroom|in
+overreacted|schools|subj
+overreacted|suspending|mod
+suspending|school|subj
+students|elementary|mod
+suspending|students|obj
+suspending|for|mod
+wanting|get rid of|fc
+get rid of|barney|obj
+dinosaur|and|punc
+girls|spice|nn
+dinosaur|girls|conj
+girls|or|punc
+girls|kindergarteners|conj
+kindergarteners|pointing|for
+for|finger|comp1
+finger|dinosaur|subj
+finger|"|punc
+finger|guns|obj
+guns|"|punc
+guns|playground|on

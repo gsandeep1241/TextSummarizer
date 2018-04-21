@@ -1,0 +1,147 @@
+crows|four|nn
+crows|dead|mod
+found|crows|subj
+found|in|guest
+found|new jersey|in
+positive|tested|mod
+found|positive|obj
+virus|west nile-like|mod
+positive|virus|for
+responsible|deaths|for
+five|at least|num-mod
+people|five|nn
+deaths|people|of
+area|new york city|nn
+area|metropolitan|mod
+people|area|in
+officials|state|nn
+sprayed|officials|subj
+insecticide|same|post
+sprayed|insecticide|obj
+insecticide|dusk|at
+dusk|sections|in
+sections|howard|of
+howard|and|punc
+counties|baltimore|nn
+howard|counties|conj
+counties|where|wha
+birds|two|nn
+virus|west nile|nn
+birds|virus|with
+found|birds|obj
+samples|fluid|nn
+people|77|num
+samples|people|from
+people|who|whn
+fell|people|subj
+fell|ill|obj
+ill|but|punc
+negative|tested|mod
+ill|negative|conj
+encephalitis|st. louis|nn
+negative|encephalitis|for
+re|samples|obj
+re|west nile|for
+west nile|or|punc
+virus|kunjin|nn
+west nile|virus|conj
+far|so|mod
+far|2000|in
+appeared|virus|subj
+appeared|only|mod
+only|birds|in
+birds|and|punc
+insects|mosquitoes-bloodsucking|mod
+birds|insects|conj
+insects|that|whn
+spread|insects|subj
+spread|west nile|obj
+west nile|humans|to
+discovery|unprecedented|mod
+discovery|virus|of
+virus|united states|in
+was|cause|pred
+cause|alarm|for
+was|pesticide|since
+pesticide|spraying|rel
+spraying|pesticide|subj
+spraying|now|obj
+spraying|way|under
+combat|st. louis|obj
+work|also|amod
+way|work|comp1
+work|encephalitis|subj
+work|mosquitoes|against
+mosquitoes|that|whn
+carry|mosquitoes|subj
+virus|west nile|nn
+carry|virus|obj
+officials|stamford|nn
+want|officials|subj
+want|set up|fc
+set up|official|subj
+set up|surveillance|obj
+set up|and|punc
+set up|prepare|conj
+prepare|official|subj
+prepare|arsenal|obj
+agents|chemical|nn
+arsenal|agents|of
+agents|ward off|rel
+ward off|agent|subj
+threat|public|mod
+threat|health|nn
+ward off|threat|obj
+threat|mosquitoes|from
+mosquitoes|that|whn
+bear|mosquitoes|subj
+virus|west nile|nn
+virus|encephalitis|nn
+bear|virus|obj
+station|connecticut agricultural experiment|nn
+ted andreadis|station|of
+station|new haven|in
+testing|ted andreadis|subj
+testing|mosquitoes|obj
+mosquitoes|see|rel
+see|mosquito|subj
+see|if|c
+carry|they|subj
+encephalitis|west nile|nn
+carry|encephalitis|obj
+urges|also|amod
+urges|it|subj
+research|accelerated|mod
+urges|research|obj
+vaccine|west nile|nn
+vaccine|virus|nn
+research|vaccine|into
+vaccine|and|punc
+site|national|mod
+site|web|nn
+vaccine|site|conj
+site|keep|rel
+keep|site|subj
+keep|public|obj1
+public|and|punc
+public|media|conj
+keep|informed|desc
+officials|environmental|mod
+announced|officials|subj
+announced|plans|obj
+plans|spray|rel
+spray|plan|subj
+spray|insecticide|obj
+radius|two-mile|nn
+insecticide|radius|in
+radius|where|wha
+found|researchers|subj
+crow|dead|mod
+found|crow|obj
+virus|west nile|nn
+crow|virus|with
+time|first|post
+found|time|mod
+time|detected|comp1
+detected|virus|obj
+detected|rhode island|in

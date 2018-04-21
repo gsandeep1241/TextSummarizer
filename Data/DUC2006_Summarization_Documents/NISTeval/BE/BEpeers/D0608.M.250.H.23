@@ -1,0 +1,167 @@
+set up|government|subj
+network|nationwide|mod
+set up|network|obj
+network|fitting|of
+fitting|government|subj
+fitting|stations|obj
+seats|child|nn
+stations|seats|for
+seats|help|rel
+help|seat|subj
+children|save|nn
+lives|children|gen
+help|lives|obj
+crashes|car|nn
+lives|crashes|in
+regulators|federal|mod
+warned|regulators|subj
+warned|consumers|obj
+consumers|that|c
+bags|side|nn
+bags|air|nn
+kill|consumers|obj
+kill|bags|subj
+warned|or|punc
+injure|seriously|mod-before
+warned|injure|conj
+injure|regulators|subj
+injure|children|obj
+children|12|under
+injure|and|punc
+injure|urged|conj
+urged|regulators|subj
+installing|manufacturers|subj
+installing|devices|obj
+seats|rear|mod
+devices|seats|in
+seats|let|rel
+let|seat|subj
+decide|drivers|subj
+decide|if|c
+want|they|subj
+want|them|obj1
+want|activated|desc
+launched|national highway traffic safety administration|subj
+look|its|gen
+launched|look|obj
+look|ways|at
+ways|improve|rel
+improve|way|subj
+safety|child|nn
+safety|seat|nn
+improve|safety|obj
+improve|including|mod
+system|possible|mod
+system|rating|nn
+including|system|obj
+hearing|public|mod
+including|hearing|with
+manufacturers|auto|nn
+reacted|manufacturers|subj
+reacted|coolly|mod
+coolly|advisory|to
+advisory|national highway traffic safety administration|from
+reacted|saying|mod
+saying|manufacturer|subj
+bags|side|nn
+bags|air|nn
+bags|used|vrel
+used|conjunction|in
+restraints|age-appropriate|mod
+conjunction|restraints|with
+enhance|significantly|amod
+saying|enhance|fc
+enhance|bags|subj
+enhance|safety|obj
+by|2000|in
+have|daimlerchrysler|subj
+have|capacity|obj
+capacity|conduct|comp1
+conduct|daimlerchrysler|subj
+inspections|800,000|num
+conduct|inspections|obj
+conduct|annually|mod
+conduct|make|mod
+make|sure|desc
+sure|buckled|fc
+buckled|children|obj
+buckled|properly|mod
+seats|child|nn
+properly|seats|in
+seats|child|nn
+installed|properly|amod
+installed|seats|obj
+in|both|punc
+vehicles|new|mod
+new|and|punc
+new|older|conj
+vehicles|daimlerchrysler|nn
+installed|vehicles|in
+recalled|mercedes-benz|subj
+seats|6,000|num
+seats|high-tech|mod
+seats|child|nn
+recalled|seats|obj
+seats|that|whn
+turn off|automatically|mod-before
+turn off|seats|subj
+bags|passenger-side|mod
+bags|air|nn
+turn off|bags|obj
+installed|saying|mod
+saying|mercedes-benz|subj
+flaw|system|in
+saying|keep|fc
+keep|flaw|subj
+bags|air|nn
+bags|turned on|rel
+turned on|bags|subj
+praising|daimlerchrysler|obj
+daimlerchrysler|and|punc
+daimlerchrysler|general motors|conj
+programs|their|gen
+programs|child|nn
+programs|seat|nn
+programs|safety|nn
+general motors|programs|for
+chairman|national transportation safety board|of
+criticized|chairman|subj
+automakers|six|nn
+automakers|other|mod
+criticized|automakers|obj
+doing|not|amod
+automakers|doing|for
+doing|chairman|subj
+doing|enough|obj
+regulators|federal|mod
+began|regulators|with
+regulators|pondering|rel
+pondering|regulator|subj
+pondering|whether|c
+start|they|subj
+seats|rating|nn
+seats|child|nn
+seats|safety|nn
+start|seats|obj
+automaker|major|mod
+began|automaker|subj
+began|offering|guest
+offering|automaker|subj
+offering|parents|obj
+service|free|mod
+service|seat|nn
+service|checkup|nn
+began|service|obj
+reports|aaa new jersey automobile club|nn
+reports|that|c
+60 percent|children|of
+killed|reports|obj
+killed|60 percent|subj
+accidents|automobile|nn
+killed|accidents|in
+wearing|reports|subj
+belts|seat|nn
+wearing|belts|obj
+announced|government|subj
+air|new|mod
+announced|air|obj

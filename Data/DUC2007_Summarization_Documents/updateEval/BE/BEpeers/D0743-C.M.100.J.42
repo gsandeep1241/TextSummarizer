@@ -1,0 +1,56 @@
+daily news|turkey|gen
+reported|daily news|subj
+reported|that|obj
+150|additional|mod
+people|000|num
+live|people|subj
+homes|cramped|mod
+homes|prefabricated|mod
+live|homes|in
+homes|that|whn
+hot|extremely|mod
+are|hot|pred
+hot|summer|in
+hot|and|punc
+cold|bitterly|mod
+hot|cold|conj
+cold|winter|in
+done|government|subj
+done|lot|obj
+lot|handle|rel
+handle|lot|subj
+cleanup|post-quake|mod
+handle|cleanup|obj
+expects|government|subj
+decline|number|subj
+decline|sharply|mod
+months|coming|mod
+sharply|months|in
+care about|state|subj
+care about|us|obj
+efforts|rescue|nn
+criticism|efforts|of
+efforts|led|vrel
+led|efforts|obj
+led|by|by-subj
+led|military|by
+dissipating|criticism|subj
+press|turkish|nn
+mentions|rarely|mod-before
+mentions|press|subj
+mentions|thousands|obj
+thousands|people|of
+shook|desks|subj
+shook|in|guest
+shook|one|in
+one|few|of
+shook|schools|obj
+schools|where|wha
+begun|already|amod
+begun|academic year|subj
+exchange|istanbul|nn
+exchange|stock|nn
+traders|exchange|at
+felt|also|mod-before
+felt|traders|subj
+felt|tremor|obj

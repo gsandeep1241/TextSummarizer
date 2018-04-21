@@ -1,0 +1,121 @@
+predicted|toh|subj
+predicted|lower|fc
+lower|verdicts|subj
+confidence|people|gen
+lower|confidence|obj
+legal system|hong kong|gen
+legal system|independent|mod
+confidence|legal system|in
+is|evidence|pred
+evidence|victim|of
+victim|reporting|rel
+reporting|victim|subj
+police|criminal|mod
+police|case|nn
+police|"|punc
+seized|also|mod-before
+reporting|seized|fc
+seized|police|subj
+seized|number|obj
+number|guns|of
+guns|and|punc
+guns|ammunition|conj
+seized|including|mod
+pistols|eight|nn
+pistols|military|mod
+including|pistols|obj
+adopted|it|subj
+measures|resolute|mod
+adopted|measures|obj
+measures|fight|rel
+fight|measure|subj
+manufacturing|illegal|mod
+fight|manufacturing|obj
+manufacturing|and|punc
+manufacturing|smuggling|conj
+smuggling|firearms|of
+drive|"|punc
+drive|strike-hard|nn
+drive|"|punc
+continue|drive|subj
+continue|curb|mod
+curb|drive|subj
+rates|rising|mod
+rates|crime|nn
+curb|rates|obj
+standard|hong kong|nn
+called|standard|subj
+called|authorities|on
+authorities|clarify|rel
+clarify|authority|subj
+areas|gray|mod
+clarify|areas|obj
+areas|jurisdiction|of
+jurisdiction|stemming from|rel
+stemming from|jurisdiction|subj
+stemming from|case|obj
+reported|also|mod-before
+reported|it|subj
+would|not|neg
+reported|disclose|fc
+disclose|source|subj
+response|china|gen
+disclose|response|obj
+meeting|10-day|nn
+called|meeting|obj
+called|assess|mod
+assess|meeting|subj
+assess|priorities|obj
+priorities|ccpcj|of
+charged|cheung|obj
+charged|kidnapping|with
+kidnapping|armed robbery|conj
+armed robbery|and|punc
+armed robbery|murder|conj
+identified|newspaper|subj
+source|its|gen
+identified|source|obj
+source|only|pnmod
+official|senior|mod
+official|hong kong|nn
+official|security|nn
+only|official|as
+d.c.|20003|num
+fax|202--547--4512|nn
+fax|statistics|according to
+landing|suspected|mod
+landing|criminals|nn
+60 percent|landing|of
+landing|hands|in
+hands|police|of
+are|now|pred
+defendant|only|mod
+statements|defendant|gen
+are|statements|pred
+quoted|post|subj
+quoted|appeal|obj
+appeal|saying|as
+most|crimes|of
+planned|allegedly|mod-before
+planned|most|obj
+planned|china|in
+planned|but|punc
+planned|committed|conj
+committed|most|obj
+committed|hong kong|in
+drew|it|subj
+people|15,000|num
+drew|people|obj
+daily|beijing|nn
+drew|daily|according to
+cases|gambling|nn
+involved|cases|subj
+involved|more than 50 million yuan|obj
+more than 50 million yuan|(|punc
+six million|about|num-mod
+dollars|six million|nn
+dollars|u.s.|nn
+more than 50 million yuan|dollars|appo
+dollars|)|punc
+money|illicit|mod
+dollars|money|of

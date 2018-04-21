@@ -1,0 +1,147 @@
+strategy|gm|gen
+strategy|new|mod
+plants|new|mod
+plants|assembly|nn
+plan|plants|for
+union|united automobile workers|nn
+challenge|union|to
+union|which|whn
+settled|last week|subj
+settled|strike|obj
+two|nearly|num-mod
+months|two|amount-value
+strike|months|of
+factories|two|nn
+factories|auto|nn
+factories|parts|nn
+months|factories|at
+factories|flint|in
+four|five|out of
+factories|auto|nn
+factories|parts|nn
+five|factories|outside
+factories|united states|in
+are|not|neg
+unionized|four|obj
+unionized|so|mod
+work|shifting|mod
+work|them|to
+so|weakens|comp1
+weakens|work|subj
+grip|uaw|gen
+weakens|grip|obj
+grip|industry|on
+contentious|increasingly|mod
+issues|contentious|mod
+making|issues|subj
+making|it|obj1
+likely|less|mod
+making|likely|desc
+chosen|it|obj
+chosen|by|by-subj
+union|united automobile workers|nn
+chosen|union|by
+chosen|year|mod
+maker|first|post
+maker|auto|nn
+year|maker|as
+maker|negotiate|rel
+negotiate|maker|subj
+negotiate|pattern-setting|obj
+contract|three-year|nn
+contract|national|mod
+pattern-setting|contract|appo
+hired|gm|subj
+hired|employees|obj
+hired|and|punc
+hired|has|conj
+has|gm|subj
+workers|220,000|num
+workers|hourly|mod
+has|workers|obj
+workers|left|pnmod
+left|united states|in
+represented|mostly|mod-before
+united states|represented|vrel
+represented|united states|obj
+represented|by|by-subj
+represented|uaw|by
+has|automaker|subj
+employees|600,000|num
+has|employees|obj
+automakers|rival|mod
+lag|automakers|obj
+automakers|terms|in
+terms|number|of
+number|autos|of
+autos|that|c
+produces|autos|obj
+produces|worker|subj
+produces|annually|mod
+be|also|amod
+be|able|pred
+be|avoid|mod
+avoid|uaw|subj
+avoid|having|fc
+round|next|post
+having|round|obj
+talks|auto|nn
+talks|labor|nn
+round|talks|of
+negotiators|top|mod
+negotiators|general motors corp.|for
+general motors corp.|and|punc
+union|united automobile workers|nn
+general motors corp.|union|conj
+disagreed|negotiators|subj
+uaw|gained|vrel
+gained|uaw|obj1
+workers|more|mod
+gained|workers|obj2
+workers|it|than
+lost|uaw|subj
+time|first|post
+uaw|gained|vrel
+gained|uaw|obj1
+workers|more|mod
+gained|workers|obj2
+workers|it|than
+lost|uaw|subj
+time|first|post
+issues|key|mod
+issues|talks|in
+are|certain|pred
+are|include|mod
+include|issue|subj
+security|job|nn
+include|security|obj
+include|particularly|mod
+particularly|workers|for
+subsidiaries|auto|nn
+subsidiaries|parts|nn
+workers|subsidiaries|at
+subsidiaries|as|punc
+subsidiaries|well|punc
+subsidiaries|as|punc
+changes|modest|mod
+subsidiaries|changes|conj
+changes|and|punc
+benefits|other|mod
+benefits|employee|nn
+changes|benefits|conj
+issue|largest|mod
+issue|ford|between
+ford|and|punc
+ford|union|conj
+appears|issue|subj
+plans|ford|gen
+be|plans|pred
+plans|visteon|for
+visteon|and|punc
+workers|unit|gen
+workers|23,500|num
+workers|uaw|nn
+visteon|workers|conj
+richard shoemaker|vice president|appo
+issues|gm|nn
+vice president|issues|for

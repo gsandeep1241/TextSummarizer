@@ -1,0 +1,102 @@
+news|good|mod
+was|news|pred
+was|wednesday|mod
+forecasters|world|gen
+forecasters|weather|nn
+was|forecasters|from
+disruptions|massive|mod
+disruptions|caused|vrel
+caused|disruptions|obj
+caused|by|by-subj
+caused|el nino|by
+coming to|disruptions|subj
+coming to|end|obj
+were|october|by
+october|cooler|pnmod
+cooler|normal|than
+temperatures|surface|mod
+were|in|pred
+were|evidence|in
+coast|west|mod
+evidence|coast|from
+coast|south america|of
+south america|well|to
+dateline|international|nn
+west|dateline|of
+well|said|rel
+said|well|obj
+said|wmo|subj
+pattern|el-nino-like|mod
+pattern|temperature|nn
+broken|pattern|obj
+years|five|amount-value
+phenomenon|periodic|mod
+cooling|phenomenon|like
+phenomenon|called|vrel
+called|phenomenon|obj1
+called|la nina|desc
+added|he|subj
+phenomenon|el nino|nn
+phenomenon|weather|mod
+phenomenon|1997-98|of
+overall|produced|rel
+produced|overall|obj
+produced|phenomenon|subj
+produced|more|mod
+benefits|overall|subj
+benefits|destruction|than
+destruction|united states|for
+analysis|new|mod
+benefits|analysis|according to
+stanley a. changnon|climatologist|nn
+analysis|stanley a. changnon|by
+$4.2 billion|its|gen
+$4.2 billion|$4.5 billion|to
+$4.5 billion|damage|in
+outweighed|far|amod
+outweighed|$4.2 billion|obj
+outweighed|by|by-subj
+outweighed|nearly $20 billion|by
+nearly $20 billion|benefits|in
+reports|changnon|nn
+benefits|reports|appo
+issue|september|nn
+reports|issue|in
+issue|bulletin|of
+bulletin|american meteorological society|of
+dissipates|la nina|subj
+dissipates|before|mod
+before|hits|comp1
+hits|it|subj
+hits|los angeles|obj
+face|area|subj
+typical|more|mod
+winter|typical|mod
+winter|wet|mod
+face|winter|obj
+rainy season|short|mod
+ends|rainy season|subj
+ends|december|in
+ends|but|mod
+but|was|comp1
+was|different|pred
+is|name|pred
+warming|waters|of
+waters|pacific ocean|in
+pacific ocean|that|whn
+affects|pacific ocean|subj
+wind|global|mod
+affects|wind|obj
+wind|and|punc
+patterns|temperature|nn
+wind|patterns|conj
+worked|scientists|subj
+model|computer|nn
+worked|model|with
+used|currently|amod
+model|used|vrel
+used|model|obj
+used|predict|mod
+predict|scientist|subj
+events|el nino|nn
+predict|events|obj

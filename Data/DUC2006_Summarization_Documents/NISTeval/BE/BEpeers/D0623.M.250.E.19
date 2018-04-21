@@ -1,0 +1,149 @@
+year|law|after
+law|banned|vrel
+banned|law|obj
+banned|smoking|mod
+offices|public|mod
+smoking|offices|in
+offices|hospitals|conj
+hospitals|buses|conj
+buses|and|punc
+buses|airports|conj
+said|still|amod
+smoke|people|subj
+smoke|turk|like
+fine|top|mod
+fine|smoking|for
+smoking|work|at
+at|or|punc
+at|in|conj
+places|public|mod
+at|places|in
+dlrs|200 rand|nn
+dlrs|(|punc
+be|dlrs|pred
+dlrs|35|num
+prohibited|generally|amod
+prohibited|smoking|obj
+places|public|mod
+prohibited|places|in
+buildings|government|nn
+places|buildings|such as
+buildings|and|punc
+buildings|auditoriums|conj
+auditoriums|and|punc
+smoking|areas|nn
+smoking|ban|nn
+auditoriums|smoking|conj
+smoking|bars|in
+bars|and|punc
+bars|restaurants|conj
+bill|smoking|mod
+bill|a-2254|appo
+forbidden|bill|subj
+smokers|underage|mod
+forbidden|smokers|obj
+smokers|possessing|from
+possessing|bill|subj
+possessing|cigarettes|obj
+places|public|mod
+cigarettes|places|in
+places|streets|such as
+streets|schools|conj
+schools|parks|conj
+parks|and|punc
+centers|shopping|nn
+parks|centers|conj
+director|executive|nn
+scott wexler|director|appo
+director|empire state restaurant and tavern association|of
+group|trade|mod
+empire state restaurant and tavern association|group|appo
+said|scott wexler|subj
+said|in|guest
+said|interview|in
+said|that|c
+group|his|gen
+sponsored|group|subj
+sponsored|study|obj
+study|1996|in
+1996|that|whn
+showed|1996|subj
+showed|jobs|obj
+restaurants|city|nn
+jobs|restaurants|at
+restaurants|declining|rel
+declining|restaurant|subj
+declining|4 percent|obj
+groups|tobacco industry|nn
+groups|and|punc
+supporters|their|gen
+groups|supporters|conj
+but|are|comp1
+are|likely|pred
+are|mount|mod
+mount|group|subj
+challenge|constitutional|mod
+mount|challenge|obj
+challenge|bill|to
+bill|which|whn
+delay|bill|subj
+delay|it|obj
+delay|becoming|mod
+becoming|law|obj
+becoming|or|punc
+kill|perhaps|amod
+becoming|kill|conj
+kill|it|obj
+kill|altogether|mod
+larry downs|director|appo
+director|nj breathes|of
+group|anti-smoking|mod
+nj breathes|group|appo
+said|larry downs|subj
+effect|bill|gen
+effect|unintended|mod
+said|been|fc
+been|send|pred
+send|message|obj
+message|that|c
+use|tobacco|nn
+is|acceptable|pred
+acceptable|those|for
+those|who|whn
+turn|those|subj
+turn|18|obj
+is|research|pred
+research|that|whn
+says|research|subj
+says|going to work|fc
+going to work|approach|subj
+going to work|said|mod
+said|downs|subj
+notched|thursday|on
+notched|she|subj
+victory|her|gen
+victory|latest|mod
+notched|victory|obj
+notched|when|wha
+house|upper|mod
+house|parliament|of
+gave|house|subj
+approval|final|mod
+gave|approval|obj
+approval|one|to
+laws|world|gen
+laws|toughest|mod
+laws|anti-smoking|mod
+one|laws|of
+laws|which|whn
+bans|laws|subj
+bans|lighting|obj
+bans|up|mod
+places|public|mod
+up|places|in
+places|and|punc
+advertising|all|pre
+advertising|tobacco|nn
+places|advertising|conj
+city|forbidden|nn
+lighting up|city|in

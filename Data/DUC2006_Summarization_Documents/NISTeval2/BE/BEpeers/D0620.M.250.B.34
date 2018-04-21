@@ -1,0 +1,151 @@
+was|question|pred
+principals|and|punc
+principals|superintendents|conj
+question|asked|comp1
+asked|principals|subj
+year|last|post
+asked|year|obj
+asked|spate|after
+shootings|school|nn
+spate|shootings|of
+shootings|country|across
+so|increased|comp1
+increased|they|subj
+security|bought|vrel
+bought|security|obj1
+detectors|metal|mod
+bought|detectors|obj2
+detectors|and|punc
+cameras|surveillance|nn
+detectors|cameras|conj
+created|security|subj
+created|profiles|obj
+violent|potentially|mod
+students|violent|mod
+profiles|students|of
+'s|one|pred
+mysteries--|great|mod
+one|mysteries--|of
+identify|you|subj
+identify|student|obj
+student|who|whn
+going|student|subj
+going|act|fc
+act|you|subj
+act|out|mod
+said|barbara wheeler|subj
+member|school|nn
+member|board|nn
+barbara wheeler|member|conj
+member|downers grove|in
+downers grove|and|punc
+president|former|mod
+downers grove|president|conj
+president|national school boards association|of
+gotten|also|amod
+gotten|schools|subj
+federal|more|mod
+money|federal|mod
+gotten|money|obj
+few|past|mod
+money|few|in
+gotten|years|mod
+president|six months ago|nn
+president|clinton|person
+held|president|subj
+conference|white house|nn
+held|conference|obj
+violence|school|nn
+conference|violence|on
+800|about|num-mod
+educators|800|nn
+violence|educators|with
+educators|and|punc
+officials|law-enforcement|nn
+educators|officials|conj
+shootings|high-profile|mod
+remained|shootings|despite
+shootings|schools|at
+schools|country|around
+year|past|mod
+country|year|in
+violence|such|pre
+remained|violence|subj
+remained|steady|desc
+steady|1992|since
+world|classroom|inside
+remains|world|subj
+safe|relatively|mod
+place|safe|mod
+remains|place|obj
+concludes|report|subj
+wednesday|released|mod
+being|wednesday|pred
+remains|concludes|mod
+jpi|(|punc
+justice policy institute|jpi|abbrev
+jpi|)|punc
+think tank|liberal|mod
+think tank|criminal|mod
+think tank|justice|nn
+justice policy institute|think tank|appo
+think tank|offices|with
+offices|washington|in
+washington|and|punc
+washington|san francisco|conj
+said|justice policy institute|subj
+fear|media-driven|mod
+fear|public|mod
+violence|school|nn
+fear|violence|about
+said|is|fc
+is|`|punc
+is|`|punc
+is|overblown|pred
+report|institute|gen
+charged|report|subj
+policymakers|washington|in
+in|and|punc
+in|in|conj
+legislatures|state|nn
+in|legislatures|in
+overreacted|policymakers|subj
+overreacted|crisis|to
+crisis|that|whn
+does|not|neg
+exist|crisis|subj
+exist|and|punc
+exist|engaged|conj
+engaged|crisis|obj
+misdirection|`|punc
+misdirection|`|punc
+misdirection|tragic|mod
+engaged|misdirection|in
+misdirection|attention|of
+attention|and|punc
+attention|resources|conj
+jason ziedenberg|jpi|gen
+jason ziedenberg|co-author|appo
+co-author|study|of
+said|jason ziedenberg|subj
+violence|juvenile|mod
+problem|real|mod
+is|problem|pred
+problem|society|in
+want|really|mod-before
+want|you|subj
+want|track|fc
+track|you|subj
+track|it|obj
+track|down|mod
+looking|you|subj
+place|wrong|mod
+were|40|pred
+40|shooting|rel
+shooting|40|subj
+shooting|deaths|obj
+deaths|schools|in
+school year|1997-1998|amount-value
+schools|school year|in
+said|report|subj
+shooting|said|mod

@@ -1,0 +1,143 @@
+police|london|nn
+police|criticized|vrel
+criticized|police|obj
+for|"|punc
+measures|inadequate|nn
+measures|"|punc
+measures|race|nn
+criticized|measures|for
+forces|police|nn
+forces|england|in
+england|and|punc
+england|wales|conj
+failing|forces|subj
+failing|eradicate|fc
+eradicate|force|subj
+prejudice|racial|mod
+eradicate|prejudice|obj
+ranks|their|gen
+prejudice|ranks|in
+ranks|government|appo
+report|inspector|gen
+government|said|rel
+said|government|obj
+said|report|subj
+said|monday|on
+convicted|no-one|obj
+convicted|crime|of
+report|macpherson|nn
+promised|report|after
+promised|government|subj
+promised|broaden|fc
+broaden|government|subj
+laws|anti-discrimination|mod
+broaden|laws|obj
+broaden|and|punc
+broaden|make|conj
+make|government|subj
+changes|immediate|mod
+make|changes|obj
+changes|policing|in
+policing|methods|obj
+announced|already|amod
+announced|straw|subj
+announced|that|c
+be|soon|amod
+be|liable|pred
+prosecution|criminal|mod
+liable|prosecution|to
+prosecution|discrimination|for
+be|when|wha
+forces|police|nn
+brought|forces|obj
+brought|race relations act|under
+comes|report|subj
+comes|less|mod
+less|week|than
+comes|after|mod
+after|highlighted|comp1
+highlighted|inquiry|subj
+highlighted|"|punc
+racism|institutional|mod
+highlighted|racism|obj
+racism|"|punc
+metropolitan police|london|gen
+racism|metropolitan police|in
+metropolitan police|following|rel
+following|metropolitan police|subj
+investigation|bungled|mod
+following|investigation|obj
+investigation|murder|into
+stephen lawrence|black|mod
+stephen lawrence|teenager|nn
+murder|stephen lawrence|of
+are|pockets|pred
+practise|good|mod
+pockets|practise|of
+is|room|pred
+improvement|substantial|mod
+room|improvement|for
+is|"|punc
+is|said|mod
+said|dan crompton|subj
+author|report|gen
+dan crompton|author|appo
+author|who|whn
+investigated|author|subj
+investigated|implemented|fc
+implemented|forces|subj
+recommendations|20|num
+implemented|recommendations|obj
+recommendations|made|vrel
+made|recommendations|obj
+made|by|by-subj
+made|inspectorate|by
+made|16 months ago|mod
+jack straw|home secretary|nn
+said|jack straw|subj
+said|underlined|fc
+underlined|report|subj
+underlined|need|obj
+need|tackle|comp1
+tackle|report|subj
+tackle|racism|obj
+tackle|as|mod
+laid|by|by-subj
+william macpherson|sir|title
+laid|william macpherson|by
+report|his|gen
+william macpherson|report|in
+investigation|lawrence|nn
+investigation|murder|nn
+report|investigation|on
+laid|last week|mod
+report|macpherson|nn
+denounced|report|subj
+denounced|metropolitan police|obj
+metropolitan police|as|mod
+racist|fundamentally|mod
+handling|its|gen
+racist|handling|for
+handling|investigation|of
+investigation|death|into
+stephen lawrence|18-year-old|mod
+death|stephen lawrence|of
+stephen lawrence|stabbed|vrel
+stabbed|stephen lawrence|obj
+stabbed|death|to
+youths|white|mod
+death|youths|by
+youths|1993|in
+paul condon|metropolitan|mod
+paul condon|commissioner|nn
+paul condon|sir|title
+revealed|paul condon|subj
+revealed|plans|obj
+plans|introduce|rel
+introduce|plan|subj
+introduce|tests|obj
+tests|racism|for
+study|major|mod
+launching|study|obj
+study|what|of
+look|public|subj

@@ -1,0 +1,49 @@
+ap|geneva|nn
+ap|(|punc
+team|swiss-british|nn
+team|hoping|rel
+hoping|team|subj
+be|first|pred
+first|fly|rel
+fly|first|subj
+fly|balloon|obj
+balloon|world|around
+passed|nonstop|mod-before
+passed|team|subj
+passed|south|obj
+south|japan|of
+passed|today|mod
+passed|trying|mod
+trying|team|subj
+trying|avoid|fc
+avoid|thunderstorms|obj
+thunderstorms|that|whn
+ended|thunderstorms|subj
+ended|flight|obj
+team|rival|mod
+flight|team|of
+ended|week|mod
+last week|only|mod
+balloon|british|mod
+& wireless, was forced to end a round-the-world attempt, ditching in the pacific ocean.|cable|nn
+balloon|& wireless, was forced to end a round-the-world attempt, ditching in the pacific ocean.|appo
+ap|city|nn
+ap|(|punc
+team|swiss-english|nn
+team|balloon|nn
+soared|team|subj
+soared|mexico|over
+today|early|mod
+soared|today|mod
+completing|team|subj
+journey|six-day|nn
+completing|journey|obj
+journey|pacific ocean|across
+pacific ocean|attempt|in
+attempt|become|comp1
+balloonists|first|post
+become|balloonists|obj
+balloonists|travel|rel
+travel|balloonist|subj
+travel|nonstop|mod
+nonstop|world|around

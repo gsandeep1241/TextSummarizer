@@ -1,0 +1,59 @@
+time|same|post
+ruled|time|at
+ruled|judge|subj
+ruled|that|c
+arrangements|microsoft|gen
+arrangements|marketing|nn
+companies|other|mod
+arrangements|companies|with
+companies|promote|rel
+promote|company|subj
+browser|its|gen
+browser|web|nn
+promote|browser|obj
+expense|netscape|gen
+browser|expense|at
+did|not|neg
+have|arrangements|subj
+effect|sufficient|mod
+have|effect|obj
+effect|violate|rel
+violate|effect|subj
+violate|law|obj
+law|quoted|rel
+quoted|law|obj
+quoted|legal document|subj
+quoted|microsoft|in
+taken|brief|obj
+record|court|nn
+taken|record|from
+suit|justice department|gen
+suit|first|post
+suit|antitrust|mod
+record|suit|of
+suit|microsoft|against
+microsoft|which|whn
+resolved|microsoft|obj
+resolved|1995|in
+justice department|and|punc
+general|17|num
+general|state attorneys|nn
+justice department|general|conj
+proposed|justice department|subj
+proposed|break|fc
+break|justice department|subj
+break|microsoft|obj
+companies|two|nn
+microsoft|companies|into
+breakup|company|of
+encourage|also|amod
+encourage|breakup|subj
+encourage|development|obj
+operating systems|alternative|mod
+development|operating systems|of
+encourage|and|punc
+encourage|prompt|conj
+prompt|breakup|subj
+prompt|versions|obj
+versions|programs|of
+programs|microsoft office|like

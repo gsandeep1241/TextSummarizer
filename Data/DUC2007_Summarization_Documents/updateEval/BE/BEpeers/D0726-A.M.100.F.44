@@ -1,0 +1,64 @@
+spend|gore|subj
+campaigning|weekend|nn
+spend|campaigning|obj
+campaigning|new hampshire|in
+fund|gore|gen
+fund|raising|rel
+raising|fund|subj
+raising|in|guest
+raising|1996|in
+campaign|re-election|nn
+raising|campaign|obj
+campaign|president|of
+president|clinton|person
+came|fund|subj
+came|scrutiny|under
+scrutiny|congress|of
+congress|and|punc
+congress|justice department|conj
+formed|already|mod-before
+formed|gore|subj
+formed|committees|obj
+committees|seeking|for
+seeking|gore|subj
+nomination|democratic|mod
+nomination|presidential|mod
+seeking|nomination|obj
+year|next|post
+seeking|year|mod
+seeking|and|punc
+seeking|named|conj
+named|gore|subj
+officials|key|mod
+officials|campaign|nn
+named|officials|obj
+2000|president|gen
+president|al gore|person
+appointed|campaign|subj
+appointed|campaign|obj1
+appointed|pro|obj2
+connections|local|mod
+connections|washington|nn
+pro|connections|with
+director|its|gen
+director|political|mod
+connections|director|as
+president|al gore|person
+president|saturday|on
+took|president|subj
+campaign|his|gen
+campaign|presidential|mod
+took|campaign|obj
+room|living|nn
+campaign|room|to
+room|that|whn
+helped|room|subj
+jimmy carter|launch|nn
+helped|jimmy carter|obj
+jimmy carter|and|punc
+jimmy carter|bill clinton|conj
+bill clinton|white house|into
+scores|`|punc
+scores|`|punc
+scores|gore|subj
+scores|lot|obj

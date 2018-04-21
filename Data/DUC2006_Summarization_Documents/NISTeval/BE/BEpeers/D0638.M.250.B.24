@@ -1,0 +1,156 @@
+is|about|pred
+is|size|about
+moon|earth|gen
+size|moon|of
+theory|ocean|nn
+suggested|theory|obj
+suggested|by|by-subj
+suggested|data|by
+spacecraft|nasa|gen
+spacecraft|galileo|nn
+data|spacecraft|from
+evidence|new|mod
+spacecraft|nasa|gen
+spacecraft|galileo|nn
+evidence|spacecraft|from
+bolsters|evidence|subj
+bolsters|theories|obj
+theories|that|c
+ocean|liquid|mod
+lies|ocean|subj
+lies|crust|beneath
+europa|jupiter|gen
+europa|moon|nn
+crust|europa|of
+europa|scientists|appo
+scientists|reported|vrel
+reported|scientists|obj
+reported|monday|mod
+reported|analyzing|after
+analyzing|ocean|subj
+analyzing|results|obj
+flyby|probe|gen
+flyby|latest|mod
+results|flyby|from
+collected|data|obj
+collected|december 1995|in
+collected|when|wha
+set|probe|nn
+set|loose|pnmod
+spacecraft|galileo|nn
+loose|spacecraft|from
+plunged into|in|mod-before
+plunged into|orbit|in
+orbit|jupiter|around
+plunged into|set|subj
+atmosphere|planet|gen
+plunged into|atmosphere|obj
+probe|cone-shaped|mod
+probe|released|vrel
+released|probe|obj
+released|galileo|from
+galileo|july 13|on
+released|and|punc
+released|entered|conj
+entered|probe|subj
+atmosphere|jupiter|gen
+entered|atmosphere|into
+atmosphere|december 7|on
+craft|first|post
+craft|man-made|mod
+was|craft|pred
+was|ever|mod
+was|dip into|mod
+dip into|probe|subj
+dip into|atmosphere|obj
+atmosphere|planet|of
+dip into|and|punc
+dip into|sent|conj
+sent|probe|subj
+sent|back|guest
+sent|data|obj
+way|its|gen
+data|way|on
+data|demise|to
+took|it|subj
+took|data|obj
+flyby|its|gen
+data|flyby|during
+miles|559|amount-value
+flyby|miles|within
+moon|jupiter|gen
+miles|moon|of
+moon|last|vrel
+last|moon|obj
+last|december 7|mod
+last|probe|as
+probe|passed|vrel
+passed|probe|obj
+passed|by|by-subj
+passed|io|by
+way|its|gen
+io|way|on
+way|enter|rel
+enter|way|subj
+enter|orbit|obj
+orbit|jupiter|around
+continue|orbit|in
+orbit|jupiter|of
+jupiter|and|punc
+moons|its|gen
+jupiter|moons|conj
+moons|2|for
+continue|years|mod-before
+continue|1/2|subj
+continue|take|mod
+take|1/2|subj
+take|photos|obj
+photos|planet|of
+planet|and|punc
+satellites|its|gen
+planet|satellites|conj
+years|last|post
+years|two|amount-value
+been|years|over
+target|most|of
+spacecraft|galileo|nn
+encounters|spacecraft|gen
+encounters|close|mod
+most|encounters|of
+been|europa|pred
+galileo|launched|vrel
+launched|galileo|obj
+launched|1989|in
+arrived|galileo|subj
+arrived|jupiter|at
+jupiter|december 1995|in
+arrived|and|punc
+arrived|began|conj
+began|galileo|subj
+tour|two-year|mod
+began|tour|obj
+tour|jupiter|of
+jupiter|and|punc
+moons|its|gen
+moons|four|nn
+moons|largest|mod
+jupiter|moons|conj
+comes from|evidence|subj
+comes from|galileo|obj
+galileo|satellite|conj
+satellite|launched|vrel
+launched|satellite|obj
+launched|1989|in
+1989|peer|rel
+peer|1989|subj
+peer|down|mod
+down|jupiter|on
+satellite|and|punc
+moons|its|gen
+moons|larger|mod
+satellite|moons|conj
+atlantis|space|nn
+atlantis|shuttle|nn
+launched|atlantis|obj
+mission|five-day|nn
+launched|mission|on

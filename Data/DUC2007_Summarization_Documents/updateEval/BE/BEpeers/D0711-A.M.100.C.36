@@ -1,0 +1,52 @@
+practices|microsoft corp.|gen
+practices|business|mod
+microsoft corp.|practices|whn
+are|challenged|pred
+challenged|by|by-subj
+challenged|government|by
+antitrust case|major|mod
+government|antitrust case|in
+suffered|microsoft corp.|subj
+setback|legal|mod
+suffered|setback|obj
+setback|front|on
+suffered|when|wha
+judge|federal|mod
+judge|california|in
+ordered|judge|subj
+ordered|company|obj1
+company|stop|rel
+stop|company|subj
+stop|shipping|obj
+software|internet|nn
+ordered|software|obj2
+software|that|whn
+violates|software|subj
+contract|its|gen
+violates|contract|obj
+contract|rival|with
+rival|sun microsystems inc.|appo
+injunction|preliminary|mod
+suit|private|mod
+suit|law|nn
+injunction|suit|in
+suit|california|in
+is|government|on
+is|uncertain|pred
+trial|its|gen
+trial|antitrust|mod
+expected|trial|in
+introduce|microsoft corp.|subj
+introduce|documents|obj
+documents|intended|vrel
+contradict|documents|subj
+contradict|testimony|obj
+executive|ibm|nn
+testimony|executive|by
+executive|who|whn
+said|executive|subj
+said|offer|fc
+offer|microsoft|subj
+maker|computer|nn
+offer|maker|obj1
+offer|favorable|obj2

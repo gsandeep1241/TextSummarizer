@@ -1,0 +1,134 @@
+case|perjury|nn
+is|case|pred
+case|president|against
+president|clinton|person
+crime|punishable|mod
+is|crime|pred
+washington|lie|nn
+'s|washington|pred
+articles|first two|nn
+articles|impeachment|nn
+articles|that|c
+debate|articles|obj
+debate|house|subj
+debate|thursday|mod
+charge|articles|subj
+charge|president|obj
+president|clinton|person
+president|perjury|with
+scandal|monica lewinsky|nn
+scandal|sex|nn
+perjury|scandal|in
+gone out|courts|subj
+way|their|gen
+gone out|way|of
+way|say|rel
+say|way|subj
+say|that|c
+cases|civil|mod
+perjury|cases|in
+is|as|pred
+important|perjury|as
+testimony|other|mod
+perjury|testimony|in
+republicans|who|whn
+believe|republicans|subj
+believe|that|c
+committed perjury|clinton|subj
+but|noted|comp1
+noted|republicans|subj
+noted|that|c
+engage in|clinton|subj
+engage in|sexual activities|obj
+sexual activities|lewinsky|with
+lewinsky|that|whn
+included|lewinsky|obj
+included|definition|in
+lawyer|president|nn
+lawyer|david kendall|person
+said|lawyer|subj
+said|that|c
+prosecutor|united states|in
+bring|prosecutor|subj
+prosecution|perjury|nn
+bring|prosecution|obj
+prosecution|basis|on
+basis|kinds|of
+kinds|questions|of
+questions|asked|rel
+asked|questions|obj2
+asked|clinton|obj1
+life|clinton|nn
+life|sex|nn
+asked|life|about
+suit|paula jones|nn
+suit|sexual harassment|nn
+life|suit|in
+passed|conviction|after
+counts|two|nn
+conviction|counts|on
+counts|perjury|of
+passed|house|subj
+articles|three|nn
+passed|articles|obj
+articles|impeachment|of
+impeachment|charging|rel
+charging|impeachment|subj
+charging|judge|obj
+judge|making|with
+statements|false|mod
+false|and|punc
+false|misleading|conj
+making|statements|obj
+jury|grand|nn
+statements|jury|to
+to|and|punc
+to|to|conj
+to|federal agents|to
+said|democrats|subj
+said|that|obj
+said|even if|mod
+even if|is|comp1
+is|true|pred
+committed perjury|clinton|subj
+jury|grand|nn
+committed perjury|jury|before
+is|not|neg
+is|necessarily|guest
+offense|impeachable|mod
+is|offense|pred
+of|whether|c
+discussed|lewinsky|subj
+discussed|lewinsky|obj
+lewinsky|possible|pnmod
+case|jones|nn
+testimony|case|in
+case|lewinsky|with
+lewinsky|or|punc
+lawyers|vernon jordan white house|nn
+lewinsky|lawyers|conj
+argue|testimony|subj
+argue|that|c
+starr|and|punc
+starr|republicans|conj
+pinpointed|starr|subj
+pinpointed|only|guest
+pinpointed|answers|obj
+answers|that|whn
+suggest|answers|subj
+suggest|perjury|obj
+perjury|clinton|by
+system|federal|mod
+even|system|in
+officials|prison|nn
+said|officials|subj
+said|in|guest
+said|october|in
+said|that|c
+people|115|num
+serving|people|subj
+serving|sentences|obj
+sentences|perjury|for
+prisons|federal|mod
+perjury|prisons|in
+serving|alone|mod

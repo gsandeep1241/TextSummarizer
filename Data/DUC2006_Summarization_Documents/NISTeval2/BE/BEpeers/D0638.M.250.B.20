@@ -1,0 +1,145 @@
+volcanoes|moon|on
+moon|jupiter|of
+jupiter|called|vrel
+called|jupiter|obj1
+called|io|desc
+place|hottest|mod
+be|place|pred
+place|solar system|in
+solar system|sun|outside
+say|researchers|subj
+'s|io|pred
+io|moon|appo
+moon|jupiter|of
+jupiter|that|whn
+is|sort|pred
+hell|energy|nn
+sort|hell|of
+causes|power|subj
+causes|io|obj
+io|glow|rel
+glow|io|subj
+glow|when|wha
+is|in|pred
+is|shadow|in
+shadow|jupiter|of
+miles|2,236|num
+is|miles|pred
+miles|diameter|in
+larger|slightly|mod
+diameter|larger|pnmod
+moon|earth|gen
+larger|moon|than
+moons|other|mod
+moons|major|nn
+are|gannyede|pred
+gannyede|europa|conj
+europa|and|punc
+europa|callisto|conj
+moons|smaller|mod
+moons|jupiter|gen
+moons|other|mod
+moons|major|nn
+are|ganymede|pred
+ganymede|europa|conj
+europa|and|punc
+europa|callisto|conj
+completed|it|subj
+mission|its|gen
+mission|$1.5 billion|nn
+mission|primary|mod
+completed|mission|obj
+completed|and|punc
+completed|is|conj
+is|halfway|pred
+mission|$30 million|nn
+mission|extended|mod
+halfway|mission|through
+mission|focusing on|rel
+focusing on|mission|subj
+focusing on|europa|obj
+europa|and|punc
+moons|other|mod
+europa|moons|conj
+was|last|pred
+encounters|eight|nn
+encounters|europa|nn
+last|encounters|of
+mission|extended|mod
+encounters|mission|during
+mission|which|whn
+anticipates|mission|subj
+orbits|14|num
+orbits|different|mod
+anticipates|orbits|obj
+orbits|jupiter|around
+completed|it|subj
+mission|its|gen
+mission|$1.5 billion|nn
+mission|primary|mod
+completed|mission|obj
+completed|and|punc
+completed|is|conj
+is|halfway|pred
+mission|$30 million|nn
+mission|extended|mod
+halfway|mission|through
+mission|focusing on|rel
+focusing on|mission|subj
+focusing on|europa|obj
+europa|and|punc
+moons|other|mod
+europa|moons|conj
+patterns|magnetic|mod
+are|patterns|pred
+patterns|that|whn
+are|typical|pred
+typical|fields|of
+fields|generated|vrel
+generated|fields|obj
+generated|by|by-subj
+generated|electric currents|by
+said|schubert|subj
+generated|said|mod
+harbor|mars|unlike
+harbor|still|amod
+harbor|europa|subj
+harbor|kind|obj
+kind|life|of
+moons|its|gen
+has|moons|like
+jupiter|_|punc
+planet|biggest|mod
+jupiter|planet|appo
+planet|solar system|in
+has|_|punc
+has|jupiter|subj
+aspects|earthlike|mod
+has|aspects|obj
+similarities|slight|mod
+are|similarities|despite
+similarities|earth|to
+earth|jupiter|conj
+jupiter|and|punc
+jupiter|its|conj
+stranger|far|mod
+are|stranger|pred
+stranger|anything|than
+anything|seen|vrel
+seen|anything|obj
+seen|planet|on
+is|about|pred
+is|size|about
+moon|earth|gen
+size|moon|of
+is|closer|pred
+closer|jupiter|to
+are|higher|pred
+are|because|mod
+tug|planet|gen
+tug|gravitational|mod
+because|is|comp1
+is|greater|pred
+away|farther|mod
+is|away|pred
+fall|tides|subj

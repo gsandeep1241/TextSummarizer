@@ -1,0 +1,110 @@
+law|federal|mod
+is|law|under
+person|who|whn
+makes|person|subj
+statement|inaccurate|mod
+makes|statement|obj
+statement|oath|under
+is|not|neg
+guilty|necessarily|mod
+is|guilty|pred
+guilty|perjury|of
+demonstrate|prosecution|subj
+demonstrate|that|c
+knew|person|subj
+knew|that|c
+was|inaccurate|pred
+was|and|punc
+was|intended|conj
+intended|statement|subj
+intended|make|fc
+make|statement|subj
+statement_two|false|mod
+make|statement_two|obj1
+make|requirements|desc
+requirements|that|whn
+raised|often|amod
+raised|requirements|obj
+raised|by|by-subj
+raised|defense|by
+general|california|nn
+general|attorney|nn
+pursued|not|amod
+pursued|general|subj
+charge|perjury|nn
+pursued|charge|obj
+case|o. j. simpson|nn
+charge|case|since
+detective|former|mod
+detective|los angeles|nn
+detective|police|nn
+mark fuhrman|detective|appo
+pleaded|mark fuhrman|subj
+case|contest|appo
+contest|1996|in
+contest|charges|to
+charges|that|c
+lied|he|subj
+lied|court|in
+court|using|about
+using|he|subj
+epithet|racial|mod
+using|epithet|obj
+10|previous|num-mod
+years|10|amount-value
+epithet|years|in
+sentenced|he|obj
+years|three|amount-value
+probation|years|nn
+probation|'|punc
+sentenced|probation|to
+lawyer|president|gen
+lawyer|david kendall|appo
+said|lawyer|subj
+said|that|c
+prosecutor|united states|in
+bring|prosecutor|subj
+prosecution|perjury|nn
+bring|prosecution|obj
+prosecution|basis|on
+basis|kinds|of
+kinds|questions|of
+questions|asked|rel
+asked|questions|obj2
+asked|clinton|obj1
+life|his|gen
+life|sex|nn
+asked|life|about
+suit|paula jones|nn
+suit|sexual harassment|nn
+life|suit|in
+professor|southwestern university|nn
+professor|law|nn
+professor|robert pugsley|person
+called|professor|subj
+called|perjury|obj1
+crime|underprosecuted|mod
+called|crime|desc
+crime|that|whn
+was|set up|pred
+set up|deterrent|as
+interviews|lawyers|with
+show|woman|with
+woman|who|whn
+serving|woman|subj
+serving|sentence|obj
+sentence|lying|for
+sex|about|mod
+case|civil|mod
+sex|case|in
+show|sex|subj
+show|that|obj
+show|far|mod
+threat|prosecution|of
+prosecution|perjury|for
+is|even|mod-before
+cases|civil|mod
+even|cases|in
+deterrent|crucial|mod
+is|deterrent|pred
+deterrent|legal system|in

@@ -1,0 +1,55 @@
+judge|u.s.|nn
+judge|district|mod
+judge|stanley sporkin|person
+rejects|judge|subj
+settlement|proposed|mod
+rejects|settlement|obj
+rejects|asserting|mod
+asserting|judge|subj
+asserting|that|c
+does|not|neg
+go far|it|subj
+go far|enough|mod
+enough|curb|comp1
+conduct|microsoft|gen
+conduct|anti-competitive|mod
+curb|conduct|obj
+seeks|repeatedly|mod-before
+seeks|prosecution|subj
+seeks|portray|mod
+portray|prosecution|subj
+portray|microsoft|obj
+monopolist|bullying|mod
+microsoft|monopolist|as
+constitute|they|subj
+constitute|verdict|obj
+one|trial--|mod
+verdict|one|in
+one|that|whn
+is|barring|mod-before
+barring|they|subj
+barring|settlement|obj
+sure|virtually|mod
+is|sure|pred
+is|appealed|mod
+talks|sporadic|mod
+talks|settlement|nn
+been|talks|pred
+talks|microsoft|between
+microsoft|and|punc
+microsoft|government|conj
+before|filed|comp1
+filed|suit|obj
+filed|may 1998|in
+efforts|previous|mod
+stalled|efforts|subj
+experts|antitrust|mod
+expect|experts|subj
+expect|that|c
+try|posner|subj
+try|deliver|fc
+deliver|posner|subj
+helping|sobering|mod
+deliver|helping|obj
+helping|reality|of
+reality|sides|to

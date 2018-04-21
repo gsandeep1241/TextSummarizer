@@ -1,0 +1,52 @@
+denies|fiercely|mod-before
+denies|microsoft|subj
+denies|allegation|obj
+some|ibm|nn
+some|supplied|mod
+garry norris|some|of
+absorbing|most|mod
+moments|absorbing|mod
+some|moments|of
+far|so|mod
+moments|far|pnmod
+trial|microsoft|nn
+far|trial|in
+turned down|ibm|subj
+proposal|microsoft|nn
+turned down|proposal|obj
+devised|shrewdly|mod
+offer|devised|mod
+offer|microsoft|by
+experts|antitrust|mod
+but|say|comp1
+say|experts|subj
+say|it|obj
+not|probably|mod
+testimony|norris|nn
+went|testimony|subj
+went|well|mod
+charge|os/2|nn
+well|charge|beyond
+information|confidential|mod
+information|commercial|mod
+protect|information|obj
+judge|jackson|person
+took|judge|subj
+took|testimony|obj
+testimony|closed sessions|in
+information|industry|nn
+information|pricing|nn
+shows|information|subj
+shows|that|c
+paying|ibm|subj
+paying|more|mod
+makers|comparable|mod
+makers|pc|nn
+more|makers|than
+testimony|norris|nn
+add|testimony|subj
+legal|more|mod
+ammunition|legal|mod
+add|ammunition|obj
+case|government|gen
+ammunition|case|to

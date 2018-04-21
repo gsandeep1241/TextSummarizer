@@ -1,0 +1,61 @@
+investors|private|mod
+are|set|pred
+set|benefit|rel
+benefit|set|subj
+introduction|1999|num
+benefit|introduction|from
+risks|single|mod
+risks|european|mod
+risks|currency|nn
+risks|reduced|mod
+risks|currency|nn
+introduction|risks|of
+risks|and|punc
+competitions|rising|mod
+risks|competitions|conj
+risks|german|appo
+bundesbank|central bank|nn
+german|said|rel
+said|german|obj
+said|bundesbank|subj
+companies|german|mod
+20 percent|companies|of
+taken|20 percent|subj
+steps|concrete|mod
+taken|steps|obj
+steps|get|rel
+get|step|subj
+get|prepared|desc
+prepared|euro|for
+reiterated|juppe|subj
+commitment|france|gen
+reiterated|commitment|obj
+commitment|timetable|to
+timetable|and|punc
+timetable|criteria|conj
+system|single|mod
+system|currency|nn
+criteria|system|of
+system|set|vrel
+set|system|obj
+treaty|maastricht|nn
+set|treaty|in
+attribution|early|mod
+code|currency|nn
+attribution|code|of
+help|attribution|subj
+agents|economic|mod
+help|agents|obj
+requires|institute|subj
+requires|design|obj
+design|euro|of
+euro|include|rel
+include|euro|subj
+languages|five|nn
+include|languages|obj
+languages|european union|of
+european union|together|pnmod
+together|symbol|with
+symbol|eu|of
+stars|12|subj
+stars|ring|in

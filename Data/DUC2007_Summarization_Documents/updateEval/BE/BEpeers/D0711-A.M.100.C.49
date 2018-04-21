@@ -1,0 +1,50 @@
+was|microsoft|with
+microsoft|behalf|on
+behalf|ibm|of
+business|personal computer|nn
+was|from 1995 to 1997|mod-before
+representative|first|post
+was|representative|pred
+maker|pc|nn
+representative|maker|of
+maker|testify|rel
+testify|maker|subj
+testify|government|for
+antitrust case|federal|mod
+using|antitrust case|in
+using|microsoft|subj
+using|both|punc
+lawyers|in-house|mod
+using|lawyers|obj
+lawyers|and|punc
+lawyers|attorneys|conj
+sullivan|new york-based|mod
+attorneys|sullivan|from
+sullivan|and|punc
+sullivan|cromwell|conj
+justice department|and|punc
+states|20|num
+justice department|states|conj
+states|suing|rel
+suing|state|subj
+suing|microsoft|obj
+microsoft|antitrust case|in
+say|justice department|subj
+say|that|c
+is|part|pred
+part|pattern|of
+practices|illegal|mod
+pattern|practices|of
+giant|software|nn
+practices|giant|by
+giant|intended|vrel
+protect|giant|subj
+grip|its|gen
+grip|tight|mod
+protect|grip|obj
+grip|market|on
+software|personal computer|nn
+market|software|for
+suit|government|gen
+suit|antitrust|mod
+allegations|suit|in

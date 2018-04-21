@@ -1,0 +1,57 @@
+marry|gingrich|subj
+marry|callista bisek|obj
+callista bisek|aug 18|on
+callista bisek|alexandria|in
+marry|said|mod
+said|randy evans|subj
+speaker|former|mod
+speaker|house|nn
+lawyer|speaker|gen
+lawyer|personal|mod
+randy evans|lawyer|appo
+mediator|court-appointed|mod
+hours|spent|mod
+hours|12|amount-value
+hours|negotiating|rel
+negotiating|hours|subj
+agreement|settlement|nn
+negotiating|agreement|obj
+agreement|gingriches|between
+filed|hours|subj
+report|her|gen
+filed|report|obj
+filed|friday|mod
+affair|six-year|nn
+having|affair|obj
+aide|house|nn
+aide|congressional|mod
+affair|aide|with
+aide|filed|vrel
+filed|aide|obj
+filed|divorce|for
+filed|july 29|mod
+ordered|bisek|obj
+ordered|sit|mod
+sit|bisek|subj
+sit|deposition|for
+lawyers|marianne gingrich|gen
+deposition|lawyers|with
+settled|case|obj
+settled|before|mod
+before|happened|comp1
+happened|that|subj
+judge|cobb county|nn
+judge|dorothy robinson|person
+made|judge|subj
+final|gingriches|gen
+final|divorce|nn
+made|final|obj
+made|and|punc
+made|agreed|conj
+agreed|judge|subj
+agreed|seal|fc
+seal|judge|subj
+seal|agreement|obj
+says|marianne gingrich|subj
+says|attend|fc
+attend|she|subj

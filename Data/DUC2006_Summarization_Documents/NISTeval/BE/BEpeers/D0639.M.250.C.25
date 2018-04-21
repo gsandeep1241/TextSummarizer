@@ -1,0 +1,155 @@
+firm|law|nn
+statement|firm|by
+said|statement|subj
+government|us|nn
+said|retreated|fc
+retreated|government|subj
+retreated|systematically|mod
+systematically|declarations|from
+declarations|that|c
+officials|high|mod
+made|officials|subj
+made|two years ago|obj
+two years ago|justify|rel
+justify|two years ago|subj
+justify|attack|obj
+attack|plant|on
+justify|'|punc
+justify|'|punc
+justify|claim|except for
+claim|that|c
+component|chemical|mod
+gas|vx|nn
+gas|nerve|nn
+component|gas|of
+gas|known|pnmod
+known|empta|as
+found|component|obj
+sample|soil|nn
+found|sample|in
+sample|taken|vrel
+taken|sample|obj
+taken|by|by-subj
+taken|foreign agent|by
+foreign agent|plant|near
+destroyed|united states|subj
+factory|khartoum|nn
+destroyed|factory|obj
+factory|august|in
+factory|bombings|after
+embassies|two|nn
+embassies|us|nn
+bombings|embassies|at
+embassies|africa|in
+destroyed|saying|mod
+saying|united states|subj
+saying|made|fc
+made|plant|subj
+arms|chemical|mod
+made|arms|obj
+made|and|punc
+made|had|conj
+had|plant|subj
+had|links|obj
+laden|saudi|mod
+laden|dissident|mod
+laden|osama|nn
+laden|bin|nn
+links|laden|to
+provides|finding|subj
+provides|evidence|obj
+evidence|that|c
+destroyed|jetliner|obj
+destroyed|by|by-subj
+device|explosive|nn
+destroyed|device|by
+said|times|subj
+found|commonly|amod
+said|found|fc
+found|chemical|obj
+found|bombs|in
+bombs|and|punc
+bombs|surface-to-air missiles|conj
+found|making|mod
+making|chemical|subj
+making|it|obj1
+making|impossible|desc
+making|know|mod
+type|device|of
+know|involved|fc
+involved|type|obj
+crash|july 17|nn
+involved|crash|in
+crash|that|whn
+killed|crash|subj
+killed|all|guest
+people|230|num
+killed|people|obj
+government|sudanese|mod
+backs|government|subj
+claims|idris|gen
+backs|claims|obj
+claims|that|c
+was|not|neg
+carrying out|plant|subj
+activities|illicit|mod
+carrying out|activities|obj
+carrying out|and|punc
+carrying out|demanded|conj
+demanded|plant|subj
+demanded|that|c
+mission|un|nn
+mission|fact-finding|nn
+established|mission|obj
+established|investigate|mod
+investigate|government|subj
+attack|aug 20|nn
+briefing|attack|since
+officials|us|nn
+briefing|officials|subj
+members|security|nn
+members|council|nn
+briefing|members|obj
+members|evidence|about
+evidence|say|comp1
+say|they|subj
+say|had|fc
+had|they|subj
+had|justify|fc
+justify|they|subj
+justify|bombing|obj
+since|bombed|comp1
+bombed|united states|subj
+bombed|what|obj
+called|it|subj
+called|secret|obj1
+plant|chemical|mod
+plant|weapons|nn
+called|plant|desc
+plant|sudan|in
+statements|key|mod
+some|statements|of
+statements|made|vrel
+made|statements|obj
+made|by|by-subj
+officials|administration|nn
+made|officials|by
+officials|justify|rel
+justify|official|subj
+justify|attack|obj
+proven|some|subj
+be|inaccurate|pred
+inaccurate|misleading|conj
+misleading|or|punc
+misleading|open|conj
+open|question|to
+said|he|subj
+empta|used|vrel
+used|empta|obj
+used|make|mod
+make|he|subj
+weapons|chemical|mod
+make|weapons|obj
+said|found|fc
+found|empta|obj
+found|al-shifa|outside

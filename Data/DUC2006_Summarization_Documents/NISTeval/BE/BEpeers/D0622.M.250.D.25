@@ -1,0 +1,122 @@
+counties|all|pre
+counties|new jersey|in
+spray|counties|subj
+spray|of water|obj
+of water|kill|rel
+kill|body of water|subj
+larvae|mosquito|nn
+kill|larvae|obj
+done|sussex county|subj
+ground|limited|mod
+done|ground|obj
+ground|spraying|rel
+spraying|ground|subj
+mosquitoes|adult|mod
+spraying|mosquitoes|for
+spraying|said|mod
+said|sharon southard|subj
+sharon southard|spokeswoman|appo
+department|state|nn
+spokeswoman|department|for
+protection|environmental|mod
+department|protection|of
+last|year|mod
+west nile-first|misdiagnosed|pnmod
+people|st louis|nn
+people|encephalitis-killed|mod
+people|six|nn
+misdiagnosed|people|as
+people|new york city|in
+new york city|and|punc
+new york city|one|conj
+one|westchester|in
+60|more than|num-mod
+blamed|also|amod
+blamed|it|obj
+blamed|hundreds|for
+hundreds|bird|of
+new york|deaths-mostly|mod
+new york|crows-in|nn
+new york|and|punc
+new york|connecticut|conj
+connecticut|and|punc
+connecticut|it|conj
+killed|new york|subj
+killed|horses|obj
+horses|long island|on
+crows|ap|nn
+crows|)|punc
+crows|four|nn
+crows|dead|mod
+found|crows|subj
+found|in|guest
+found|new jersey|in
+positive|tested|mod
+found|positive|obj
+virus|west nile-like|mod
+positive|virus|for
+responsible|deaths|for
+five|at least|num-mod
+people|five|nn
+deaths|people|of
+area|new york city|nn
+area|metropolitan|mod
+people|area|in
+significance|this|of
+is|that|c
+agent|particular|mod
+reported|never|guest
+reported|agent|obj
+said|north america|in
+said|lipkin|subj
+said|sunday|mod
+samples|fluid|nn
+people|77|num
+samples|people|from
+people|who|whn
+fell|people|subj
+fell|ill|obj
+ill|but|punc
+negative|tested|mod
+ill|negative|conj
+encephalitis|st louis|nn
+negative|encephalitis|for
+re|samples|obj
+re|west nile|for
+west nile|or|punc
+virus|kunjin|nn
+west nile|virus|conj
+commissioner|city|nn
+commissioner|health|nn
+west nile|commissioner|appo
+commissioner|dr neal cohen|person
+commissioner|told|vrel
+told|commissioner|obj1
+told|new york times|obj2
+man|82-year-old|mod
+man|new jersey|nn
+become|man|subj
+become|first person|obj
+first person|united states|in
+united states|die|rel
+die|year|subj
+virus|west nile|nn
+die|virus|of
+christie whitman|gov|title
+said|christie whitman|subj
+said|wednesday|mod
+centers|us|nn
+centers|disease|for
+disease|and|punc
+prevention|control|nn
+disease|prevention|conj
+classified|centers|subj
+classified|ailment|obj
+fever|west nile-like|mod
+ailment|fever|as
+fever|virus|appo
+before|never|mod
+seen|before|mod-before
+virus|seen|vrel
+seen|virus|obj
+seen|hemisphere|in

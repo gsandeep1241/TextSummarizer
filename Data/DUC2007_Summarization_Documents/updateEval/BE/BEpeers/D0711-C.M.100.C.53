@@ -1,0 +1,62 @@
+culminated|decision|subj
+administration|clinton|nn
+effort|administration|gen
+ambitious|most|mod
+effort|ambitious|mod
+effort|antitrust|mod
+culminated|effort|obj
+set|schedule|nn
+filed|set|under
+set|jackson|by
+jackson|april|in
+justice department|and|punc
+states|17|num
+justice department|states|conj
+filed|justice department|subj
+filed|brief|obj
+brief|court|with
+court|april 28|on
+april 28|asking|rel
+asking|april 28|subj
+asking|judge|obj
+judge|break|rel
+break|judge|subj
+break|microsoft|obj
+companies|two|nn
+microsoft|companies|into
+companies|remedy|as
+behavior|illegal|mod
+remedy|behavior|for
+behavior|found|vrel
+found|behavior|obj
+antitrust|long|mod
+trial|antitrust|mod
+found|trial|in
+judge|federal|mod
+judge|trying|rel
+trying|judge|subj
+antitrust case|microsoft|nn
+trying|antitrust case|obj
+agreed|judge|subj
+morning|thursday|nn
+agreed|delay|fc
+delay|morning|subj
+ruling|his|gen
+ruling|final|mod
+delay|ruling|obj
+delay|for|mod
+filed|giving|mod-before
+giving|judge|subj
+giving|justice department|obj
+justice department|reply|rel
+reply|time|subj
+proposal|microsoft|gen
+reply|proposal|to
+for|filed|comp1
+filed|week|subj
+filed|wednesday|obj
+filed|revise|mod
+revise|week|subj
+break|government|gen
+revise|break|obj
+break|plan|up

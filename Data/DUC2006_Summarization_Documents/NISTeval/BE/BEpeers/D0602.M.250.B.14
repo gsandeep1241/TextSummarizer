@@ -1,0 +1,157 @@
+seeking|athletes|subj
+seeking|conviction|obj
+serious|more|mod
+charge|serious|mod
+conviction|charge|on
+decision|reeves|gen
+decision|use|rel
+use|decision|subj
+use|product|obj
+backfired|decision|subj
+backfired|badly|mod
+athletes|all|pre
+athletes|high school|nn
+13 percent|athletes|of
+use|13 percent|subj
+steroids|anabolic|mod
+use|steroids|obj
+40 percent|athletes|of
+believe|40 percent|subj
+drug|illegal|mod
+believe|is|fc
+is|not|neg
+is|harmful|pred
+study|published|vrel
+published|study|obj
+published|may|in
+published|by|by-subj
+pediatrics|journal|nn
+published|pediatrics|by
+found|study|subj
+found|that|obj
+3 percent|boys|of
+boys|and|punc
+boys|girls|conj
+schools|four|nn
+schools|massachusetts|nn
+schools|middle|nn
+girls|schools|at
+using|3 percent|subj
+steroids|anabolic|mod
+using|steroids|obj
+steroids|build|rel
+build|steroid|subj
+bodies|bigger|mod
+build|bodies|obj
+bodies|sports|for
+considered|on|mod-before
+hand|other|mod
+considered|hand|on
+considered|andro|obj1
+steroid|anabolic|mod
+considered|steroid|obj2
+raises|pill|as
+raises|it|subj
+raises|level|obj
+testosterone|male|mod
+testosterone|hormone|nn
+level|testosterone|of
+claim|users|subj
+claim|builds|fc
+builds|it|subj
+mass|muscle|nn
+builds|mass|obj
+builds|and|punc
+builds|helps|conj
+helps|it|subj
+recovery|speed|nn
+helps|recovery|obj
+injuries|sports-related|mod
+recovery|injuries|from
+player|high school|nn
+player|football|nn
+player|17-year-old|appo
+17-year-old|edmonds|from
+uses|still|amod
+uses|player|subj
+uses|creatine|obj
+uses|and|punc
+uses|says|conj
+says|player|subj
+says|grew|fc
+grew|he|subj
+pounds|167|amount-value
+grew|pounds|from
+pounds|190|amount-value
+pounds|pounds|to
+six|about|num-mod
+months|six|amount-value
+pounds|months|in
+months|using|after
+using|he|subj
+using|supplement|obj
+using|and|punc
+using|increasing|conj
+increasing|he|subj
+workouts|his|gen
+increasing|workouts|obj
+nn|optional material follows|nn
+nn|)|punc
+case|one|of
+reactions|worst|nn
+reactions|known|mod
+reactions|adverse|mod
+one|reactions|of
+use|steroid|nn
+reactions|use|to
+use|reported|vrel
+reported|use|obj
+reported|by|by-subj
+reported|goldberg|by
+is|that|pred
+woman|19-year-old|mod
+woman|west coast|nn
+is|woman|of
+woman|who|whn
+preparing|woman|subj
+preparing|enter|mod
+enter|case|subj
+contest|her|gen
+contest|first|post
+contest|bodybuilding|nn
+enter|contest|obj
+preparing|lifting|conj
+lifting|woman|subj
+lifting|weights|obj
+lifting|and|punc
+lifting|eating|conj
+eating|woman|subj
+eating|high-protein diet|obj
+approved|last week|mod-before
+approved|international olympic committee|subj
+approved|testing|obj
+testing|erythropoietin|for
+erythropoietin|or|punc
+erythropoietin|epo|conj
+version|synthetic|mod
+erythropoietin|version|appo
+hormone|naturally-occurring|mod
+version|hormone|of
+hormone|that|whn
+stimulates|hormone|subj
+stimulates|production|obj
+production|red blood cells|of
+stimulates|and|punc
+stimulates|believed|conj
+believed|hormone|obj
+used|widely|mod
+be|used|pred
+sports|such|pre
+sports|endurance|nn
+used|sports|in
+sports|distance|as
+believed|running|mod
+running|inf|subj
+cycling|swimming|conj
+swimming|and|punc
+swimming|rowing|conj

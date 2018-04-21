@@ -1,0 +1,130 @@
+observers|mission|nn
+belong to|observers|subj
+group|carter center|nn
+belong to|group|obj
+group|which|whn
+includes|group|subj
+presidents|former|mod
+includes|presidents|obj
+presidents|oscar arias|person
+presidents|costa rica|of
+costa rica|and|punc
+costa rica|osvaldo hurtado|conj
+osvaldo hurtado|ecuador|of
+does|not|neg
+have|coca cola co.|subj
+have|control|obj
+projects|carter center|nn
+control|projects|over
+is|not|neg
+is|concerned|pred
+concerned|backlash|about
+backlash|that|whn
+affect|backlash|subj
+company|his|gen
+affect|company|obj
+efforts|carter center|gen
+company|efforts|from
+president|former|mod
+president|united states|nn
+president|jimmy carter|person
+scheduled|president|obj
+scheduled|arrive|mod
+arrive|president|subj
+arrive|nigeria|in
+tuesday|next|post
+arrive|tuesday|mod
+arrive|monitor|to
+program|transition|subj
+program|country|in
+worked out|it|subj
+worked out|nicely|mod
+worked out|confer|mod
+confer|it|subj
+confer|medals|obj
+president|former|mod
+medals|president|on
+president|and|punc
+first lady|his|gen
+president|first lady|conj
+first lady|carter center|at
+parts|africa|of
+africa|where|wha
+worked|carter center|subj
+worked|jimmy carter|obj
+almost|savior|as
+carter center|founded|vrel
+founded|carter center|obj
+founded|by|by-subj
+president|former|mod
+president|u.s.|nn
+founded|president|by
+president|jimmy carter|person
+fighting|carter center|subj
+fighting|blindness|obj
+blindness|1987|since
+president|former|mod
+president|u.s.|nn
+president|jimmy carter|person
+president|who|whn
+leading|president|subj
+observers|50|num
+leading|observers|obj
+observers|mozambique|in
+process|mozambican|mod
+process|electoral|mod
+free|overwhelmingly|mod
+been|free|pred
+free|and|punc
+free|fair|conj
+carter center|set up|pnmod
+set up|carter|by
+had|carter center|subj
+mission|observation|nn
+had|mission|obj
+elections|second|post
+elections|multi|mod
+elections|party|nn
+elections|general|nn
+mission|elections|during
+country|southern|mod
+country|african|nn
+elections|country|in
+country|weekend|at
+carter center|founded|vrel
+founded|carter center|obj
+founded|by|by-subj
+president|former|mod
+founded|president|by
+president|jimmy carter|person
+made|carter center|subj
+conclusion|its|gen
+made|conclusion|obj
+conclusion|conjunction|in
+conjunction|national democratic institute|with
+based|u.s.|subj
+based|pro|guest
+group|democracy|nn
+based|group|obj
+day|five|amount-value
+visit|day|nn
+based|visit|after
+visit|invitation|at
+administration|fujimori|gen
+invitation|administration|of
+president|alberto fujimori|person
+promised|president|subj
+promised|comply with|fc
+comply with|president|subj
+comply with|recommendations|obj
+delegation|carter center|nn
+recommendations|delegation|of
+delegation|that|whn
+said|delegation|subj
+does|not|neg
+said|meet|fc
+meet|peru|subj
+standards|international|mod
+meet|standards|obj
+elections|fair|mod
+standards|elections|for

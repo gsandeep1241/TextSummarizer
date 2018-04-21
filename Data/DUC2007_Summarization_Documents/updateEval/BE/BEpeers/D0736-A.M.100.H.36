@@ -1,0 +1,64 @@
+now|oprah winfrey|gen
+oprah winfrey|top|at
+form|her|gen
+top|form|of
+now|right|mod
+movie|her|gen
+movie|`|punc
+movie|`|punc
+movie|beloved|appo
+is|'|punc
+is|'|punc
+is|about|pred
+about|open|fc
+open|movie|subj
+woman|richest|mod
+richest|and|punc
+influential|most|mod
+richest|influential|conj
+'s|woman|pred
+woman|entertainment|in
+celebrated|she|obj
+celebrated|proponent|as
+proponent|reading|of
+reading|and|punc
+things|all|pre
+reading|things|conj
+bright|and|punc
+bright|beautiful|conj
+'s|on|pred
+'s|cover|on
+vogue|latest|mod
+cover|vogue|of
+'s|looking|mod
+looking|she|subj
+looking|terrific|desc
+fed|oprah winfrey|obj
+fed|up|mod
+jerry springer|sleaze--|nn
+rival|especially|mod
+jerry springer|rival|mod
+show--|jerry springer|gen
+up|show--|with
+fed|and|punc
+fed|is|conj
+is|ready|pred
+is|bail out|mod
+bail out|oprah winfrey|subj
+bail out|of|guest
+bail out|her|of
+show|long-running|mod
+bail out|show|obj
+daytime emmys|32|num
+winning|daytime emmys|obj
+daytime emmys|and|punc
+award|lifetime|nn
+award|achievement|nn
+daytime emmys|award|conj
+after|taking|comp1
+taking|oprah winfrey|subj
+taking|herself|obj
+taking|running|out of
+host|best|mod
+host|talk show|nn
+running|host|for

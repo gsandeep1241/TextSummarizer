@@ -1,0 +1,66 @@
+mine|fourth|mod
+mine|uranium|nn
+approved|mine|obj
+approved|year|within
+approved|after|mod
+company|energy resources australia|nn
+era|(|punc
+energy resources australia|era|abbrev
+era|)|punc
+after|moved|comp1
+moved|company|subj
+moved|fast-track|to
+mine|jabiluka|nn
+fast-track|mine|for
+mine|kakadu national park|in
+leader|australian democrats kernot|of
+australian democrats kernot|warned|vrel
+warned|australian democrats kernot|obj
+warned|yesterday|guest
+warned|that|c
+were|"|punc
+were|things|pred
+things|"|punc
+things|do|rel
+do|things|obj
+do|democrats|subj
+do|senate|in
+senate|make|rel
+make|senate|subj
+make|it|obj1
+make|difficult|desc
+difficult|government|for
+desecrate|"|punc
+government|desecrate|rel
+desecrate|government|subj
+desecrate|"|punc
+area|world heritage|nn
+desecrate|area|obj
+desecrate|kakadu|such as
+mines|more|mod
+mines|uranium|nn
+desecrate|mines|with
+mine|australia|gen
+mine|first|post
+mine|new|mod
+mine|uranium|nn
+construction|mine|of
+mine|decade|in
+was|under|pred
+tuesday|way|nn
+was|tuesday|under
+under|after|conj
+battle|protracted|mod
+battle|legal|mod
+under|battle|after
+owners|aboriginal|mod
+owners|land|nn
+battle|owners|with
+with|and|punc
+with|amid|conj
+with|continuing|amid
+continuing|construction|subj
+protest|environmental|mod
+continuing|protest|obj
+debate|impact|about
+impact|mining|of

@@ -1,0 +1,17 @@
+timeline|egyptair flight 990|for
+carrier|egyptair|nn
+carrier|'|punc
+carrier|s|nn
+carrier|national|mod
+flight 990|carrier|of
+off|john f. kennedy international airport|from
+john f. kennedy international airport|new york|in
+new york|1:19 a.m. local time|at
+1:19 a.m. local time|(|punc
+1:19 a.m. local time|0519|num
+route|gmt|nn
+route|)|punc
+route|en|nn
+route|cairo|to
+screen|radar|nn
+screen|2 a.m.|at

@@ -1,0 +1,61 @@
+is|professor|pred
+professor|english|of
+english|emory university|at
+finished|studio|subj
+second|close|mod
+finished|second|obj
+second|disney|to
+share|market|nn
+disney|share|in
+share|and|punc
+share|ranks|conj
+ranks|fourth|pnmod
+share|1999|amount-value
+fourth|share|in
+share|disney|after
+disney|warner bros|appo
+family|average|mod
+family|american|nn
+owns|family|subj
+sets|three|nn
+sets|tv|nn
+owns|sets|obj
+debate|televised|mod
+debate|presidential|mod
+debate|richard nixon|between
+richard nixon|and|punc
+f.|john|nn
+richard nixon|f.|conj
+illustrates|kennedy|subj
+illustrates|power|obj
+power|image|of
+begin|candidates|subj
+begin|respect|mod
+respect|candidate|subj
+power|tv|gen
+respect|power|obj
+helmets|dressed|mod
+jackets|flak|nn
+dressed|jackets|in
+dressed|and|punc
+dressed|military|conj
+helmets|walter cronkite|conj
+walter cronkite|and|punc
+journalists|other|mod
+journalists|tv|nn
+walter cronkite|journalists|conj
+file|helmets|subj
+dispatches|nightly|mod
+file|dispatches|obj
+lines|front|nn
+dispatches|lines|from
+lines|vietnam war|of
+file|bringing home|mod
+bringing home|helmet|subj
+bringing home|horror|obj
+horror|helping|while
+sentiment|shift|nn
+sentiment|public|mod
+helping|sentiment|obj
+involvement|america|gen
+sentiment|involvement|against

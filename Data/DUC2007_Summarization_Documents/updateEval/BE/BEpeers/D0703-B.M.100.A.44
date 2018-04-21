@@ -1,0 +1,56 @@
+considering|thailand|subj
+considering|using|guest
+using|thailand|subj
+using|european|obj
+currency|single|mod
+considering|currency|obj
+currency|euro|appo
+reserves|country|gen
+reserves|foreign|mod
+considering|reserves|in
+trading|europe|in
+currency|new|mod
+currency|single|mod
+begin|currency|subj
+begin|monday|on
+bank|united states|nn
+begin|bank|as
+one|dutch|nn
+offered|one|subj
+offered|quote|mod
+quote|one|subj
+quote|prices|obj
+prices|euro|in
+bank|euro|subj
+bank|notes|obj
+become|coins|subj
+become|legal tender|obj
+legal tender|january 1 , 2002|on
+become|while|mod
+currencies|national|mod
+countries|euro|nn
+countries|founder|nn
+currencies|countries|of
+while|stop|comp1
+stop|currencies|subj
+stop|circulating|mod
+circulating|currency|subj
+circulating|completely|mod
+completely|july 1 , 2002|by
+decided|bank|subj
+decided|start|fc
+start|bank|subj
+start|autumn|guest
+start|test|obj
+test|printing|rel
+printing|test|subj
+banknotes|euro|nn
+printing|banknotes|of
+said|report|subj
+said|expects|fc
+expects|duisenberg|subj
+relationship|future|mod
+expects|relationship|obj
+relationship|dollar|between
+dollar|and|punc
+dollar|euro|conj

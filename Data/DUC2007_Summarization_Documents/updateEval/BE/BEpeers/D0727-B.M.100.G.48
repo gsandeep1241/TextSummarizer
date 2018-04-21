@@ -1,0 +1,61 @@
+m|i|nn
+m|'|punc
+m|confident|pnmod
+confident|that|c
+investigated|not|amod
+investigated|newt gingrich|subj
+investigated|matter|obj
+investigated|and|punc
+investigated|knows|conj
+knows|newt gingrich|subj
+knows|more|guest
+knows|that|c
+anyone|that|c
+has|anyone|obj
+has|marianne gingrich|subj
+done|never|mod-before
+done|anyone|subj
+done|anything|obj
+anything|improper|pnmod
+money|family|nn
+improper|money|with
+done|"|punc
+done|responded|mod
+attorney|marianne gingrich|gen
+responded|attorney|subj
+attorney|john mayoue|appo
+type|question|of
+is|not|neg
+is|uncommon|pred
+cases|hard-fought|mod
+cases|divorce|nn
+uncommon|cases|in
+cases|where|wha
+hire|often|mod-before
+hire|spouses|subj
+hire|detectives|obj
+detectives|sniff out|rel
+sniff out|detective|subj
+sniff out|everything|obj
+everything|finances|from
+finances|affairs|to
+sniff out|said|mod
+lawyer|washington|nn
+lawyer|divorce|nn
+said|lawyer|subj
+lawyer|sanford ain|person
+move|surprise|nn
+initiated|newt gingrich|subj
+deposition|his own|gen
+initiated|deposition|obj
+aide|washington|nn
+aide|congressional|mod
+deposition|aide|of
+aide|named|vrel
+named|aide|obj
+divorce|his|gen
+named|divorce|in
+divorce|newt gingrich|gen
+moves|divorce|subj
+moves|courtroom|to
+courtroom|first|for

@@ -1,0 +1,126 @@
+ntsb|(|punc
+national transportation safety board|ntsb|abbrev
+ntsb|)|punc
+said|national transportation safety board|subj
+said|been|fc
+been|unable|pred
+unable|conclude|fc
+conclude|it|subj
+caused|what|subj
+caused|crash|obj
+crash|egyptair flight 990|of
+egyptair flight 990|which|whn
+was|heading|pred
+heading|cairo|for
+cairo|new york|from
+new york|october 31 , 1999 ,|on
+was|when|wha
+plunged into|suddenly|mod-before
+plunged into|it|subj
+plunged into|ocean|obj
+plunged into|killing|mod
+killing|it|subj
+killing|all|guest
+people|217|num
+killing|people|obj
+people|board|on
+people|all|pre
+people|217|num
+people|board|on
+died|people|subj
+crash|egyptair|nn
+crash|flight|nn
+died|crash|in
+navy|us|nn
+waged|navy|subj
+search|round-the-clock|mod
+waged|search|obj
+search|monday|on
+search|boxes|for
+days|eight|amount-value
+days|boeing|after
+boeing|767|num
+crashed|plane|subj
+miles|60|amount-value
+crashed|miles|obj
+miles|nantucket island|off
+crashed|shortly|mod
+crashed|after|mod
+after|took off|comp1
+took off|it|subj
+took off|john f kennedy international airport|from
+john f kennedy international airport|new york|in
+met with|hall|subj
+director|fbi|nn
+met with|director|obj
+director|louis j freeh|person
+director|and|punc
+officials|other|mod
+director|officials|conj
+officials|monday|person
+officials|discuss|rel
+discuss|official|subj
+discuss|whether|c
+evidence|enough|mod
+was|evidence|pred
+investigation|criminal|mod
+open|investigation|obj
+report|associated press|nn
+evidence|quoted|comp1
+quoted|report|subj
+enforcement|law|nn
+quoted|enforcement|obj1
+quoted|official|obj2
+official|saying|as
+concentrating|we|subj
+efforts|our|gen
+concentrating|efforts|obj
+determining|evidence|from
+recorder|cockpit|nn
+recorder|voice|nn
+including|recorder|obj
+including|whether or not|c
+is|remain|pred
+remain|leadership|under
+leadership|national transportation safety board|of
+ntsb|(|punc
+national transportation safety board|ntsb|abbrev
+ntsb|)|punc
+remain|"|punc
+remain|said|mod
+chairman|ntsb|nn
+said|chairman|subj
+chairman|jim hall|person
+conference|press|nn
+chairman|conference|at
+were|same|aboard
+members|73|num
+members|family|nn
+were|members|pred
+victims|egyptian|mod
+members|victims|of
+flight|egyptair|nn
+victims|flight|of
+flight|990|num
+flight|boeing|appo
+boeing|767|num
+boeing|which|whn
+crashed|boeing|subj
+crashed|atlantic ocean|into
+coast|northeastern|mod
+atlantic ocean|coast|off
+coast|us|of
+crashed|shortly|mod
+shortly|taking off|after
+taking off|plane|subj
+taking off|john f kennedy international airport|from
+john f kennedy international airport|way|on
+way|cairo|to
+sunday|early|mod
+taking off|sunday|mod
+comes|disclosure|subj
+comes|just|mod
+chairman|egyptair|of
+after|told|comp1
+told|chairman|subj
+told|news|obj

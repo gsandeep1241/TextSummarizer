@@ -1,0 +1,162 @@
+occurrences|violent|mod
+occurrences|and|punc
+occurrences|shootings|conj
+shootings|resulting|pnmod
+resulting|deaths|in
+deaths|students|of
+students|and|punc
+students|teachers|conj
+teachers|parts|in
+parts|country|of
+forced|occurrences|subj
+authorities|school|nn
+forced|authorities|obj
+authorities|implement|rel
+implement|authority|subj
+implement|measures|obj
+measures|prevent|rel
+prevent|measure|subj
+tragedy|more|mod
+prevent|tragedy|obj
+some|measures|of
+are|modifications|pred
+modifications|or|punc
+modifications|additions|conj
+plant|school|gen
+plant|physical|mod
+additions|plant|to
+plant|installing|such as
+installing|some|subj
+detectors|metal|mod
+installing|detectors|obj
+detectors|and|punc
+cameras|surveillance|nn
+detectors|cameras|conj
+installing|keeping|mod
+keeping|most|guest
+keeping|doors|obj
+doors|locked|vrel
+locked|doors|obj
+locked|removing|mod
+removing|lockers|obj
+lockers|that|whn
+used|lockers|obj
+used|store|mod
+store|weaponry|obj
+store|removing|mod
+removing|things|obj
+things|that|whn
+provide|things|subj
+provide|concealment|obj
+concealment|sniper|for
+involvement|greater|mod
+officials|law enforcement|nn
+involvement|officials|with
+led to|involvement|subj
+officers|police|nn
+led to|officers|obj
+officers|assigned|rel
+assigned|schools|to
+armed|officers|obj
+bring|some|subj
+bring|dogs|obj
+dogs|trained|vrel
+trained|dogs|obj
+trained|sniff out|mod
+sniff out|some|subj
+sniff out|explosives|obj
+conduct|sometimes|mod-before
+conduct|officers|subj
+sweeps|weapons|nn
+conduct|sweeps|obj
+implemented|schools|subj
+code|dress|mod
+implemented|code|obj
+code|that|whn
+forbids|code|subj
+forbids|"|punc
+forbids|gang-type|obj
+gang-type|"|punc
+gang-type|and|punc
+clothing|baggy|mod
+gang-type|clothing|conj
+clothing|that|whn
+conceal|clothing|subj
+conceal|weapons|obj
+schools|other|mod
+use|mandated|mod
+uniforms|school|nn
+use|uniforms|of
+see|through|guest
+see|"|punc
+bags|book|nn
+see|bags|obj
+see|and|punc
+see|prohibit|conj
+prohibit|backpacks|obj
+badges|identification|nn
+badges|students|for
+students|teachers|conj
+teachers|and|punc
+teachers|visitors|conj
+required|badges|obj
+required|areas|in
+warning|schools|nn
+warning|post|nn
+warning|signs|nn
+warning|suspensions|of
+suspensions|bringing|for
+bringing|weapons|obj
+weapons|schools|into
+schools|and|punc
+schools|students|conj
+students|who|whn
+violate|students|subj
+violate|rules|obj
+receive|often|amod
+receive|warning|subj
+suspensions|lengthy|mod
+receive|suspensions|obj
+schools|more|mod
+beginning|schools|subj
+beginning|address|mod
+address|school|subj
+causes|root|mod
+address|causes|obj
+behavior|anti-social|mod
+anti-social|and|punc
+anti-social|violent|conj
+causes|behavior|of
+promoting|they|subj
+promoting|friendship|obj
+promoting|and|punc
+promoting|trying|conj
+trying|they|subj
+trying|negate|fc
+negate|they|subj
+negate|rage|obj
+instituting|they|subj
+instituting|programs|obj
+programs|bring about|rel
+bring about|program|subj
+resolution|conflict|nn
+bring about|resolution|obj
+bring about|and|punc
+bring about|stop|conj
+stop|program|subj
+events|night|nn
+events|sporting|mod
+programs|school|nn
+after|curtailed|comp1
+curtailed|programs|obj
+lines|and|punc
+boxes|tip|nn
+lines|boxes|conj
+established|lines|obj
+established|identify|mod
+identify|hot line|subj
+identify|students|obj
+students|problems|with
+problems|that|whn
+lead to|problems|subj
+lead to|violence|obj

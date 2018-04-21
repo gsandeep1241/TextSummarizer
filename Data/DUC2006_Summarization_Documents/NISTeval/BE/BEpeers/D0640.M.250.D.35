@@ -1,0 +1,102 @@
+navy|russian|mod
+struggled|navy|subj
+struggled|monday|guest
+struggled|rescue|fc
+rescue|navy|subj
+100|more than|num-mod
+sailors|100|nn
+rescue|sailors|obj
+sailors|trapped|pnmod
+trapped|bottom|at
+bottom|barents sea|of
+barents sea|submarine|in
+submarine|crippled|vrel
+crippled|submarine|obj
+crippled|by|by-subj
+collision|major|mod
+crippled|collision|by
+ships|ten|nn
+ships|russian|mod
+were|in|pred
+were|area|in
+area|where|wha
+went down|submarine|subj
+wants|russia|subj
+wants|begin|fc
+begin|russia|subj
+begin|efforts|obj
+efforts|recover|rel
+recover|effort|subj
+recover|bodies|obj
+men|118|num
+bodies|men|of
+men|who|whn
+died|men|subj
+kursk|sunken|nn
+kursk|nuclear|mod
+kursk|submarine|nn
+died|kursk|aboard
+kursk|september|in
+kursk|cutting|by
+cutting|holes|obj
+hull|vessel|gen
+holes|hull|in
+ilya klebanov|prime minister|nn
+said|ilya klebanov|subj
+said|tuesday|mod
+while|name|comp1
+name|klebanov|subj
+name|company|obj
+company|that|whn
+help|company|subj
+do|russia|subj
+do|work|obj
+said|he|subj
+said|was|fc
+was|not|neg
+stolt offshore|norway|gen
+was|stolt offshore|pred
+officials|pentagon|nn
+denied|repeatedly|amod
+denied|officials|subj
+denied|that|c
+submarine|american|mod
+collided|submarine|subj
+collided|kursk|with
+kursk|which|whn
+plunged|kursk|subj
+plunged|seabed|to
+seabed|aug 12|on
+summary|based|vrel
+based|summary|obj
+recordings|acoustic|mod
+based|recordings|on
+recordings|and|punc
+information|other|mod
+recordings|information|conj
+information|gathered|vrel
+gathered|information|obj
+gathered|by|by-subj
+submarines|two|nn
+submarines|u.s.|nn
+gathered|submarines|by
+submarines|and|punc
+vessel|surface|mod
+submarines|vessel|conj
+vessel|barents|in
+barents|time|at
+evidence|that|c
+officials|u.s.|nn
+said|officials|subj
+contradicts|evidence|subj
+contradicts|assertions|obj
+officials|russian|mod
+assertions|officials|by
+officials|that|c
+sank|officials|obj
+sank|kursk|subj
+sank|collision|after
+collision|submarine|with
+submarine|or|punc
+mine|world war ii-era|mod
+submarine|mine|conj

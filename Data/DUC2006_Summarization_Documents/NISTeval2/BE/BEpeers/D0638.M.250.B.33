@@ -1,0 +1,144 @@
+causes|power|subj
+causes|io|obj
+io|glow|rel
+glow|io|subj
+glow|when|wha
+is|in|pred
+is|shadow|in
+shadow|jupiter|of
+pictures|galileo|from
+show|pictures|subj
+show|moon|obj
+halo|glimmering|mod
+moon|halo|with
+atlantis|space|nn
+atlantis|shuttle|nn
+launched|atlantis|obj
+mission|five-day|nn
+launched|mission|on
+mission|that|whn
+included|mission|subj
+included|deployment|obj
+probe|galileo|nn
+probe|space|nn
+deployment|probe|of
+probe|course|on
+course|jupiter|for
+years|five|amount-value
+hopes|years|within
+nasa|national aeronautics and space administration|nn
+nasa|(|punc
+hopes|)|punc
+hopes|nasa|subj
+hopes|launch|fc
+launch|nasa|subj
+launch|spacecraft|obj
+spacecraft|orbit|rel
+orbit|spacecraft|subj
+spacecraft|moon|rel
+moon|spacecraft|obj
+moon|jovian|subj
+moon|chiefly|mod
+moon|find|mod
+find|jovian|subj
+find|out|guest
+find|if|c
+ocean|huge|mod
+part|ocean|of
+ocean|that|whn
+surrounds|ocean|subj
+surrounds|it|obj
+is|liquid|pred
+hunk|just|pre
+hunk|rock|of
+rock|and|punc
+rock|metal|conj
+metal|covered|vrel
+covered|metal|obj
+covered|by|by-subj
+shell|thick|mod
+covered|shell|by
+shell|ice|of
+distributed|new york times special features|by
+new york times special features|)|punc
+two|about|num-mod
+years|two|amount-value
+new york times special features|years|for
+galileo|space probe|nn
+years|gathering|rel
+gathering|years|obj1
+gathering|galileo|subj
+more|ever|mod
+evidence|more|mod
+gathering|evidence|obj2
+evidence|that|c
+ocean|large|mod
+lies|ocean|subj
+lies|hidden|desc
+surface|frozen|mod
+surface|fractured|mod
+hidden|surface|beneath
+europa|jupiter|gen
+europa|moon|nn
+surface|europa|of
+transmitted|galileo|subj
+pictures|stunning|mod
+transmitted|pictures|obj
+100|more than|num-mod
+volcanoes|100|nn
+volcanoes|erupting|mod
+pictures|volcanoes|of
+volcanoes|io|on
+io|and|punc
+evidence|clear|mod
+io|evidence|conj
+evidence|that|c
+moon|only|mod
+is|moon|pred
+moon|solar system|in
+solar system|have|rel
+have|solar system|subj
+magnetic field|its own|gen
+have|magnetic field|obj
+magnetic field|and|punc
+showing|data|nn
+magnetic field|showing|conj
+showing|that|c
+lurk|showing|obj
+lurk|ocean|subj
+ice|callisto|gen
+ice|surface|mod
+lurk|ice|below
+even|more|obj
+even|likely|mod
+even|depths|in
+depths|europa|of
+said|meaning|about
+meaning|findings|of
+scientists|project|nn
+said|scientists|subj
+said|that|c
+measurements|probe|gen
+necessitate|measurements|subj
+necessitate|reappraisal|obj
+views|existing|mod
+reappraisal|views|of
+evolved|jupiter|subj
+nebula|solar|mod
+evolved|nebula|from
+evolved|because|mod
+because|believe|comp1
+believe|scientists|subj
+believe|now|guest
+believe|that|c
+has|jupiter|subj
+has|composition|obj
+composition|similar|pnmod
+similar|that|to
+composition|gas|of
+gas|and|punc
+cloud|dust|nn
+gas|cloud|conj
+nebula|primitive|mod
+nebula|solar|mod
+cloud|nebula|of

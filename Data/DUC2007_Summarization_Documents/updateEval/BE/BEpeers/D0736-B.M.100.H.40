@@ -1,0 +1,66 @@
+court|federal|mod
+court|appeals|nn
+court|new orleans|in
+rules|court|subj
+rules|that|c
+show|'|punc
+show|'|punc
+show|oprah winfrey|subj
+scare|mad|mod
+scare|cow|nn
+scare|disease|nn
+did|not|neg
+information|false|mod
+give|information|obj
+information|it|about
+give|and|punc
+did|not|neg
+give|defame|conj
+producers|cattle|nn
+defame|producers|obj
+host|tv|nn
+host|talk show|nn
+chosen|host|subj
+algonquin books|morgan|gen
+algonquin books|novel|mod
+algonquin books|`|punc
+algonquin books|`|punc
+algonquin books|gap creek|nn
+algonquin books|'|punc
+algonquin books|'|punc
+algonquin books|(|punc
+chosen|algonquin books|obj
+algonquin books|$22.95|appo
+$22.95|)|punc
+oprah winfrey|her|gen
+oprah winfrey|[|punc
+discussion|oprah winfrey|gen
+discussion|]|punc
+discussion|next|post
+discussion|book|nn
+discussion|club|nn
+$22.95|discussion|for
+debuts|phil donahue|subj
+show|daytime|mod
+debuts|show|with
+people|everyday|mod
+discuss|people|subj
+topics|everyday|mod
+discuss|topics|obj
+genre|talk show|nn
+is|born|pred
+of|`|punc
+of|`|punc
+success|donahue|of
+makes|'|punc
+makes|'|punc
+makes|success|subj
+makes|room|obj1
+room|oprah winfrey|for
+oprah winfrey|who|whn
+takes|oprah winfrey|subj
+show|her|gen
+show|chicago-based|mod
+show|talk|nn
+takes|show|obj
+makes|national|desc

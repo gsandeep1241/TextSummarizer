@@ -1,0 +1,123 @@
+volcanoes|moon|on
+moon|jupiter|of
+jupiter|called|vrel
+called|jupiter|obj1
+called|io|desc
+place|hottest|mod
+be|place|pred
+place|solar system|in
+solar system|sun|outside
+say|researchers|subj
+30|more than|num-mod
+volcanoes|30|nn
+spew|volcanoes|subj
+spew|lava|obj
+light|eerie|mod
+light|blue|mod
+erupts|light|subj
+fountains|torrid|mod
+erupts|fountains|from
+dynamo|natural|mod
+generates|dynamo|subj
+electricity|more|mod
+generates|electricity|obj
+generates|than|mod
+power plant|america|in
+than|combined|comp1
+combined|power plant|subj
+photos|new|mod
+satellite|galileo|nn
+photos|satellite|from
+show|photos|subj
+show|lava|obj
+lava|glowing|pnmod
+pools|red|mod
+glowing|pools|in
+pools|scattered|pnmod
+rash|angry|mod
+scattered|rash|like
+rash|face|across
+face|io|of
+spacecraft|nasa|gen
+spacecraft|aging|mod
+spacecraft|galileo|nn
+flew|spacecraft|subj
+miles|380|amount-value
+flew|miles|within
+io|jupiter|gen
+io|moon|nn
+miles|io|of
+flew|exposing|mod
+exposing|spacecraft|subj
+exposing|craft|obj
+much|so|mod
+radiation|that|c
+controllers|mission|nn
+feared|controllers|subj
+might|not|neg
+feared|survive|fc
+survive|radiation|obj
+survive|probe|subj
+europa|galileo|nn
+europa|measured|mod
+magnetic fields|europa|gen
+magnetic fields|effort|in
+detect|magnetic fields|subj
+detect|disturbances|obj
+ocean|suspected|mod
+ocean|liquid|mod
+disturbances|ocean|from
+crust|moon|gen
+crust|icy|mod
+ocean|crust|beneath
+ever|voyager|since
+flew|spacecraft|subj
+flew|europa|by
+europa|1979|in
+entertained|scientists|subj
+possibility|intriguing|mod
+entertained|possibility|obj
+ocean|global|mod
+possibility|ocean|of
+surface|its|gen
+ocean|surface|below
+said|researchers|subj
+mean|said|mod-before
+mean|observations|subj
+mean|some|obj
+planet|forming|mod
+down|planet|on
+reaches|colder|mod
+reaches|outer|mod
+planet|reaches|from
+reaches|solar system|of
+solar system|that|whn
+are|farther|guest
+are|from|pred
+are|warmth|from
+warmth|sun.|of
+scientists|other|mod
+scientists|planetary|mod
+suggested|scientists|subj
+suggested|that|c
+imply|results|subj
+imply|that|obj
+disk|whirling|mod
+disk|dust|of
+dust|gas|conj
+gas|and|punc
+gas|rock|conj
+solar system|young|mod
+rock|solar system|in
+solar system|called|vrel
+called|solar system|obj1
+nebula|solar|mod
+called|nebula|desc
+shaded|simply|amod
+shaded|disk|subj
+light|sun|gen
+shaded|light|obj
+expected|more than|mod
+light|expected|pnmod
+theories|standard|mod
+expected|theories|in

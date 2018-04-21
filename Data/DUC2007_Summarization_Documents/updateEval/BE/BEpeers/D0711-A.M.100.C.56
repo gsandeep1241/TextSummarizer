@@ -1,0 +1,62 @@
+last|year|guest
+year|opposed|rel
+opposed|year|obj
+opposed|justice department|subj
+purchase|microsoft|gen
+purchase|planned|mod
+purchase|2-billion-dollar|mod
+last|purchase|obj
+maker|intuit inc|nn
+purchase|maker|of
+software|quicken|nn
+software|personal|mod
+software|finance|nn
+maker|software|of
+software|and|punc
+software|microsoft|conj
+microsoft|had|vrel
+had|microsoft|obj
+had|pay|mod
+462 million dollars|intuit|nn
+pay|462 million dollars|obj1
+462 million dollars|trouble|for
+trouble|acquired|rel
+acquired|trouble|obj
+acquired|caldera|subj
+pay|dr-dos|obj2
+dr-dos|1996|in
+dr-dos|right|along with
+right|sue|comp1
+sue|over|guest
+sue|microsoft|over
+efforts|alleged|mod
+sue|efforts|obj
+efforts|quash|rel
+quash|effort|subj
+quash|it|obj
+said|baber|subj
+price|ibm|gen
+price|windows 31|for
+said|was|fc
+low|unusually|mod
+was|low|pred
+was|because|mod
+dating back|price|subj
+days|their|gen
+dating back|days|to
+cooperation|close|mod
+dating back|cooperation|of
+cooperation|software|in
+because|shared in|comp1
+shared in|ibm|subj
+costs|development|nn
+shared in|costs|obj
+turned down|ibm|subj
+proposal|microsoft|nn
+turned down|proposal|obj
+rejected|ibm|subj
+rejected|proposals|obj
+said|norris|subj
+said|charged|fc
+charged|microsoft|subj
+charged|ibm|obj

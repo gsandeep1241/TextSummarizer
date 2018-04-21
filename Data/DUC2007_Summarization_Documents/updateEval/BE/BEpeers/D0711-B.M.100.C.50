@@ -1,0 +1,57 @@
+justice department|oct 20-the|nn
+sues|justice department|subj
+sues|microsoft|obj
+sues|charging|mod
+charging|justice department|subj
+charging|company|obj
+company|violated|with
+violated|1994|guest
+settlement|court-approved|mod
+violated|settlement|obj
+settlement|requiring|by
+makers|computer|nn
+requiring|makers|obj
+makers|install|rel
+install|maker|subj
+install|internet explorer|obj
+internet explorer|order|in
+order|license|rel
+license|order|subj
+license|windows|obj
+july 16-microsoft|and|punc
+trustbrusters|justice department|nn
+july 16-microsoft|trustbrusters|conj
+reach|july 16-microsoft|subj
+reach|settlement|obj
+settlement|that|whn
+requires|settlement|subj
+requires|company|obj
+company|change|rel
+change|company|subj
+change|variety|obj
+practices|business|mod
+variety|practices|of
+change|including|mod
+aspects|key|mod
+including|aspects|obj
+licensing agreements|its|gen
+aspects|licensing agreements|of
+makers|personal computer|nn
+licensing agreements|makers|with
+point|one|nn
+observed|point|at
+observed|he|subj
+observed|that|obj
+law|tying|nn
+applies|law|subj
+applies|software|to
+was|"|punc
+was|unsettled|pred
+was|"|punc
+was|and|punc
+was|added|conj
+added|that|c
+was|"|punc
+one|just|pre
+was|one|pred
+manifestation|uncertainty|of

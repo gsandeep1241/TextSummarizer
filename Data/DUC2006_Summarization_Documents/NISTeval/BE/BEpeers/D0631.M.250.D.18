@@ -1,0 +1,138 @@
+investigators|french|nn
+said|investigators|subj
+said|believe|fc
+believe|they|subj
+believe|that|c
+strip|thin|mod
+strip|metal|of
+fell|strip|subj
+fell|off|guest
+plane|continental|mod
+fell|plane|obj
+plane|which|whn
+taken off|plane|subj
+runway|same|post
+taken off|runway|on
+runway|concorde|as
+taken off|and|punc
+taken off|set off|conj
+set off|plane|subj
+set off|events|obj
+events|that|whn
+caused|events|subj
+jet|air france|nn
+caused|jet|obj
+jet|burst|rel
+burst|jet|subj
+burst|flames|into
+flames|and|punc
+flames|crash|conj
+crash|minutes|within
+takeoff|its|gen
+crash|takeoff|after
+people|all|pre
+people|109|num
+five|ground|on
+issued|air france|subj
+statement|one-paragraph|mod
+issued|statement|obj
+lawsuit|its|gen
+statement|lawsuit|on
+issued|saying|mod
+saying|air france|subj
+saying|filed|fc
+filed|it|obj
+court|pontoise|nn
+court|commercial|mod
+filed|court|in
+court|which|whn
+covers|court|subj
+covers|town|obj
+town|gonesse|of
+gonesse|where|wha
+dropped|plane|subj
+hotel|small|mod
+hotel|wooden|mod
+dropped|hotel|onto
+investigators|french|nn
+investigators|looking|rel
+looking|investigator|subj
+looking|crash|into
+crash|last|vrel
+last|crash|obj
+last|month|mod
+last|air france concorde|of
+said|investigators|subj
+said|was|fc
+was|probable|pred
+probable|that|c
+piece|16-inch|nn
+piece|metal|of
+metal|found|vrel
+found|metal|obj
+found|runway|on
+caused|piece|subj
+caused|tire|obj
+tire|blow out|rel
+blow out|tire|subj
+blow out|sending|mod
+sending|debris|obj
+debris|tire|from
+tanks|fuel|nn
+tire|tanks|through
+sending|and|punc
+sending|triggering|conj
+triggering|fire|obj
+fire|that|whn
+brought|fire|subj
+brought|down|guest
+brought|plane|obj
+statement|their|gen
+said|investigators|subj
+said|that|c
+while|tire|nn
+bursting|while|of
+while|moving|rel
+moving|while|obj
+moving|plane|subj
+moving|runway|down
+195|about|num-mod
+mph|195|nn
+runway|mph|at
+threw|bursting|subj
+threw|up|guest
+pieces|large|mod
+threw|pieces|obj
+pieces|tire|of
+tire|some|appo
+some|them|of
+some|weighing|rel
+weighing|some|subj
+pounds|as much as|pre
+pounds|9|amount-value
+weighing|pounds|obj
+tire|hot|pnmod
+hot|friction|from
+friction|exploded|vrel
+exploded|friction|obj
+exploded|sending|mod
+sending|chunks|obj
+chunks|rubber|of
+rubber|heavy|as
+pounds|8|amount-value
+flying|pounds|nn
+heavy|flying|as
+flying|upward|pnmod
+force|such|pre
+upward|force|with
+punctured|they|subj
+left wing|huge|mod
+left wing|triangular|mod
+punctured|left wing|obj
+lifted off|plane|subj
+fuel|jet|mod
+malfunctioned|fuel|as
+fuel|ignited|vrel
+ignited|fuel|obj
+engines|left-side|mod
+malfunctioned|engines|subj

@@ -1,0 +1,130 @@
+2,000|chinese|nn
+2,000|books|nn
+2,000|written|mod
+read|years ago|mod-before
+2,000|read|vrel
+read|2,000|obj
+are|"|punc
+are|all|mod-before
+are|happy|pred
+flourishing|spiders|subj
+happy|encouraged|fc
+encouraged|farmers|obj
+encouraged|use|mod
+use|farmer|subj
+preparation|biological|mod
+use|preparation|obj
+preparation|pesticide|instead of
+pesticide|prevent|rel
+prevent|pesticide|subj
+prevent|vegetable|obj
+vegetable|and|punc
+diseases|plant|nn
+vegetable|diseases|conj
+parks|beijing|gen
+parks|and|punc
+units|work|nn
+parks|units|conj
+battling|parks|subj
+pests|bugs|with
+died|trees|subj
+ruin|that|subj
+daniel o. chellemi|place|nn
+daniel o. chellemi|"|punc
+ruin|daniel o. chellemi|obj
+pathologist|ars|nn
+pathologist|plant|nn
+daniel o. chellemi|pathologist|appo
+pathologist|ft|at
+flowers|its|gen
+flowers|huge|mod
+blare|flowers|subj
+sweetness|tropical|mod
+blare|sweetness|obj
+sweetness|dusk|from
+set up|also|amod
+set up|city|subj
+set up|factories|obj
+factories|breed|rel
+breed|factory|subj
+breed|trichogrammas|obj
+trichogrammas|counties|in
+counties|miyun|of
+miyun|and|punc
+miyun|shunyi|conj
+species|plants|of
+produce|species|subj
+produce|enticing|guest
+enticing|specie|subj
+enticing|nectar|obj
+produce|bonuses|obj
+bonuses|known|pnmod
+known|extrafloral nectaries|as
+efns|(|punc
+extrafloral nectaries|efns|abbrev
+efns|)|punc
+expensive|less|mod
+are|expensive|pred
+expensive|pesticides|than
+are|selling|mod
+selling|ladybug|subj
+selling|a few cents|for
+selling|apiece|mod
+count|organic|mod
+count|head|nn
+is|up|guest
+is|20 percent|pred
+years|two|amount-value
+20 percent|years|in
+spiders|a few|nn
+known|spiders|obj
+known|take|mod
+take|spider|subj
+take|interest|obj
+interest|efns|in
+area|lake|nn
+is|first|pred
+first|china|in
+china|study|rel
+study|china|subj
+control|pest|nn
+study|control|obj
+control|spiders|with
+officials|park|nn
+officials|and|punc
+officials|entomologists|conj
+know|officials|subj
+know|whether|c
+work|plan|subj
+land|paddy|nn
+been|idle|pred
+been|set up|mod
+set up|land|subj
+set up|safety|obj
+safety|spiders|for
+applied|1998|in
+applied|chellemi|subj
+applied|treatment|obj
+farms|four|nn
+farms|commercial|mod
+treatment|farms|to
+farms|florida|in
+used|widely|mod
+been|used|pred
+been|prevent|mod
+prevent|trichogrammas|subj
+prevent|corn borers|obj
+beijing|suburban|mod
+corn borers|beijing|in
+1970s|early|mod
+beijing|1970s|since
+used|also|guest
+used|trichogrammas|obj
+used|kill|mod
+kill|trichogrammas|subj
+kill|bollworms|obj
+bollworms|defoliators|conj
+defoliators|and|punc
+pests|other|mod
+pests|plant|nn
+defoliators|pests|conj

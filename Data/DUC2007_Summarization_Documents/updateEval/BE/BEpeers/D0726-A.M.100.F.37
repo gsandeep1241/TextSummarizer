@@ -1,0 +1,72 @@
+scholar|presidential|mod
+scholar|campaign|nn
+thomas e. patterson|scholar|appo
+scholar|harvard|at
+says|thomas e. patterson|subj
+says|has|fc
+has|gore|subj
+has|distinguish|fc
+distinguish|gore|subj
+distinguish|himself|obj
+distinguish|clinton|from
+delicacy|considerable|mod
+clinton|delicacy|with
+delicacy|avoid|rel
+avoid|delicacy|subj
+avoid|appearing|fc
+chairwoman|incoming|mod
+kathy sullivan|chairwoman|appo
+chairwoman|democratic party|of
+democratic party|new hampshire|in
+planning|state|nn
+new hampshire|planning|appo
+planning|hold|rel
+hold|planning|subj
+primary|nation|gen
+primary|first|post
+primary|presidential|mod
+hold|primary|obj
+primary|2000|in
+primary|warned|vrel
+warned|primary|obj
+warned|that|c
+democrats|new hampshire|in
+looking|democrats|subj
+looking|gore|for
+gore|condemn|rel
+condemn|gore|subj
+condemn|clinton|obj
+act|gore|gen
+act|delicate|mod
+act|balancing|nn
+act|loyalty|between
+loyalty|and|punc
+loyalty|independence|conj
+recalls|act|subj
+recalls|challenges|obj
+challenges|faced|vrel
+faced|challenges|obj
+faced|by|by-subj
+faced|president|by
+president|george bush|person
+faced|as|mod
+as|prepared|comp1
+prepared|he|subj
+prepared|launch|mod
+launch|he|subj
+campaign|his|gen
+campaign|1988|num
+launch|campaign|obj
+campaign|succeed|rel
+succeed|campaign|subj
+succeed|ronald reagan|obj
+ronald reagan|and|punc
+ronald reagan|president|conj
+president|hubert humphrey|person
+succeed|as|mod
+as|sought|comp1
+sought|he|subj
+sought|succeed|fc
+succeed|he|subj
+succeed|lyndon b. johnson|obj
+lyndon b. johnson|1968|in

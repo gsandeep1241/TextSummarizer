@@ -1,0 +1,65 @@
+resources|energy|nn
+miner|resources|appo
+resources|australia limited|of
+told|miner|subj
+told|panel|obj
+told|that|c
+project|its|gen
+does|not|neg
+threaten|project|subj
+values|environmental|mod
+environmental|and|punc
+environmental|cultural|conj
+threaten|values|obj
+values|kakadu|of
+kakadu|which|whn
+recognized|kakadu|obj
+recognized|by|by-subj
+world heritage bureau|un|nn
+world heritage bureau|'|punc
+recognized|world heritage bureau|by
+noted|mission|subj
+dangers|severe|mod
+dangers|ascertained|mod
+ascertained|and|punc
+ascertained|potential|conj
+noted|dangers|obj
+values|cultural|mod
+cultural|and|punc
+cultural|natural|conj
+dangers|values|to
+values|kakadu national park|of
+kakadu national park|posed|vrel
+posed|kakadu national park|obj
+posed|primarily|mod
+primarily|proposal|by
+proposal|uranium|for
+uranium|mining|rel
+mining|uranium|subj
+mining|jabiluka|at
+delegation|high-level|mod
+delegation|un|nn
+began|delegation|subj
+began|touring|mod
+touring|delegation|subj
+kakadu park|australia|gen
+touring|kakadu park|obj
+kakadu park|examine|rel
+examine|kakadu park|subj
+examine|claims|obj
+mine|uranium|nn
+mine|built|rel
+built|region|in
+claims|threatens|comp1
+threatens|mine|subj
+values|unique|mod
+values|cultural|mod
+cultural|and|punc
+cultural|environmental|conj
+threatens|values|obj
+faces|australia|subj
+embarrassment|international|mod
+faces|embarrassment|obj
+mine|jabiluka|nn
+mine|uranium|nn
+embarrassment|mine|over

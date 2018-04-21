@@ -1,0 +1,42 @@
+ap|sofia|nn
+ap|(|punc
+announced|bulgarian national bank|subj
+announced|thursday|guest
+currency|its|gen
+currency|national|mod
+currency|lev|appo
+announced|fixed|fc
+fixed|currency|obj
+fixed|1,955.83|at
+1,955.83|euro|to
+system|currency|nn
+system|board|nn
+backed|system|under
+system|established|vrel
+established|system|obj
+established|july 1997|in
+supply|domestic|mod
+supply|money|nn
+backed|supply|obj
+backed|by|by-subj
+reserves|foreign|mod
+reserves|currency|nn
+backed|reserves|by
+launch|its|gen
+backed|launch|since
+supply|domestic|mod
+supply|money|nn
+backed|supply|obj
+backed|by|by-subj
+marks|german|mod
+backed|marks|by
+marks|rate|at
+rate|1,000|of
+1,000|mark|to
+backed|launch|with
+launch|euro|of
+euro|new year 's day|on
+backed|formally|guest
+backed|lev|obj
+backed|by|by-subj
+backed|euros|by

@@ -1,0 +1,59 @@
+swiss|and|punc
+team|british|mod
+swiss|team|conj
+team|aiming|rel
+aiming|team|subj
+aiming|set|fc
+record|round-the-world|mod
+record|ballooning|nn
+set|record|obj
+delayed|swiss|subj
+start|their|gen
+delayed|start|obj
+hours|24|amount-value
+start|hours|by
+hours|friday|to
+friday|take advantage of|rel
+take advantage of|friday|subj
+favourable|more|mod
+winds|favourable|mod
+take advantage of|winds|obj
+said|spokesman|subj
+said|wednesday|on
+pilots bertrand piccard|switzerland|from
+switzerland|and|punc
+switzerland|wim verstraeten|conj
+wim verstraeten|belgium|from
+were|plus|mod-before
+andy elson|flight engineer|nn
+were|andy elson|plus
+andy elson|britain|from
+were|planning|pred
+planning|depart|rel
+depart|planning|subj
+depart|8:30 a.m.|around
+'oex|chateau|nn
+'oex|d|mod
+depart|'oex|from
+switzerland|western|mod
+depart|switzerland|in
+depart|breitling orbiter ii|aboard
+balloon|swiss|mod
+pilot|balloon|subj
+pilot|bertrand piccard|obj
+teammate|his|gen
+teammate|new|mod
+tony brown|british|mod
+tony brown|flight engineer|nn
+teammate|tony brown|appo
+said|teammate|subj
+said|be|fc
+be|ready|pred
+be|later|mod
+be|month|mod
+attempt|new|mod
+month|attempt|for
+attempt|fly|comp1
+fly|they|subj
+round|nonstop|mod
+fly|round|obj

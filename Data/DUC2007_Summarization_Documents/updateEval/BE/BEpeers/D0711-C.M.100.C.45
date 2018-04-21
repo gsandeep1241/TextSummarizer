@@ -1,0 +1,62 @@
+set|schedule|nn
+filed|set|under
+set|jackson|by
+jackson|april|in
+justice department|and|punc
+states|17|num
+justice department|states|conj
+filed|justice department|subj
+filed|brief|obj
+brief|court|with
+court|april 28|on
+april 28|asking|rel
+asking|april 28|subj
+asking|judge|obj
+judge|break|rel
+break|judge|subj
+break|microsoft|obj
+companies|two|nn
+microsoft|companies|into
+companies|remedy|as
+behavior|illegal|mod
+remedy|behavior|for
+behavior|found|vrel
+found|behavior|obj
+antitrust|long|mod
+trial|antitrust|mod
+found|trial|in
+days|12|amount-value
+later|days|amount-value
+responded|microsoft|subj
+proposal|its own|gen
+responded|proposal|with
+list|short|nn
+restrictions|narrow|mod
+list|restrictions|of
+behavior|its|gen
+restrictions|behavior|on
+()|denouncing|while
+plan|government|gen
+denouncing|plan|obj
+violated|microsoft corp.|subj
+antitrust laws|nation|gen
+violated|antitrust laws|obj
+behavior|predatory|mod
+predatory|and|punc
+predatory|anticompetitive|conj
+antitrust laws|behavior|through
+violated|and|punc
+violated|kept|conj
+kept|microsoft corp.|subj
+kept|"|punc
+thumb|oppressive|mod
+kept|thumb|obj
+thumb|scale|on
+fortune|competitive|mod
+scale|fortune|of
+fortune|"|punc
+judge|federal|mod
+fortune|judge|appo
+judge|ruled|vrel
+ruled|judge|obj
+ruled|monday|mod

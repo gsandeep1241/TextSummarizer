@@ -1,0 +1,62 @@
+died|matthew shepard|subj
+died|result|as
+injuries|blunt|mod
+injuries|trauma|nn
+result|injuries|of
+injuries|sustained|rel
+sustained|injuries|obj
+sustained|he|subj
+head|his|gen
+sustained|head|to
+sustained|and|punc
+sustained|face|conj
+face|injuries|obj
+face|he|subj
+face|"|punc
+face|said|mod
+said|patrick allen|subj
+patrick allen|coroner|appo
+larimer county|colorado|gen
+coroner|larimer county|for
+larimer county|where|wha
+died|shepard|subj
+opened|defense|subj
+case|its|gen
+opened|case|obj
+opened|friday|mod
+attorneys|his|gen
+trying|attorneys|subj
+trying|convince|fc
+convince|attorney|subj
+convince|jury|obj
+convince|is|fc
+is|guilty|pred
+guilty|manslaughter|of
+manslaughter|rather|punc
+manslaughter|than|punc
+manslaughter|murder|conj
+told|st. clair|subj
+shepard|jurors|nn
+told|asked|fc
+asked|shepard|subj
+asked|sit|mod
+sit|shepard|subj
+sit|him|with
+sit|fireside lounge|inside
+days|four|amount-value
+drew|days|during
+days|testimony|of
+drew|prosecutors|subj
+drew|timeline|obj
+timeline|events|of
+glanced|barely|mod-before
+glanced|mckinney|subj
+glanced|up|mod
+called|prosecutors|subj
+witnesses|their|gen
+witnesses|first three|nn
+called|witnesses|obj
+allowed|plea|subj
+avoid|henderson|subj
+penalty|death|nn
+avoid|penalty|obj

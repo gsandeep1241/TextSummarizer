@@ -1,0 +1,150 @@
+student|18-year-old|mod
+student|german|mod
+student|college|nn
+student|karlsruhe|in
+posted|south|mod-before
+south|heidelberg|of
+posted|student|subj
+message|internet|nn
+posted|message|obj
+message|begging|rel
+begging|message|subj
+fans|fellow|mod
+fans|foreign|mod
+fans|"|punc
+fans|star wars|nn
+fans|"|punc
+begging|fans|obj
+fans|join|rel
+join|fan|subj
+join|him|obj
+traveling to|united states|obj
+united states|see|rel
+see|united states|subj
+see|"|punc
+see|phantom menace|obj
+phantom menace|"|punc
+dates|may|nn
+dates|(|punc
+dates|opening|mod
+phantom menace|dates|in
+start|north america|nn
+dates|start|outside
+start|june|in
+line|bottom|nn
+is|financially|mod-before
+buzz--|early|mod
+is|buzz--|pred
+mean|matter|for
+critics|professional|mod
+reactions|critics|from
+critics|who|whn
+see|critics|subj
+see|"|punc
+night--|phantom|nn
+night--|"|punc
+night--|friday|nn
+see|night--|obj
+mean|reactions|subj
+said|initially|mod-before
+mean|said|fc
+said|thing|subj
+said|paul dergarabedian|obj
+exhibitor relations co. inc.|box office|nn
+exhibitor relations co. inc.|tracker|nn
+said|exhibitor relations co. inc.|of
+is|critic-proof|pred
+said|he|subj
+fans|other|mod
+camped|fans|subj
+camped|out|mod
+inconvenience|minor|mod
+is|inconvenience|pred
+inconvenience|see|rel
+see|inconvenience|subj
+installment|first|post
+installment|"|punc
+installment|star wars|nn
+installment|"|punc
+see|installment|obj
+installment|1983|since
+student|27-year-old|mod
+student|graduate|nn
+hiroshi kobayashi|student|appo
+card|student|gen
+card|business|nn
+student|card|whn
+reads|card|subj
+reads|"|punc
+reads|star wars evangelist|obj
+was|"|punc
+was|one|pred
+fans|30|num
+fans|japanese|mod
+one|fans|of
+fans|who|whn
+flew|fans|subj
+flew|los angeles|to
+los angeles|last|vrel
+last|los angeles|obj
+last|month|mod
+month|see|rel
+see|month|subj
+film|new|mod
+see|film|obj
+wars|star|nn
+be|with|pred
+be|you|with
+is|with|pred
+with|"|punc
+fans|star wars|nn
+fans|"|punc
+is|fans|with
+telling|it|subj
+telling|them|obj
+telling|hit|fc
+hit|it|subj
+stores|toy|nn
+hit|stores|obj
+hit|early|mod
+waiting|fans|subj
+waiting|months|for
+months|get|rel
+get|month|subj
+get|glimpse|obj
+array|vast|mod
+glimpse|array|of
+array|goods--|of
+figures|action|nn
+goods--|figures|from
+figures|wigs|to
+lotion|body|nn
+wigs|lotion|to
+lotion|snack food--|to
+snack food--|tied|pnmod
+tied|movie|to
+movie|which|whn
+opens|movie|subj
+opens|may 19|mod
+wars|star|nn
+fans|wars|gen
+want|fans|subj
+want|sink|fc
+sink|fan|subj
+titanic|`|punc
+sink|titanic|obj
+fans|japanese|mod
+fans|that|whn
+'s|just|guest
+'s|too much|pred
+ask|fans|subj
+analyzing|months|for
+fans|star wars|nn
+fans|"|punc
+analyzing|fans|subj
+analyzing|second|obj
+of|"|punc
+trailer|the phantom menace|nn
+trailer|"|punc
+trailer|movie|nn
+second|trailer|of

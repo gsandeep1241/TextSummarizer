@@ -1,0 +1,40 @@
+
+		DUC 2007 Update Task: Description of Score Table
+		------------------------------------------------
+
+This file is a companion to 2007-header.txt. It describes the contents
+of each of the 8 columns in the score table (2007_modified_scores.txt).
+
+1. setID---document subset ID
+2. peerId---peer summarizer ID
+3. modified (pyramid) score---this score is very closely related to
+       the original pyramid score, which equals the sum of the weights
+       of the Summary Content Units (SCUs) that a peer summary
+       matches, normalized by the weight of an ideally informative
+       summary consisting of the same number of contributors as the
+       peer. However, the normalization factor for the modified score
+       is the ideal weight of a summary which has the same number of
+       contributors as the average of the model summaries in the
+       associated pyramid.
+4. numSCUs---the number of unique contributors in the peer summary
+       that match an SCU in the model pyramid. Note that a pyramid SCU
+       can be matched by more than one contributor, in the case of
+       exact or paraphrase repetition.
+5. numrepetitions---the number of contributors in the peer that
+       repeated a match to a pyramid SCU. For each set of contributors
+       in the peer summary that match the same pyramid SCU, only one
+       increments the count in column 4. The rest appear in this
+       field; thus the total number of contributing content units in a
+       peer summary would be given by summing columns 4 and 5.
+       (HOWEVER: NIST assessors were told that it was sufficient for
+       scoring purposes to mark just one contributor for each SCU that
+       was matched, although they were encouraged to mark any
+       additional contributors.)
+6. annotator---the ID for the assessor who annotated all machine
+       summaries for a given set against the model pyramid.
+7. pyramidcreator---the ID for the pyramid creator
+8. content---the content responsiveness judgement for the peer
+
+
+
+ 

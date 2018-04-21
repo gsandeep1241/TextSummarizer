@@ -1,0 +1,124 @@
+birds|dead|mod
+birds|virus|with
+found|birds|obj
+found|manhattan|in
+manhattan|bronx|conj
+bronx|or|punc
+bronx|brooklyn|conj
+found|three|obj
+found|queens|in
+()|killing|at
+killing|mosquitoes|obj
+reached|not|mod-before
+mosquitoes|reached|vrel
+reached|mosquitoes|obj
+reached|by|by-subj
+reached|ground-spraying|by
+ground-spraying|staten island|of
+staten island|july 19-20|on
+july 19-20|and|punc
+july 19-20|july 24-25|conj
+estimated|he|subj
+estimated|that|c
+ground-spraying|initial|mod
+ground-spraying|staten island|of
+missed|ground-spraying|subj
+missed|10 percent|obj
+10 percent|20 percent|to
+population|mosquito|nn
+20 percent|population|of
+mosquitoes|feeding on|rel
+feeding on|mosquito|subj
+feeding on|birds|obj
+birds|infected|vrel
+infected|birds|obj
+virus|west nile|nn
+infected|virus|with
+become|mosquitoes|subj
+become|carriers|obj
+carriers|virus|of
+become|and|punc
+infect|then|amod
+become|infect|conj
+infect|mosquitoes|subj
+infect|animals|obj
+animals|bite|rel
+bite|animals|obj
+bite|insects|subj
+bite|subsequently|mod
+bite|including|mod
+including|insect|subj
+including|humans|obj
+mayor|rudolph giuliani|person
+announced|mayor|subj
+announced|monday|guest
+announced|that|c
+-spray|city|subj
+-spray|all|obj
+all|staten island|of
+staten island|wednesday|on
+wednesday|and|punc
+wednesday|thursday|conj
+anvil|pesticide|nn
+staten island|anvil|with
+measure|prudent|mod
+anvil|measure|as
+measure|'|punc
+measure|'|punc
+measure|mosquitoes|against
+mosquitoes|carrying|rel
+carrying|mosquito|subj
+virus|west nile|nn
+carrying|virus|obj
+said|giuliani|subj
+birds|dead|mod
+number|birds|of
+birds|found|vrel
+found|birds|obj
+found|virus|with
+virus|staten island 13|on
+count|last|post
+staten island 13|count|at
+said|prompted|fc
+prompted|number|subj
+spraying|additional|mod
+prompted|spraying|obj
+neal cohen|dr.|title
+commissioner|city|gen
+commissioner|health|nn
+neal cohen|commissioner|appo
+commissioner|who|whn
+made|commissioner|subj
+made|announcement|obj
+announcement|giuliani|with
+said|also|amod
+said|neal cohen|subj
+said|monday|guest
+said|that|c
+number|increasing|mod
+number|mosquitoes|of
+mosquitoes|found|vrel
+found|mosquitoes|obj
+found|traps|in
+traps|staten island|in
+prompting|number|subj
+prompting|city|obj
+city|act|rel
+act|city|subj
+said|cohen|subj
+said|that|obj
+spraying|scheduled|pnmod
+scheduled|10 p.m|from
+'s|always|guest
+'s|population|pred
+population|mosquitoes|of
+mosquitoes|that|whn
+fed|recently|amod
+fed|mosquitoes|subj
+are|not|neg
+are|in|pred
+are|air|in
+air|any|on
+are|given|mod
+given|said|comp1
+said|cohen|subj

@@ -1,0 +1,67 @@
+'s|plenty|pred
+plenty|more|pnmod
+inside|oprah|nn
+more|inside|of
+'s|too|mod
+said|mitchell|subj
+said|thought|fc
+thought|she|subj
+thought|was|fc
+was|plenty|pred
+plenty|room|of
+room|programming|for
+programming|aimed|vrel
+aimed|programming|obj
+aimed|women|at
+'s|landslide|in
+landslide|envy|rel
+envy|landslide|obj
+envy|politician|subj
+series|idealistic|mod
+'s|series|pred
+staff|white house|nn
+series|staff|about
+staff|turmoil|in
+staff|"|punc
+staff|west wing|appo
+west wing|"|punc
+west wing|won|vrel
+won|west wing|obj1
+nine|record-setting|mod
+won|nine|obj2
+nine|awards|rel
+awards|nine|obj
+awards|emmy|subj
+night|sunday|nn
+awards|night|mod
+night|including|rel
+including|night|subj
+including|best|guest
+series|drama|nn
+including|series|obj
+everything|her|about
+geared|everything|obj
+geared|cycling|toward
+regime|new|mod
+first week|regime|of
+felt like|she|subj
+felt like|running|fc
+running|she|subj
+miles|40|amount-value
+running|miles|obj
+candidate|u.s. democratic|nn
+candidate|presidential|mod
+candidate|al gore|person
+appeared|candidate|subj
+show|tv|nn
+show|talk|nn
+appeared|show|on
+appeared|monday|mod
+appeared|bid|in
+bid|attract|comp1
+attract|candidate|subj
+women|more|mod
+votes|women|gen
+attract|votes|obj
+election|november|nn
+votes|election|in

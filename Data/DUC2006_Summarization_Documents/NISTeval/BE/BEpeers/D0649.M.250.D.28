@@ -1,0 +1,152 @@
+preferred|1999|in
+putin|vladimir|nn
+putin|man|conj
+man|nominated|rel
+nominated|man|obj
+nominated|boris n. yeltsin|subj
+nominated|monday|mod
+minister|russia|gen
+minister|prime|mod
+nominated|minister|as
+minister|and|punc
+minister|his|conj
+preferred|putin|subj
+preferred|successor|obj
+successor|president|as
+spy|former|mod
+is|spy|pred
+operator|shrewd|mod
+operator|bureaucratic|mod
+spy|operator|conj
+operator|and|punc
+inexperienced|completely|mod
+politician|inexperienced|mod
+politician|public|mod
+operator|politician|conj
+president|russian|mod
+president|boris yeltsin|person
+president|monday|on
+announced|president|subj
+announced|that|c
+wanted|he|subj
+vladimir putin|acting|mod
+vladimir putin|prime minister|title
+wanted|vladimir putin|obj
+vladimir putin|succeed|rel
+succeed|vladimir putin|subj
+succeed|him|obj
+president|russia|gen
+president|next|post
+succeed|president|as
+elections|next|post
+elections|summer|nn
+president|elections|in
+president|russian|mod
+announcement|president|gen
+president|boris yeltsin|person
+announcement|resign|rel
+resign|friday|subj
+announcement|and|punc
+announcement|name|conj
+president|acting|mod
+name|president|as
+surprised|announcement|subj
+surprised|nation|obj
+say|many|subj
+say|further|fc
+further|move|subj
+putin|boost|nn
+chance|putin|gen
+further|chance|obj
+chance|winning|of
+winning|move|subj
+race|presidential|mod
+winning|race|obj
+resigned|new year 's eve|on
+president|russian|mod
+president|boris yeltsin|person
+resigned|abruptly|mod-before
+resigned|president|subj
+resigned|leaving|mod
+leaving|president|subj
+vladimir putin|prime minister|title
+leaving|vladimir putin|obj
+president|country|gen
+president|acting|mod
+vladimir putin|president|as
+president|russian|mod
+president|acting|mod
+vladimir putin|prime minister|title
+will|not|neg
+leave|vladimir putin|subj
+leave|russia|obj
+russia|visit|for
+election|presidential|mod
+visit|election|before
+election|scheduled|pnmod
+scheduled|march 26|for
+chief|communist party|nn
+chief|gennady zyuganov|person
+chief|tuesday|on
+became|chief|subj
+candidate|first|post
+became|candidate|obj
+candidate|approved|vrel
+approved|candidate|obj
+election|russia|gen
+election|march 26|nn
+election|presidential|mod
+approved|election|for
+approved|though|mod
+though|show|comp1
+show|polls|subj
+show|him|obj
+show|far|mod
+president|acting|mod
+far|president|behind
+president|vladimir putin|person
+president|acting|mod
+president|vladimir putin|person
+defended|president|subj
+armed forces|russian|mod
+defended|armed forces|obj
+armed forces|tuesday|on
+defended|calling|mod
+calling|president|subj
+calling|talk|obj1
+collapse|army|gen
+talk|collapse|of
+lie|open|mod
+calling|lie|desc
+spending|candidate|for
+candidate|who|whn
+insists|candidate|subj
+insists|'s|fc
+busy|too|mod
+'s|busy|pred
+being|president|pred
+president|campaign|rel
+campaign|president|subj
+spending|vladimir putin|subj
+spending|lot|obj
+lot|time|of
+lot|road|on
+spending|running|mod
+running|vladimir putin|subj
+running|one|obj
+russians|slickest|mod
+russians|election|nn
+russians|campaigns|nn
+one|russians|of
+elections|parliamentary|pnmod
+parliamentary|december|in
+december|and|punc
+now|presidential|mod
+december|now|conj
+gave|elections|subj
+gave|vladimir putin|obj1
+capital|political|mod
+gave|capital|obj2
+capital|which|whn
+was|lacking|pred
+lacking|boris yeltsin|in

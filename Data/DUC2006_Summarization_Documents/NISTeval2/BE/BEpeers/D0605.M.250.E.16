@@ -1,0 +1,140 @@
+said|food and drug administration|subj
+said|approved|fc
+approved|it|subj
+tablets|meloxicam|nn
+approved|tablets|obj
+tablets|treatment|for
+treatment|osteoarthritis|of
+would like|comparisons|in
+comparisons|vioxx|between
+vioxx|and|punc
+vioxx|celebrex|conj
+would like|merck|subj
+would like|focus on|fc
+focus on|merck|subj
+drugs|two|nn
+labels|drugs|gen
+focus on|labels|obj
+has|vioxx|subj
+has|indication|obj
+indication|treatment|for
+pain|acute|mod
+treatment|pain|of
+approved|it|obj
+approved|treatment|for
+treatment|rheumatoid arthritis|of
+rheumatoid arthritis|and|punc
+rheumatoid arthritis|osteoarthritis|conj
+americans|five|nn
+two|americans|out of
+symptoms|chronic|mod
+symptoms|joint|mod
+americans|symptoms|with
+sought|two|subj
+diagnosis|doctor|gen
+sought|diagnosis|obj
+sought|research|according to
+research|centers|by
+control|disease|nn
+centers|control|for
+control|and|punc
+control|prevention|conj
+even|those|among
+those|diagnosed|vrel
+diagnosed|those|obj
+diagnosed|arthritis|with
+three|nearly|num-mod
+three|five|out of
+are|not|neg
+undergoing|three|subj
+undergoing|treatment|obj
+treatment|it|for
+looking|celebrex|like
+looking|merck|subj
+looking|get|mod
+get|merck|subj
+get|approval|obj
+approval|vioxx|for
+vioxx|treat|rel
+treat|vioxx|subj
+treat|osteoarthritis|obj
+osteoarthritis|which|whn
+affects|osteoarthritis|subj
+16 million|more than|num-mod
+americans|16 million|nn
+affects|americans|obj
+seeking|also|amod
+()|seeking|instead of
+seeking|indication|obj
+indication|rheumatoid arthritis|for
+rheumatoid arthritis|which|whn
+affects|rheumatoid arthritis|subj
+2 million|about|num-mod
+americans|2 million|nn
+affects|americans|obj
+but|wants|comp1
+wants|it|subj
+wants|fda|obj
+fda|approve|rel
+approve|fda|subj
+approve|vioxx|obj
+treatment--|acute|mod
+treatment--|pain|nn
+vioxx|treatment--|for
+40 million|more than|num-mod
+americans|40 million|nn
+market|americans|of
+celebrex|manufactured|vrel
+manufactured|celebrex|obj
+manufactured|by|by-subj
+monsanto co.|st. louis-based|mod
+g.d|monsanto co.|gen
+manufactured|g.d|by
+subsidiary|searle|nn
+subsidiary|& co.|nn
+market|january|in
+january|treat|rel
+treat|january|subj
+treat|osteoarthritis|obj
+osteoarthritis|and|punc
+osteoarthritis|rheumatoid arthritis|conj
+site|mayo clinic|nn
+treatment|nontraditional|mod
+site|treatment|on
+http://www.mayohealth.org/mayo/0002/htm/nontraditional.htm|`|punc
+http://www.mayohealth.org/mayo/0002/htm/nontraditional.htm|`|punc
+games|scientific|mod
+http://www.mayohealth.org/mayo/0002/htm/nontraditional.htm|begun|rel
+begun|http://www.mayohealth.org/mayo/0002/htm/nontraditional.htm|obj
+begun|games|subj
+begun|'|punc
+begun|'|punc
+begun|declared|mod
+david eisenberg|dr.|title
+declared|david eisenberg|subj
+david eisenberg|director|conj
+director|center for alternative medicine research|of
+center for alternative medicine research|and|punc
+center for alternative medicine research|education|conj
+education|beth israel deaconness medical center|at
+beth israel deaconness medical center|boston|in
+barrie cassileth|dr.|title
+barrie cassileth|chief|appo
+medicine|integrative|mod
+chief|medicine|of
+medicine|memorial sloan-kettering cancer center|at
+memorial sloan-kettering cancer center|manhattan|in
+as|said|comp1
+said|barrie cassileth|subj
+coming|just|amod
+coming|research|subj
+maturity|its|gen
+coming|maturity|into
+time|bar mitzvah|nn
+'s|time|pred
+time|'|punc
+time|'|punc
+common|most|mod
+types|common|mod
+time|types|among
+types|arthritis|of

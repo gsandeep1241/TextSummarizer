@@ -1,0 +1,162 @@
+chief|communist party|nn
+chief|gennady zyuganov|person
+chief|tuesday|on
+became|chief|subj
+candidate|first|post
+became|candidate|obj
+candidate|approved|vrel
+approved|candidate|obj
+election|russia|gen
+election|march 26|nn
+election|presidential|mod
+approved|election|for
+approved|though|mod
+though|show|comp1
+show|polls|subj
+show|him|obj
+far|still|mod
+show|far|mod
+president|acting|mod
+far|president|behind
+president|vladimir putin|person
+is|consider|pred
+registration|putin|gen
+consider|registration|obj
+registration|saturday|on
+leads|putin|subj
+leads|pack|obj
+contenders|11|num
+pack|contenders|of
+leads|and|punc
+leads|expected|conj
+win|putin|subj
+win|easily|mod
+communists|and|punc
+allies|their|gen
+communists|allies|conj
+allies|who|whn
+dominated|allies|subj
+dominated|duma|obj
+duma|years|for
+lost|communists|subj
+majority|their|gen
+lost|majority|obj
+elections|december|nn
+elections|parliamentary|mod
+majority|elections|in
+lost|and|punc
+lost|replaced|conj
+replaced|communists|obj
+replaced|by|by-subj
+replaced|centrists|by
+centrists|who|whn
+back|generally|mod-before
+back|centrists|subj
+back|putin|obj
+agreed|i|subj
+recalls|putin|nn
+recalls|interview|in
+president|russian|mod
+announcement|president|gen
+president|boris yeltsin|person
+announcement|resign|rel
+resign|friday|subj
+announcement|and|punc
+announcement|name|conj
+president|acting|mod
+name|president|as
+surprised|announcement|subj
+surprised|nation|obj
+say|many|subj
+say|further|fc
+further|move|subj
+putin|boost|nn
+chance|putin|gen
+further|chance|obj
+chance|winning|of
+winning|move|subj
+race|presidential|mod
+winning|race|obj
+president|russian|mod
+president|acting|mod
+vladimir putin|prime minister|title
+will|not|neg
+leave|vladimir putin|subj
+leave|russia|obj
+russia|visit|for
+leave|before|mod
+election|presidential|mod
+election|scheduled|pnmod
+scheduled|march 26|for
+before|said|comp1
+said|election|subj
+official|top|mod
+official|kremlin|nn
+said|official|obj
+official|tuesday|person
+-elect|russian|mod
+-elect|vladimir putin|person
+sworn in|-elect|obj
+sworn in|may 7|on
+chairman|russia|gen
+chairman|central election commission|nn
+cec|(|punc
+central election commission|cec|abbrev
+cec|)|punc
+said|chairman|subj
+chairman|alexander veshnyakov|person
+sworn in|said|mod
+sworn in|sunday|mod
+-elect|russian|mod
+-elect|vladimir putin|person
+returned to|-elect|subj
+returned to|moscow|obj
+wednesday|early|mod
+returned to|wednesday|mod
+visit|three-day|nn
+visit|working|mod
+returned to|visit|after
+visit|belarus|to
+belarus|and|punc
+belarus|ukraine|conj
+ukraine|visit|conj
+visit|that|whn
+showed|visit|subj
+showed|moscow|obj1
+priorities|foreign policy|nn
+showed|priorities|obj2
+priorities|ties|on
+countries|cis|nn
+ties|countries|with
+visit|and|punc
+visit|west|conj
+speech|his|gen
+speech|brief|mod
+thanked|speech|in
+thanked|putin|subj
+thanked|russians|obj
+support|their|gen
+russians|support|for
+support|elections|in
+thanked|and|punc
+thanked|promised|conj
+promised|putin|subj
+promised|work|fc
+work|putin|subj
+work|hard|mod
+work|guided|conj
+guided|by|by-subj
+guided|interests|by
+interests|motherland|of
+guided|and|punc
+guided|transform|conj
+transform|putin|subj
+transform|russia|obj
+country|"|punc
+country|free|mod
+free|prosperous|conj
+prosperous|strong|conj
+strong|and|punc
+strong|civilized|conj
+country|"|punc
+russia|country|into

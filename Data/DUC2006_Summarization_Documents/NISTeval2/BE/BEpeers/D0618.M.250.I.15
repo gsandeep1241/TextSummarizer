@@ -1,0 +1,142 @@
+treatment|outpatient|nn
+treatment|malaria|of
+accounts for|treatment|subj
+40|up to|num-mod
+accounts for|40|obj
+expenditure|africa|gen
+expenditure|public|mod
+expenditure|health|nn
+governments|sub-saharan africa|in
+overstretched|governments|subj
+resources|their|gen
+overstretched|resources|obj
+resources|provide|rel
+provide|resource|subj
+provide|prevention|obj
+prevention|and|punc
+services|treatment|nn
+prevention|services|conj
+illness|malaria|nn
+illness|related|mod
+services|illness|on
+show|statistics|subj
+80|more than|num-mod
+show|80|obj
+are|population|of
+africa|sub-saharan|nn
+population|africa|of
+are|at|pred
+are|risk|at
+risk|malaria|of
+majority|who|whn
+die|majority|subj
+children|african|mod
+are|children|pred
+deaths|linked|vrel
+linked|deaths|obj
+linked|malaria|to
+overall|africa|nn
+malaria|overall|in
+increasing|deaths|subj
+said|who|subj
+increasing|said|mod
+spending|world|nn
+control|malaria|nn
+spending|control|on
+control|and|punc
+control|research|conj
+research|africa|for
+is|maybe|guest
+is|10 cents|pred
+10 cents|case|per
+case|year|per
+is|'|punc
+is|'|punc
+is|said|mod
+said|sachs|subj
+is|one|pred
+problems|leading|mod
+problems|health|nn
+one|problems|of
+problems|africa|in
+is|especially|mod
+region|sub-sahara|nn
+especially|region|in
+said|sikosana|subj
+officials|health|nn
+said|educate|fc
+educate|officials|subj
+educate|community|obj
+contracted|malaria|obj
+prevented|it|obj
+made|sikosana|subj
+made|statements|obj
+statements|meeting|at
+made|which|at
+prevention|1996/97|nn
+prevention|malaria|nn
+prevention|and|punc
+campaign|control|nn
+prevention|campaign|conj
+launched|prevention|obj
+travel|people|nn
+travel|planning|nn
+country|malaria-endemic|mod
+travel|country|to
+see|travel|subj
+see|doctor|obj
+see|first|mod
+first|prevention|about
+areas|other|mod
+areas|endemic|mod
+is|areas|in
+malaria|falciparum|nn
+is|responsible|pred
+responsible|5 percent|for
+5 percent|50 percent|to
+50 percent|cases|of
+features|key|mod
+features|implementation|of
+implementation|initiative|of
+treatment|early|mod
+be|treatment|pred
+cases|malaria|nn
+treatment|cases|of
+cases|promotion|appo
+promotion|use|of
+nets|insecticide-impregnated|mod
+use|nets|of
+strengthening|capacities|of
+capacities|countries|of
+countries|and|punc
+countries|communities|conj
+communities|combat|rel
+combat|community|subj
+combat|disease|obj
+lead to|definitely|amod
+lead to|research|subj
+lead to|improvement|obj
+improvement|tools|in
+tools|diagnosis|for
+diagnosis|and|punc
+diagnosis|treatment|conj
+treatment|malaria|of
+malaria|and|punc
+prevention|its|gen
+malaria|prevention|conj
+said|he|subj
+is|spite|in
+resistance|drug|nn
+spite|resistance|of
+disease|curable|mod
+is|disease|pred
+said|it|subj
+said|adding|mod
+adding|it|subj
+adding|research|obj
+research|and|punc
+research|development|conj
+prevention|malaria|nn
+development|prevention|in
+prevention|and|punc
+prevention|treatment|conj

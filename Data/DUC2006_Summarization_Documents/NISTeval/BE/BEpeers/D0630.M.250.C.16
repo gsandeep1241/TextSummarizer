@@ -1,0 +1,139 @@
+state|and|punc
+associations|national|mod
+associations|booksellers|nn
+state|associations|conj
+maintain|state|subj
+maintain|that|c
+booksellers|three|nn
+booksellers|on-line|mod
+have|booksellers|subj
+presence|formidable|mod
+have|presence|obj
+presence|california|in
+count|that|subj
+nexus|established|mod
+count|nexus|as
+struggling|drought|through
+drought|mid-1990s|in
+bought|readers|subj
+copies|fewer|mod
+bought|copies|obj
+books|consumer|nn
+copies|books|of
+industry|publishing|nn
+posted|industry|subj
+posted|gains|obj
+4|more than|num-mod
+gains|4|of
+last|year|mod
+last|and|punc
+last|poised|conj
+modest|more|mod
+increases|modest|mod
+poised|increases|for
+emergence|rapid|mod
+increases|emergence|despite
+booksellers|online|mod
+emergence|booksellers|of
+pondering|clubs|subj
+pondering|compete|mod
+compete|club|subj
+booksellers|online|mod
+compete|booksellers|against
+market|book|nn
+booksellers|market|in
+changed|radically|mod-before
+market|changed|vrel
+changed|market|obj
+changed|days|from
+changed|when|wha
+made|judges|subj
+made|book-of-the-month|obj
+selections|sherry|over
+sherry|that|whn
+had|sherry|subj
+had|power|obj
+power|spread|comp1
+culture|literary|mod
+spread|culture|obj
+culture|readers|to
+readers|isolated|vrel
+isolated|readers|obj
+isolated|far|mod
+far|bookstores|from
+recent|most|mod
+statistics|recent|mod
+statistics|association of american publishers|from
+indicate|statistics|subj
+indicate|that|c
+clubs|books|nn
+holding|clubs|subj
+holding|their own|obj
+complain|executives|subj
+growing|not|guest
+complain|growing|fc
+growing|they|subj
+growing|as|mod
+booksellers|online|mod
+fast|booksellers|as
+companies|order|nn
+like|companies|subj
+like|readers digest|obj
+readers digest|that|whn
+suffered|readers digest|subj
+fall|free|mod
+suffered|fall|from
+fall|sales|in
+sales|which|whn
+plunged|sales|subj
+20 percent|as much as|pre
+plunged|20 percent|obj
+20 percent|year|from
+plunged|earlier|mod
+booksellers|independent|mod
+is|booksellers|for
+deal|$600 million|nn
+straw|last|post
+is|straw|pred
+offered|really|mod-before
+offered|i|subj
+offered|resolution|obj
+resolution|spirit|in
+spirit|generate|rel
+generate|spirit|subj
+generate|discussion|obj
+generate|'|punc
+generate|'|punc
+said|ross|subj
+generate|said|mod
+they|(|punc
+they|writers|appo
+talk about|)|punc
+talk about|they|subj
+booksellers|independent|mod
+talk about|booksellers|obj
+parties|cocktail|nn
+booksellers|parties|at
+'re|afraid|pred
+afraid|speak up|fc
+speak up|they|subj
+become|chains|subj
+powerful|so|mod
+become|powerful|desc
+is|only|guest
+is|trickle|pred
+trickle|customers|of
+far|thus|mod
+is|far|mod
+booksellers|independent|mod
+are|grateful|pred
+grateful|encouragement|for
+encouragement|get|rel
+get|encouragement|obj
+get|they|subj
+get|days|mod
+murray|bill|nn
+says|murray|subj
+says|'s|fc
+barnes|writer|nn
+'s|barnes|pred

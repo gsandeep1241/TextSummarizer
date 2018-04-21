@@ -1,0 +1,64 @@
+president|al gore|person
+received|president|subj
+received|endorsement|obj
+boss|his|gen
+wife|boss|gen
+endorsement|wife|of
+received|tuesday|mod
+received|as|mod
+as|sought|comp1
+sought|he|subj
+sought|rally|mod
+rally|he|subj
+rally|women|obj
+bid|his|gen
+women|bid|behind
+nomination|democratic|mod
+nomination|presidential|mod
+bid|nomination|for
+president|al gore|person
+warned|accepting|mod-before
+accepting|vice president|subj
+accepting|endorsements|obj
+endorsements|hundreds|from
+leaders|latino|mod
+hundreds|leaders|of
+warned|president|subj
+warned|tuesday|obj
+cuts|republican-sponsored|mod
+cuts|tax|nn
+opposition|gop|gen
+cuts|opposition|conj
+sampling|census|nn
+opposition|sampling|to
+sampling|and|punc
+george bush|texas|nn
+george bush|gov.|title
+proposals|george bush|gen
+proposals|education|nn
+sampling|proposals|conj
+wipe out|cuts|subj
+gains|economic|mod
+wipe out|gains|obj
+gains|made|vrel
+made|gains|obj
+made|by|by-subj
+made|hispanics|by
+policies|administration|nn
+hispanics|policies|under
+chief of staff|president|gen
+president|al gore|person
+chief of staff|ron klain|appo
+resigning|chief of staff|subj
+resigning|become|mod
+become|chief of staff|subj
+become|partner|obj
+office|washington|nn
+partner|office|in
+myers|o|nn
+myers|'melveny|nn
+office|myers|of
+firm|law|nn
+myers|firm|appo
+firm|based|vrel
+based|los angeles|in

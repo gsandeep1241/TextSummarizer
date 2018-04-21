@@ -1,0 +1,69 @@
+pilots brian jones|england|of
+england|and|punc
+england|bertrand piccard|conj
+bertrand piccard|switzerland|of
+flown|pilots brian jones|subj
+flown|further|desc
+further|balloonist|than
+flown|before|mod
+flown|traveling|mod
+traveling|pilots brian jones|subj
+traveling|more|mod
+miles|21,625|num
+more|miles|than
+miles|leaving|after
+leaving|swiss alps|obj
+colin prescot|british|mod
+colin prescot|balloonists|nn
+colin prescot|and|punc
+colin prescot|andy elson|conj
+gave up|colin prescot|subj
+gave up|pacific|over
+pacific|last|vrel
+last|pacific|obj
+last|sunday|mod
+last|having|after
+having|colin prescot|subj
+having|detour|fc
+detour|south|mod
+detour|because|mod
+because|lacked|comp1
+lacked|they|subj
+permission|chinese|nn
+lacked|permission|obj
+balloonists|two|nn
+balloonists|british|mod
+abandoned|balloonists|subj
+attempt|their|gen
+abandoned|attempt|obj
+attempt|bad weather|because of
+abandoned|landing|mod
+landing|balloonist|subj
+landing|pacific|in
+pacific|japan|near
+piccard|who|whn
+had|piccard|subj
+had|abandon|fc
+abandon|attempt|obj
+attempt|last|vrel
+last|attempt|obj
+last|year|mod
+last|because|mod
+because|failed|comp1
+failed|he|subj
+failed|receive|fc
+receive|he|subj
+receive|permission|obj
+permission|cross|rel
+cross|permission|subj
+cross|china|obj
+delayed|piccard|subj
+departure|his|gen
+delayed|departure|obj
+departure|switzerland|from
+delayed|year|mod
+delayed|until|mod
+until|got|comp1
+got|he|subj
+approval|beijing|gen
+got|approval|obj

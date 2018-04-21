@@ -1,0 +1,56 @@
+action|antitrust|mod
+action|microsoft|against
+ongoing|1990|since
+reached|1994|in
+reached|justice department|subj
+reached|settlement|obj
+settlement|microsoft|with
+microsoft|requiring|rel
+requiring|microsoft|subj
+requiring|company|obj
+company|change|rel
+change|company|subj
+practices|its|gen
+practices|business|mod
+change|practices|obj
+sued|1995|in
+sued|justice|subj
+sued|to|guest
+sued|block|to
+acquisition|microsoft|gen
+sued|acquisition|obj
+acquisition|intuit|of
+suits|separate|mod
+launched|suits|obj
+launched|microsoft|against
+microsoft|sun|by
+violating|suit|subj
+violating|agreement|obj
+agreement|java|on
+java|and|punc
+java|caldera|conj
+dos|dr.|title
+killing|dos|obj
+ruled|november 1999|in
+judge|jackson|person
+ruled|judge|subj
+ruled|that|c
+is|monopoly|pred
+monopoly|that|whn
+abused|monopoly|subj
+power|its|gen
+abused|power|obj
+abused|and|punc
+abused|harmed|conj
+harmed|monopoly|subj
+harmed|consumers|obj
+attempt|mediated|mod
+attempt|settle|rel
+settle|attempt|subj
+fails|attempt|subj
+judge|jackson|person
+issue|judge|subj
+issue|verdict|obj
+verdict|as|mod
+early|march 28th|as
+march 28th|2000|num

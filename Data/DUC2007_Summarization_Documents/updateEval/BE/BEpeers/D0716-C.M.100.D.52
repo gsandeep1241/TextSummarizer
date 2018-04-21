@@ -1,0 +1,50 @@
+canberra|(|punc
+canberra|ap|appo
+government|australia|gen
+government|conservative|mod
+defied|government|subj
+body|u.n.|nn
+declaration|body|gen
+defied|declaration|obj
+declaration|that|c
+area|world heritage|nn
+is|area|pred
+area|declaring|by
+declaring|government|subj
+declaring|allow|fc
+allow|it|subj
+mining|uranium|nn
+allow|mining|obj
+mining|jabiluka|at
+jabiluka|park|within
+darwin|(|punc
+darwin|ap|appo
+government|australian|mod
+year|next|post
+year|try|rel
+try|year|subj
+try|stop|fc
+stop|united nations|obj
+united nations|declaring|from
+declaring|kakadu national park|obj
+kakadu national park|endangered|vrel
+endangered|kakadu national park|obj
+mine|jabiluka|nn
+mine|uranium|nn
+endangered|mine|because of
+is|not|neg
+is|in|pred
+area|world|nn
+area|heritage|nn
+area|listed|mod
+is|area|in
+in|nor|punc
+in|in|conj
+in|national park|in
+cause|it|subj
+cause|neither|punc
+damage|environmental|mod
+environmental|nor|punc
+environmental|cultural|conj
+cause|damage|obj
+said|hill|subj

@@ -1,0 +1,55 @@
+calling on|environmentalists|subj
+government|australian|mod
+approve|government|subj
+project|uranium|nn
+project|mining|nn
+approve|project|obj
+project|adjacent|pnmod
+adjacent|park|to
+rejected|government|subj
+concerns|their|gen
+concerns|environmental|mod
+rejected|concerns|obj
+rejected|saying|mod
+saying|government|subj
+saying|jobs|obj
+income|export|nn
+income|generated|rel
+project|mining|nn
+generated|project|from
+is|important|pred
+government|australia|gen
+government|conservative|mod
+defied|government|subj
+body|u.n.|nn
+declaration|body|gen
+defied|declaration|obj
+declaration|that|c
+area|world heritage|nn
+is|area|pred
+area|declaring|by
+declaring|government|subj
+declaring|allow|fc
+allow|it|subj
+mining|uranium|nn
+allow|mining|obj
+mining|jabiluka|at
+federal government|australian|mod
+rejected|federal government|subj
+report|unesco|nn
+rejected|report|obj
+report|which|whn
+called for|report|subj
+called for|kakadu|obj
+australia|northwest|mod
+kakadu|australia|in
+australia|placed|rel
+list|endangered|mod
+placed|list|on
+list|threat|because of
+threat|posed|vrel
+posed|threat|obj
+posed|by|by-subj
+mine|jabiluka|nn
+mine|uranium|nn
+posed|mine|by

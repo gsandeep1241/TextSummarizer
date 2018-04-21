@@ -1,0 +1,151 @@
+policies|key|mod
+concerning|policies|obj
+policies|and|punc
+policies|outcomes|conj
+good|or|punc
+good|bad|conj
+attributed|bank|subj
+attributed|drop|obj
+payments|foreign|mod
+payments|debt|nn
+drop|payments|to
+payments|and|punc
+policies|central bank|nn
+payments|policies|conj
+policies|defend|rel
+defend|policy|subj
+currency|venezuelan|mod
+defend|currency|obj
+currency|bolivar|conj
+bolivar|as|punc
+bolivar|well|punc
+bolivar|as|punc
+attacks|speculative|mod
+bolivar|attacks|conj
+attacks|markets|on
+expectations|electoral|mod
+markets|expectations|conj
+expectations|and|punc
+scenario|adverse|mod
+expectations|scenario|conj
+scenario|created|vrel
+created|scenario|obj
+created|by|by-subj
+prices|falling|mod
+prices|oil|nn
+created|prices|by
+sense|countries|nn
+sense|that|c
+hostility|american|mod
+hostility|island|toward
+contributed|sense|obj
+contributed|hostility|subj
+contributed|rigidity|to
+policies|cuba|gen
+policies|internal|mod
+rigidity|policies|of
+eased|cuba|for
+some|sting|of
+sting|vote|from
+eased|some|obj
+eased|by|by-subj
+eased|outcome|by
+night|monday|nn
+eased|night|mod
+eased|baltimore|in
+cuba|12|num
+cuba|orioles|appo
+orioles|6.|num
+market|caracas|nn
+market|stock|nn
+skyrocketed|market|subj
+skyrocketed|tuesday|mod
+skyrocketed|morning|mod
+skyrocketed|indicating|mod
+indicating|market|subj
+indicating|that|c
+comments|president-elect|gen
+president-elect|hugo chavez|person
+comments|conciliatory|mod
+eased|comments|subj
+fears|investor|nn
+eased|fears|obj
+fears|that|c
+roll|fears|obj1
+roll|he|subj
+roll|back|guest
+economic policies|free|mod
+economic policies|market|nn
+roll|economic policies|obj2
+derided|he|subj
+policies|u.s.|nn
+derided|policies|obj
+policies|cuba|toward
+derided|including|mod
+including|he|subj
+embargo|economic|mod
+including|embargo|obj
+including|as|mod
+criminal|failed|conj
+failed|and|punc
+failed|ridiculous|conj
+vowed|he|subj
+vowed|raise|fc
+raise|he|subj
+wage|minimum|nn
+raise|wage|obj
+just|200 a month|under
+200 a month|which|whn
+covers|200 a month|subj
+half|only|mod
+covers|half|guest
+covers|cost|obj
+cost|standard|of
+basket|food|nn
+basket|family|for
+needs|minimal|mod
+needs|nutritional|mod
+'s|needs|pred
+economic crisis|caused|vrel
+caused|economic crisis|obj
+caused|by|by-subj
+low|12-year|nn
+caused|low|by
+prices|oil|nn
+low|prices|in
+made|economic crisis|subj
+made|making|mod
+making|economic crisis|subj
+meet|ends|subj
+meet|all|obj
+impossible|venezuelans|for
+standard of living|venezuelans|gen
+venezuelans|standard of living|whn
+declining|steadily|amod
+declining|standard of living|subj
+15|more than|num-mod
+years|15|amount-value
+declining|years|for
+described|he|subj
+actions|president|gen
+described|actions|obj
+'etat|coup|nn
+'etat|d|nn
+actions|'etat|as
+described|'|punc
+described|'|punc
+described|said|mod
+newspaper|el universal|nn
+said|newspaper|subj
+described|sunday|mod
+venezuelan|caracas|nn
+venezuelan|(|punc
+venezuelan|ap|nn
+venezuelan|)|punc
+venezuelan|mexican|conj
+mexican|and|punc
+delegations|saudi|mod
+delegations|oil|nn
+delegations|ministerial|mod
+mexican|delegations|conj
+meet|venezuelan|subj

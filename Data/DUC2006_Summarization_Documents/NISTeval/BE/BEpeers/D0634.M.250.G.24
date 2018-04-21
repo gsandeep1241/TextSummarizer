@@ -1,0 +1,132 @@
+species|all|pre
+governs|plan|subj
+species|all|pre
+governs|species|obj
+species|salmon|of
+salmon|and|punc
+salmon|steelhead|conj
+healthy|relatively|mod
+runs|healthy|mod
+runs|sockeye salmon|nn
+governs|runs|from
+runs|lake osoyoos|of
+lake osoyoos|and|punc
+lake osoyoos|lake wenatchee|conj
+chinook salmon|endangered|mod
+chinook salmon|spring|nn
+lake wenatchee|chinook salmon|to
+is|most|pred
+most|dramatic|pnmod
+dramatic|chinook|among
+chinook|and|punc
+chinook|coho salmon|conj
+chinook|species|appo
+species|that|whn
+imperiled|also|amod
+imperiled|species|obj
+system|columbia river|nn
+imperiled|system|in
+in|and|punc
+in|throughout|conj
+northwest|pacific|nn
+in|northwest|throughout
+salmon|pacific|nn
+are|different|pred
+salmon|atlantic|nn
+different|salmon|from
+are|that|in
+are|species|pred
+populations|different|mod
+spawn|populations|subj
+times|different|mod
+spawn|times|at
+coho salmon|snake|gen
+declared|already|guest
+declared|coho salmon|obj
+species|other|mod
+species|salmon|of
+salmon|and|punc
+salmon|steelhead|conj
+steelhead|snake river|in
+is|now|pred
+now|listed|pnmod
+listed|endangered species act|under
+salmon|more|mod
+collected|salmon|obj
+dams|two|nn
+dams|other|mod
+collected|dams|at
+dams|snake|on
+snake|and|punc
+snake|one|conj
+one|columbia|on
+treaty|pacific salmon|nn
+negotiated|first|amod
+negotiated|treaty|obj
+negotiated|1985|in
+1985|divide|rel
+divide|1985|subj
+catch|salmon|nn
+divide|catch|obj
+catch|u.s.|between
+u.s.|and|punc
+fishermen|canadian|mod
+u.s.|fishermen|conj
+fishermen|based|vrel
+based|fishermen|obj
+spawned|fish|obj
+spawned|country|in
+has|agreement|subj
+has|effect|obj
+effect|reducing|of
+reducing|agreement|subj
+catch|canada|gen
+reducing|catch|obj
+catch|chinook salmon|of
+chinook salmon|bound|vrel
+bound|chinook salmon|obj
+bound|streams|for
+streams|washington|in
+washington|oregon|conj
+oregon|and|punc
+oregon|idaho|conj
+bound|giving|while
+giving|agreement|subj
+giving|canada|obj
+canada|more|pnmod
+sockeye salmon|fraser river|nn
+more|sockeye salmon|of
+sockeye salmon|that|whn
+harvested|sockeye salmon|obj
+harvested|by|by-subj
+harvested|washington|by
+washington|and|punc
+fishermen|oregon|nn
+washington|fishermen|conj
+proposing|all|in
+proposing|clinton|subj
+proposing|$290 million|obj
+programs|salmon|nn
+programs|conservation|nn
+$290 million|programs|for
+programs|west|in
+west|and|punc
+northwest|pacific|nn
+west|northwest|conj
+includes|that|subj
+includes|$91 million|obj
+projects|u.s. army corps of engineers|nn
+$91 million|projects|for
+system|columbia-snake|nn
+system|river|nn
+projects|system|in
+$60 million|implement|rel
+implement|$60 million|subj
+implement|pacific salmon treaty|obj
+pacific salmon treaty|united states|between
+united states|and|punc
+united states|canada|conj
+efforts|national marine fisheries service|gen
+efforts|salmon|nn
+efforts|recovery|nn
+$39 million|efforts|for

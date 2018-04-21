@@ -1,0 +1,55 @@
+bertrand piccard|and|punc
+bertrand piccard|brian jones|conj
+joined|bertrand piccard|subj
+joined|legends|obj
+legends|wright brothers|like
+wright brothers|and|punc
+wright brothers|charles lindbergh|conj
+completion|saturday|gen
+charles lindbergh|completion|with
+manned|first|mod
+flight|manned|mod
+flight|round-the-world|mod
+flight|balloon|nn
+completion|flight|of
+said|international olympic committee|subj
+said|wednesday|mod
+wednesday|that|c
+award|wednesday|obj1
+award|they|subj
+award|olympic order|obj2
+bertrand piccard|balloonists|nn
+olympic order|bertrand piccard|to
+bertrand piccard|and|punc
+bertrand piccard|brian jones|conj
+housed|permanently|amod
+housed|breitling orbiter 3|obj
+housed|air|at
+air|and|punc
+museum|space|nn
+air|museum|conj
+museum|washington|in
+balloon|big|mod
+balloon|which|whn
+completed|balloon|subj
+flight|its|gen
+flight|[|punc
+flight|breitling orbiter 3|nn
+flight|]|punc
+flight|epochal|mod
+completed|flight|obj
+flight|march 21|on
+offered|balloon|obj1
+offered|berth|obj2
+berth|museum|at
+offered|taking|mod
+taking|balloon|subj
+place|its|gen
+place|[|punc
+place|breitling orbiter 3|nn
+place|]|punc
+taking|place|obj
+place|host|with
+aircraft|other|mod
+aircraft|famous|mod
+host|aircraft|of

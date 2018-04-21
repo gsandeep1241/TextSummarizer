@@ -1,0 +1,141 @@
+object|heavy|mod
+collision|object|with
+caused|collision|subj
+submarine|kursk|nn
+submarine|nuclear|mod
+caused|submarine|obj
+submarine|sink|rel
+sink|submarine|subj
+sink|bottom|to
+bottom|barents sea|of
+navy|russian|mod
+struggled|navy|subj
+struggled|monday|guest
+struggled|rescue|fc
+rescue|navy|subj
+100|more than|num-mod
+sailors|100|nn
+rescue|sailors|obj
+sailors|trapped|pnmod
+trapped|bottom|at
+bottom|barents sea|of
+barents sea|submarine|in
+submarine|crippled|vrel
+crippled|submarine|obj
+crippled|by|by-subj
+collision|major|mod
+crippled|collision|by
+submarine|multipurpose|mod
+went down|submarine|subj
+went down|bottom|to
+bottom|barents sea|of
+barents sea|sunday|on
+barents sea|attending|while
+attending|submarine|subj
+exercise|routine|mod
+attending|exercise|obj
+exercise|russian northern fleet|of
+participating|kursk|subj
+participating|exercises|in
+exercises|russian northern fleet|of
+participating|when|wha
+struck|disaster|subj
+struck|reportedly|mod
+reportedly|saturday|on
+submarines|russian|mod
+submarines|rescue|nn
+made|submarines|subj
+attempts|four|nn
+attempts|unsuccessful|mod
+made|attempts|obj
+attempts|dock|rel
+dock|attempt|subj
+dock|kursk|with
+dock|overnight|mod
+submarines|two|nn
+submarines|american|mod
+were|in|pred
+were|barents sea|in
+barents sea|monitor|rel
+monitor|barents sea|subj
+exercise|russian|mod
+exercise|naval|mod
+monitor|exercise|obj
+exercise|that|whn
+included|exercise|subj
+included|kursk|obj
+shattered|kursk|obj
+shattered|by|by-subj
+shattered|explosion|by
+shattered|and|punc
+shattered|sank in|conj
+sank in|kursk|subj
+sank in|barents sea|obj
+barents sea|exercises|during
+sank in|aug 12|mod
+officials|russian|mod
+speculated|officials|subj
+speculated|that|c
+collided|kursk|subj
+collided|vessel|with
+vessel|barents sea|in
+collided|and|punc
+blame|usually|mod-before
+collided|blame|conj
+blame|kursk|subj
+submarine|unspecified|mod
+submarine|foreign|mod
+blame|submarine|obj
+officials|russian|mod
+focusing on|officials|subj
+focusing on|indications|obj
+indications|that|c
+collided|kursk|subj
+object|underwater|mod
+collided|object|with
+object|possibly|appo-mod
+submarine|foreign|mod
+object|submarine|appo
+look at|some|obj
+events|key|mod
+some|events|of
+drama|weeklong|nn
+events|drama|in
+drama|surrounding|rel
+surrounding|drama|subj
+kursk|sunken|nn
+kursk|russian|mod
+kursk|submarine|mod
+surrounding|kursk|obj
+xinhua|august 21|nn
+xinhua|(|punc
+moscow|xinhua|appo
+divers|norwegian|mod
+opened|divers|subj
+hatch|inner|mod
+opened|hatch|obj1
+russian|sunken|nn
+hatch|russian|of
+kursk|nuclear-powered submarine|nn
+unit|kursk|gen
+unit|ninth|mod
+opened|unit|obj2
+1|about|num-mod
+unit|1|at
+company|stolt offshore|nn
+company|oil|nn
+company|services|nn
+company|norwegian|mod
+company|company|appo
+company|that|whn
+sent|company|subj
+sent|divers|obj
+divers|kursk|to
+russians|raise|rel
+raise|russian|subj
+raise|submarine|obj
+been|not|amod
+been|in|pred
+contact|radio|mod
+been|contact|in
+contact|rescue|with

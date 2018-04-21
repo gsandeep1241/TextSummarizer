@@ -1,0 +1,139 @@
+plane|cairo-bound|mod
+plane|passenger|nn
+crashed|plane|subj
+ocean|atlantic|nn
+crashed|ocean|into
+minutes|massachusettes|nn
+minutes|coast|nn
+minutes|40|amount-value
+ocean|minutes|off
+minutes|takeoff|after
+takeoff|kennedy international airport|from
+kennedy international airport|new york|in
+new york|october 31|on
+indication|first|post
+indication|that|c
+was|wrong|pred
+came|indication|subj
+minutes|seven|amount-value
+later|minutes|amount-value
+came|later|mod
+that|and|punc
+efforts|other|mod
+that|efforts|conj
+but|failed|comp1
+failed|that|subj
+failed|get|fc
+get|that|subj
+get|response|obj
+nine|over|num-mod
+months|nine|amount-value
+issued|months|after
+months|investigations|of
+issued|ntsb|subj
+report|factual|mod
+issued|report|obj
+report|last|vrel
+last|report|obj
+last|friday|mod
+recorders|flight|nn
+proved|recorders|subj
+proved|insufficient|desc
+denounced|cairo|in
+family|el-batouty|gen
+denounced|angrily|mod-before
+denounced|family|subj
+allegations|published|mod
+denounced|allegations|obj
+wonder|still|mod-before
+wonder|investigators|subj
+wonder|whether|c
+was|result|pred
+defects|mechanical|mod
+result|defects|of
+errors|operational|mod
+defects|errors|conj
+errors|or|punc
+sabotage|human|mod
+errors|sabotage|conj
+word|last|post
+signoff|routine|mod
+signoff|"|punc
+signoff|good|mod
+signoff|morning|nn
+signoff|"|punc
+was|signoff|pred
+ann scales|and|punc
+ann scales|thomas farragher|conj
+staff|globe|nn
+thomas farragher|staff|of
+contributed to|ann scales|subj
+contributed to|report|obj
+side|egyptian|mod
+opposed|strongly|amod
+opposed|side|subj
+opposed|speculations|obj
+opposed|stressing|mod
+stressing|side|subj
+failure|technical|mod
+stressing|cause|fc
+cause|failure|subj
+cause|tragedy|obj
+attempts|contact|rel
+contact|attempt|subj
+officials|two|nn
+contact|officials|obj
+officials|friday|person
+contact|night|mod
+contact|comment|for
+statement|hall|gen
+comment|statement|on
+were|not|neg
+were|successful|pred
+operated|remotely|mod-before
+operated|two|subj
+vehicles|containing|rel
+containing|vehicle|subj
+robots|sophisticated|mod
+containing|robots|obj
+used|vehicles|obj
+used|catch|mod
+catch|vehicle|subj
+recoder|data|nn
+catch|recoder|obj
+recoder|depths|from
+70|more than|num-mod
+meters|70|amount-value
+depths|meters|of
+working|it|subj
+fragments|6,000|num
+fragments|tissue|nn
+working|fragments|with
+fragments|and|punc
+number|smaller|mod
+fragments|number|conj
+parts|body|nn
+number|parts|of
+medical examiner|rhode|nn
+medical examiner|island|nn
+office|medical examiner|gen
+overseeing|office|subj
+process|identification|nn
+overseeing|process|obj
+flight|egyptair|nn
+crashed|flight|subj
+crashed|oct 31|mod
+island|massachusetts|nn
+crashed|island|off
+island|nantucket|of
+crashed|killing|mod
+killing|flight|subj
+people|217|num
+killing|people|obj
+people|board|on
+spokesman|u.s. national transportation safety|nn
+spokesman|board|nn
+confirmed|spokesman|subj
+confirmed|find|obj
+identifying|which|obj
+recovered|recorder|obj

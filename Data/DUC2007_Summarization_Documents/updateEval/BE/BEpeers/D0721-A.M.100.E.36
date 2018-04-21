@@ -1,0 +1,53 @@
+said|new york times|subj
+said|editorial|in
+decision|russell henderson|gen
+decision|plead|rel
+plead|decision|subj
+plead|guilty|desc
+guilty|kidnapping|to
+kidnapping|and|punc
+kidnapping|murder|conj
+murder|matthew shepard|of
+is|consolation|pred
+family|shepard|nn
+consolation|family|to
+provides|it|subj
+severe|appropriately|mod
+sentence|severe|mod
+provides|sentence|obj
+sentence|one|for
+hatred|one|gen
+hatred|apparent|mod
+hatred|anti-gay|mod
+one|hatred|whn
+led|hatred|subj
+led|him|obj
+led|destroy|mod
+destroy|it|subj
+life|young|mod
+destroy|life|obj
+asked|prosecutor|subj
+jurors|71|num
+jurors|prospective|mod
+asked|jurors|obj
+jurors|set aside|rel
+set aside|juror|subj
+set aside|emotions|obj
+emotions|pity|of
+pity|and|punc
+pity|rage|conj
+chosen|trial|for
+trial|death|in
+matthew shepard|gay|mod
+matthew shepard|college student|nn
+death|matthew shepard|of
+beating|savagely|amod
+beating|matthew shepard|obj
+butt|pistol|nn
+matthew shepard|butt|with
+tormentors|his|gen
+one|tormentors|of
+taunted|one|subj
+taunted|him|obj
+him|saying|appo
+'s|gay awareness week|pred

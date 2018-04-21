@@ -1,0 +1,62 @@
+reached|august 30 , 1999|by
+deaths|earthquake|nn
+reached|deaths|subj
+reached|13,000|obj
+volunteers|foreign|mod
+brought|volunteers|subj
+brought|food|obj
+food|water|conj
+water|and|punc
+water|clothing|conj
+factories|local|mod
+gave|factories|subj
+food|workers|nn
+gave|food|obj
+food|and|punc
+food|housing|conj
+sent|japan|subj
+housing|prefabricated|mod
+sent|housing|obj
+sent|so|mod
+so|leave|comp1
+leave|homeless|subj
+leave|tents|obj
+tents|winter|before
+earthquakes|richter|nn
+earthquakes|5.4 and 4.7|nn
+struck|earthquakes|subj
+struck|izmit|obj
+izmit|august 31 , 1999 ,|on
+struck|hospitalizing|mod
+hospitalizing|earthquake|subj
+hospitalizing|166|obj
+died|september 13|on
+died|seven|subj
+injured|hundreds|obj
+injured|by|by-subj
+quake|5.8|num
+quake|richter|nn
+injured|quake|by
+quake|izmit|near
+collapsed|buildings|subj
+collapsed|izmit|in
+izmit|adapazari|conj
+adapazari|and|punc
+adapazari|golcuk|conj
+aftershocks|such|pre
+aftershocks|large|mod
+deadly|less|mod
+were|deadly|pred
+quake|august 13|nn
+deadly|quake|than
+deadly|but|punc
+disruptive|very|mod
+deadly|disruptive|conj
+efforts|recovery|nn
+disruptive|efforts|to
+were|still|guest
+were|in|pred
+cities|tent|nn
+were|cities|in
+reached|deaths|subj
+reached|17,000|obj

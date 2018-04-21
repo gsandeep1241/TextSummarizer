@@ -1,0 +1,156 @@
+observed|carter center council|subj
+elections|14|num
+countries|nine|nn
+elections|countries|in
+countries|hemisphere|of
+hemisphere|including|rel
+including|hemisphere|subj
+including|that|obj
+observed|marked|fc
+marked|elections|subj
+transference|first|post
+transference|peaceful|mod
+marked|transference|obj
+said|carter center|subj
+does|not|neg
+said|meet|fc
+meet|peru|subj
+standards|international|mod
+meet|standards|obj
+accredited|it|subj
+accredited|host|obj
+host|serve as|rel
+serve as|host|subj
+observers|elections|nn
+serve as|observers|obj
+observers|including|rel
+including|observer|subj
+including|carter|obj
+felipe gonzalez|former|mod
+felipe gonzalez|spanish|nn
+felipe gonzalez|prime minister|title
+carter|felipe gonzalez|conj
+luis herrera campins|ex-president|nn
+felipe gonzalez|luis herrera campins|conj
+luis herrera campins|and|punc
+president|former|mod
+luis herrera campins|president|conj
+president|armando calderon sol|person
+president|former|mod
+president|u.s.|nn
+president|jimmy carter|person
+head|president|subj
+head|group|obj
+observers|international|mod
+group|observers|of
+elections|peru|gen
+observers|elections|during
+elections|barry levitt|appo
+barry levitt|official|pnmod
+official|carter center|of
+carter center|told|vrel
+told|carter center|obj1
+told|press|obj2
+director|carter center|gen
+director|associate|nn
+david carroll|director|appo
+director|democratic program|of
+quoted|david carroll|obj
+quoted|saying|as
+awarded|pakistan|obj
+awarded|by|by-subj
+awarded|international organization|by
+carter center|usa|of
+recommendation|only|mod
+recommendation|carter center|nn
+request|its|gen
+was|request|pred
+would|not|neg
+include|delegation|subj
+president|former|mod
+include|president|obj
+president|jimmy carter|person
+president|former|mod
+president|u.s.|nn
+said|president|subj
+president|jimmy carter|person
+remains|he|subj
+man|vigorous|mod
+remains|man|obj
+remains|rising|mod
+rising|he|subj
+rising|day|obj
+exercising|daily|mod
+overseeing|carter center|obj
+hand|crib|obj
+fishing|fly|mod
+crib|fishing|appo
+hand|writing|mod
+writing|he|subj
+books|two|nn
+writing|books|obj
+writing|climbing|mod
+climbing|mountains|obj
+climbing|and|punc
+climbing|monitoring|conj
+monitoring|elections|obj
+president|former|mod
+president|u.s.|nn
+president|jimmy carter|person
+started|president|subj
+visit|his|gen
+visit|three-day|nn
+started|visit|obj
+president|alberto fujimori|person
+promised|president|subj
+promised|comply with|fc
+comply with|president|subj
+comply with|recommendations|obj
+delegation|carter center|nn
+recommendations|delegation|of
+delegation|that|whn
+said|delegation|subj
+does|not|neg
+said|meet|fc
+meet|peru|subj
+standards|international|mod
+meet|standards|obj
+elections|fair|mod
+standards|elections|for
+ex-president|`|punc
+ex-president|`|punc
+ex-president|greatest|mod
+label|'|punc
+label|'|punc
+label|ex-president|subj
+carter|does|nn
+label|carter|obj1
+label|injustice|obj2
+parties|two|nn
+parties|opposition|nn
+expressed|parties|subj
+concerns|their|gen
+concerns|deep|mod
+expressed|concerns|obj
+said|carter|subj
+president|former|mod
+president|u.s.|nn
+president|jimmy carter|person
+be|in|pred
+be|mexico|in
+mexico|observe|rel
+observe|mexico|subj
+election|country|gen
+competitive|highly|mod
+election|competitive|mod
+election|presidential|mod
+observe|election|obj
+plans|carter center|subj
+plans|hold|fc
+hold|carter center|subj
+hold|series|obj
+series|where|wha
+invite|it|subj
+invite|leaders|obj
+observers|mission|nn
+belong|observers|subj

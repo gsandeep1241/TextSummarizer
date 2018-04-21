@@ -1,0 +1,143 @@
+is|hot weather|in
+diarrhea|caused|vrel
+caused|diarrhea|obj
+caused|by|by-subj
+caused|bacteria|by
+bacteria|or|punc
+bacteria|parasites|conj
+is|more|pred
+is|likely|mod
+been|unusual|pred
+la nina|growing|mod
+been|la nina|with
+la nina|sharing|rel
+sharing|la nina|subj
+sharing|ocean|obj
+ocean|remnants|with
+el nino|strongest|mod
+remnants|el nino|of
+el nino|record|on
+years|last|post
+years|20|amount-value
+oceanographers|years|over
+developed|oceanographers|subj
+developed|understanding|obj
+el nino|and|punc
+el nino|la nina|conj
+form|el nino|subj
+changes|winds|in
+winds|and|punc
+winds|atmospheric pressure|conj
+atmospheric pressure|allowing|rel
+allowing|atmospheric pressure|subj
+water|warm|mod
+water|surface|mod
+flow|water|subj
+flow|east|mod
+east|el nino|in
+allowing|or|punc
+allowing|spreading|conj
+spreading|atmospheric pressure|subj
+west|cool|mod
+west|water|nn
+spreading|west|obj
+west|la nina|in
+la nina|caused|vrel
+caused|la nina|obj
+caused|by|by-subj
+pool|large|mod
+caused|pool|by
+cool|abnormally|mod
+water|cool|mod
+pool|water|of
+pacific|eastern|mod
+water|pacific|in
+alternates|la nina|subj
+el nino|warming|mod
+alternates|el nino|with
+la nina|and|punc
+la nina|el nino|conj
+form|la nina|subj
+ends|opposite|mod
+form|ends|obj
+cycle|same|post
+cycle|climatic|mod
+ends|cycle|of
+form|el nino|with
+el nino|fueled|vrel
+fueled|el nino|obj
+fueled|by|by-subj
+warm|unusually|mod
+water|warm|mod
+fueled|water|by
+pacific|eastern|mod
+water|pacific|in
+pacific|and|punc
+pacific|la nina|conj
+la nina|driven|vrel
+driven|la nina|obj
+driven|by|by-subj
+driven|cold|by
+causes|el nino|subj
+causes|reversals|obj
+patterns|normal|mod
+patterns|weather|nn
+reversals|patterns|of
+resulting|drought|in
+wet|usually|mod
+locales|wet|mod
+drought|locales|in
+resulting|and|punc
+resulting|flooding|conj
+areas|arid|mod
+flooding|areas|in
+brings|united states|for
+brings|el nino|subj
+warm|unusually|mod
+temperatures|warm|mod
+brings|temperatures|obj
+states|northern|mod
+temperatures|states|to
+states|and|punc
+conditions|cooler|mod
+conditions|wetter|mod
+states|conditions|conj
+conditions|south|to
+brought|shift|subj
+rainfall|heavy|mod
+brought|rainfall|obj
+rainfall|and|punc
+rainfall|flash floods|conj
+flash floods|indonesia|to
+indonesia|august|in
+drought|long|mod
+indonesia|drought|after
+drought|caused|vrel
+caused|drought|obj
+caused|by|by-subj
+phenomenon|el nino|nn
+caused|phenomenon|by
+weather|extreme|mod
+is|just|guest
+is|opposite|pred
+areas|extremes|nn
+opposite|areas|of
+areas|suffered|vrel
+suffered|areas|obj
+el nino|1997-98|nn
+suffered|el nino|during
+is|name|pred
+warming|waters|of
+waters|pacific ocean|in
+pacific ocean|that|whn
+affects|pacific ocean|subj
+affects|wind|obj
+wind|and|punc
+patterns|temperature|nn
+wind|patterns|conj
+cautioned|scientists|subj
+cautioned|that|obj
+counterpart|its|gen
+counterpart|warm|mod
+cautioned|counterpart|like
+counterpart|el nino|appo

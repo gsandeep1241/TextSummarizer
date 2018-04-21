@@ -1,0 +1,156 @@
+parliament|german|mod
+rejected|parliament|subj
+bill|tough|mod
+bill|anti-smoking|mod
+rejected|bill|obj
+bill|which|whn
+tried|bill|subj
+tried|make|fc
+make|parliament|subj
+places|public|mod
+make|places|obj
+places|buses|conj
+buses|and|punc
+places|working|mod
+buses|places|conj
+places|free|pnmod
+free|smoking|of
+smoking|germany|in
+places|bill|nn
+places|lists|nn
+places|various|mod
+places|public|mod
+places|enforce|rel
+enforce|place|subj
+enforce|smoking|obj
+ban|places|subj
+ban|including|guest
+including|place|subj
+sites|holy|mod
+including|sites|obj
+ban|mosques|obj
+mosques|factories|conj
+factories|hospitals|conj
+hospitals|and|punc
+hospitals|clinics|conj
+terminals|transportation|nn
+clinics|terminals|conj
+terminals|public transport|conj
+stores|department|nn
+public transport|stores|conj
+stores|and|punc
+stores|hotels|conj
+hotels|and|punc
+hotels|restaurants|conj
+notched|she|subj
+victory|her|gen
+victory|latest|mod
+notched|victory|obj
+notched|when|wha
+house|upper|mod
+house|parliament|of
+gave|house|subj
+approval|final|mod
+gave|approval|obj
+approval|one|to
+laws|world|gen
+laws|toughest|mod
+laws|anti-smoking|mod
+one|laws|of
+laws|which|whn
+bans|laws|subj
+bans|lighting|obj
+bans|up|mod
+places|public|mod
+up|places|in
+places|and|punc
+advertising|all|pre
+advertising|tobacco|nn
+places|advertising|conj
+steps|approved|mod
+approved|government|by
+hearings|public|mod
+government|hearings|after
+approved|and|punc
+approved|other|conj
+process|regulatory|mod
+steps|process|in
+anywhere|first|post
+be|anywhere|pred
+anywhere|include|rel
+include|anywhere|subj
+photos|graphic|mod
+include|photos|obj
+organs|diseased|mod
+photos|organs|of
+include|cynthia callard|according to
+cynthia callard|physicians|of
+physicians|smoke-free canada|for
+pushed|bills|obj
+pushed|by|by-subj
+pushed|lawmakers|by
+lawmakers|who|whn
+said|lawmakers|subj
+needs|more|mod
+said|needs|obj
+needs|done|comp1
+done|curb|mod
+smoking|teen|mod
+curb|smoking|obj
+smoking|and|punc
+smoking|drinking|conj
+banned|it|obj
+public transport|all|pre
+banned|public transport|on
+on|in|conj
+spaces|closed|mod
+spaces|public|mod
+on|spaces|in
+in|on|conj
+in|domestic flights|on
+on|and|punc
+on|in|conj
+facilities|health-care|nn
+on|facilities|in
+bodies|local|mod
+bodies|legislative|mod
+passed|bodies|subj
+passed|regulations|obj
+governments|city|nn
+published|governments|subj
+published|orders|obj
+published|prohibit|mod
+prohibit|government|subj
+use|tobacco|nn
+prohibit|use|obj
+use|public|in
+held|also|mod-before
+held|judge|subj
+held|that|c
+pre|ordinance|obj
+pre|by|by-subj
+law|state|nn
+pre|law|by
+smoker|city|in
+spends|smoker|subj
+spends|average|obj
+average|58 yuan|of
+58 yuan|cigarettes|on
+cigarettes|which|whn
+amounts to|cigarettes|subj
+amounts to|17 percent|obj
+expenditure|their|gen
+expenditure|ly|mod
+17 percent|expenditure|of
+group|restaurant|nn
+group|trade|mod
+supported|heavily|amod
+supported|group|obj
+supported|by|by-subj
+supported|tobacco institute|by
+admitted|recently|mod
+funneling|$443,072|obj
+$443,072|group|to
+amount|far|mod
+amount|lower|nn
+claiming|amount|obj

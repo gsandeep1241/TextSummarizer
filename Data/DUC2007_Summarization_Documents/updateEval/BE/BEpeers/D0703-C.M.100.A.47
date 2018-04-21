@@ -1,0 +1,62 @@
+has|france|subj
+struck|already|mod
+coins|struck|mod
+coins|one billion|nn
+has|coins|obj
+euro|european|mod
+euro|single|mod
+euro|currency|nn
+coins|euro|of
+euro|which|whn
+launched|euro|obj
+launched|by|by-subj
+launched|january 1999|by
+agence france-presse|reported|mod
+january 1999|agence france-presse|appo
+bank|administration board of romania|gen
+bank|central|nn
+number|decisions|of
+decisions|connection|in
+connection|introduction|with
+currency|single|mod
+introduction|currency|of
+states|european union|gen
+states|member|nn
+currency|states|in
+states|beginning|rel
+beginning|state|subj
+beginning|01/01/1999|mod
+director|bnr|nn
+director|adrian vasilescu|person
+said|director|subj
+bnr|and|punc
+commercial banks|romanian|mod
+bnr|commercial banks|conj
+commercial banks|that|c
+want|perform|rel
+perform|want|subj
+services|euro|nn
+perform|services|obj
+have|commercial banks|obj
+have|want|subj
+have|open accounts|to
+open accounts|euro|in
+euro|01/04/1999|by
+01/04/1999|first|appo
+first|scheduled|vrel
+scheduled|first|obj
+scheduled|day|mod
+use|euro|nn
+scheduled|use|of
+scheduled|and|punc
+scheduled|inform|conj
+inform|first|subj
+partners|their|gen
+partners|foreign|mod
+inform|partners|obj
+bank|romania|gen
+bank|central|nn
+bank|and|punc
+fear|country|gen
+fear|commercial banks|nn
+bank|fear|conj

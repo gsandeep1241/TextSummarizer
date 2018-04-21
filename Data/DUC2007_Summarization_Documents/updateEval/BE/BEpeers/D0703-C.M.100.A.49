@@ -1,0 +1,63 @@
+bnr|romania|gen
+bnr|bank|nn
+bnr|(|punc
+bnr|)|punc
+bnr|and|punc
+commercial banks|country|gen
+bnr|commercial banks|conj
+fear|bnr|subj
+fear|little|obj
+little|introduction|about
+introduction|euro|of
+fear|and|punc
+adapt|easily|amod
+fear|adapt|conj
+adapt|bnr|subj
+adapt|it|to
+director|bnr|nn
+director|foreign|mod
+director|currency|nn
+it|director|appo
+director|george mucibabici|person
+director|told|vrel
+told|director|obj1
+colloquium|recent|mod
+told|colloquium|obj2
+colloquium|euro|on
+euro|bucharest|in
+ruled|ministers|subj
+ruled|that|c
+san marino|vatican|conj
+vatican|and|punc
+vatican|monaco|conj
+entitled|san marino|obj
+entitled|use|mod
+use|san marino|subj
+use|euro|obj
+currency|their|gen
+currency|official|mod
+euro|currency|as
+will|not|neg
+issue|they|subj
+issue|banknotes|obj
+banknotes|or|punc
+banknotes|coins|conj
+issue|unless|mod
+unless|agreed|comp1
+agreed|they|subj
+agreed|conditions|to
+conditions|imposed|vrel
+imposed|conditions|obj
+imposed|by|by-subj
+imposed|eu|by
+membership|eu|nn
+is|prerequisite|pred
+prerequisite|adopting|for
+adopting|membership|subj
+adopting|euro|obj
+currency|national|mod
+euro|currency|as
+vasilescu|rr|nn
+vasilescu|/|nn
+vasilescu|sof|nn
+said|vasilescu|subj

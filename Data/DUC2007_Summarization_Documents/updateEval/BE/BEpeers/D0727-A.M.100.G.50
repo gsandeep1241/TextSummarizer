@@ -1,0 +1,61 @@
+papers|court|nn
+papers|filed|vrel
+filed|papers|obj
+filed|marietta|in
+marietta|where|wha
+lived|gingriches|subj
+show|papers|subj
+show|that|c
+gingrich|mrs.|title
+lawyers|gingrich|gen
+posed|lawyers|subj
+sets|32|num
+posed|sets|obj
+sets|questions|of
+questions|gingrich|to
+posed|including|mod
+including|lawyer|subj
+relationships|one|nn
+relationships|about|mod
+relationships|sexual|mod
+including|relationships|obj
+women|other|mod
+relationships|women|with
+congressman|former|mod
+congressman|10-term|mod
+congressman|marietta|from
+submitted|also|amod
+submitted|congressman|subj
+submitted|1987|guest
+agreement|separation|nn
+submitted|agreement|obj
+agreement|that|whn
+paid|agreement|subj
+months|alimony|nn
+six|over|num-mod
+months|six|amount-value
+gingrich $12,000|months|in
+accounts|couple|gen
+accounts|bank|nn
+accounts|furniture|conj
+furniture|and|punc
+furniture|cars|conj
+agreement|separation|nn
+called for|agreement|subj
+gingrich|mrs.|title
+called for|gingrich|obj
+gingrich|get|rel
+get|gingrich|subj
+get|$2,000|obj
+months|six|amount-value
+$2,000|months|for
+months|control|conj
+market|money|nn
+control|market|over
+market|and|punc
+accounts|checking|nn
+market|accounts|conj
+accounts|and|punc
+ford thunderbird|couple|gen
+ford thunderbird|1984|num
+accounts|ford thunderbird|conj

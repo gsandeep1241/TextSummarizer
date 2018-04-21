@@ -1,0 +1,167 @@
+found|end|toward
+end|1990 's|of
+found|china|subj
+found|itself|obj
+unrest|civil|mod
+protested|workers|subj
+cuts|job|nn
+protested|cuts|obj
+factories|state|nn
+cuts|factories|at
+factories|resulting|pnmod
+reforms|government-ordered|mod
+reforms|market|nn
+resulting|reforms|from
+protested|they|subj
+protested|late|guest
+payments|wage|nn
+protested|payments|obj
+protested|blaming|mod
+blaming|they|subj
+blaming|them|obj
+blaming|waste|on
+waste|and|punc
+waste|corruption|conj
+protested|they|subj
+efforts|privatization|nn
+protested|efforts|obj
+efforts|that|whn
+result|efforts|subj
+result|loss|in
+loss|jobs|of
+jobs|and|punc
+jobs|pensions|conj
+workers|farm|nn
+workers|rural areas|in
+protested|workers|subj
+efforts|reform|nn
+protested|efforts|obj
+indifference|official|mod
+efforts|indifference|conj
+indifference|and|punc
+indifference|corruption|conj
+drivers|taxi|nn
+protested|drivers|subj
+protested|higher|guest
+fees|government|nn
+protested|fees|obj
+protested|farmers|subj
+taxes|higher|mod
+protested|taxes|obj
+used|generally|mod-before
+used|government|subj
+used|police|obj
+police|put down|rel
+put down|police|subj
+put down|protests|obj
+were|reports|pred
+reports|that|c
+army|regular|nn
+put down|army|subj
+put down|protests|obj
+while|concerned|pnmod
+concerned|increasing|with
+unrest|labor|nn
+increasing|unrest|obj
+unrest|and|punc
+unrest|problems|conj
+stability|rural areas--|mod
+stability|domestic|mod
+problems|stability|in
+proclaimed|while|obj
+proclaimed|as|mod
+officials|china|gen
+officials|no.1|nn
+officials|priority--|mod
+officials|government|nn
+as|felt|comp1
+felt|officials|subj
+felt|that|c
+efforts|their|gen
+efforts|reform|nn
+handle|eventually|amod
+handle|efforts|subj
+handle|problems|obj
+raised|effort|in
+effort|reduce|comp1
+unrest|social|mod
+reduce|unrest|obj
+raised|government|subj
+raised|stipends|obj
+workers|unemployed|mod
+stipends|workers|for
+raised|raised|conj
+raised|government|subj
+raised|pensions|obj
+raised|and|punc
+raised|provided|conj
+provided|government|subj
+provided|funding|obj
+funding|retrain|rel
+retrain|funding|subj
+retrain|workers|obj
+efforts|other|mod
+imprisoned|efforts|in
+efforts|reduce|rel
+reduce|effort|subj
+reduce|unrest|obj
+imprisoned|authorities|subj
+imprisoned|activist|obj
+activist|involved|vrel
+involved|activist|obj
+involved|organizing|in
+organizing|authority|subj
+groups|independent|mod
+groups|worker|nn
+organizing|groups|obj
+groups|and|punc
+political parties|independent|mod
+political parties|democratic|mod
+groups|political parties|conj
+viewed|government|subj
+sect|buddhist|mod
+viewed|sect|obj
+sect|known|pnmod
+known|falun gong|as
+force|dangerous|mod
+force|political|mod
+falun gong|force|as
+banned|it|subj
+banned|group|obj
+banned|and|punc
+banned|arrested|conj
+arrested|it|subj
+arrested|members|obj
+imprisoned|also|mod-before
+imprisoned|they|subj
+dissidents|political|mod
+political|and|punc
+political|religious|conj
+imprisoned|dissidents|obj
+faiths|minority|nn
+imposed|restrictions|obj
+imposed|press|on
+region|far|mod
+region|west|nn
+region|china|of
+experienced|region|subj
+experienced|attacks|obj
+separatists|muslim|nn
+attacks|separatists|by
+cracked down on|government|subj
+cracked down on|attackers|obj
+attackers|seeking|while
+seeking|government|subj
+seeking|improve|mod
+improve|relations|obj
+independent|newly|mod
+nations|independent|mod
+nations|central|mod
+nations|asian|nn
+relations|nations|with
+seeking|and|punc
+seeking|getting|conj
+getting|government|subj
+getting|them|obj
+getting|support|mod
+support|separatists|obj

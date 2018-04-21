@@ -1,0 +1,64 @@
+organization|anti-government|mod
+organization|student|nn
+is|organization|pred
+organization|operating|rel
+operating|organization|subj
+sine|myanmar-thai|nn
+sine|border|nn
+operating|sine|on
+operating|november 1988|mod
+official|latest|mod
+disclosure|official|mod
+made|disclosure|according to
+groups|15|num
+groups|anti-government|mod
+groups|ethnic|mod
+groups|armed|mod
+total|groups|of
+made|total|subj
+made|peace|obj
+peace|government|with
+made|leaving|mod
+leaving|total|subj
+one|only|mod
+leaving|one|obj
+one|knu|appo
+leaving|still|mod
+still|insurgency|in
+looking at|events|obj
+events|last week|of
+adopting|rather|mod-before
+rather|heeding|than
+heeding|government|subj
+heeding|call|obj
+call|dialogue|for
+adopting|instead|amod
+adopting|government|subj
+confrontational|more|mod
+attitude|confrontational|mod
+adopting|attitude|obj
+adopting|'|punc
+adopting|'|punc
+said|wiedemann|subj
+adopting|said|mod
+launched|november|in
+slorc|'96|nn
+launched|slorc|subj
+campaign|tourism|nn
+launched|campaign|obj
+campaign|called|vrel
+called|campaign|obj1
+called|`|punc
+called|`|punc
+suu kyi|visit myanmar year|nn
+suu kyi|'|punc
+suu kyi|'|punc
+called|suu kyi|desc
+appears|government|subj
+be|more|pred
+more|interested|pnmod
+interested|stamping out|in
+activity|political|mod
+stamping out|activity|obj
+addiction|drug|nn
+activity|addiction|than

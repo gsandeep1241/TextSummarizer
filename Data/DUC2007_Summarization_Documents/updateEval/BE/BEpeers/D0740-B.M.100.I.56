@@ -1,0 +1,65 @@
+piccard|and|punc
+piccard|jones|conj
+flying|piccard|subj
+mph|55|num
+flying|mph|at
+mph|altitude|at
+british|26200|num
+british|feet|nn
+altitude|british|of
+colin prescot|balloonists|nn
+colin prescot|and|punc
+colin prescot|andy elson|conj
+british|gave up|rel
+gave up|british|obj
+gave up|colin prescot|subj
+gave up|pacific|over
+pacific|last|vrel
+last|pacific|obj
+last|sunday|mod
+last|having|after
+having|colin prescot|subj
+having|detour|fc
+detour|south|mod
+detour|because|mod
+because|lacked|comp1
+lacked|they|subj
+permission|chinese|nn
+lacked|permission|obj
+team|swiss-english|nn
+team|balloon|nn
+300|about|num-mod
+miles|300|amount-value
+was|miles|pred
+miles|jamaica|from
+night|late|mod
+night|wednesday|nn
+was|night|mod
+balloon|breitling|nn
+faced|balloon|subj
+problems|staggering|mod
+faced|problems|obj
+problems|get|rel
+get|problem|subj
+get|this|obj
+get|far|mod
+today|early|mod
+chances|jones|of
+jones|and|punc
+jones|piccard|conj
+piccard|flying|rel
+flying|piccard|subj
+flying|all the way|mod
+pyramids|egypt|gen
+all the way|pyramids|to
+pyramids|jones|as
+today|hoped|rel
+hoped|chances|subj
+hoped|do|fc
+do|today|obj
+do|chance|subj
+improbable|quite|mod
+smith|improbable|mod
+smith|'|punc
+smith|'|punc
+said|smith|subj

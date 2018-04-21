@@ -1,0 +1,66 @@
+pilots bertrand piccard|switzerland|from
+switzerland|and|punc
+switzerland|wim verstraeten|conj
+wim verstraeten|belgium|from
+departed|plus|mod-before
+andy elson|flight engineer|nn
+departed|andy elson|plus
+andy elson|britain|from
+departed|pilots bertrand piccard|subj
+'oex|chateau|nn
+'oex|d|mod
+departed|'oex|from
+switzerland|western|mod
+departed|switzerland|in
+ii|breitling|nn
+ii|orbiter|nn
+be|ii|aboard
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first|obj
+first|pilot|rel
+pilot|first|subj
+pilot|balloon|obj
+balloon|world|around
+pilot|nonstop|mod
+bid|piccard|gen
+bid|last|post
+bid|round-the-world|mod
+abandoned|bid|obj
+abandoned|after|mod
+after|refused|comp1
+refused|china|subj
+refused|his|obj1
+entry|balloon|nn
+refused|entry|obj2
+abandoned|causing|mod
+causing|bid|subj
+causing|it|obj
+causing|miss|mod
+miss|out|mod
+winds|jet-stream|nn
+out|winds|on
+winds|needed|vrel
+needed|winds|obj
+needed|speed|mod
+speed|it|obj
+speed|pacific|over
+teams|four|nn
+teams|other|mod
+are|including|mod-before
+including|team|subj
+including|combination|obj
+richard branson|virgin|mod
+richard branson|boss|mod
+combination|richard branson|of
+richard branson|and|punc
+steve fossett|chicago|nn
+steve fossett|millionaire|nn
+richard branson|steve fossett|conj
+are|also|guest
+bids|planning|nn
+are|bids|pred
+bids|record|for

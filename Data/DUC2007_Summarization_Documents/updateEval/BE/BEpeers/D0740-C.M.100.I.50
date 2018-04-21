@@ -1,0 +1,60 @@
+gathered|station|at
+tokyo|central|mod
+station|tokyo|in
+workers|30|num
+workers|subway|nn
+tokyo|workers|conj
+workers|and|punc
+workers|dozen|conj
+relatives|victims|gen
+gathered|relatives|subj
+gathered|and|punc
+gathered|offered|conj
+offered|relatives|subj
+prayers|their|gen
+offered|prayers|obj
+prayers|8 a.m. local time|at
+offered|time|mod
+time|that|c
+cult|aum shinri kyo|nn
+cult|doomsday|nn
+members|cult|of
+released|members|subj
+gas|poisonous|mod
+released|gas|obj
+lines|five|nn
+lines|tokyo|nn
+lines|subway|nn
+gas|lines|on
+lines|1995|in
+balloon|big|mod
+balloon|which|whn
+completed|balloon|subj
+flight|its|gen
+flight|epochal|mod
+completed|flight|obj
+flight|march 21|on
+offered|balloon|obj1
+offered|berth|obj2
+berth|museum|at
+offered|taking|mod
+taking|balloon|subj
+place|its|gen
+taking|place|obj
+place|host|with
+aircraft|other|mod
+aircraft|famous|mod
+host|aircraft|of
+taking|including|mod
+airplane|voyager|nn
+including|airplane|obj
+airplane|which|whn
+which|1986|in
+completed|airplane|subj
+nonstop flight|first|post
+nonstop flight|unrefueled|mod
+completed|nonstop flight|obj
+made|ever|amod
+nonstop flight|made|vrel
+made|nonstop flight|obj
+made|world|around

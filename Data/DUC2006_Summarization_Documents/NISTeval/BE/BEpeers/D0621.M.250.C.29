@@ -1,0 +1,144 @@
+police|chinese|nn
+solved|police|subj
+number|significant|mod
+solved|number|obj
+number|cases|of
+cases|involving|rel
+involving|case|subj
+offenses|major|mod
+offenses|criminal|mod
+involving|offenses|obj
+involving|start|since
+campaign|nationwide|mod
+campaign|anti-crime|mod
+start|campaign|of
+campaign|april 28|on
+said|report|in
+session|ongoing|mod
+report|session|to
+session|npc standing committee|of
+said|he|subj
+governments|local|nn
+maintaining|basically|amod
+said|maintaining|fc
+maintaining|governments|subj
+stability|social|mod
+maintaining|stability|obj
+maintaining|and|punc
+maintaining|causing|conj
+causing|governments|subj
+causing|people|obj
+people|feel|rel
+feel|people|subj
+feel|safer|desc
+safer|employing|by
+employing|measures|obj
+measures|years|for
+years|mobilize|rel
+mobilize|year|subj
+forces|community|mod
+mobilize|forces|obj
+mobilize|and|punc
+mobilize|help|conj
+help|year|subj
+prevent|police|subj
+prevent|crime|obj
+theme|effective regional cooperation|of
+prevention|crime|nn
+effective regional cooperation|prevention|in
+prevention|and|punc
+justice|crime|nn
+prevention|justice|conj
+millennium|next|post
+justice|millennium|in
+discuss|and|punc
+discuss|foster|conj
+foster|strategies|obj
+strategies|and|punc
+approaches|viable|mod
+strategies|approaches|conj
+prevention|crime|nn
+approaches|prevention|on
+center|charges|subj
+center|killing|around
+businessman|mainland|nn
+businessman|chinese|nn
+killing|businessman|of
+businessman|and|punc
+resident|hong kong|nn
+businessman|resident|conj
+businessman|armed robberies|appo
+center|smuggling|mod
+smuggling|charge|subj
+smuggling|explosives|obj
+explosives|hong kong|into
+hong kong|and|punc
+hong kong|kidnapping|conj
+businessmen|two|nn
+businessmen|hong kong|nn
+kidnapping|businessmen|of
+smuggling|for|mod
+china|more than 1.6 billion hong kong dollars|nn
+china|u.s.|nn
+for|striking|comp1
+striking|china|subj
+striking|hard|desc
+crime|violent|mod
+hard|crime|against
+striking|focusing on|mod
+focusing on|china|subj
+focusing on|wiping out|mod
+wiping out|those|obj
+those|endangering|rel
+endangering|those|subj
+security|social|nn
+endangering|security|obj
+security|and|punc
+order|public|mod
+security|order|conj
+smuggling|gun|nn
+crackdown|smuggling|on
+part|major|mod
+is|part|pred
+campaign|"|punc
+campaign|anti-crime|mod
+part|campaign|of
+campaign|"|punc
+campaign|launched|vrel
+launched|campaign|obj
+launched|by|by-subj
+police|chinese|nn
+launched|police|by
+enclave|which|whn
+has|enclave|subj
+has|population|obj
+450,000|about|mod
+population|450,000|of
+revert|enclave|subj
+rule|chinese|nn
+revert|rule|to
+rule|december 1999|in
+'s|gang|pred
+gang|called|vrel
+called|gang|obj1
+called|14k|desc
+is|suspected|pred
+suspected|drive-by shootings|of
+bombings|car|nn
+drive-by shootings|bombings|conj
+bombings|and|punc
+assassinations|attempted|mod
+bombings|assassinations|conj
+officials|public|mod
+assassinations|officials|of
+tried|prosecutors|subj
+tried|him|obj
+serious|less|mod
+charges|serious|mod
+tried|charges|on
+charges|which|whn
+carried|charges|subj
+sentence|maximum|mod
+carried|sentence|obj
+years|15|amount-value
+sentence|years|of

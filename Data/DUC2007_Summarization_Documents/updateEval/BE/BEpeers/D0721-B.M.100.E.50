@@ -1,0 +1,60 @@
+said|jeremy herrera|subj
+said|arguing|fc
+arguing|mckinney|subj
+arguing|emiliano morales iii|with
+arguing|when|wha
+went|mckinney|subj
+truck|his|gen
+went|truck|to
+went|pulled out|conj
+pulled out|mckinney|subj
+pulled out|gun|obj
+pulled out|and|punc
+pulled out|hit|conj
+hit|mckinney|subj
+hit|morales|obj
+times|beaten|mod
+20|more than|num-mod
+times|20|amount-value
+was|times|pred
+times|head|on
+handgun|a.357-magnum|mod
+head|handgun|with
+handgun|tied|vrel
+tied|handgun|obj
+tied|fence|to
+road|isolated|mod
+road|prairie|nn
+fence|road|on
+tied|and|punc
+tied|left|conj
+left|handgun|obj
+left|die|mod
+die|shepard|subj
+alternates|12 and four|nn
+jury|alternates|of
+heard|jury|subj
+rationale|different|mod
+heard|rationale|obj
+rationale|killing|for
+killing|cal rerucha|from
+cal rerucha|prosecutor|conj
+prosecutor|albany county|for
+albany county|who|whn
+said|albany county|subj
+said|mckinney|obj
+albany county|and|punc
+albany county|friend|conj
+cal rerucha|russell henderson|appo
+intended|fully|mod-before
+russell henderson|intended|vrel
+murder|russell henderson|subj
+murder|shepard|obj
+shepard|kidnapping|after
+kidnapping|jury|subj
+kidnapping|him|obj
+kidnapping|and|punc
+kidnapping|robbing|conj
+robbing|jury|subj
+robbing|him|obj
+robbing|$20|of

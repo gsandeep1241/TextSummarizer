@@ -1,0 +1,61 @@
+car|old|mod
+car|dressed up|vrel
+dressed up|car|obj
+dressed up|look|mod
+lizard|frill-necked|mod
+look|lizard|like
+blocked|car|subj
+blocked|entrance|obj
+site|jabiluka|nn
+site|uranium|nn
+site|mine|nn
+entrance|site|to
+site|borders|inside
+borders|kakadu national park|of
+attack|firebomb|nn
+attack|carried out|vrel
+carried out|attack|obj
+jabiluka|australia|gen
+carried out|jabiluka|on
+mine|attack|subj
+mine|company|obj
+investigates|u.n.team|subj
+mine|claims|nn
+mine|uranium|nn
+investigates|threatens|fc
+threatens|mine|subj
+threatens|park|obj
+says|company|subj
+record|its|gen
+record|good|mod
+record|environmental|mod
+mine|existing|mod
+mine|ranger|nn
+record|mine|at
+says|shows|fc
+shows|record|subj
+project|jabiluka|nn
+shows|poses|fc
+poses|project|subj
+poses|threat|obj
+mine|uranium|nn
+threaten|mine|subj
+sites|archaeological|mod
+threaten|sites|obj
+sites|u.n.delegations|appo
+says|u.n.panel|subj
+mine|uranium|nn
+says|stopped|fc
+stopped|mine|obj
+committee|united nations world heritage|nn
+called for|committee|subj
+called for|scrapping|obj
+mine|proposed|mod
+mine|jabiluka|nn
+mine|uranium|nn
+scrapping|mine|of
+northern territory|australia|gen
+mine|northern territory|in
+faces|australia|subj
+faces|embarrassment|obj
+faces|over|mod

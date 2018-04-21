@@ -1,0 +1,143 @@
+percentage|good|mod
+population|prison|gen
+population|criminal|mod
+percentage|population|of
+fit|percentage|subj
+fit|criteria|obj
+criteria|antisocial personality disorder|for
+people|more|mod
+recognized|people|subj
+recognized|that|c
+illnesses|real|mod
+are|illnesses|pred
+likely|less|mod
+were|have|pred
+have|misperceptions|obj
+have|about|mod
+causes|their|gen
+causes|root|mod
+causes|and|punc
+causes|more|conj
+more|likely|pnmod
+were|believe|pred
+believe|that|c
+treatments|medical|mod
+medical|and|punc
+medical|psychological|conj
+work|treatments|subj
+disorder|panic|nn
+is|one|pred
+one|anxiety disorders|of
+anxiety disorders|which|whn
+include|anxiety disorders|subj
+disorder|post-traumatic|mod
+disorder|stress|nn
+include|disorder|obj
+disorder|and|punc
+disorder|obsessive-compulsive|mod
+disorder|disorder|conj
+said|hyman|subj
+said|that|c
+spend|national institute of mental health|subj
+spend|$6 million|obj
+five|next|num-mod
+years|five|amount-value
+$6 million|years|in
+years|study|rel
+study|years|subj
+study|whether|c
+was|safe|pred
+safe|and|punc
+safe|effective|conj
+effective|treating|in
+treating|ritalin|subj
+treating|preschoolers|obj
+traits|impulsive|mod
+traits|aggressive|mod
+traits|behavior|nn
+preschoolers|traits|with
+traits|known|pnmod
+disorder|attention|nn
+disorder|deficit|nn
+disorder|hyperactivity|nn
+known|disorder|as
+disorder|_|punc
+commonly|most|mod
+diagnosed|commonly|mod
+disorder|diagnosed|mod
+disorder|psychiatric|mod
+disorder|disorder|appo
+disorder|children|in
+drugs|common|mod
+drugs|anti-depressant|mod
+drugs|prozac|like
+used|also|amod
+prozac|used|vrel
+used|prozac|obj
+used|treat|mod
+treat|humans|obj
+humans|obsessive compulsive disorder|with
+given|sometimes|amod
+given|drugs|obj
+given|bored|fc
+bored|drug|subj
+bored|animals|obj
+animals|that|whn
+have|animals|subj
+behavior|ocd-like|mod
+have|behavior|obj
+surgeries|similar|mod
+tried|surgeries|obj
+tried|successfully|mod
+pain|chronic|mod
+successfully|pain|for
+pain|and|punc
+pain|depression|conj
+addition|verbalizing|to
+thanks|her|gen
+each day|frequently|mod
+brown|each day|mod-before
+addition|brown|rel
+brown|addition|obj
+brown|thanks|subj
+says|addition|subj
+says|tries|fc
+tries|she|subj
+tries|abide|fc
+abide|she|subj
+rule|related|mod
+abide|rule|by
+allow|kind|obj
+thought|inf|subj
+thought|go|mod
+go|unspoken|desc
+males|-dressing|nn
+categorized|however|mod-before
+categorized|still|amod
+categorized|males|obj
+categorized|as|mod
+ill|mentally|mod
+categorized|if|c
+exhibit|they|subj
+exhibit|signs|obj
+signs|transvestic fetishism|of
+professor|assistant|nn
+arthur brody|professor|appo
+professor|psychiatry|of
+psychiatry|ucla|at
+did|recently|amod
+did|arthur brody|subj
+study|similar|mod
+did|study|obj
+study|group|on
+patients|depressed|mod
+group|patients|of
+suggests|dsm|subj
+be|itself|pred
+suggests|be|fc
+be|symptom|pred
+symptom|disorder|of
+disorder|called|vrel
+called|disorder|obj1
+called|-compliance|desc
+-compliance|treatment|with

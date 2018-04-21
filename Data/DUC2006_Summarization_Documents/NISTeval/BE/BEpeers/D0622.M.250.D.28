@@ -1,0 +1,142 @@
+knows|one|subj
+knows|carry|fc
+carry|birds|subj
+carry|virus|obj
+virus|which|whn
+is|similar|pred
+virus|west nile|nn
+similar|virus|to
+virus|africa|of
+encephalitis|west nile|nn
+passed|encephalitis|obj
+passed|person|from
+person|person|to
+to|or|punc
+to|from|conj
+to|birds|from
+birds|people|to
+pass through|virus|subj
+pass through|mosquito|obj
+virus|believed|vrel
+believed|virus|obj
+be|west nile|pred
+found|virus|obj
+birds|dead|mod
+found|birds|in
+region|metropolitan|mod
+birds|region|in
+said|reynolds|subj
+virus|west nile|nn
+found|usually|amod
+said|found|fc
+found|virus|obj
+found|africa|in
+africa|and|punc
+africa|europe|conj
+before|never|mod
+found|before|mod
+before|united states|in
+strain|west nile|nn
+strain|virus|of
+found|strain|obj
+crows|dead|mod
+found|crows|in
+area|new york|nn
+crows|area|in
+virus|west nile|nn
+before|never|mod
+recorded|before|mod-before
+virus|recorded|vrel
+recorded|virus|obj
+recorded|hemisphere|in
+entered|probably|mod-before
+entered|virus|subj
+entered|united states|obj
+birds|infected|mod
+united states|birds|in
+season|first|post
+workers|county|mod
+workers|health|nn
+test|routinely|mod-before
+test|workers|subj
+blood|chicken|mod
+test|blood|obj
+virus|west nile|nn
+blood|virus|for
+virus|west nile|nn
+killed|virus|subj
+killed|crows|obj
+crows|sparrows|conj
+sparrows|and|punc
+birds|predatory|mod
+sparrows|birds|conj
+birds|hawks|such as
+hawks|and|punc
+hawks|eagles|conj
+virus|west nile|nn
+had|virus|subj
+had|only|guest
+impact|one|nn
+had|impact|obj
+impact|county|on
+setting up|season|as
+approaches|encephalitis|nn
+season|approaches|for
+workers|florida|nn
+workers|public|mod
+workers|health|nn
+setting up|workers|subj
+setting up|surveillance|obj
+surveillance|mosquito|for
+mosquito|borne|vrel
+borne|mosquito|obj1
+virus|west nile|nn
+virus|encephalitis|nn
+borne|virus|obj2
+virus|west nile|nn
+is|mosquito|pred
+mosquito|borne|vrel
+borne|mosquito|obj1
+borne|virus|obj2
+virus|that|whn
+cause|virus|subj
+cause|encephalitis|obj
+encephalitis|or|punc
+encephalitis|inflammation|conj
+inflammation|brain|of
+encephalitis|a. west nile|nn
+is|infection|pred
+infection|brain|of
+brain|caused|vrel
+caused|brain|obj
+caused|by|by-subj
+virus|west nile|nn
+caused|virus|by
+virus|which|whn
+found|commonly|amod
+found|virus|obj
+found|africa|in
+africa|west asia|conj
+west asia|and|punc
+west asia|middle east|conj
+mosquitoes|feeding on|rel
+feeding on|mosquito|subj
+feeding on|birds|obj
+birds|infected|vrel
+infected|birds|obj
+virus|west nile|nn
+infected|virus|with
+become|mosquitoes|subj
+become|carriers|obj
+carriers|virus|of
+become|and|punc
+become|infect|conj
+infect|mosquitoes|subj
+infect|animals|obj
+animals|bite|rel
+bite|animals|obj
+bite|insects|subj
+bite|subsequently|mod
+bite|including|mod
+including|insect|subj
+including|humans|obj

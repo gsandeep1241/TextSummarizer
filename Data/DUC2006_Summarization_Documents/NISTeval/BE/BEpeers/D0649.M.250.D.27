@@ -1,0 +1,133 @@
+time|first|post
+be|time|for
+revolution|1917|num
+time|revolution|since
+head of state|next|post
+head of state|russia|in
+be|person|pred
+person|born|vrel
+born|person|obj
+putin|capital|mod
+putin|city_in|nn
+case|putin|gen
+born|case|in
+born|leningrad|in
+leningrad|oct 7 , 1952|on
+president|russian|mod
+president|boris yeltsin|person
+president|monday|on
+announced|president|subj
+announced|that|c
+wanted|he|subj
+vladimir putin|acting|mod
+vladimir putin|prime minister|title
+wanted|vladimir putin|obj
+vladimir putin|succeed|rel
+succeed|vladimir putin|subj
+succeed|him|obj
+president|russia|gen
+president|next|post
+succeed|president|as
+elections|next|post
+elections|summer|nn
+president|elections|in
+president|russian|mod
+announcement|president|gen
+president|boris yeltsin|person
+announcement|resign|rel
+resign|friday|subj
+announcement|and|punc
+announcement|name|conj
+president|acting|mod
+name|president|as
+surprised|announcement|subj
+surprised|nation|obj
+say|many|subj
+say|further|fc
+further|move|subj
+putin|boost|nn
+chance|putin|gen
+further|chance|obj
+chance|winning|of
+winning|move|subj
+race|presidential|mod
+winning|race|obj
+sworn in|vladimir putin|obj
+sworn in|as|mod
+as|'s|comp1
+president|second|post
+'s|president|pred
+president|breakup|since
+breakup|soviet union|of
+ceremony|official|mod
+soviet union|ceremony|in
+ceremony|kremlin|in
+'s|sunday|mod
+re-election|following yeltsin|gen
+re-election|1996|in
+career|putin|gen
+took off|career|subj
+sergei stepashin|former|mod
+sergei stepashin|prime minister|title
+expressed|also|mod-before
+expressed|sergei stepashin|subj
+expressed|belief|obj
+belief|that|c
+resignation|yeltsin|gen
+pave|resignation|subj
+pave|way|obj
+race|putin|gen
+way|race|for
+race|kremlin|into
+ran|summer|in
+summer|1996|of
+ran|putin|subj
+campaign|sobchak|gen
+campaign|election|nn
+ran|campaign|obj
+ran|and|punc
+sued|also|mod-before
+ran|sued|conj
+sued|putin|subj
+sued|alexander belyayev|obj
+alexander belyayev|who|whn
+was|then|guest
+was|chairman|pred
+chairman|assembly|of
+president|russian|mod
+president|acting|mod
+vladimir putin|prime minister|title
+will|not|neg
+leave|vladimir putin|subj
+leave|russia|obj
+russia|visit|for
+leave|before|mod
+election|presidential|mod
+election|scheduled|pnmod
+scheduled|march 26|for
+before|said|comp1
+said|election|subj
+official|top|mod
+official|kremlin|nn
+said|official|obj
+official|tuesday|person
+spending|candidate|for
+candidate|who|whn
+insists|candidate|subj
+insists|'s|fc
+busy|too|mod
+'s|busy|pred
+being|president|pred
+president|campaign|rel
+campaign|president|subj
+spending|vladimir putin|subj
+spending|lot|obj
+lot|time|of
+lot|road|on
+spending|running|mod
+running|vladimir putin|subj
+running|one|obj
+russians|slickest|mod
+russians|election|nn
+russians|campaigns|nn
+one|russians|of

@@ -1,0 +1,59 @@
+success|ratings|nn
+been|success|pred
+success|launching|since
+launching|winfrey|subj
+launching|oprah winfrey show|obj
+oprah winfrey show|september 1986|in
+mother|boy|gen
+but|told|comp1
+told|mother|subj
+show|tv|nn
+told|show|obj
+fear|my|gen
+fear|only|mod
+what if|likes|comp1
+likes|he|subj
+likes|hell|obj
+took|oprah winfrey|subj
+show|her|gen
+took|show|obj
+show|bahamas|to
+bahamas|week|for
+david|and|punc
+david|lisa|conj
+comes from|david|subj
+comes from|oprah winfrey|obj
+oprah winfrey|who|whn
+joins|oprah winfrey|subj
+audience|her|gen
+joins|audience|with
+therapy|group|nn
+audience|therapy|in
+therapy|which|whn
+is|not|neg
+is|one|pred
+roles|her|gen
+roles|better|mod
+one|roles|of
+approach|film|gen
+key|approach|to
+comes|key|subj
+winfrey|ms.|title
+introduction|winfrey|gen
+comes|introduction|in
+oprah winfrey|london|nn
+oprah winfrey|(|punc
+oprah winfrey|ap|nn
+oprah winfrey|)|punc
+fed|oprah winfrey|obj
+fed|up|mod
+up|sleaze|with
+jerry springer|daytime|mod
+jerry springer|television|nn
+rival|especially|mod
+jerry springer|rival|mod
+show|jerry springer|gen
+sleaze|show|on
+fed|and|punc
+fed|is|conj
+is|ready|pred

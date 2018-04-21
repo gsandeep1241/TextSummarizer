@@ -1,0 +1,66 @@
+government|australian|mod
+year|next|post
+year|try|rel
+try|year|subj
+try|stop|fc
+stop|united nations|obj
+united nations|declaring|from
+declaring|kakadu national park|obj
+kakadu national park|endangered|vrel
+endangered|kakadu national park|obj
+mine|jabiluka|nn
+mine|uranium|nn
+endangered|mine|because of
+is|almost|guest
+miles|12,000|num
+miles|square|nn
+is|miles|pred
+miles|(|punc
+kilometers|31,000|num
+kilometers|square|mod
+miles|kilometers|appo
+kilometers|)|punc
+floodplains|pristine|mod
+kilometers|floodplains|of
+floodplains|and|punc
+floodplains|plateau|conj
+coast|australia|gen
+coast|north|mod
+plateau|coast|on
+waterfalls|spectacular|mod
+incorporating|waterfalls|obj
+125-mile|towering|mod
+125-mile|(|punc
+escarpment|200-kilometer|nn
+escarpment|)|punc
+escarpment|sandstone|nn
+125-mile|escarpment|appo
+escarpment|and|punc
+escarpment|hundreds|conj
+species|animal|mod
+hundreds|species|of
+including|125-mile|subj
+including|many|obj
+many|that|whn
+are|rare|pred
+are|or|punc
+are|endangered|conj
+endangered|many|obj
+report|world heritage committee|nn
+found|report|subj
+mine|jabiluka|nn
+mine|uranium|nn
+found|threatened|fc
+threatened|mine|subj
+area|surrounding|mod
+area|kakadu world heritage|nn
+threatened|area|obj
+threatened|and|punc
+threatened|raised|conj
+raised|mine|subj
+raised|prospect|obj
+prospect|kakadu|of
+kakadu|placed|rel
+list|committee|gen
+list|endangered|mod
+placed|list|on

@@ -1,0 +1,150 @@
+experts|top|mod
+experts|medical|mod
+flown|experts|subj
+northeastern province|kenya|gen
+flown|northeastern province|to
+northeastern province|investigate|rel
+investigate|northeastern province|subj
+disease|mysterious|mod
+investigate|disease|obj
+disease|which|whn
+claimed|disease|subj
+160|over|num-mod
+claimed|lives|fc
+lives|160|subj
+days|last|post
+days|four|amount-value
+lives|days|in
+press|local|mod
+days|press|appo
+press|reported|vrel
+reported|press|obj
+reported|today|mod
+press|local|mod
+quoted|press|subj
+quoted|james mwanzia|obj
+james mwanzia|director|appo
+director|medical services|of
+saying|press|subj
+saying|tuesday|guest
+saying|that|c
+listed|experts|subj
+diseases|12|num
+diseases|possible|mod
+listed|diseases|obj
+diseases|including|rel
+including|disease|subj
+including|yellow|obj
+yellow|and|punc
+fevers|valley|nn
+yellow|fevers|conj
+fever|marburg|nn
+fevers|fever|conj
+fever|and|punc
+malaria|severe|mod
+fever|malaria|conj
+said|mwanzia|subj
+said|that|c
+disease|which|whn
+kill|disease|subj
+kill|people|obj
+hours|36|amount-value
+people|hours|within
+be|mix|pred
+mix|malaria|of
+malaria|and|punc
+malaria|dysentery|conj
+phenomenon|el nino|nn
+phenomenon|weather|mod
+caused|phenomenon|by
+phenomenon|and|punc
+spell|warm|mod
+phenomenon|spell|conj
+spell|which|whn
+followed|spell|subj
+said|that|c
+threat|aids|nn
+reached|threat|subj
+proportions|disaster|nn
+reached|proportions|obj
+with|both|punc
+organizations|private|mod
+private|and|punc
+private|public|conj
+proportions|organizations|with
+organizations|incurring|rel
+incurring|organization|subj
+incurring|costs|obj
+high|200 million shillings|as
+200 million shillings|(|punc
+2.7 million|about|num-mod
+dollars|2.7 million|nn
+dollars|u.s.|nn
+200 million shillings|dollars|appo
+dollars|)|punc
+dollars|daily|pnmod
+expenses|hiv/aids-related|mod
+daily|expenses|on
+kenyan|more|mod
+risk|kenyan|mod
+risk|contracting|rel
+contracting|risk|subj
+disease|dreaded|mod
+disease|aids|nn
+contracting|disease|obj
+contracting|if|c
+are|not|neg
+taken|measures|obj
+taken|prevent|mod
+prevent|measure|subj
+prevent|spread|obj
+newspaper|pandemic|mod
+newspaper|kenya times|nn
+spread|newspaper|of
+quoted|thursday|mod-before
+newspaper|quoted|vrel
+quoted|newspaper|obj1
+quoted|official|obj2
+official|saying|as
+are|highly|guest
+are|suffering|pred
+suffering|communicable diseases|from
+communicable diseases|and|punc
+communicable diseases|illnesses|conj
+illnesses|related|vrel
+related|illnesses|obj
+deficiencies|food|nn
+related|deficiencies|to
+pointed|he|subj
+pointed|out|mod
+pointed|saying|mod
+saying|he|subj
+saying|that|c
+malaria|tuberculosis|conj
+tuberculosis|and|punc
+diseases|diarrhoeal|mod
+tuberculosis|diseases|conj
+controled|malaria|obj
+controled|if|c
+strategies|proper|mod
+proper|and|punc
+proper|agreeable|conj
+strategies|inter-country|nn
+strategies|collaborative|mod
+strategies|regarding|rel
+regarding|strategy|subj
+diseases|above|mod
+diseases|mentioned|mod
+regarding|diseases|obj
+drawn|strategies|obj
+conference|health|nn
+organized|conference|obj
+organized|by|by-subj
+ministry of health|ethiopian|mod
+organized|ministry of health|by
+ministry of health|collaboration|in
+collaboration|directorate|with
+directorate|general|pnmod
+general|development|for
+development|cooperation|of
+cooperation|italy|of

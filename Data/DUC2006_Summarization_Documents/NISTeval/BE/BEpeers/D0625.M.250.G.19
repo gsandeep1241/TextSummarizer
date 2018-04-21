@@ -1,0 +1,133 @@
+malaria|and|punc
+aids|hiv|nn
+aids|/|nn
+malaria|aids|conj
+diseases|leading|mod
+diseases|killer|nn
+are|diseases|pred
+diseases|kenya|in
+nairobi|october 23|appo-mod
+nairobi|(|punc
+one|xinhua|nn
+one|)|punc
+nairobi|one|appo
+children|10|num
+one|children|out of
+dies|kenya|nn
+children|dies|in
+diseases|preventable|mod
+dies|diseases|of
+diseases|age|before
+age|five|of
+newspaper|east african standard|nn
+five|newspaper|appo
+newspaper|reported|vrel
+reported|newspaper|obj
+reported|today|mod
+xinhua|april 26|nn
+xinhua|(|punc
+nairobi|xinhua|appo
+xinhua|)|punc
+director|world health organization|nn
+who|(|punc
+world health organization|who|abbrev
+who|)|punc
+director|regional|mod
+ibrahim samba|africa|nn
+ibrahim samba|dr|title
+director|ibrahim samba|for
+xinhua|said|rel
+said|director|subj
+malaria|diarrhea|conj
+diarrhea|respiratory diseases|conj
+respiratory diseases|and|punc
+respiratory diseases|malnutrition|conj
+killers|major|mod
+are|killers|pred
+killers|african|of
+said|people|fc
+people|xinhua|obj
+people|fin|subj
+xinhua|november 11|nn
+xinhua|(|punc
+nairobi|xinhua|appo
+beds|hospital|nn
+80 percent|beds|of
+hospitals|kenya|gen
+hospitals|government|nn
+beds|hospitals|in
+occupied|80 percent|obj
+occupied|by|by-subj
+patients|aids|nn
+occupied|patients|by
+official|senior|mod
+official|health|nn
+said|official|subj
+noted|wilson|subj
+noted|that|c
+reduce|kenyans|subj
+reduce|sexually transmitted diseases|obj
+reduced|aids|obj
+reduced|by|by-subj
+40|at least|num-mod
+reduced|40|by
+country|eastern|mod
+country|african|nn
+but|deteriorate|comp1
+deteriorate|things|subj
+deteriorate|onset|with
+onset|rains|of
+director|kenya|gen
+director|medical service richard muga|of
+quoted|director|obj
+quoted|saying|as
+saying|thursday|on
+case|first|post
+case|aids|of
+since|discovered|comp1
+discovered|case|obj
+discovered|kenya|in
+kenya|1984|in
+30 million|over|num-mod
+kenyans|30 million|nn
+1.9 million|kenyans|of
+affected|1.9 million|obj
+affected|by|by-subj
+affected|virus|by
+kenyan|more|mod
+risk|kenyan|mod
+risk|contracting|rel
+contracting|risk|subj
+disease|dreaded|mod
+disease|aids|nn
+contracting|disease|obj
+contracting|if|c
+are|not|neg
+taken|measures|obj
+taken|prevent|mod
+prevent|measure|subj
+prevent|spread|obj
+newspaper|pandemic|mod
+newspaper|kenya times|nn
+spread|newspaper|of
+quoted|thursday|mod-before
+newspaper|quoted|vrel
+quoted|newspaper|obj1
+quoted|official|obj2
+official|saying|as
+director|philip okundi|person
+director|kenya bureau of standards|of
+said|director|subj
+said|here|mod
+said|wednesday|mod
+wednesday|that|whn
+imported|effect|with
+effect|october 1|from
+october 1|year|appo
+imported|wednesday|subj
+items|used|mod
+imported|items|obj
+items|which|whn
+do|not|neg
+meet|items|subj
+meet|requirements|obj

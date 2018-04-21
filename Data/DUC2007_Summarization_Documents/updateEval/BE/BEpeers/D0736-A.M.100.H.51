@@ -1,0 +1,57 @@
+success|ratings|nn
+been|success|pred
+success|launching|since
+launching|winfrey|subj
+launching|`|punc
+launching|`|punc
+launching|oprah winfrey show|obj
+oprah winfrey show|'|punc
+oprah winfrey show|'|punc
+oprah winfrey show|september 1986|in
+daytime emmys|its|gen
+daytime emmys|32|num
+challenged|daytime emmys|despite
+challenged|recently|mod-before
+challenged|it|obj
+challenged|ratings|in
+by|`|punc
+by|`|punc
+ratings|jerry springer show|by
+return|violence|to
+helped|return|subj
+helped|`|punc
+helped|`|punc
+claw|'|punc
+claw|'|punc
+claw|springer|subj
+way|its|gen
+claw|way|mod
+tie|virtual|mod
+claw|tie|to
+giant|one-time|mod
+'s|giant|with
+oprah winfrey show|'|punc
+oprah winfrey show|'|punc
+ratings|july|nn
+oprah winfrey show|ratings|in
+atlanta|metro|nn
+ratings|atlanta|as
+show|most-watched|mod
+show|daytime|mod
+show|talk|nn
+'s|show|pred
+daytime emmys|32|num
+winning|daytime emmys|obj
+daytime emmys|and|punc
+award|lifetime|nn
+award|achievement|nn
+daytime emmys|award|conj
+after|taking|comp1
+taking|oprah winfrey|subj
+taking|herself|obj
+taking|running|out of
+host|best|mod
+host|talk show|nn
+running|host|for
+ceremony|year|gen
+host|ceremony|at

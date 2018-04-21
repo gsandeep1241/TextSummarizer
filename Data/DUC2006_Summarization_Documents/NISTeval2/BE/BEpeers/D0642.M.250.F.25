@@ -1,0 +1,152 @@
+letter|his|gen
+called|letter|in
+president|us|nn
+letter|president|to
+president|bill clinton|person
+president|published|vrel
+published|president|obj
+published|by|by-subj
+published|presidency|by
+presidency|republic|of
+called|chavez|subj
+attention|clinton|gen
+called|attention|on
+attention|matter|to
+matter|considered|vrel
+considered|matter|obj
+be|"|punc
+be|of|pred
+importance|utmost|mod
+be|importance|of
+importance|"|punc
+importance|venezuela|for
+say|some|subj
+will|not|neg
+say|be|fc
+be|able|pred
+be|meet|mod
+meet|it|subj
+meet|requirements|obj
+program|imf|nn
+program|economic|mod
+requirements|program|of
+program|which|whn
+is|prerequisite|pred
+international|more|mod
+aid|international|mod
+prerequisite|aid|for
+eased|cuba|for
+some|sting|of
+sting|vote|from
+eased|some|obj
+eased|by|by-subj
+eased|outcome|by
+night|monday|nn
+eased|night|mod
+eased|baltimore|in
+cuba|12|num
+cuba|orioles|appo
+orioles|6.|num
+1992|failed|mod
+leader|1992|of
+attempt|coup|nn
+critics|president|gen
+president|hugo chavez|person
+say|critics|subj
+stance|his|gen
+say|jeopardizes|fc
+jeopardizes|stance|subj
+relations|good|mod
+jeopardizes|relations|obj
+relations|united states|with
+united states|which|whn
+no.|venezuela|gen
+is|no.|pred
+continue|we|subj
+continue|service|mod
+service|we|subj
+debt|our|gen
+debt|foreign|mod
+service|debt|obj
+but|want|comp1
+want|we|subj
+want|reduce|fc
+reduce|we|subj
+reduce|profile|obj
+president|hugo chavez|person
+said|president|subj
+said|translator|through
+conference|new york|nn
+conference|news|nn
+translator|conference|at
+conference|held|vrel
+held|translator|obj
+held|part|in
+part|give|rel
+give|part|subj
+give|him|obj1
+give|chance|obj2
+chance|clear up|rel
+clear up|chance|subj
+clear up|misconceptions|obj
+economic policies|his|gen
+misconceptions|economic policies|about
+caracas|(|punc
+caracas|ap|appo
+market|caracas|nn
+market|stock|nn
+skyrocketed|market|subj
+skyrocketed|tuesday|mod
+skyrocketed|morning|mod
+skyrocketed|indicating|mod
+indicating|market|subj
+indicating|that|c
+comments|president-elect|gen
+president-elect|hugo chavez|person
+comments|conciliatory|mod
+eased|comments|subj
+fears|investor|nn
+eased|fears|obj
+fears|that|c
+roll|fears|obj1
+roll|he|subj
+roll|back|guest
+economic policies|free|mod
+economic policies|market|nn
+roll|economic policies|obj2
+caracas|july 25|appo-mod
+caracas|(|punc
+elections|xinhua|nn
+elections|)|punc
+caracas|elections|appo
+constitutional assembly|venezuela|gen
+elections|constitutional assembly|of
+constitutional assembly|ended|vrel
+ended|constitutional assembly|obj
+ended|sunday|mod
+supporters|president|gen
+president|hugo chavez|person
+ended|supporters|with
+supporters|winning|rel
+winning|supporter|subj
+winning|123|obj
+seats|131|num
+123|seats|out of
+caracas|(|punc
+caracas|ap|appo
+-elect|hugo chavez|person
+said|-elect|subj
+said|was|fc
+was|`|punc
+was|`|punc
+was|completely|punc
+was|sure|pred
+sure|'|punc
+sure|'|punc
+sure|reverse|fc
+reverse|washington|subj
+policy|its|gen
+reverse|policy|obj
+policy|banning|of
+banning|washington|subj
+banning|him|obj

@@ -1,0 +1,138 @@
+participants|forty|nn
+world|attending|rel
+attending|world|subj
+attending|seminar|obj
+identify|world|subj
+projects|national|mod
+identify|projects|obj
+projects|involved|rel
+involved|framework|within
+program|world|nn
+program|energy|nn
+framework|program|of
+program|aiming at|rel
+aiming at|program|subj
+solar energy|developing|mod
+aiming at|solar energy|obj
+zone|rural|mod
+solar energy|zone|in
+important|most|mod
+document|important|mod
+is|document|pred
+document|development|in
+development|and|punc
+development|use|conj
+sources|renewable|mod
+sources|energy|nn
+use|sources|of
+10|next|num-mod
+years|10|amount-value
+sources|years|in
+is|likely|pred
+is|cover|mod
+cover|solar energy|subj
+cover|40 to 50|obj
+demand|world|nn
+demand|energy|nn
+20|about|num-mod
+years|20|amount-value
+demand|years|in
+leading|australia|subj
+leading|world|obj
+world|number|in
+number|areas|of
+research|solar energy|nn
+areas|research|of
+research|and|punc
+research|application|conj
+ats|headquartered|pnmod
+headquartered|ontario|in
+technology|special|mod
+board|solar-energy|nn
+producing|board|obj
+board|capable|pnmod
+capable|turning|of
+turning|solar energy|obj
+solar energy|electricity|into
+energy|solar|mod
+solar|and|punc
+solar|renewable|conj
+offers|energy|subj
+potential|great|mod
+offers|potential|obj
+cooperation|economic|mod
+potential|cooperation|for
+cooperation|israel|between
+israel|and|punc
+israel|zimbabwe|conj
+scientists|israeli energy ministry|from
+agreed|scientists|subj
+agreed|cooperate|fc
+cooperate|scientist|subj
+cooperate|environmental protection bureau|with
+environmental protection bureau|northwest|of
+ningxia hui autonomous region|china|gen
+northwest|develop|rel
+develop|ningxia hui autonomous region|subj
+develop|solar energy|obj
+research|japanese|mod
+research|new|mod
+research|energy|nn
+research|and|punc
+institute|development|nn
+research|institute|conj
+helped|research|subj
+helped|power station|obj
+power station|part|as
+project|solar energy|nn
+project|cooperative|mod
+part|project|of
+project|china|between
+china|and|punc
+china|japan|conj
+japan|help|rel
+help|japan|subj
+areas|china|gen
+areas|less-developed|mod
+help|areas|obj
+china|subtropical|mod
+china|southwest|mod
+yunnan province|china|in
+become|yunnan province|subj
+become|leader|obj
+leader|country|of
+country|utilization|in
+utilization|solar energy|of
+made|province|subj
+progress|marked|mod
+made|progress|obj
+progress|developing|in
+developing|province|subj
+heater|solar|mod
+heater|water|nn
+developing|heater|obj
+furnace|solar|mod
+heater|furnace|conj
+furnace|solar battery|conj
+solar battery|and|punc
+research|basic|mod
+research|theoretical|mod
+solar battery|research|conj
+furnace|solar energy|on
+project|new|mod
+project|solar energy|nn
+project|airconditioning|mod
+project|rushan city|in
+rushan city|east|in
+shandong province|china|gen
+east|passed|rel
+passed|east|obj1
+passed|shandong province|subj
+passed|appraisal|obj2
+appraisal|ministry of science|by
+ministry of science|and|punc
+ministry of science|technology|conj
+technology|and|punc
+institute|energy|nn
+technology|institute|conj
+ministry of science|chinese academy of sciences|appo

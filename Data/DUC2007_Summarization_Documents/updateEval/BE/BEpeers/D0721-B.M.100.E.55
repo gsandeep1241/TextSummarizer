@@ -1,0 +1,69 @@
+matthew shepard|gay|nn
+matthew shepard|college student|nn
+pummeled|matthew shepard|obj
+pummeled|death|to
+death|aaron mckinney|by
+rage|drunken|mod
+rage|drug-induced|mod
+aaron mckinney|rage|in
+pummeled|after|mod
+after|made|comp1
+made|shepard|subj
+made|pass|obj
+pass|him|at
+made|monday|mod
+made|as|mod
+trial|his|gen
+as|began|comp1
+began|trial|subj
+co-defendant|mckinney|gen
+co-defendant|russell henderson|appo
+pleaded|co-defendant|subj
+pleaded|guilty|desc
+guilty|kidnapping|to
+kidnapping|and|punc
+murder|felony|nn
+kidnapping|murder|conj
+murder|april|in
+pleaded|and|punc
+pleaded|received|conj
+received|co-defendant|subj
+received|life|obj
+life|prison|in
+say|prosecutors|subj
+mckinney|and|punc
+mckinney|henderson|conj
+say|kidnapped|fc
+kidnapped|mckinney|subj
+kidnapped|shepard|obj
+kidnapped|and|punc
+kidnapped|took|conj
+took|mckinney|subj
+took|him|obj
+area|remote|mod
+took|area|to
+area|laramie|near
+laramie|oct 7 , 1998|on
+took|and|punc
+took|lashed|conj
+lashed|mckinney|subj
+lashed|him|obj
+lashed|fence|to
+fence|where|wha
+robbed|they|subj
+robbed|him|obj
+robbed|$20|of
+shepard|henderson|appo
+henderson|met|vrel
+met|henderson|obj
+bar|laramie|nn
+met|bar|in
+bar|year ago|about
+year ago|where|wha
+asked|shepard|subj
+asked|mckinney|obj
+home|ride|nn
+mckinney|home|for
+asked|humiliating|mod
+humiliating|shepard|subj
+humiliating|him|obj

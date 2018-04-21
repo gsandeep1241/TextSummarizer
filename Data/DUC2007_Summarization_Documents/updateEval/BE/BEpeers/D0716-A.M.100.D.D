@@ -1,0 +1,62 @@
+requested|1996|in
+requested|energy resources australia|subj
+requested|approval|obj
+mine|jabiluka|nn
+mine|uranium|nn
+approval|mine|for
+mine|edge|on
+edge|kakadu national park|of
+kakadu national park|northern territory|in
+mine|era|gen
+mine|second|post
+mine|uranium|nn
+mine|kakadu world heritage area|in
+generate|mine|subj
+generate|billions|obj
+dollars|us|nn
+billions|dollars|of
+dollars|revenue|in
+generate|and|punc
+generate|create|conj
+create|mine|subj
+jobs|2,000|num
+create|jobs|obj
+parties|opposition|nn
+parties|conservationists|conj
+conservationists|and|punc
+owners|aboriginal|mod
+owners|land|nn
+conservationists|owners|conj
+opposed|parties|subj
+mine|planned|mod
+opposed|mine|obj
+found|studies|subj
+impact|adverse|mod
+found|impact|obj
+mine|era|gen
+mine|other|mod
+impact|mine|from
+mine|area|in
+battle|protracted|mod
+battle|legal|mod
+received|battle|after
+after|and|punc
+after|amid|conj
+continuing|protests|obj
+received|era|subj
+received|approval|obj
+received|and|punc
+received|began|conj
+began|era|subj
+construction|mine|mod
+began|construction|obj
+construction|june 1998|in
+arrests|police|nn
+arrests|reported|mod
+350|about|num-mod
+arrests|350|nn
+arrests|protesters|as
+attempted|arrests|subj
+attempted|block|fc
+block|arrest|subj
+block|construction|obj

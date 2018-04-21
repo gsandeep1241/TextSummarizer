@@ -1,0 +1,61 @@
+demanded|myanmar|subj
+demanded|that|c
+government|thai|mod
+control|strictly|mod-before
+control|government|subj
+camps|refugee|nn
+control|camps|obj
+side|thai|mod
+camps|side|on
+countries|two|nn
+border|countries|gen
+side|border|of
+government|thai|mod
+has|government|subj
+has|yet|guest
+has|ask|fc
+ask|government|subj
+ask|united states|obj
+united states|accept|rel
+accept|united states|subj
+refugees|1,500|num
+refugees|new|mod
+refugees|burmese|mod
+refugees|student|nn
+accept|refugees|obj
+official|state department|nn
+said|official|subj
+said|that|c
+be|willing|pred
+be|consider|mod
+consider|united states|subj
+consider|taking|fc
+refugees|more|mod
+taking|refugees|obj
+taking|if|c
+is|need|pred
+labor|forced|mod
+are|including|mod-before
+including|labor|subj
+labor|child|nn
+including|labor|obj
+are|widespread|pred
+widespread|myanmar|in
+ignores|government|subj
+rights|workers|gen
+ignores|rights|obj
+said|u.s.labor department|subj
+said|repor|in
+thugs|uniformed|mod
+thugs|who|whn
+rule|thugs|subj
+rule|burma|obj
+undermining|thugs|subj
+triumphs|hard-won|mod
+undermining|triumphs|obj
+asks|myanmar|subj
+asks|thailand|obj
+thailand|control|rel
+control|thailand|subj
+camps|refugee|nn
+control|camps|obj

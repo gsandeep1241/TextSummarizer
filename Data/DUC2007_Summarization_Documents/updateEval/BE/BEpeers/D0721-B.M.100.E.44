@@ -1,0 +1,73 @@
+pleaded|henderson|subj
+pleaded|guilty|desc
+murder|felony|nn
+guilty|murder|to
+murder|and|punc
+murder|kidnapping|conj
+pleaded|and|punc
+pleaded|sentenced|conj
+sentenced|henderson|obj
+sentenced|life|to
+life|prison|in
+matthew shepard|gay|nn
+matthew shepard|college student|nn
+pummeled|matthew shepard|obj
+pummeled|death|to
+death|aaron mckinney|by
+rage|drunken|mod
+rage|drug-induced|mod
+aaron mckinney|rage|in
+pummeled|after|mod
+after|made|comp1
+made|shepard|subj
+made|pass|obj
+pass|him|at
+attorney|mckinney|gen
+said|attorney|subj
+made|said|mod
+made|monday|mod
+made|as|mod
+trial|his|gen
+as|began|comp1
+began|trial|subj
+told|tangeman|subj
+told|jury|obj
+becomes|`|punc
+becomes|`|punc
+becomes|mckinney|subj
+becomes|very|mod
+upset|very|amod
+becomes|upset|conj
+upset|mckinney|obj
+upset|and|punc
+upset|beats|conj
+beats|mckinney|subj
+beats|matthew shepard|obj
+matthew shepard|'|punc
+matthew shepard|'|punc
+matthew shepard|prompted|vrel
+prompted|matthew shepard|obj
+prompted|by|by-subj
+prompted|memories|by
+encounter|sexual|mod
+memories|encounter|of
+encounter|forced|vrel
+forced|encounter|obj
+forced|him|upon
+forced|by|by-subj
+boy|older|mod
+forced|boy|by
+forced|when|wha
+was|7.|pred
+met|later|mod-before
+met|shepard|subj
+met|mckinney|obj
+mckinney|and|punc
+mckinney|russell henderson|conj
+russell henderson|bar|at
+witness|first|post
+witness|defense|nn
+was|witness|pred
+witness|called|vrel
+called|witness|obj
+called|murder|in

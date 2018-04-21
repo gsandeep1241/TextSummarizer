@@ -1,0 +1,68 @@
+director|deputy|nn
+director|communications|nn
+was|director|pred
+campaign|1996|num
+campaign|clinton-gore|nn
+director|campaign|of
+was|and|punc
+was|involved|conj
+involved|spector|obj
+political campaigns|national|mod
+involved|political campaigns|in
+political campaigns|that|before
+ate|vice president|subj
+ate|lunch|obj
+lunch|contributors|with
+campaign|his|gen
+campaign|2000|num
+campaign|presidential|mod
+contributors|campaign|to
+ate|and|punc
+ate|moderated|conj
+moderated|vice president|subj
+forum|public|mod
+moderated|forum|obj
+care|long-term|mod
+care|health|nn
+forum|care|on
+presidents|last|post
+presidents|10|num
+five|presidents|of
+served as|first|mod-before
+served as|five|subj
+served as|vice president|obj
+act|gore|gen
+act|delicate|mod
+act|balancing|nn
+act|loyalty|between
+loyalty|and|punc
+loyalty|independence|conj
+recalls|act|subj
+recalls|challenges|obj
+challenges|faced|vrel
+faced|challenges|obj
+faced|by|by-subj
+faced|president|by
+president|george bush|person
+faced|as|mod
+as|prepared|comp1
+prepared|he|subj
+prepared|launch|mod
+launch|he|subj
+campaign|his|gen
+campaign|1988|num
+launch|campaign|obj
+campaign|succeed|rel
+succeed|campaign|subj
+succeed|ronald reagan|obj
+ronald reagan|and|punc
+ronald reagan|president|conj
+president|hubert humphrey|person
+succeed|as|mod
+as|sought|comp1
+sought|he|subj
+sought|succeed|mod
+succeed|he|subj
+b.|lyndon|nn
+succeed|b.|obj
+johnson|1968|in

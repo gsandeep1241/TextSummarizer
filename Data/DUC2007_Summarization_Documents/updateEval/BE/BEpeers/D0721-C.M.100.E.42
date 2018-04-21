@@ -1,0 +1,51 @@
+audience|emotional|mod
+greeted|audience|subj
+premiere|world|nn
+greeted|premiere|obj
+greeted|saturday|mod
+of|"|punc
+greeted|laramie project|of
+laramie project|"|punc
+collaboration|unique|mod
+laramie project|collaboration|conj
+troupe|new york-based|mod
+troupe|theater|nn
+collaboration|troupe|between
+collaboration|and|punc
+collaboration|people|conj
+people|laramie|of
+laramie|murder|about
+murder|matthew shepard|of
+play|death|about
+student|gay|mod
+student|university of wyoming|nn
+student|college|nn
+death|student|of
+was|brainchild|pred
+brainchild|moises kaufman|of
+play|part|in
+gross|trial|on
+gross|transcripts|subj
+gross|indecency|obj
+measure|kennedy|nn
+broad|overly|mod
+was|broad|pred
+adopted|senate|subj
+legislation|hate-crimes|nn
+adopted|legislation|obj
+legislation|part|as
+bill|spending|nn
+part|bill|of
+bill|commerce|for
+commerce|justice|conj
+justice|and|punc
+departments|state|nn
+justice|departments|conj
+departments|but|punc
+departments|it|conj
+bill|stalled|vrel
+stalled|bill|obj
+stalled|house|in
+bill|underlying|mod
+bill|defense|nn
+is|s. 2549|pred

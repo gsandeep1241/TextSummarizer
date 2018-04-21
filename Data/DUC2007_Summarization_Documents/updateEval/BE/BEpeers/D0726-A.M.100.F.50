@@ -1,0 +1,51 @@
+was|untouched|pred
+scandal|clinton|nn
+scandal|sex|nn
+untouched|scandal|by
+by|and|punc
+by|after|conj
+by|review|after
+review|justice department|by
+janet reno|attorney general|title
+justice department|janet reno|appo
+janet reno|found|vrel
+found|janet reno|obj1
+found|reason|obj2
+reason|investigate|rel
+investigate|reason|subj
+investigate|his|obj
+investigate|fund -|mod
+fund -|1996|in
+states|35|num
+held|states|subj
+primaries|their|gen
+held|primaries|obj
+primaries|march 21 , 2000|by
+aide|vice president|to
+said|aide|subj
+committee|campaign|nn
+include|also|amod
+said|include|fc
+include|committee|subj
+include|peter knight|obj
+chairman|clinton|gen
+chairman|campaign|nn
+peter knight|chairman|conj
+chairman|1996|in
+chairman|and|punc
+chief of staff|former|mod
+chief of staff|gore|nn
+chairman|chief of staff|conj
+chief of staff|former|mod
+chief of staff|vice|nn
+chief of staff|presidential|mod
+chief of staff|jack quinn|appo
+chief|current|mod
+chief|ron klain|conj
+ron klain|and|punc
+tom downey|former|mod
+tom downey|rep.|title
+ron klain|tom downey|conj
+is|one|pred
+best friends|gore|gen
+one|best friends|of

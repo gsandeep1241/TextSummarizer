@@ -1,0 +1,47 @@
+wednesday , feb|09|num
+editors|2000|num
+editors|filed|rel
+filed|editors|obj
+filed|hearst news service|subj
+filed|or|punc
+filed|file|conj
+file|editors|obj
+file|hearst news service|subj
+following|thursday|for
+thursday|and|punc
+thursday|sunday|conj
+call|if|c
+have|you|subj
+have|questions|obj
+call|please|mod-before
+call|susie mcbee|obj
+susie mcbee|or|punc
+susie mcbee|tim spence|conj
+tim spence|202-298-6920|at
+hns|`|punc
+hns|`|punc
+tag|hns|gen
+tag|'|punc
+appears|tag|subj
+sluglines|all|pre
+appears|sluglines|in
+p|political news|nn
+p|(|punc
+p|`|punc
+p|`|punc
+bush-mccain|category|nn
+bush-mccain|)|punc
+bush-mccain|(|punc
+bush-mccain|greenville|appo
+sharpens|john mccain|subj
+claim|his|gen
+sharpens|claim|obj
+claim|that|c
+success|his|gen
+alarmed|success|subj
+hierarchy|republican party|gen
+alarmed|hierarchy|obj
+hierarchy|and|punc
+friends|its|gen
+friends|lobbyist|nn
+hierarchy|friends|conj

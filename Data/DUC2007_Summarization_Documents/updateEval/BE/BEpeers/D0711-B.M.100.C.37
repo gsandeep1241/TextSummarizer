@@ -1,0 +1,66 @@
+faxed|friday|on
+microsoft|evening|nn
+faxed|microsoft|subj
+offer|several-page|mod
+offer|settlement|nn
+faxed|offer|obj1
+offer|justice department|to
+justice department|and|punc
+attorneys|19|num
+attorneys|state|nn
+justice department|attorneys|conj
+faxed|general|obj2
+general|who|whn
+suing|general|subj
+suing|microsoft|obj
+competition|fierce|mod
+thing|one|nn
+is|thing|pred
+says|government|subj
+record|voluminous|mod
+record|including|rel
+including|record|subj
+including|volumes|obj
+volumes|e-mail|of
+documents|internal|mod
+documents|microsoft|nn
+e-mail|documents|conj
+documents|and|punc
+testimony|witness|nn
+documents|testimony|conj
+show|record|subj
+show|microsoft|obj
+monopolist|arm-twisting|mod
+been|monopolist|pred
+behavior|monopolist|gen
+behavior|corporate|mod
+monopolist|behavior|whn
+stifled|behavior|subj
+stifled|competition|obj
+stifled|and|punc
+stifled|harmed|conj
+harmed|behavior|subj
+harmed|consumers|obj
+experts|antitrust|mod
+say|experts|subj
+brief|lessig|nn
+say|give|fc
+give|brief|subj
+blueprint|jackson|nn
+blueprint|legal|mod
+give|blueprint|obj
+blueprint|needs|rel
+needs|blueprint|obj
+needs|he|subj
+concluding|expert|subj
+concluding|that|c
+violate|microsoft|subj
+law|tying|nn
+violate|law|obj
+saw|klein|subj
+saw|reason|obj
+reason|hold up|rel
+hold up|reason|subj
+case|microsoft|nn
+hold up|case|obj
+case|example|as

@@ -1,0 +1,162 @@
+borough|new york|gen
+borough|queens|nn
+planned|borough|in
+cases|first|post
+cases|encephalitis|of
+reported|cases|obj
+cdc|and|punc
+department|city|gen
+department|health|nn
+cdc|department|conj
+planned|cdc|subj
+planned|take|fc
+take|cdc|subj
+samples|blood|nn
+take|samples|obj
+households|300|num
+basis|voluntary|mod
+commissioner|new jersey|nn
+commissioner|health|nn
+commissioner|christine grant|person
+said|commissioner|subj
+said|take precautions against|fc
+take precautions against|residents|subj
+take precautions against|mosquito bites|obj
+take precautions against|but|punc
+should|not|neg
+take precautions against|be|conj
+be|`|punc
+be|`|punc
+be|unduly|punc
+be|concerned|pred
+concerned|'|punc
+concerned|'|punc
+results|test|mod
+concerned|results|by
+samples|blood|nn
+samples|taken|vrel
+taken|samples|obj
+chickens|43|num
+chickens|test|mod
+taken|chickens|from
+chickens|stationed|vrel
+stationed|chickens|obj
+stationed|county|in
+proved|samples|subj
+proved|negative|desc
+negative|virus|for
+proved|grant|according to
+takes|cdc|subj
+takes|seriously|guest
+role|its|gen
+role|leadership|nn
+takes|role|obj
+role|preparing|in
+preparing|cdc|subj
+preparing|for|guest
+outbreaks|infectious disease|nn
+preparing|outbreaks|obj
+takes|and|punc
+takes|continues|conj
+continues|cdc|subj
+continues|work|to
+work|keep|rel
+keep|work|subj
+keep|americans|obj1
+keep|safe|desc
+safe|and|punc
+safe|healthy|conj
+work|'|punc
+work|'|punc
+read|statement|nn
+work|read|appo
+occasions|rare|mod
+detect|they|subj
+detect|zebra|obj
+say|doctors|subj
+say|need|fc
+need|they|subj
+need|take|fc
+take|they|subj
+steps|extra|mod
+take|steps|obj
+investigation|their|gen
+steps|investigation|in
+investigation|make|rel
+make|investigation|subj
+make|sure|desc
+sure|identified|fc
+identified|they|subj
+one|right|mod
+identified|one|obj
+change|diagnosis|in
+not|though|mod
+important|not|mod
+diagnosis|important|pnmod
+important|terms|in
+terms|spraying|of
+spraying|and|punc
+measures|other|mod
+measures|public|mod
+measures|health|nn
+spraying|measures|conj
+measures|taken|vrel
+taken|measures|obj
+taken|combat|mod
+combat|outbreak|obj
+embarrassing|scientifically|mod
+embarrassing|cdc|to
+agency|premier|mod
+agency|federal|mod
+cdc|agency|appo
+agency|that|whn
+is|responsible|pred
+responsible|tracking|for
+tracking|infectious diseases|obj
+infectious diseases|country|in
+overlap|considerable|mod
+be|overlap|pred
+overlap|findings|in
+tests|laboratory|nn
+findings|tests|from
+be|unless|mod
+steps|extra|mod
+unless|taken|comp1
+taken|steps|obj
+taken|distinguish|mod
+distinguish|step|subj
+distinguish|between|guest
+distinguish|many|between
+distinguish|types|obj
+arboviruses|encephalitis-causing|mod
+types|arboviruses|of
+spraying|west nile-related|mod
+spraying|pesticide|nn
+taken place|also|amod
+taken place|spraying|subj
+taken place|or|punc
+taken place|scheduled|conj
+scheduled|spraying|obj
+scheduled|liverpool|in
+in|and|punc
+in|in|conj
+in|suffolk county|in
+long island|eastern|mod
+scheduled|long island|on
+long island|where|wha
+reported|officials|subj
+confirmed|that|on
+reported|confirmed|fc
+confirmed|virus|obj
+samples|13|num
+confirmed|samples|in
+mosquitoes|infected|mod
+samples|mosquitoes|of
+mosquitoes|collected|vrel
+collected|mosquitoes|obj
+collected|17|on
+on|and|punc
+on|in|conj
+birds|12|num
+birds|additional|mod
+on|birds|in

@@ -1,0 +1,147 @@
+la nina|and|punc
+la nina|el nino|conj
+form|la nina|subj
+ends|opposite|mod
+form|ends|obj
+cycle|same|post
+cycle|climatic|mod
+ends|cycle|of
+form|el nino|with
+el nino|fueled|vrel
+fueled|el nino|obj
+fueled|by|by-subj
+warm|unusually|mod
+water|warm|mod
+fueled|water|by
+pacific|eastern|mod
+water|pacific|in
+pacific|and|punc
+pacific|la nina|conj
+la nina|driven|vrel
+driven|la nina|obj
+driven|by|by-subj
+driven|cold|by
+causes|el nino|subj
+causes|reversals|obj
+patterns|normal|mod
+patterns|weather|nn
+reversals|patterns|of
+resulting|drought|in
+wet|usually|mod
+locales|wet|mod
+drought|locales|in
+resulting|and|punc
+resulting|flooding|conj
+areas|arid|mod
+flooding|areas|in
+produced|also|mod-before
+but|produced|comp1
+produced|it|subj
+mild|exceptionally|mod
+winter|mild|mod
+produced|winter|obj
+winter|most|in
+states|northern|mod
+most|states|of
+states|and|punc
+hurricanes|blocked|mod
+hurricanes|atlantic coast|nn
+states|hurricanes|conj
+refers to|la nina|subj
+pool|large|mod
+cold|unusually|mod
+pool|cold|mod
+refers to|pool|obj
+pool|water|of
+pacific ocean|equatorial|mod
+water|pacific ocean|in
+pacific ocean|that|whn
+develops|pacific ocean|subj
+patterns|influences|nn
+patterns|weather|mod
+patterns|world|around
+experts|national weather service|nn
+predicted|experts|subj
+predicted|that|c
+phenomenon|la|nn
+phenomenon|nina-a|mod
+effects|phenomenon|gen
+phenomenon|effects|whn
+are|roughly|guest
+are|opposite|pred
+'s-would|el nino|nn
+opposite|'s-would|of
+bring|phenomenon|subj
+bring|los angeles|obj
+drier|slightly|mod
+year|drier|mod
+bring|year|mod
+year|normal|than
+water|cold|mod
+water|pacific|nn
+pool|water|of
+water|that|whn
+is|heart|pred
+heart|la nina|of
+shrunk|pool|subj
+shrunk|one-fourth|to
+was|in|pred
+was|may|in
+may|even|pnmod
+water|warm|mod
+even|water|as
+over|left|mod
+was|over|mod
+remains|el nino|nn
+over|remains|from
+bring|predictions|despite
+bring|la nina|subj
+bring|los angeles|obj
+winter|dry|mod
+bring|winter|mod
+bring|and|punc
+worsen|possibly|amod
+bring|worsen|conj
+worsen|la nina|subj
+worsen|fire|obj
+worsen|season|mod
+phenomenon|weather|mod
+appears|now|mod-before
+appears|phenomenon|subj
+appears|losing|mod
+losing|phenomenon|subj
+losing|strength|obj
+cautioned|scientists|subj
+cautioned|that|obj
+counterpart|its|gen
+counterpart|warm|mod
+cautioned|counterpart|like
+counterpart|el nino|appo
+condition|la nina|nn
+influence|condition|subj
+climate|global|mod
+influence|climate|obj
+climate|and|punc
+climate|weather|conj
+influence|until|mod
+subsided|completely|amod
+until|subsided|comp1
+subsided|it|subj
+tornadoes|oklahoma|gen
+tornadoes|catastrophic|mod
+influenced|tornadoes|obj
+influenced|by|by-subj
+influenced|la nina|by
+phenomenon|weather|mod
+phenomenon|5,000|num
+west|miles|nn
+west|prairie|of
+prairie|pacific ocean|in
+told|john miller|subj
+told|associated press|obj
+told|that|c
+prediction|conservative|mod
+was|prediction|pred
+prediction|discounted|rel
+discounted|prediction|obj
+discounted|that|subj

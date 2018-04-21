@@ -1,0 +1,70 @@
+president|european|mod
+president|bank|nn
+president|wim duisenberg|person
+said|president|subj
+said|thursday|guest
+said|that|c
+currency|europe|gen
+currency|new|mod
+currency|single|mod
+currency|euro|appo
+compete|currency|subj
+dollar|u.s.|nn
+compete|dollar|with
+dollar|currency|as
+currency|choice|of
+reserves|foreign|mod
+choice|reserves|for
+said|also|mod-before
+said|report|subj
+said|expects|fc
+expects|duisenberg|subj
+relationship|future|mod
+expects|relationship|obj
+relationship|dollar|between
+dollar|and|punc
+dollar|euro|conj
+euro|which|whn
+goes into|officially|amod
+goes into|euro|subj
+goes into|effect|obj
+effect|jan 12|on
+be|stable|pred
+countries|founder|nn
+countries|euro|of
+scheduled|as|mod-before
+currency|new|mod
+currency|single|mod
+as|known|comp1
+known|currency|obj
+scheduled|countries|obj
+scheduled|adopt|mod
+adopt|country|subj
+currency|new|mod
+adopt|currency|obj
+adopt|while|mod
+banks|and|punc
+banks|exchanges|conj
+while|start|comp1
+start|banks|subj
+start|using|mod
+using|bank|subj
+using|euro|obj
+scriptural|all|mod
+transactions|scriptural|mod
+euro|transactions|in
+transactions|writing|such as
+writing|bank|subj
+writing|checks|obj
+writing|using|conj
+using|bank|subj
+using|credit|obj
+using|and|punc
+using|charge|conj
+charge|bank|subj
+charge|cards|obj
+cards|and|punc
+bonds|buying|nn
+cards|bonds|conj
+bonds|and|punc
+bonds|stocks|conj

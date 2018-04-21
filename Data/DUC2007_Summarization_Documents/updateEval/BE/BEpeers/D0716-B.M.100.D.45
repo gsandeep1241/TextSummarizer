@@ -1,0 +1,56 @@
+government|australian|mod
+mounted|government|subj
+attack|systematic|mod
+mounted|attack|obj
+attack|traditions|on
+people|aboriginal|mod
+traditions|people|of
+people|living|rel
+living|people|subj
+living|kakadu national park|in
+team|u.n.|nn
+kakadu national park|team|appo
+team|investigating|rel
+investigating|team|subj
+mining|uranium|nn
+threatens|mining|subj
+investigating|told|fc
+told|park|obj
+told|tuesday|mod
+yet|not|mod
+said|yet|amod
+said|police|subj
+said|if|c
+suspect|they|subj
+suspect|link|obj
+link|attack|between
+attack|and|punc
+demonstrations|recent|mod
+attack|demonstrations|conj
+demonstrations|australia|throughout
+mine|era|gen
+mine|planned|mod
+mine|uranium|nn
+australia|mine|against
+mine|area|in
+area|surrounded|vrel
+surrounded|area|obj
+surrounded|by|by-subj
+surrounded|kakadu national park|by
+team|u.n.|from
+visiting|world heritage bureau|subj
+visiting|park|obj
+park|examine|rel
+examine|park|subj
+examine|claims|obj
+claims|that|c
+values|environmental|mod
+environmental|and|punc
+environmental|cultural|conj
+values|park|of
+are|threatened|pred
+threatened|by|by-subj
+mine|jabiluka|nn
+threatened|mine|by
+delegation|high-level|mod
+delegation|united nations|nn

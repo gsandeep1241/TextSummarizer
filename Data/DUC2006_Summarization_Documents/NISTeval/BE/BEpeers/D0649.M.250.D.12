@@ -1,0 +1,140 @@
+president|russian|mod
+president|boris yeltsin|person
+president|monday|on
+announced|president|subj
+announced|that|c
+wanted|xinhua|subj
+vladimir putin|acting|mod
+vladimir putin|prime minister|title
+wanted|vladimir putin|obj
+vladimir putin|succeed|rel
+succeed|vladimir putin|subj
+succeed|xinhua|obj
+xinhua|russia|as
+president|next|post
+elections|next|post
+elections|summer|nn
+president|elections|in
+president|acting|mod
+president|vladimir putin|person
+enigma|steely|mod
+enigma|russians|to
+president|lets|rel
+lets|enigma|subj
+guard|president|obj
+guard|putin|subj
+guard|little|down
+little|book|in
+book|interviews|of
+released|president|subj
+released|monday|guest
+two|less than|num-mod
+weeks|two|amount-value
+released|weeks|obj
+elections|presidential|mod
+weeks|elections|before
+generals|russia|nn
+were|loyal|pred
+called for|all|subj
+election|putin|nn
+called for|election|obj
+putin|sworn in|vrel
+sworn in|putin|obj
+president|new|mod
+president|russian|mod
+sworn in|president|as
+candidate|who|whn
+insists|candidate|subj
+insists|putin|obj
+insists|too|mod
+being|president|pred
+president|campaign|rel
+campaign|president|subj
+spending|vladimir putin|subj
+spending|lot|obj
+lot|time|of
+lot|road|on
+road|running|rel
+running|road|subj
+running|one|obj
+russians|slickest|mod
+russians|election|nn
+russians|campaigns|nn
+one|russians|of
+re-election|following yeltsin|nn
+career|1996|num
+career|putin|nn
+re-election|career|in
+took off|re-election|subj
+cabinet|russian|nn
+cabinet|including|rel
+including|cabinet|subj
+including|remarks|obj
+remarks|putin|by
+-elect|energetic-looking|mod
+-elect|vladimir putin|person
+arrived|-elect|subj
+arrived|work|at
+work|meet with|rel
+meet with|monday|subj
+leaders|government|nn
+meet with|leaders|obj
+speeches|triumphant|mod
+shed|speeches|instead of
+speeches|putin|about
+putin|election|nn
+putin|victory|nn
+shed|putin|subj
+shed|no|obj
+light|which|about
+lead|he|subj
+lead|economy|obj
+economy|and|punc
+economy|society|conj
+putin|russia|nn
+start|powerful|mod
+off|start|to
+chief|communist party|nn
+chief|gennady zyuganov|person
+chief|tuesday|on
+became|chief|subj
+candidate|first|post
+became|candidate|obj
+candidate|approved|vrel
+approved|candidate|obj
+election|russia|nn
+election|march 26|nn
+election|presidential|mod
+approved|election|for
+approved|though|mod
+though|show|comp1
+show|polls|subj
+show|zyuganov|obj
+far|still|mod
+zyuganov|far|pnmod
+president|acting|mod
+far|president|behind
+president|vladimir putin|person
+say|analysts|subj
+enjoying|just|guest
+say|enjoying|fc
+enjoying|putin|subj
+enjoying|honeymoon|obj
+election|putin|nn
+honeymoon|election|after
+margin|wide|mod
+election|margin|by
+margin|last|vrel
+last|margin|obj
+last|month|mod
+runs|here|mod-before
+runs|problem|subj
+runs|deeper|desc
+fact|that|c
+been|underfunded|pred
+underfunded|years|for
+years|row|in
+row|which|whn
+led to|row|subj
+consequences|negative|mod
+led to|consequences|obj

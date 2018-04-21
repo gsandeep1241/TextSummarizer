@@ -1,0 +1,157 @@
+houston|_|punc
+houston|george w. bush|appo
+george w. bush|had|vrel
+quite|not|mod
+finished|quite|mod-before
+finished|george w. bush|obj
+second week|his|gen
+finished|second week|mod
+finished|governor|as
+governor|texas|of
+texas|1995|in
+finished|when|wha
+cases|first|post
+cases|death penalty|nn
+administration|his|gen
+cases|administration|of
+landed|cases|subj
+desk|his|gen
+landed|desk|on
+years|his|gen
+years|five|amount-value
+presided|years|in
+years|governor|as
+presided|bush|subj
+presided|executions|over
+men|111|num
+executions|men|of
+men|and|punc
+woman|one|nn
+men|woman|conj
+more|far|mod
+presided|more|mod
+presided|than|mod
+governor|other|mod
+state|other|mod
+governor|state|in
+state|u.s. supreme court|since
+than|reinstated|comp1
+reinstated|governor|subj
+penalty|death|nn
+reinstated|penalty|obj
+penalty|1976|in
+seen|frequently|amod
+seen|public|subj
+george w. bush|affable|mod
+seen|george w. bush|obj
+george w. bush|or|punc
+george w. bush|serious|mod
+george w. bush|george w. bush|conj
+granted|bush|subj
+reprieve|30-day|nn
+granted|reprieve|obj1
+reprieve|mcginn|for
+mcginn|june--|in
+reprieve|only|mod
+granted|reprieve|obj2
+reprieve|granted|rel
+granted|reprieve|obj
+granted|he|subj
+granted|governor--|as
+granted|so|mod
+so|that|c
+testing|further|mod
+testing|dna|nn
+done|testing|obj
+want|they|subj
+want|embarrass|fc
+embarrass|they|subj
+embarrass|bush|obj
+embarrass|and|punc
+embarrass|halt|conj
+halt|they|subj
+punishment|capital|nn
+halt|punishment|obj
+punishment|exposing|by
+exposing|flaws|obj
+system|texas|nn
+flaws|system|in
+bush|mr.|title
+is|bush|with
+nominee|presumptive|mod
+nominee|republican|mod
+nominee|presidential|mod
+bush|nominee|as
+punishment|capital|nn
+punishment|texas|in
+is|under|pred
+scrutiny|heightened|mod
+is|scrutiny|under
+is|"|punc
+is|says|mod
+says|new york times|subj
+governor|bush|person
+receptive|very|mod
+governor|receptive|mod
+receptive|and|punc
+receptive|reasonable|conj
+been|governor|pred
+been|when|wha
+comes to|it|subj
+comes to|issues|obj
+issues|crime|of
+crime|and|punc
+justice|criminal|mod
+crime|justice|conj
+comes to|"|punc
+comes to|said|mod
+said|dianne clements|subj
+dianne clements|president|appo
+president|justice|of
+justice|all|for
+group|houston-based|mod
+group|victims|nn
+are|life|pred
+life|and|punc
+decisions|death|nn
+life|decisions|conj
+decisions|and|punc
+makes|governor|nn
+governor|bush|person
+decisions|makes|conj
+makes|based|rel
+based|makes|obj
+based|them|subj
+based|principle|on
+since|became|comp1
+became|bush|subj
+became|governor|obj
+governor|1995|in
+executed|state|subj
+people|143|num
+executed|people|obj
+executed|including|mod
+including|state|subj
+including|32|obj
+including|year|mod
+critics|bush|gen
+brush|critics|subj
+brush|aside|guest
+brush|argument|obj
+argument|that|c
+governor|texas|nn
+limited|only|amod
+limited|governor|subj
+limited|power|obj
+power|stop|rel
+stop|power|subj
+stop|execution|obj
+spared|bush|subj
+spared|only|guest
+inmate|one|nn
+inmate|condemned|mod
+spared|inmate|obj
+inmate|becoming|since
+becoming|bush|subj
+becoming|governor|obj
+governor|1995|in

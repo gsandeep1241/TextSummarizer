@@ -1,0 +1,58 @@
+benefit|it|subj
+consumers|america|gen
+benefit|consumers|obj
+consumers|opening|by
+opening|it|subj
+opening|door|obj
+door|competition|to
+innovation|increased|mod
+competition|innovation|conj
+innovation|and|punc
+choice|increased|mod
+choice|consumer|nn
+innovation|choice|conj
+choice|software|in
+competition|industry|nn
+competition|'|punc
+competition|'|punc
+competition|`|punc
+competition|`|punc
+been|at|pred
+been|heart|at
+economy|america|gen
+heart|economy|of
+been|and|punc
+been|protecting|conj
+protecting|competition|subj
+protecting|competition|obj
+competition|heart|at
+enforcement|antitrust|mod
+heart|enforcement|of
+protecting|for|mod
+long time|'|punc
+long time|'|punc
+long time|quoted|rel
+quoted|long time|obj
+quoted|legal document|subj
+brief|microsoft|nn
+quoted|brief|in
+for|taken|comp1
+taken|long time|obj
+record|court|nn
+taken|record|from
+suit|justice department|gen
+suit|first|post
+suit|antitrust|mod
+record|suit|of
+suit|microsoft|against
+microsoft|which|whn
+resolved|microsoft|obj
+resolved|1995|in
+much|industry|of
+comment|much|subj
+comment|then|mod
+called|executives|subj
+settlement|proposed|mod
+called|settlement|obj
+broken up|microsoft|obj
+broken up|instead|mod

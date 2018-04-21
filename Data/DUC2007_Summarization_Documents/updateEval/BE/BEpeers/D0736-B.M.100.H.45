@@ -1,0 +1,58 @@
+oprah winfrey|talk show|nn
+oprah winfrey|host|nn
+figure|powerful|mod
+oprah winfrey|figure|appo
+world|book|nn
+figure|world|in
+book club|oprah|gen
+world|book club|because of
+received|oprah winfrey|subj
+medal|50th|mod
+medal|anniversary|nn
+received|medal|obj
+medal|foundation|from
+oprah winfrey|show|nn
+oprah winfrey|host|nn
+starting|oprah winfrey|subj
+spring|next|mod-before
+spring|magazine|subj
+hearst corp.|magazine publisher|nn
+spring|hearst corp.|with
+said|hearst|subj
+said|statement|in
+statement|that|c
+magazine|new|mod
+offer|magazine|subj
+offer|articles|obj1
+articles|community|on
+community|family|appo
+family|relationships|appo
+offer|health|obj2
+health|and|punc
+health|fitness|conj
+fitness|fashion|conj
+fashion|and|punc
+fashion|beauty|conj
+beauty|and|punc
+beauty|books|conj
+of|"|punc
+success|donahue|of
+makes|"|punc
+makes|success|subj
+makes|room|obj1
+room|oprah winfrey|for
+oprah winfrey|who|whn
+takes|oprah winfrey|subj
+show|her|gen
+show|chicago-based|mod
+show|talk|nn
+takes|show|obj
+makes|national|desc
+'s|lot|pred
+power|instant|mod
+lot|power|of
+being|head|pred
+head|studio|of
+being|"|punc
+noted|tierney|subj
+being|noted|mod

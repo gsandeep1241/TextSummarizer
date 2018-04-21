@@ -1,0 +1,136 @@
+approved|central electoral commission|subj
+candidacy|zyuganov|gen
+approved|candidacy|obj
+vote|unanimous|mod
+candidacy|vote|in
+approved|tuesday|mod
+reviewing|central electoral commission|subj
+500,000|required|mod
+reviewing|500,000|obj
+signatures|support|of
+support|submitted|rel
+submitted|support|obj
+submitted|he|subj
+spokesman|commission|nn
+spokesman|artyom golev|person
+said|spokesman|subj
+standing|his|gen
+standing|polls|in
+dipping|standing|subj
+president|acting|mod
+president|vladimir putin|person
+urged|president|subj
+urged|voters|obj
+urged|saturday|mod
+saturday|elect|rel
+elect|saturday|subj
+elect|him|obj
+majority|clear|mod
+elect|majority|with
+majority|avoid|rel
+avoid|majority|subj
+round|second|post
+avoid|round|obj
+avoid|but|punc
+avoid|denied|conj
+denied|majority|subj
+denied|that|c
+worried|he|obj
+winning|he|subj
+polls|recent|mod
+show|polls|subj
+show|support|obj
+support|putin|for
+show|down|mod
+points|2 to 3|nn
+points|percentage|nn
+down|points|by
+points|compared|vrel
+compared|60 percent|to
+60 percent|received|rel
+received|60 percent|obj
+received|he|subj
+weeks|recent|mod
+received|weeks|in
+certainly|almost|mod
+win|certainly|amod
+while|win|comp1
+win|putin|subj
+round|second|post
+win|round|obj
+setback|humbling|mod
+been|setback|pred
+officer|former|mod
+officer|kgb|nn
+setback|officer|for
+officer|who|whn
+soared|officer|subj
+soared|nowhere|from
+nowhere|become|rel
+become|nowhere|subj
+politician|nation|gen
+popular|most|mod
+politician|popular|mod
+become|politician|obj
+months|a few|amount-value
+politician|months|in
+string|victories|of
+victories|parliament|in
+solidified|string|subj
+authority|president|gen
+president|vladimir putin|person
+solidified|authority|obj
+solidified|and|punc
+solidified|appear|conj
+setting|string|subj
+setting|stage|obj
+era|calmer|mod
+conciliatory|more|mod
+era|conciliatory|mod
+stage|era|for
+era|russia|in
+confusion|frenzied|mod
+russia|confusion|after
+confusion|boris yeltsin|of
+setting|years|mod
+predict|overall|but
+predict|observers|subj
+have|probably|amod
+predict|have|fc
+have|putin|subj
+have|trouble|obj
+trouble|getting|rel
+getting|trouble|subj
+wants|what|obj
+wants|he|subj
+figure|reclusive|mod
+figure|who|whn
+speaks|figure|subj
+speaks|public|in
+has|putin|subj
+has|reputation|obj
+loyalty|near|mod
+loyalty|absolute|mod
+reputation|loyalty|for
+superiors|his|gen
+loyalty|superiors|to
+campus|law school|nn
+leningrad state university|old|mod
+campus|leningrad state university|at
+leningrad state university|which|whn
+located|leningrad state university|obj
+line|22nd|nn
+located|line|on
+line|vasilyevsky island|of
+dotted|campus|obj
+cafes|cozy|mod
+cafes|little|mod
+dotted|cafes|with
+cafes|and|punc
+cafes|restaurants|conj
+moved|putin|subj
+moved|cautiously|mod
+cautiously|winning|since
+winning|putin|subj
+winning|election|obj
+election|sunday|on

@@ -1,0 +1,67 @@
+resign|delay|subj
+office|present|mod
+resign|office|from
+office|july 15|on
+july 15|replace|rel
+replace|july 15|subj
+replace|tony coelho|obj
+congressman|former|mod
+congressman|california|nn
+tony coelho|congressman|appo
+congressman|who|whn
+hired|congressman|obj
+hired|by|by-subj
+hired|gore|by
+hired|year ago|mod
+year ago|lead|rel
+lead|year ago|subj
+lead|campaign|obj
+called|he|subj
+called|gore|obj
+night|wednesday|nn
+called|night|mod
+resignation|his|gen
+called|resignation|with
+been|wednesday|until
+campaign|gore|gen
+been|run|pred
+offices|high-rent|mod
+run|offices|from
+offices|k street|on
+k street|washington|in
+washington|corridor|conj
+corridor|favored|pnmod
+favored|lobbying|by
+lobbying|campaign|subj
+corridor|and|punc
+firms|law|nn
+corridor|firms|conj
+firms|that|whn
+wield|firms|subj
+much|so|mod
+wield|much|guest
+wield|influence|obj
+capital|nation|gen
+influence|capital|in
+suggested|critics|subj
+suggested|that|c
+move|campaign|nn
+is|little|pred
+little|more|pnmod
+more|stunt|than
+candidate|presidential|mod
+stunt|candidate|by
+candidate|who|whn
+spent|as|mod-before
+spent|vice president|as
+vice president|senator|conj
+senator|congressman|conj
+congressman|and|punc
+congressman|son|conj
+son|senator|of
+spent|candidate|subj
+spent|virtually|guest
+life|his|gen
+life|entire|mod
+spent|life|obj
+life|washington|in

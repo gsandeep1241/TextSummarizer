@@ -1,0 +1,110 @@
+& noble, the world's largest bookstore chain, called off its $600 million purchase of the world's biggest book distributor because of opposition from antitrust regulators.|barnes|nn
+announcement|month|guest
+announcement|that|c
+bookseller|leading|mod
+'s|bookseller|pred
+& noble, will buy the leading wholesaler, the ingram book group, for $600 million is just the latest move in a shifting field of distribution networks.|barnes|nn
+bookseller|& noble, will buy the leading wholesaler, the ingram book group, for $600 million is just the latest move in a shifting field of distribution networks.|appo
+growth|sales|mod
+growth|projected|pnmod
+5|less than|num-mod
+projected|5|at
+conglomerates|that|whn
+own|conglomerates|subj
+houses|big|mod
+houses|publishing|nn
+own|houses|obj
+trying|conglomerates|subj
+trying|squeeze|fc
+squeeze|conglomerate|subj
+squeeze|as|guest
+squeeze|much|as
+squeeze|savings|obj
+savings|as|mod
+functions|back-office|nn
+possible|functions|from
+diaries|consumer|nn
+using|diaries|obj
+purchases|book|nn
+diaries|purchases|of
+study|earlier|mod
+study|industry|nn
+found|year|mod-before
+found|study|subj
+found|that|c
+bought|americans|subj
+copies|fewer|mod
+bought|copies|obj
+copies|books|of
+period|same|post
+books|period|in
+reported|study|subj
+reported|that|c
+sold|books|subj
+share|their|gen
+share|market|nn
+share|1.9 percent|from
+1.9 percent|5.4 percent|to
+far|actually|mod
+lighter|far|mod
+is|lighter|pred
+lighter|original|than
+original|proposed|pnmod
+andy ross|independent|mod
+andy ross|seller|nn
+proposed|andy ross|by
+andy ross|owner|appo
+books inc.|cody|gen
+owner|books inc.|of
+books inc.|berkeley|in
+booksellers|country|gen
+booksellers|independent|mod
+booksellers|and|punc
+booksellers|publishers|conj
+so as|gathered|comp1
+gathered|booksellers|subj
+prom|their|gen
+prom|annual|mod
+gathered|prom|for
+was|reason|pred
+reason|hope|for
+books|upcoming|mod
+hope|books|about
+books|and|punc
+books|selling|conj
+was|seasons|mod
+was|ahead|mod
+banding together|booksellers|subj
+banding together|create|mod
+create|bookseller|subj
+bookstore|common|mod
+bookstore|electronic|mod
+create|bookstore|obj
+bookstore|their own|of
+sense|book|nn
+their own|sense|appo
+sense|which|whn
+signed|sense|subj
+signed|up|guest
+860|more than|num-mod
+members|860|nn
+signed|members|obj
+victory|significant|mod
+decision|victory|conj
+victory|publishers|for
+victory|and|punc
+booksellers|independent|mod
+victory|booksellers|conj
+booksellers|which|whn
+waged|booksellers|subj
+campaign|powerful|mod
+waged|campaign|obj
+deal|proposed|mod
+campaign|deal|against
+waged|since|mod
+since|announced|comp1
+announced|it|obj
+does|not|neg
+bode|well|obj
+acquisition|planned|mod
+well|acquisition|for

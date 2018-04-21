@@ -1,0 +1,55 @@
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first|obj
+first|pilot|rel
+pilot|first|subj
+pilot|balloon|obj
+balloon|world|around
+bertrand piccard|swiss|mod
+bertrand piccard|balloon|nn
+bertrand piccard|pilot|mod
+announced|bertrand piccard|subj
+announced|that|c
+chosen|he|subj
+chosen|brian jones|obj
+teammate|his|gen
+brian jones|teammate|as
+attempt|his|gen
+attempt|next|post
+teammate|attempt|for
+attempt|circling|at
+circling|he|subj
+circling|world|obj
+world|balloon|in
+attempt|piccard|gen
+attempt|third|post
+be|attempt|pred
+attempt|become|rel
+become|attempt|subj
+become|first person|obj
+first person|pilot|rel
+pilot|first person|subj
+pilot|balloon|obj
+balloon|world|around
+pilot|nonstop|mod
+swiss bertrand piccard|and|punc
+wim verstraeten|his|gen
+wim verstraeten|belgian|mod
+wim verstraeten|team-member|mod
+swiss bertrand piccard|wim verstraeten|conj
+lifted off|swiss bertrand piccard|subj
+lifted off|morning|mod
+morning|breitling orbiter|in
+'oex|chateau|nn
+'oex|d|mod
+breitling orbiter|'oex|from
+'oex|lake geneva|above
+lake geneva|journey|for
+journey|aimed at|vrel
+aimed at|journey|obj
+aimed at|circumnavigating|mod
+circumnavigating|swiss bertrand piccard|subj
+circumnavigating|earth|obj
