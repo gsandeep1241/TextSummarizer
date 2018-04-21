@@ -57,6 +57,7 @@ sumy/summarizers/random.py
 sumy/summarizers/reduction.py
 sumy/summarizers/sum_basic.py
 sumy/summarizers/text_rank.py
+sumy/summarizers/text_rank_embedding.py
 tests/__init__.py
 tests/test.py
 tests/test_html_parser.py
