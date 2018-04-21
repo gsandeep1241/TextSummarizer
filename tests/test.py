@@ -15,7 +15,7 @@ SENTENCES_COUNT = 10
 
 
 if __name__ == "__main__":
-    url = "https://en.wikipedia.org/wiki/Pinterest"
+    url = "https://en.wikipedia.org/wiki/Brazil"
     parser = HtmlParser.from_url(url, Tokenizer(LANGUAGE))
     # or for plain text files
     # parser = PlaintextParser.from_file("document.txt", Tokenizer(LANGUAGE))
