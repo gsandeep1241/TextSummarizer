@@ -7,7 +7,7 @@ import math
 import gensim
 
 # Load Google's pre-trained Word2Vec model.
-model = gensim.models.KeyedVectors.load_word2vec_format('../../../GoogleNews-vectors-negative300.bin', binary=True)
+model = gensim.models.KeyedVectors.load_word2vec_format('/media/aditya/extpart/IrProj/GoogleNews-vectors-negative300.bin', binary=True)
 
 try:
     import numpy
@@ -16,6 +16,10 @@ except ImportError:
 
 from ._summarizer import AbstractSummarizer
 
+def softmax(x):
+    """Compute softmax values for each sets of scores in x."""
+    e_x = numpy.exp(x - numpy.max(x))
+    return e_x / e_x.sum(axis=0)
 
 class TextRankSummarizerEmbedding(AbstractSummarizer):
     """An implementation of TextRank algorithm for summarization.
@@ -85,11 +89,15 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
 
     @staticmethod
     def _rate_sentences_edge(words1, words2):
-        rank = 0
+        rank = 0.0
         for w1 in words1:
             for w2 in words2:
-                w1 = 
-                rank += int(w1 == w2)
+                try:
+                    embW1 = model[w1]
+                    embW2 = model[w2]
+                    rank += numpy.dot(embW1, embW2)
+                except:
+                    rank += int(w1 == w2)
 
         if rank == 0:
             return 0.0
@@ -99,7 +107,7 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
         if numpy.isclose(norm, 0.):
             # This should only happen when words1 and words2 only have a single word.
             # Thus, rank can only be 0 or 1.
-            assert rank in (0, 1)
+            # assert rank in (0, 1)
             return rank * 1.0
         else:
             return rank / norm
