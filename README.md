@@ -22,7 +22,7 @@ framework for text summaries. Implemented summarization methods:
 -   **TextRank** - Unsupervised approach, also using PageRank algorithm,
     [reference](https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf)
 -   **SumBasic** - Method that is often used as a baseline in
-    the literature. Source: [Read about
+    the literature. source: [Read about
     SumBasic](http://www.cis.upenn.edu/~nenkova/papers/ipm.pdf)
 -   **KL-Sum** - Method that greedily adds sentences to a summary so
     long as it decreases the KL Divergence. Source: [Read about
