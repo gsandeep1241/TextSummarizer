@@ -17,6 +17,7 @@ from sumy.nlp.stemmers import Stemmer
 from sumy.utils import get_stop_words
 import re
 from sumy.evaluation.rouge import rouge_1
+import numpy as np
 
 
 LANGUAGE = "english"
@@ -43,13 +44,13 @@ def load_docset(docset_path):
             docs.append(PlaintextParser.from_string(doc, Tokenizer(LANGUAGE)).document)
     return docs
 
-
+res = []
 def load_docsets(duc_dir):
     docset_paths = [os.path.join(duc_dir, fname) for fname in os.listdir(duc_dir)]
     docset_paths = [path for path in docset_paths if os.path.isdir(path)]
     docsets = {}
     for docset_path in docset_paths:
-        print("\n\n"+docset_path)
+        # print("\n\n"+docset_path)
         text = load_docset(docset_path)
         textDoc = []
         for dom in text:
@@ -70,7 +71,7 @@ def load_docsets(duc_dir):
             try:
                 # print(path)
                 groundTruth = PlaintextParser.from_file(GtPath + path, Tokenizer(LANGUAGE))
-                print(rouge_1(summary, groundTruth.document.sentences))
+                res.append(rouge_1(summary, groundTruth.document.sentences))
             except:
                 # print('exp on')
                 # print(path)
@@ -78,5 +79,5 @@ def load_docsets(duc_dir):
         # for sentence in summary:
         #     print(sentence)
 
-
 load_docsets(PATH)
+print(np.mean(np.array(res)))
