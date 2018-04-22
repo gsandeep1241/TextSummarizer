@@ -92,7 +92,6 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
                     rank += numpy.dot(embW1, embW2)/(LA(embW1) * LA(embW2))
                 except:
                     pass
-                    # rank += int(w1 == w2)
 
         return rank
 

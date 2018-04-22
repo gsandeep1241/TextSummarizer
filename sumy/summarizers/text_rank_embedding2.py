@@ -84,6 +84,8 @@ class TextRankSummarizerEmbedding2(AbstractSummarizer):
     @staticmethod
     def _rate_sentences_edge(words1, words2):
         rank = 0.0
+        embS1 = None
+        embS2 = None
         for w1 in words1:
             try:
                 embS1 = model[w1]
@@ -94,6 +96,8 @@ class TextRankSummarizerEmbedding2(AbstractSummarizer):
                 embS2 = model[w2]
             except:
                 pass
+        if not embS1 or not embS2:
+            return 0.0
         rank = numpy.dot(embS1, embS2)/(LA(embS1) * LA(embS2))
         return rank
 
