@@ -14,7 +14,7 @@ except ImportError:
 
 from ._summarizer import AbstractSummarizer
 
-class TextRankSummarizerEmbedding(AbstractSummarizer):
+class TextRankSummarizerEmbedding2(AbstractSummarizer):
     """An implementation of TextRank algorithm for summarization.
 
     Source: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
@@ -85,15 +85,16 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
     def _rate_sentences_edge(words1, words2):
         rank = 0.0
         for w1 in words1:
-            for w2 in words2:
-                try:
-                    embW1 = model[w1]
-                    embW2 = model[w2]
-                    rank += numpy.dot(embW1, embW2)/(LA(embW1) * LA(embW2))
-                except:
-                    pass
-                    # rank += int(w1 == w2)
-
+            try:
+                embS1 = model[w1]
+            except:
+                pass
+        for w2 in words2:
+            try:
+                embS2 = model[w2]
+            except:
+                pass
+        rank = numpy.dot(embS1, embS2)/(LA(embS1) * LA(embS2))
         return rank
 
     @staticmethod

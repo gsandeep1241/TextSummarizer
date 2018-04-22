@@ -50,7 +50,7 @@ def load_docsets(duc_dir):
     docset_paths = [path for path in docset_paths if os.path.isdir(path)]
     docsets = {}
     for docset_path in docset_paths:
-        # print("\n\n"+docset_path)
+        print("\n"+docset_path)
         text = load_docset(docset_path)
         textDoc = []
         for dom in text:
@@ -72,6 +72,7 @@ def load_docsets(duc_dir):
                 # print(path)
                 groundTruth = PlaintextParser.from_file(GtPath + path, Tokenizer(LANGUAGE))
                 res.append(rouge_1(summary, groundTruth.document.sentences))
+                print(res[-1])
             except:
                 # print('exp on')
                 # print(path)

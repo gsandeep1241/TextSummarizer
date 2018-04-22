@@ -5,9 +5,7 @@ from __future__ import division, print_function, unicode_literals
 
 import math
 import gensim
-
-# Load Google's pre-trained Word2Vec model.
-model = gensim.models.KeyedVectors.load_word2vec_format('/media/aditya/extpart/IrProj/GoogleNews-vectors-negative300.bin', binary=True)
+from numpy import linalg as LA
 
 try:
     import numpy
@@ -16,16 +14,12 @@ except ImportError:
 
 from ._summarizer import AbstractSummarizer
 
-def softmax(x):
-    """Compute softmax values for each sets of scores in x."""
-    e_x = numpy.exp(x - numpy.max(x))
-    return e_x / e_x.sum(axis=0)
-
 class TextRankSummarizerEmbedding(AbstractSummarizer):
     """An implementation of TextRank algorithm for summarization.
 
     Source: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
     """
+    model = gensim.models.KeyedVectors.load_word2vec_format('/media/aditya/extpart/IrProj/GoogleNews-vectors-negative300.bin', binary=True)
     epsilon = 1e-4
     damping = 0.85
     _stop_words = frozenset()
@@ -95,22 +89,12 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
                 try:
                     embW1 = model[w1]
                     embW2 = model[w2]
-                    rank += numpy.dot(embW1, embW2)
+                    rank += numpy.dot(embW1, embW2)/(LA(embW1) * LA(embW2))
                 except:
-                    rank += int(w1 == w2)
+                    pass
+                    # rank += int(w1 == w2)
 
-        if rank == 0:
-            return 0.0
-
-        assert len(words1) > 0 and len(words2) > 0
-        norm = math.log(len(words1)) + math.log(len(words2))
-        if numpy.isclose(norm, 0.):
-            # This should only happen when words1 and words2 only have a single word.
-            # Thus, rank can only be 0 or 1.
-            # assert rank in (0, 1)
-            return rank * 1.0
-        else:
-            return rank / norm
+        return rank
 
     @staticmethod
     def power_method(matrix, epsilon):

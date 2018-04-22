@@ -58,10 +58,14 @@ sumy/summarizers/reduction.py
 sumy/summarizers/sum_basic.py
 sumy/summarizers/text_rank.py
 sumy/summarizers/text_rank_embedding.py
+sumy/summarizers/text_rank_embedding2.py
 tests/__init__.py
+tests/my-test.py
 tests/test.py
 tests/test2.py
-tests/testOrigTextRank.py
+tests/test2embedding.py
+tests/test3embedding.py
+tests/testEmbedding.py
 tests/test_html_parser.py
 tests/test_main.py
 tests/test_plaintext_parser.py
