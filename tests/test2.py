@@ -64,10 +64,17 @@ def load_docsets(duc_dir):
         summary = summarizer(y.document, SENTENCES_COUNT)
         folder_name = docset_path.split('/')[-1]
         names = folder_name[:-1] + '.M.250.' + folder_name[-1]
-        paths = [name + char for name, char in zip([names] * 4, ['.A', '.B', '.C', '.E']) ]
+        paths = [name + char for name, char in zip([names] * 10, ['.A', '.B', '.C', '.D', '.E', '.F', '.G', '.H', '.I', '.J']) ]
+        # print(paths)
         for path in paths:
-            groundTruth = PlaintextParser.from_file(GtPath + path, Tokenizer(LANGUAGE))
-            print(rouge_1(summary, groundTruth.document.sentences))
+            try:
+                # print(path)
+                groundTruth = PlaintextParser.from_file(GtPath + path, Tokenizer(LANGUAGE))
+                print(rouge_1(summary, groundTruth.document.sentences))
+            except:
+                # print('exp on')
+                # print(path)
+                pass
         # for sentence in summary:
         #     print(sentence)
 
