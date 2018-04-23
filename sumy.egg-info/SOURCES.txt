@@ -60,6 +60,9 @@ sumy/summarizers/sum_basic.py
 sumy/summarizers/text_rank.py
 sumy/summarizers/text_rank_embedding.py
 sumy/summarizers/text_rank_embedding2.py
+sumy/summarizers/text_rank_ner.py
+sumy/summarizers/text_rank_ner_tf.py
+sumy/summarizers/text_rank_tf.py
 tests/__init__.py
 tests/my-test.py
 tests/test.py
@@ -67,6 +70,7 @@ tests/test2.py
 tests/test2embedding.py
 tests/test3embedding.py
 tests/testEmbedding.py
+tests/testNerTf.py
 tests/test_html_parser.py
 tests/test_main.py
 tests/test_plaintext_parser.py

@@ -4,6 +4,7 @@ from __future__ import absolute_import
 from __future__ import division, print_function, unicode_literals
 
 import math
+import spacy
 from sklearn.preprocessing import scale
 
 try:
@@ -14,7 +15,7 @@ except ImportError:
 from ._summarizer import AbstractSummarizer
 
 
-class TextRankSummarizerTf(AbstractSummarizer):
+class TextRankSummarizerNerTf(AbstractSummarizer):
     """An implementation of TextRank algorithm for summarization.
 
     Source: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
@@ -44,16 +45,32 @@ class TextRankSummarizerTf(AbstractSummarizer):
         if numpy is None:
             raise ValueError("LexRank summarizer requires NumPy. Please, install it by command 'pip install numpy'.")
 
+    def score_NER(self,document):
+        ner_rank = numpy.zeros(len(document.sentences))
+        nlp = spacy.load("en")
+        # st = StanfordNERTagger('/home/piyush/IR/Project/stanford-ner-2018-02-27/classifiers/english.all.3class.distsim.crf.ser.gz','/home/piyush/IR/Project/stanford-ner-2018-02-27/stanford-ner.jar',encoding='utf-8')
+        for i, sentence in enumerate(document.sentences, start = 0):
+            ner_rank[i] = len(nlp(unicode(sentence)).ents)
+            # words = str(sentence).split()
+            # for word in words:
+            #     if str(dict(st.tag([word]))[word]) != 'O':
+            #         ner_rank[i] += 1
+            #         print (word)
+        return ner_rank
+
     def rate_sentences(self, document):
         matrix = numpy.nan_to_num(self._create_matrix(document))
         pg_ranks = scale(self.power_method(matrix, self.epsilon))
         pg_ranks_dict = {sent: rank for sent, rank in zip(document.sentences, pg_ranks)}
         
+        ner_ranks = scale(self.score_NER(document))
+        ner_ranks_dict = {sent: rank for sent, rank in zip(document.sentences, ner_ranks)}
+
         tf_ranks_keys = document.sentences
         tf_ranks_values = scale(numpy.fromiter(self._compute_ratings(document.sentences).values(), float))
         tf_ranks_dict = {sent: rank for sent, rank in zip(tf_ranks_keys, tf_ranks_values)}
 
-        rank_dict = { k: pg_ranks_dict.get(k, 0) + tf_ranks_dict.get(k, 0) for k in set(pg_ranks_dict) | set(tf_ranks_dict) }
+        rank_dict = { k: ner_ranks_dict.get(k, 0) + pg_ranks_dict.get(k, 0) + tf_ranks_dict.get(k, 0) for k in set(pg_ranks_dict) | set(tf_ranks_dict) | set(ner_ranks_dict) }
 
         return rank_dict
 

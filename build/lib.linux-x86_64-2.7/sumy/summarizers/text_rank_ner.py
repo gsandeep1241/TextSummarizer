@@ -2,12 +2,11 @@
 
 from __future__ import absolute_import
 from __future__ import division, print_function, unicode_literals
-
+import nltk
+from nltk.tag import StanfordNERTagger
+import spacy
+from sklearn import preprocessing
 import math
-import gensim
-
-# Load Google's pre-trained Word2Vec model.
-model = gensim.models.KeyedVectors.load_word2vec_format('/media/aditya/extpart/IrProj/GoogleNews-vectors-negative300.bin', binary=True)
 
 try:
     import numpy
@@ -16,12 +15,8 @@ except ImportError:
 
 from ._summarizer import AbstractSummarizer
 
-def softmax(x):
-    """Compute softmax values for each sets of scores in x."""
-    e_x = numpy.exp(x - numpy.max(x))
-    return e_x / e_x.sum(axis=0)
 
-class TextRankSummarizerEmbedding(AbstractSummarizer):
+class TextRankSummarizer(AbstractSummarizer):
     """An implementation of TextRank algorithm for summarization.
 
     Source: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
@@ -51,10 +46,34 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
         if numpy is None:
             raise ValueError("LexRank summarizer requires NumPy. Please, install it by command 'pip install numpy'.")
 
+
+    def score_NER(self,document):
+        ner_rank = numpy.zeros(len(document.sentences))
+        nlp = spacy.load("en")
+        # st = StanfordNERTagger('/home/piyush/IR/Project/stanford-ner-2018-02-27/classifiers/english.all.3class.distsim.crf.ser.gz','/home/piyush/IR/Project/stanford-ner-2018-02-27/stanford-ner.jar',encoding='utf-8')
+        for i, sentence in enumerate(document.sentences, start = 0):
+            ner_rank[i] = len(nlp(unicode(sentence)).ents)
+            # words = str(sentence).split()
+            # for word in words:
+            #     if str(dict(st.tag([word]))[word]) != 'O':
+            #         ner_rank[i] += 1
+            #         print (word)
+        return ner_rank
+     
+
     def rate_sentences(self, document):
-        matrix = self._create_matrix(document)
-        ranks = self.power_method(matrix, self.epsilon)
-        return {sent: rank for sent, rank in zip(document.sentences, ranks)}
+        matrix = numpy.nan_to_num(self._create_matrix(document))
+        power_ranks = self.power_method(matrix, self.epsilon)
+        ner_ranks = self.score_NER(document)
+        scaled_ranks = preprocessing.scale([power_ranks,ner_ranks],1)
+        ranks = scaled_ranks[0] + scaled_ranks[1]
+        # print (ner_ranks)
+        # print ("----------------")
+        # print (len(ner_ranks))
+        # print (len(ranks))
+        # print ("----------------")
+        ret = {sent: rank for sent, rank in zip(document.sentences, ranks)}
+        return ret
 
     def _create_matrix(self, document):
         """Create a stochastic matrix for TextRank.
@@ -74,6 +93,7 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
             for j, words_j in enumerate(sentences_as_words):
                 weights[i, j] = self._rate_sentences_edge(words_i, words_j)
         weights /= weights.sum(axis=1)[:, numpy.newaxis]
+        weights = numpy.nan_to_num(weights)
 
         # In the original paper, the probability of randomly moving to any of the vertices
         # is NOT divided by the number of vertices. Here we do divide it so that the power
@@ -89,15 +109,10 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
 
     @staticmethod
     def _rate_sentences_edge(words1, words2):
-        rank = 0.0
+        rank = 0
         for w1 in words1:
             for w2 in words2:
-                try:
-                    embW1 = model[w1]
-                    embW2 = model[w2]
-                    rank += numpy.dot(embW1, embW2)
-                except:
-                    rank += int(w1 == w2)
+                rank += int(w1 == w2)
 
         if rank == 0:
             return 0.0
@@ -107,7 +122,7 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
         if numpy.isclose(norm, 0.):
             # This should only happen when words1 and words2 only have a single word.
             # Thus, rank can only be 0 or 1.
-            # assert rank in (0, 1)
+            assert rank in (0, 1)
             return rank * 1.0
         else:
             return rank / norm
