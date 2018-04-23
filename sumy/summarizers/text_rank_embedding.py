@@ -46,9 +46,10 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
             raise ValueError("LexRank summarizer requires NumPy. Please, install it by command 'pip install numpy'.")
 
     def rate_sentences(self, document):
-        matrix = self._create_matrix(document)
+        matrix = numpy.nan_to_num(self._create_matrix(document))
         ranks = self.power_method(matrix, self.epsilon)
-        return {sent: rank for sent, rank in zip(document.sentences, ranks)}
+        ret = {sent: rank for sent, rank in zip(document.sentences, ranks)}
+        return ret
 
     def _create_matrix(self, document):
         """Create a stochastic matrix for TextRank.
@@ -66,8 +67,9 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
 
         for i, words_i in enumerate(sentences_as_words):
             for j, words_j in enumerate(sentences_as_words):
-                weights[i, j] = self._rate_sentences_edge(words_i, words_j)
+                weights[i, j] = self._rate_sentences_edge(words_i, words_j, self.model)
         weights /= weights.sum(axis=1)[:, numpy.newaxis]
+        weights = numpy.nan_to_num(weights)
 
         # In the original paper, the probability of randomly moving to any of the vertices
         # is NOT divided by the number of vertices. Here we do divide it so that the power
@@ -82,15 +84,19 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
         return [self.stem_word(w) for w in words if w not in self._stop_words]
 
     @staticmethod
-    def _rate_sentences_edge(words1, words2):
+    def _rate_sentences_edge(words1, words2, model):
         rank = 0.0
+        embW1 = None
+        embW2 = None
         for w1 in words1:
             for w2 in words2:
                 try:
+                    if not w1 or not w2:
+                        return 0.0
                     embW1 = model[w1]
                     embW2 = model[w2]
-                    rank += numpy.dot(embW1, embW2)/(LA(embW1) * LA(embW2))
-                except:
+                    rank += numpy.dot(embW1, embW2)/(LA.norm(embW1) * LA.norm(embW2))
+                except KeyError:
                     pass
 
         return rank

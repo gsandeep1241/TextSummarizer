@@ -44,9 +44,10 @@ class TextRankSummarizer(AbstractSummarizer):
             raise ValueError("LexRank summarizer requires NumPy. Please, install it by command 'pip install numpy'.")
 
     def rate_sentences(self, document):
-        matrix = self._create_matrix(document)
+        matrix = numpy.nan_to_num(self._create_matrix(document))
         ranks = self.power_method(matrix, self.epsilon)
-        return {sent: rank for sent, rank in zip(document.sentences, ranks)}
+        ret = {sent: rank for sent, rank in zip(document.sentences, ranks)}
+        return ret
 
     def _create_matrix(self, document):
         """Create a stochastic matrix for TextRank.

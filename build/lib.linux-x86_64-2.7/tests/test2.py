@@ -28,8 +28,6 @@ stemmer = Stemmer(LANGUAGE)
 summarizer = Summarizer(stemmer)
 summarizer.stop_words = get_stop_words(LANGUAGE)
 
-from sumy.summarizers.text_rank import TextRankSummarizer as Summarizer
-
 PATH = '/media/aditya/extpart/IrProj/sumy-dev/DUC_data/DUC2006/duc2006_docs/'
 GtPath = '/media/aditya/extpart/IrProj/sumy-dev/DUC_data/DUC2006/NISTeval/ROUGE/peers/'
 
