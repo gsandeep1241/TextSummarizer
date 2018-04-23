@@ -18,6 +18,7 @@ from sumy.utils import get_stop_words
 import re
 from sumy.evaluation.rouge import rouge_1
 import numpy as np
+from sumy.constants import *
 
 
 LANGUAGE = "english"
@@ -27,9 +28,6 @@ stemmer = Stemmer(LANGUAGE)
 
 summarizer = Summarizer(stemmer)
 summarizer.stop_words = get_stop_words(LANGUAGE)
-
-PATH = '/media/aditya/extpart/IrProj/sumy-dev/DUC_data/DUC2006/duc2006_docs/'
-GtPath = '/media/aditya/extpart/IrProj/sumy-dev/DUC_data/DUC2006/NISTeval/ROUGE/peers/'
 
 def load_docset(docset_path):
     docset_id = os.path.split(docset_path)[1]

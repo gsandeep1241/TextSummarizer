@@ -7,6 +7,7 @@ setup.py
 sumy/__init__.py
 sumy/__main__.py
 sumy/_compat.py
+sumy/constants.py
 sumy/utils.py
 sumy.egg-info/PKG-INFO
 sumy.egg-info/SOURCES.txt

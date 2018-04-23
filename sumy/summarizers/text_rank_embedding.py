@@ -6,6 +6,7 @@ from __future__ import division, print_function, unicode_literals
 import math
 import gensim
 from numpy import linalg as LA
+from sumy.constants import *
 
 try:
     import numpy
@@ -19,7 +20,7 @@ class TextRankSummarizerEmbedding(AbstractSummarizer):
 
     Source: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf
     """
-    model = gensim.models.KeyedVectors.load_word2vec_format('/media/aditya/extpart/IrProj/GoogleNews-vectors-negative300.bin', binary=True)
+    model = gensim.models.KeyedVectors.load_word2vec_format(googlePath, binary=True)
     epsilon = 1e-4
     damping = 0.85
     _stop_words = frozenset()
