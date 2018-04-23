@@ -95,9 +95,12 @@ class TextRankSummarizerEmbedding2(AbstractSummarizer):
                 embS2 = model[w2]
             except KeyError:
                 pass
-        n1 = LA.norm(embS1)
-        n2 = LA.norm(embS2)
-        if not embS1 or not embS2:
+        try:
+            n1 = LA.norm(embS1)
+            n2 = LA.norm(embS2)
+        except:
+            return 0.0
+        if n1 == 0 or n2 == 0:
             return 0.0
         rank = numpy.dot(embS1, embS2)/(n1 * n2)
         return rank
