@@ -16,7 +16,7 @@ except ImportError:
 from ._summarizer import AbstractSummarizer
 
 
-class TextRankSummarizer(AbstractSummarizer):
+class TextRankSummarizerNer(AbstractSummarizer):
     """An implementation of TextRank algorithm for summarization.
 
     Source: https://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf

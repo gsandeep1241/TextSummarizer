@@ -42,7 +42,7 @@ from .summarizers.luhn import LuhnSummarizer
 from .summarizers.edmundson import EdmundsonSummarizer
 from .summarizers.lsa import LsaSummarizer
 from .summarizers.text_rank import TextRankSummarizer
-from .summarizers.text_rank_tf import TextRankSummarizerTf
+from .summarizers.text_rank_ner import TextRankSummarizerNer
 from .summarizers.lex_rank import LexRankSummarizer
 from .summarizers.sum_basic import SumBasicSummarizer
 from .summarizers.kl import KLSummarizer
@@ -60,7 +60,7 @@ AVAILABLE_METHODS = {
     "text-rank": TextRankSummarizer,
     "lex-rank": LexRankSummarizer,
     "sum-basic": SumBasicSummarizer,
-    "text-rank-mod" : TextRankSummarizerTf,
+    "text-rank-mod" : TextRankSummarizerNer,
     "kl": KLSummarizer,
 }
 
