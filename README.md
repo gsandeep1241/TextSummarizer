@@ -4,7 +4,7 @@ This repository is an extenstion of https://github.com/miso-belica/sumy. We have
 * **Sum Basic + TextRank**: Append the normalised score of Text rank with normalised score of Sum Basic before applying PageRank in the TextRank algorithm. Code at irProject/sumy/summarizers/text_rank_tf.py.
 
 Usage:
-    sumy (luhn | edmundson | lsa | text-rank | text-rank-mod | lex-rank | sum-basic | kl) [--length=<length>] [--language=<lang>] [--stopwords=<file_path>] [--format=<format>]
+```    sumy (luhn | edmundson | lsa | text-rank | text-rank-mod | lex-rank | sum-basic | kl) [--length=<length>] [--language=<lang>] [--stopwords=<file_path>] [--format=<format>]
     sumy (luhn | edmundson | lsa | text-rank | text-rank-mod | lex-rank | sum-basic | kl) [--length=<length>] [--language=<lang>] [--stopwords=<file_path>] [--format=<format>] --url=<url>
     sumy (luhn | edmundson | lsa | text-rank | text-rank-mod | lex-rank | sum-basic | kl) [--length=<length>] [--language=<lang>] [--stopwords=<file_path>] [--format=<format>] --file=<file_path>
     sumy (luhn | edmundson | lsa | text-rank | text-rank-mod | lex-rank | sum-basic | kl) [--length=<length>] [--language=<lang>] [--stopwords=<file_path>] [--format=<format>] --text=<text>
@@ -22,5 +22,6 @@ Options:
     --text=<text>            Raw text to summarize
     --version                Displays current application version.
     --help                   Displays this text.
+```
 
 text-rank-mod runs text-rank-ner and can be modified in sumy/__main__.py.
