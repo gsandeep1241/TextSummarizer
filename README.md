@@ -1,8 +1,8 @@
 # [Nuce](https://en.wiktionary.org/wiki/in_nuce)
 This repository is an extenstion of https://github.com/miso-belica/sumy. We have create 3 new classifiers:
-* **Embedding** : Use pairwise embeddings `cos` of the words of the sentences to get the similarity score betweent the sentences. The remaining algorithm is similar to Text-Rank. Code at sumy/summarizers/text_rank_embedding.py.
-* **Named entity recognition + TextRank**: Append the normalised score of Text rank with normalised score of NER before applying PageRank in the TextRank algorithm. Code at sumy/summarizers/text_rank_ner.py.
-* **Sum Basic + TextRank**: Append the normalised score of Text rank with normalised score of Sum Basic before applying PageRank in the TextRank algorithm. Code at irProject/sumy/summarizers/text_rank_tf.py.
+* **Embedding** : Use pairwise embeddings `cos` of the words of the sentences to get the similarity score betweent the sentences. The remaining algorithm is similar to Text-Rank. Code at [sumy/summarizers/text_rank_embedding.py](https://github.tamu.edu/aditya-gujral/irProject/blob/master/sumy/summarizers/text_rank_embedding.py).
+* **Named entity recognition + TextRank**: Append the normalised score of Text rank with normalised score of NER before applying PageRank in the TextRank algorithm. Code at [sumy/summarizers/text_rank_ner.py](https://github.tamu.edu/aditya-gujral/irProject/blob/master/sumy/summarizers/text_rank_ner.py).
+* **Sum Basic + TextRank**: Append the normalised score of Text rank with normalised score of Sum Basic before applying PageRank in the TextRank algorithm. Code at [sumy/summarizers/text_rank_tf.py](https://github.tamu.edu/aditya-gujral/irProject/blob/master/sumy/summarizers/text_rank_tf.py).
 
 ## Build instructions
 * Download [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing) in one folder above the repository (we can not upload it as size is greater than 100MB).
